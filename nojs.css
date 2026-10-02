@@ -1,9 +1,9 @@
 /* Accessible content fallback when the scroll controller cannot run. */
 .film-travel{height:auto!important}
 .film-stage{position:relative!important;height:auto!important;min-height:100vh!important;--marquee-open:1!important;--rail-open:1!important}
-.film-scene{min-height:490px}
+.film-scene{min-height:700px}
 .film-letter,.film-reveal,[data-reveal]{opacity:1!important;transform:none!important;pointer-events:auto!important}
 body[data-page="/"] .header-phrase,body[data-page="/"] .header-nav,body[data-page="/"] .menu-word{opacity:1!important;transform:none!important;pointer-events:auto!important}
 .menu-panel{position:relative!important;inset:auto!important;visibility:visible!important;opacity:1!important;transform:none!important;pointer-events:auto!important;padding-top:80px}
 .menu-button{display:none!important}
-@media(max-width:700px){.film-scene{min-height:510px}.menu-panel{padding-top:50px}}
+@media(max-width:700px){.film-scene{min-height:650px}.menu-panel{padding-top:50px}}

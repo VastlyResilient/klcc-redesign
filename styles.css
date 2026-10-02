@@ -15,7 +15,7 @@
 
 /* KLCC: one image-led opening, with the poster lettering earned through scroll. */
 .film-stage{--marquee-max:190px;--rail-max:99px;--marquee-open:0;--rail-open:0}
-.film-marquee{height:calc(var(--marquee-max)*var(--marquee-open));flex:0 0 calc(var(--marquee-max)*var(--marquee-open));min-height:0;padding:0 4.7%;background:var(--plum)}
+.film-marquee{position:absolute;z-index:2;top:118px;left:0;right:0;height:calc(var(--marquee-max)*var(--marquee-open));min-height:0;padding:0 4.7%;background:transparent;pointer-events:none}
 .marquee-title{display:flex;gap:3.3vw;margin-bottom:19px;color:var(--white)}
 .marquee-title span:last-child{color:inherit}
 .marquee-title .marquee-line{display:inline-flex;gap:.22em;white-space:nowrap}
@@ -25,6 +25,7 @@
 .film-rail{height:calc(var(--rail-max)*var(--rail-open));flex:0 0 calc(var(--rail-max)*var(--rail-open));min-height:0;overflow:hidden;background:var(--blue)}
 .film-portrait{background:#e6eaf0}
 .film-copy h1 .peach{color:var(--accent)}
+.film-copy{top:calc(8% + var(--marquee-max)*var(--marquee-open))}
 body[data-page="/"] .header-phrase,body[data-page="/"] .header-nav,body[data-page="/"] .menu-word{opacity:var(--header-words,0);transform:translateY(calc((1 - var(--header-words,0))*-9px));pointer-events:none}
 body[data-page="/"].hero-nav-ready .header-nav{pointer-events:auto}
 body[data-page="/"] .site-header .menu-button{pointer-events:auto}
@@ -34,14 +35,15 @@ body[data-page="/"] .site-header .menu-button{pointer-events:auto}
 .film-shade{background:linear-gradient(90deg,#14172bdb 0%,#14172b82 42%,#14172b25 70%,#14172bb8 100%),linear-gradient(0deg,#14172b94,transparent 38%)}
 @media(max-width:700px){
   .film-stage{--marquee-max:123px;--rail-max:104px}
-  .film-marquee{padding:0 21px}
+  .film-marquee{top:88px;padding:0 21px}
+  .film-copy{top:calc(8% + var(--marquee-max)*var(--marquee-open))}
   .marquee-title{display:grid;gap:4px;margin-bottom:13px}
   .marquee-title .marquee-line{gap:.2em}
   .film-rail{padding:0 15px}
   .film-poster,.film-video{object-position:20% center}
   .film-shade{background:linear-gradient(90deg,#14172bbf,#14172b3b),linear-gradient(0deg,#14172bce,transparent 75%)}
 }
-@media(max-height:780px) and (min-width:701px){.film-stage{--marquee-max:150px;--rail-max:90px}}
+@media(max-height:780px) and (min-width:701px){.film-stage{--marquee-max:150px;--rail-max:90px}.film-marquee{top:82px}.film-copy{top:calc(5% + var(--marquee-max)*var(--marquee-open))}}
 @media(prefers-reduced-motion:reduce){.film-travel{height:100vh}.film-stage{position:relative}.film-letter{transition:none}}
 
 /* KLCC welcome: the approved gathering-and-arrival composition. */
