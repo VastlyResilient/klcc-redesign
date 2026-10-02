@@ -68,11 +68,19 @@ body[data-page="/"] .site-header .menu-button{pointer-events:auto}
 .journey-card::after{content:'';position:absolute;z-index:-1;inset:0;background:linear-gradient(90deg,#101529e8 0%,#101529bd 60%,#10152964 100%),linear-gradient(0deg,#101529be,transparent 58%)}
 .journey-card:hover,.journey-card:focus-visible{transform:translateY(-4px);border-color:#fff}
 .journey-card:hover::before,.journey-card:focus-visible::before{transform:scale(1.045)}
-.journey-groups{--journey-image:url('assets/klcc-life-groups-original.jpg')}
-.journey-alpha{--journey-image:url('assets/klcc-alpha-original.jpg')}
-.journey-wednesday{--journey-image:url('assets/klcc-wednesday-original.jpg')}
-.journey-membership{--journey-image:url('assets/klcc-membership-original.jpg')}
-.journey-index{font-size:11px;font-weight:700;letter-spacing:.18em;opacity:.72}
+.journey-groups{--journey-image:url('assets/klcc-life-groups-original.jpg');--journey-accent:#ded7ff;--journey-halo:#aa99ffb0}
+.journey-alpha{--journey-image:url('assets/klcc-alpha-original.jpg');--journey-accent:#ffd3cd;--journey-halo:#ff9f98a8}
+.journey-wednesday{--journey-image:url('assets/klcc-wednesday-original.jpg');--journey-accent:#d3e6ff;--journey-halo:#83bdffa8}
+.journey-membership{--journey-image:url('assets/klcc-membership-original.jpg');--journey-accent:#ffdfbd;--journey-halo:#ffb46da8}
+.journey-index{position:relative;z-index:1;color:var(--journey-accent);font-size:11px;font-weight:700;letter-spacing:.18em;text-shadow:0 0 9px var(--journey-halo)}
+.journey-icon{position:absolute;top:25px;right:29px;display:grid;place-items:center;width:60px;height:60px;border:1px solid #ffffff78;border-radius:12px;background:linear-gradient(145deg,#ffffff31,#ffffff0a);box-shadow:inset 0 1px #ffffff5c,0 0 15px var(--journey-halo);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);opacity:0}
+.journey-icon img{display:block;width:36px;height:36px;filter:drop-shadow(0 0 5px var(--journey-halo));transition:transform .35s,filter .35s}
+.journey-card:hover .journey-icon img,.journey-card:focus-visible .journey-icon img{transform:scale(1.08);filter:drop-shadow(0 0 10px var(--journey-halo))}
+.journey-card:nth-child(even){--ignite-delay:.42s}
+.journey-card.seen .journey-index{animation:journeyLabelIgnite 1.15s var(--ignite-delay,.18s) both}
+.journey-card.seen .journey-icon{animation:journeyIconIgnite 1.15s var(--ignite-delay,.18s) both}
+@keyframes journeyLabelIgnite{0%{opacity:.55;text-shadow:none}55%{opacity:1;text-shadow:0 0 17px var(--journey-halo),0 0 28px var(--journey-halo)}100%{opacity:1;text-shadow:0 0 9px var(--journey-halo)}}
+@keyframes journeyIconIgnite{0%{opacity:0;transform:scale(.86);box-shadow:none}55%{opacity:1;transform:scale(1.04);box-shadow:inset 0 1px #ffffff5c,0 0 28px var(--journey-halo)}100%{opacity:1;transform:scale(1);box-shadow:inset 0 1px #ffffff5c,0 0 15px var(--journey-halo)}}
 .journey-card strong{display:block;font:normal clamp(42px,4.5vw,68px)/.98 'Archivo Black',sans-serif;letter-spacing:-.07em;margin:38px 0 17px;max-width:540px}
 .journey-card p{font-size:19px;line-height:1.4;margin:0 0 34px;max-width:430px}
 .journey-action{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:auto;padding-top:16px;border-top:1px solid currentColor;font-size:12px;font-weight:700;letter-spacing:.12em}
@@ -107,8 +115,10 @@ body[data-page="/"] .site-header .menu-button{pointer-events:auto}
   .welcome-service span{font-size:12px}
   .welcome-service .light-link{font-size:12px;margin-top:5px;gap:8px}
   .journey-grid{grid-template-columns:1fr;gap:12px;margin-top:38px}
-  .journey-card{min-height:265px;padding:25px 23px 22px}
-  .journey-card strong{font-size:clamp(38px,10vw,51px);margin:27px 0 13px}
+  .journey-card{min-height:290px;padding:25px 23px 22px}
+  .journey-icon{top:20px;right:20px;width:48px;height:48px;border-radius:10px}
+  .journey-icon img{width:29px;height:29px}
+  .journey-card strong{font-size:clamp(38px,10vw,51px);margin:44px 0 13px}
   .journey-card p{font-size:16px;margin-bottom:25px}
   .journey-action{font-size:11px}
   .journey-more{display:block}
@@ -116,4 +126,7 @@ body[data-page="/"] .site-header .menu-button{pointer-events:auto}
 }
 @media(prefers-reduced-motion:reduce){
   .journey-card,.journey-card::before,.journey-action span{transition:none}
+  .journey-icon{opacity:1}
+  .journey-card.seen .journey-index,.journey-card.seen .journey-icon{animation:none;opacity:1}
+  .journey-icon img{transition:none}
 }

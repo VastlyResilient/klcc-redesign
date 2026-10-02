@@ -62,6 +62,8 @@ for (const viewport of [{width:1440,height:900},{width:390,height:844},{width:76
   assert(await page.locator('.journey-card').count() === actionRoutes.length, `home ${viewport.width}: four original action paths are not present`);
   const cardArt = await page.locator('.journey-card').evaluateAll(cards => cards.map(card => getComputedStyle(card, '::before').backgroundImage));
   assert(cardArt.every((value, index) => value.includes(`klcc-${['life-groups','alpha','wednesday','membership'][index]}-original.jpg`)), `home ${viewport.width}: original program artwork is missing`);
+  const iconAssets = await page.locator('.journey-icon img').evaluateAll(images => images.map(img => img.complete && img.naturalWidth > 0));
+  assert(iconAssets.length === 4 && iconAssets.every(Boolean), `home ${viewport.width}: a program icon failed to load`);
   for (let i = 0; i < actionRoutes.length; i++) {
     const card = page.locator('.journey-card').nth(i);
     await card.scrollIntoViewIfNeeded();
@@ -81,6 +83,12 @@ for (const [index,route] of ['life-groups','alpha','courses','membership'].entri
   assert(await page.locator('.detail-hero h1').isVisible(), `${route}: destination page is not visible`);
   await page.close();
 }
+
+const reducedPage = await browser.newPage({viewport:{width:390,height:844},reducedMotion:'reduce'});
+await reducedPage.goto(new URL('#next-steps',base).href);
+const reducedIcons = await reducedPage.locator('.journey-icon').evaluateAll(icons => icons.map(icon => ({opacity:+getComputedStyle(icon).opacity,animation:getComputedStyle(icon).animationName})));
+assert(reducedIcons.every(icon => icon.opacity === 1 && icon.animation === 'none'), 'reduced motion: program icons are hidden or animated');
+await reducedPage.close();
 
 for (const route of ['/new','/mission','/courses','/kids','/calendar','/give','/watch-live']) {
   const page = await browser.newPage({viewport:{width:390,height:844}});
