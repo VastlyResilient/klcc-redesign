@@ -73,7 +73,14 @@ function detail(page){
     'previous-messages':'Return to a message that moved you, or discover a new one for today.',
     'kids':'A place for little ones to discover faith, friendship, and joy at their own pace.',
     'youth':'Young people have room to belong, ask questions, and grow together.',
-    'life-groups':'Faith has a way of growing when we make room for one another.'
+    'life-groups':'Faith has a way of growing when we make room for one another.',
+    'our-story':'Meet the story, people, and purpose behind Kingdom Life.',
+    'beliefs':'Explore the beliefs that shape how we worship, grow, and serve.',
+    'pastoral-care':'Find pastoral guidance, prayer, and care through difficult seasons.',
+    'membership':'Learn KLCC’s culture, discover your gifts, and take a next step into community.',
+    'serve':'Put your gifts to work in the church and the community.',
+    'alpha':'A welcoming space to ask big questions about life and faith together.',
+    'young-adults':'Build genuine community and grow in faith during college and early career.'
   };
   const intro=tailored[route] || cleaned.flatMap(s=>s.blocks||[]).find(b=>b.type==='p'&&b.text.length>55)?.text || `Discover ${title.toLowerCase()} at Kingdom Life Christian Church.`;
   const image=({'new':'story.jpg','our-story':'story.jpg','mission':'story.jpg','leadership':'leadership.jpg','kids':'worship.jpg','youth':'worship.jpg','life-groups':'leadership.jpg','serve':'worship.jpg','courses':'leadership.jpg','prayer':'worship.jpg'})[route]||'worship.jpg';
