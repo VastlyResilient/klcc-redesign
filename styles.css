@@ -133,3 +133,52 @@ body[data-page="/"] .site-header .menu-button{pointer-events:auto}
   .journey-card.seen .journey-index,.journey-card.seen .journey-icon{animation:none;opacity:1}
   .journey-icon img{transition:none}
 }
+
+/* The Sunday invitation rests on the continuous worship scene. Its translucent
+   blue tint and blur protect legibility without replacing the film with a band. */
+.film-rail{
+  position:absolute;
+  z-index:3;
+  left:2.2%;
+  right:2.2%;
+  bottom:18px;
+  flex:none;
+  height:calc(var(--rail-max)*var(--rail-open));
+  padding-inline:2.6%;
+  border:calc(1px*var(--rail-open)) solid rgba(237,244,255,.29);
+  border-radius:19px;
+  background:linear-gradient(112deg,rgba(54,76,117,.60),rgba(22,35,67,.53) 55%,rgba(45,65,104,.60));
+  -webkit-backdrop-filter:blur(17px) saturate(1.25);
+  backdrop-filter:blur(17px) saturate(1.25);
+  box-shadow:0 16px 38px rgba(7,14,34,.22),inset 0 1px rgba(255,255,255,.19);
+  opacity:var(--rail-open);
+}
+.film-portrait{bottom:calc(46px + var(--rail-max)*var(--rail-open))}
+@media(max-width:700px){
+  .film-stage{--rail-max:128px}
+  .film-rail{
+    left:12px;
+    right:12px;
+    bottom:12px;
+    grid-template-columns:1fr 1fr;
+    grid-template-rows:48px 1fr;
+    gap:0 14px;
+    padding:calc(8px*var(--rail-open)) 15px calc(10px*var(--rail-open));
+    border-radius:17px;
+  }
+  .film-rail>div{grid-column:1/-1;min-height:0;border:0;padding:0;gap:1px}
+  .film-rail>div small{font-size:9px}
+  .film-rail>div strong{font-size:13px}
+  .film-rail>a,.film-rail>a:last-child{
+    display:flex;
+    min-height:0;
+    align-self:stretch;
+    border:0;
+    border-top:1px solid rgba(255,255,255,.31);
+    padding:7px 0 0;
+    font-size:10px;
+    letter-spacing:.045em;
+  }
+  .film-rail>a span{font-size:15px}
+  .film-portrait{bottom:calc(30px + var(--rail-max)*var(--rail-open))}
+}
