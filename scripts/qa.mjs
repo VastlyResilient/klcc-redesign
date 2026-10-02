@@ -60,6 +60,8 @@ for (const viewport of [{width:1440,height:900},{width:390,height:844},{width:76
   assert(await page.locator('.welcome-arrival img').isVisible(), `home ${viewport.width}: arrival image missing from welcome`);
   const actionRoutes = ['life-groups','alpha','courses','membership'];
   assert(await page.locator('.journey-card').count() === actionRoutes.length, `home ${viewport.width}: four original action paths are not present`);
+  const cardArt = await page.locator('.journey-card').evaluateAll(cards => cards.map(card => getComputedStyle(card, '::before').backgroundImage));
+  assert(cardArt.every((value, index) => value.includes(`klcc-${['life-groups','alpha','wednesday','membership'][index]}-original.jpg`)), `home ${viewport.width}: original program artwork is missing`);
   for (let i = 0; i < actionRoutes.length; i++) {
     const card = page.locator('.journey-card').nth(i);
     await card.scrollIntoViewIfNeeded();
