@@ -22,6 +22,18 @@ for (const viewport of [{width:1440,height:900},{width:390,height:844},{width:76
   assert(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 2), `home ${viewport.width}: horizontal overflow`);
   const opening = await page.locator('.film-copy h1 span').first().evaluate(el => +getComputedStyle(el).opacity);
   assert(opening < .1, `home ${viewport.width}: film copy revealed before scroll`);
+  const initialWords = await page.evaluate(() => ({
+    letters:[...document.querySelectorAll('.film-letter')].map(el => +getComputedStyle(el).opacity),
+    service:+getComputedStyle(document.querySelector('.film-rail strong')).opacity,
+    header:+getComputedStyle(document.querySelector('.header-nav')).opacity,
+    marqueeHeight:document.querySelector('.film-marquee').getBoundingClientRect().height,
+    railHeight:document.querySelector('.film-rail').getBoundingClientRect().height,
+  }));
+  assert(initialWords.letters.every(x=>x<.1) && initialWords.service<.1 && initialWords.header<.1 && initialWords.marqueeHeight<2 && initialWords.railHeight<2, `home ${viewport.width}: opening is not text-free`);
+  await page.evaluate(() => scrollTo(0, (document.querySelector('.film-travel').offsetHeight-innerHeight)*.2));
+  await page.waitForTimeout(200);
+  const stagger = await page.evaluate(() => ({first:+getComputedStyle(document.querySelector('.film-letter')).opacity,last:+getComputedStyle([...document.querySelectorAll('.film-letter')].at(-1)).opacity}));
+  assert(stagger.first>.9 && stagger.last<.1, `home ${viewport.width}: lettering did not arrive individually`);
   await page.evaluate(() => scrollTo(0, document.querySelector('.film-travel').offsetHeight * .65));
   await page.waitForTimeout(300);
   const middle = await page.locator('.film-copy h1 span').first().evaluate(el => +getComputedStyle(el).opacity);
@@ -30,6 +42,8 @@ for (const viewport of [{width:1440,height:900},{width:390,height:844},{width:76
   await page.waitForTimeout(300);
   const final = await page.locator('.film-rail a').last().evaluate(el => +getComputedStyle(el).opacity);
   assert(final > .9, `home ${viewport.width}: final rail CTA did not reveal`);
+  const finalWords = await page.evaluate(() => ({last:+getComputedStyle([...document.querySelectorAll('.film-letter')].at(-1)).opacity,service:+getComputedStyle(document.querySelector('.film-rail strong')).opacity}));
+  assert(finalWords.last>.9 && finalWords.service>.9, `home ${viewport.width}: final words missing`);
   await page.evaluate(() => scrollTo(0, 0));
   await page.waitForTimeout(300);
   const reverse = await page.locator('.film-copy h1 span').first().evaluate(el => +getComputedStyle(el).opacity);
