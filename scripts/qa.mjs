@@ -54,6 +54,29 @@ for (const viewport of [{width:1440,height:900},{width:390,height:844},{width:76
   assert(await page.locator('.menu-group a').first().isVisible(), `home ${viewport.width}: menu link invisible`);
   await page.keyboard.press('Escape');
   assert(await page.locator('.menu-panel').getAttribute('aria-hidden') === 'true', `home ${viewport.width}: menu did not close`);
+  await page.goto(new URL('#welcome',base).href);
+  await page.locator('.welcome-worship img').waitFor();
+  assert(await page.locator('.welcome-worship img').isVisible(), `home ${viewport.width}: worship image missing from welcome`);
+  assert(await page.locator('.welcome-arrival img').isVisible(), `home ${viewport.width}: arrival image missing from welcome`);
+  const actionRoutes = ['life-groups','alpha','courses','membership'];
+  assert(await page.locator('.journey-card').count() === actionRoutes.length, `home ${viewport.width}: four original action paths are not present`);
+  for (let i = 0; i < actionRoutes.length; i++) {
+    const card = page.locator('.journey-card').nth(i);
+    await card.scrollIntoViewIfNeeded();
+    assert(await card.isVisible(), `home ${viewport.width}: ${actionRoutes[i]} card is not visible`);
+    const href = await card.getAttribute('href');
+    assert(new URL(href,base).pathname.endsWith(`/${actionRoutes[i]}/`), `home ${viewport.width}: ${actionRoutes[i]} destination changed`);
+  }
+  assert((await page.locator('.journey-more a').getAttribute('href')).endsWith('/serve/'), `home ${viewport.width}: serving path was lost`);
+  await page.close();
+}
+
+for (const [index,route] of ['life-groups','alpha','courses','membership'].entries()) {
+  const page = await browser.newPage({viewport:{width:index%2?390:1440,height:900}});
+  await page.goto(base);
+  await page.locator('.journey-card').nth(index).click();
+  assert(new URL(page.url()).pathname.endsWith(`/${route}/`), `${route}: homepage action did not navigate to redesigned page`);
+  assert(await page.locator('.detail-hero h1').isVisible(), `${route}: destination page is not visible`);
   await page.close();
 }
 
@@ -70,4 +93,4 @@ for (const route of ['/new','/mission','/courses','/kids','/calendar','/give','/
 
 await browser.close();
 if (errors.length) { console.error(errors.join('\n')); process.exit(1); }
-console.log(`PASS: ${Object.keys(data.pages).length} direct routes; desktop, tablet and mobile home states; seven deep-page checks`);
+console.log(`PASS: ${Object.keys(data.pages).length} direct routes; desktop, tablet and mobile home states; four direct homepage program actions; seven deep-page checks`);
