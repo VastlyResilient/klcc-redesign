@@ -94,9 +94,13 @@ function imageFor(route){
 function heroImageAlt(route,title){
   return ({'new':'Aerial view of Kingdom Life Christian Cathedral','our-story':'Archival photograph of an early Kingdom Life gathering','mission':'Archival photograph of an early Kingdom Life gathering','life-groups':'Kingdom Life congregation gathered for worship','believe':'Kingdom Life congregation gathered for worship','leadership':'KLCC leaders together on stage','watch-live':'KLCC worship team leading a service','subsplash-media':'KLCC worship team leading a service'})[route]||`Artwork featured on KLCC’s original ${title} page`;
 }
-function sourceText(value){return String(value||'').replace(/programing designed for specifically for/g,'programming designed specifically for').replace(/first time visit/g,'first visit').replace(/Let us Know/g,'Let us know').replace(/in awhile/g,'in a while').replace(/(\d+)-(\d+)\s+th\b/gi,'$1th–$2th').replace(/(\d)\s+th\b/gi,'$1th').replace(/\s+([.,!?])/g,'$1')}
+function sourceText(value){return String(value||'').replace(/\s*► DIRECTIONS ► WHAT TO EXPECT ONLINE ► SUNDAYS AT 10 AM ► VIA OUR APP/g,'').replace(/R estoration/g,'Restoration').replace(/Tune IN TO THESE MEDIA OUTLETS/g,'Tune in to these media outlets').replace(/volunteer for snow removal/g,'Volunteer for snow removal').replace(/Do you have Children\?/g,'Do you have children?').replace(/I’M New|I'M New/g,"I'm new").replace(/the Next Step/g,'The next step').replace(/programing designed for specifically for/g,'programming designed specifically for').replace(/first time visit/g,'first visit').replace(/Let us Know/g,'Let us know').replace(/in awhile/g,'in a while').replace(/(\d+)-(\d+)\s+th\b/gi,'$1th–$2th').replace(/(\d)\s+th\b/gi,'$1th').replace(/\s+([.,!?])/g,'$1')}
 function readableParagraph(value){
-  const text=sourceText(value);
+  let text=sourceText(value);
+  if(/^Reach People with the love/.test(text)){const phrases=['Reach People','Teach & Train','Break Down Walls','Be a Place of Restoration','Prepare the Next Generations','Serve the Community','Connect with Churches & Ministries'];let html=esc(text);for(const phrase of phrases)html=html.replace(esc(phrase),`</span> <span><strong>${esc(phrase)}</strong>`);return `<p class="vision-lines">${html.replace(/^<\/span> /,'')}</span></p>`;}
+  if(/^Sunday Morning 7-8 Men's Prayer/.test(text))return `<p class="schedule-lines"><span><strong>Sunday Morning 7-8</strong> Men's Prayer • Cathedral Lobby</span> <span><strong>8:30-9:30</strong> Corporate Prayer • The Meeting Space</span> <span><strong>— Monday Night 6:30</strong> Men's Prayer • Fellowship Court</span></p>`;
+  if(/^October 17 \/ Saturday/.test(text))return `<p class="schedule-lines"><span><strong>October 17 / Saturday</strong> MEN'S BREAKFAST 8 AM</span> <span><strong>December 5 / Saturday</strong> MEN'S PRAYER 8 AM</span> <span><strong>December 21 / Monday</strong> MEN'S GAME NIGHT 6 PM</span></p>`;
+  if(/^Sunday Morning 7 AM/.test(text))return `<p class="schedule-lines schedule-lines--long">${esc(text).replace(/(Sunday Morning 7 AM|Monday Night 6:30 PM|Men’s Breakfast|Men’s Prayer)/g,'</span> <span><strong>$1</strong>').replace(/^<\/span> /,'')} </span></p>`;
   if(text.length<650)return `<p>${esc(text)}</p>`;
   const boundaries=[...text.matchAll(/[.!?](?=\s|$)/g)].map(match=>match.index+1);
   const cut=boundaries.find(position=>position>=260&&position<=560);
@@ -119,19 +123,32 @@ function sectionView(section,index,context){
   const body = rest.map(b=> b.type==='li' ? `<p class="detail-list-item">${esc(sourceText(b.text))}</p>` : /^h[1-4]$/.test(b.type) ? `<h3>${esc(sourceText(b.text))}</h3>` : `<p>${esc(sourceText(b.text))}</p>`).join('');
   const links=(section.actions||[]).map(a=>{if(/^(on break|coming soon)$/i.test(a.label))return '';const dest=safeHref(a.href);if(!dest)return '';const external=!dest.startsWith(root);return `<a href="${esc(dest)}" ${external?'target="_blank" rel="noopener noreferrer"':''}>${esc(a.label)} <span aria-hidden="true">↗</span></a>`}).filter(Boolean).join('');
   if (!body && !links && index===0) return '';
+  if(context.route==='subsplash-media'&&index===1){
+    return `<section class="detail-section narrative-section narrative-section--reading" id="section-1" data-motion-sequence><div class="wide-wrap detail-layout"><div class="detail-heading" data-reveal data-heading-motion><span class="detail-number">02 / THE LIBRARY</span><h2>Media Library</h2></div><div class="detail-body" data-reveal><p>Explore series, topics, speakers, Scripture, and Kids Online through the message library above.</p><div class="detail-actions"><a href="#media-library">BROWSE THE MESSAGE LIBRARY <span aria-hidden="true">↗</span></a></div></div></div></section>`;
+  }
+  if(context.route==='easter'&&index===3){
+    return `<section class="detail-section narrative-section narrative-section--reading" id="section-3" data-motion-sequence><div class="wide-wrap detail-layout"><div class="detail-heading" data-reveal data-heading-motion><span class="detail-number">04 / STAY CONNECTED</span><h2>How to Connect</h2></div><div class="detail-body" data-reveal><p>For your next Sunday, find current arrival information, children’s check-in details, and ways to connect with Kingdom Life.</p><div class="detail-actions"><a href="${path('new')}">PLAN A CURRENT VISIT ↗</a><a href="${path('life-groups')}">FIND A LIFE GROUP ↗</a></div></div></div></section>`;
+  }
+  if(context.route==='youth'&&index===1){
+    const paragraphs=rest.filter(b=>b.type==='p');
+    return `<section class="detail-section youth-gathering" id="section-1" data-motion-sequence><div class="wide-wrap gathering-layout"><div data-reveal data-heading-motion><span class="detail-number">02 / ELEVATE YOUTH</span><h2>Youth Service</h2>${paragraphs[0]?readableParagraph(paragraphs[0].text):''}</div><div class="gathering-clock" data-stop><span>WEDNESDAYS / YOUTH CENTER</span><h3>7:30 <small>PM</small></h3><p>Doors open at 6:45 PM.</p></div><div class="gathering-invitation" data-reveal>${paragraphs.slice(1).map(b=>readableParagraph(b.text)).join('')}</div></div></section>`;
+  }
+  if(context.route==='kids'&&index===1){
+    return `<section class="detail-section kids-stages" id="section-1" data-motion-sequence><div class="wide-wrap"><span class="detail-number" data-reveal>02 / KINGDOM KIDS</span><div class="kids-stage-line" data-stop><h2>A place to grow.</h2><p><strong>6 weeks</strong><span>through</span><strong>6th grade</strong></p></div><div class="kids-stage-details"><p data-reveal>${esc(sourceText(rest.find(b=>b.type==='p')?.text||''))}</p><div data-stop><span>SUNDAY CLASSROOMS OPEN</span><h3>9:45 <small>AM</small></h3></div></div></div></section>`;
+  }
   if(context.route==='our-story'&&index===1){
     const original=rest.find(b=>b.type==='p')?.text||'';
     return `<section class="detail-section founder-feature" id="section-1"><div class="wide-wrap founder-layout"><figure data-reveal><img src="${asset('founders-portrait.jpg')}" alt="Kingdom Life founding pastors Bishop Jay and Jeannine Ramirez"><figcaption>THE FOUNDING PASTORS / KINGDOM LIFE</figcaption></figure><div data-reveal><span class="detail-number">02 / OUR STORY</span><h2>Bishop Jay &amp;<br>Jeannine Ramirez</h2><p>Bishop Jay and Jeannine Ramirez founded and shaped Kingdom Life. Their leadership is woven into its mission, community, and vision for future generations.</p><details><summary>Read their story <span aria-hidden="true">↘</span></summary><p>${esc(sourceText(original))}</p></details></div></div></section>`;
   }
   if(context.route==='beliefs'&&index===1){
     const statements=(rest.find(b=>b.type==='p')?.text||'').split(/\.{3,}/).map(x=>x.trim()).filter(Boolean);
-    return `<section class="detail-section belief-chapter" id="section-1"><div class="wide-wrap"><span class="detail-number" data-reveal>02 / WHAT WE BELIEVE</span><h2 data-reveal>These beliefs<br>shape our life.</h2><div class="belief-list">${statements.map((statement,i)=>`<div data-reveal><span>${String(i+1).padStart(2,'0')}</span><p>${esc(sourceText(statement))}</p></div>`).join('')}</div></div></section>`;
+    return `<section class="detail-section belief-chapter" id="section-1"><div class="wide-wrap"><span class="detail-number" data-reveal>02 / WHAT WE BELIEVE</span><h2 data-reveal>These beliefs<br>shape our life.</h2><div class="belief-list" data-pathway>${statements.map((statement,i)=>`<div data-reveal data-stop><span>${String(i+1).padStart(2,'0')}</span><p>${esc(sourceText(statement))}</p></div>`).join('')}</div></div></section>`;
   }
   if(context.route==='life-groups'&&index===3){
     const items=[];
     for(let i=0;i<blocks.length;i++)if(blocks[i].type==='h3'&&blocks[i+1]?.type==='p')items.push([sourceText(blocks[i].text),sourceText(blocks[i+1].text)]);
     const registration=safeHref(context.page.sections?.[2]?.actions?.[0]?.href||'');
-    return `<section class="detail-section groups-directory" id="section-3"><div class="wide-wrap"><div class="groups-head" data-reveal><span class="detail-number">04 / LIFE GROUPS</span><h2>Find your people.</h2><p>Choose the kind of conversation and community that fits your life.</p></div><div class="groups-list">${items.map(([name,description],i)=>`<div class="group-row" data-reveal><span>${String(i+1).padStart(2,'0')}</span><h3>${esc(name)}</h3><p>${esc(description)}</p></div>`).join('')}</div>${registration?`<a class="groups-register" href="${esc(registration)}" target="_blank" rel="noopener noreferrer">REGISTER FOR LIFE GROUPS <span aria-hidden="true">↗</span></a>`:''}</div></section>`;
+    return `<section class="detail-section groups-directory" id="section-3"><div class="wide-wrap"><div class="groups-head" data-reveal><span class="detail-number">04 / LIFE GROUPS</span><h2>Find your people.</h2><p>Choose the kind of conversation and community that fits your life.</p></div><div class="groups-list">${items.map(([name,description],i)=>`<div class="group-row" data-reveal data-stop><span>${String(i+1).padStart(2,'0')}</span><h3>${esc(name)}</h3><p>${esc(description)}</p></div>`).join('')}</div>${registration?`<a class="groups-register" href="${esc(registration)}" target="_blank" rel="noopener noreferrer">REGISTER FOR LIFE GROUPS <span aria-hidden="true">↗</span></a>`:''}</div></section>`;
   }
   if(context.route==='membership'&&index===2){
     const items=[];
@@ -139,7 +156,7 @@ function sectionView(section,index,context){
       const detail=[];for(let j=i+1;j<blocks.length&&blocks[j].type!=='h3';j++)if(blocks[j].type==='p')detail.push(blocks[j].text);
       items.push([sourceText(blocks[i].text),detail.map(sourceText)]);
     }
-    return `<section class="detail-section membership-steps" id="section-2"><div class="wide-wrap"><span class="detail-number" data-reveal>03 / MEMBERSHIP AT KINGDOM LIFE</span><h2 data-reveal>Belong. Discover.<br>Put purpose to work.</h2><div class="membership-step-grid">${items.map(([name,paragraphs],i)=>`<div data-reveal><span>${String(i+1).padStart(2,'0')}</span><h3>${esc(name)}</h3>${paragraphs.map(p=>`<p>${esc(p)}</p>`).join('')}</div>`).join('')}</div></div></section>`;
+    return `<section class="detail-section membership-steps" id="section-2"><div class="wide-wrap"><span class="detail-number" data-reveal>03 / MEMBERSHIP AT KINGDOM LIFE</span><h2 data-reveal>Belong. Discover.<br>Put purpose to work.</h2><div class="membership-step-grid" data-pathway>${items.map(([name,paragraphs],i)=>`<div data-reveal data-stop><span>${String(i+1).padStart(2,'0')}</span><h3>${esc(name)}</h3>${paragraphs.map(p=>`<p>${esc(p)}</p>`).join('')}</div>`).join('')}</div></div></section>`;
   }
   if(context.route==='leadership'&&index>=4){
     const people=[];for(const b of blocks){if(b.type==='h3')people.push({name:b.text,body:[]});else if(people.length)people.at(-1).body.push(b.text)}
@@ -158,17 +175,26 @@ function sectionView(section,index,context){
   if(context.route==='youth'&&index===3){
     const descriptions=rest.filter(b=>b.type==='p');
     const contacts=(section.actions||[]).map(a=>safeHref(a.href));
-    return `<section class="detail-section detail-section--age-paths" id="section-3"><div class="wide-wrap"><span class="detail-number" data-reveal>04 / ELEVATE YOUTH</span><h2 data-reveal>Two age groups.<br>One place to grow.</h2><div class="age-paths"><div data-reveal><span>01 / MIDDLE SCHOOL</span><h3>7th–9th grades</h3><p>${esc(sourceText(descriptions[0]?.text||''))}</p>${contacts[0]?`<a href="${esc(contacts[0])}">CONTACT ABOUT GRADES 7–9 <span aria-hidden="true">↗</span></a>`:''}</div><div data-reveal><span>02 / HIGH SCHOOL</span><h3>10th–12th grades</h3><p>${esc(sourceText(descriptions[1]?.text||''))}</p>${contacts[1]?`<a href="${esc(contacts[1])}">CONTACT ABOUT GRADES 10–12 <span aria-hidden="true">↗</span></a>`:''}</div></div></div></section>`;
+    return `<section class="detail-section detail-section--age-paths" id="section-3"><div class="wide-wrap"><span class="detail-number" data-reveal>04 / ELEVATE YOUTH</span><h2 data-reveal>Two age groups.<br>One place to grow.</h2><div class="age-paths" data-pathway><div data-reveal data-stop><span>01 / MIDDLE SCHOOL</span><h3>7th–9th grades</h3><p>${esc(sourceText(descriptions[0]?.text||''))}</p>${contacts[0]?`<a href="${esc(contacts[0])}">CONTACT ABOUT GRADES 7–9 <span aria-hidden="true">↗</span></a>`:''}</div><div data-reveal data-stop><span>02 / HIGH SCHOOL</span><h3>10th–12th grades</h3><p>${esc(sourceText(descriptions[1]?.text||''))}</p>${contacts[1]?`<a href="${esc(contacts[1])}">CONTACT ABOUT GRADES 10–12 <span aria-hidden="true">↗</span></a>`:''}</div></div></div></section>`;
   }
   return standardSection(section,index,context);
 }
 function standardSection(section,index,context){
   const blocks=(section.blocks||[]).filter(b=>!/\bpage under construction\b/i.test(b.text||''));
-  const heading=blocks.find(b=>/^h[1-4]$/.test(b.type));
-  const rest=blocks.filter(b=>b!==heading);
+  const heading=(context.route==='courses'?blocks.find(b=>b.type==='h2'):null)||blocks.find(b=>/^h[1-4]$/.test(b.type));
+  const rest=blocks.filter(b=>b!==heading).map(b=>context.route==='courses'&&blocks.indexOf(b)<blocks.indexOf(heading)?{...b,type:'p'}:b);
   const title=sectionTitle(heading,index,context.route);
-  const body=rest.map(b=> b.type==='li' ? `<p class="detail-list-item">${esc(sourceText(b.text))}</p>` : /^h[1-4]$/.test(b.type) ? `<h3>${esc(sourceText(b.text))}</h3>` : readableParagraph(b.text)).join('');
+  let body=rest.map(b=> b.type==='li' ? `<p class="detail-list-item">${esc(sourceText(b.text))}</p>` : /^h[1-4]$/.test(b.type) ? `<h3>${esc(sourceText(b.text))}</h3>` : readableParagraph(b.text)).join('');
   const links=(section.actions||[]).map(a=>{if(/^(on break|coming soon)$/i.test(a.label))return '';const dest=safeHref(a.href);if(!dest)return '';const external=!dest.startsWith(root);return `<a href="${esc(dest)}" ${external?'target="_blank" rel="noopener noreferrer"':''}>${esc(a.label)} <span aria-hidden="true">↗</span></a>`}).filter(Boolean).join('');
+  // Organize the original headings into complete, sequential reading units.
+  // Coorda: a stable orientation column; Kora: distinct successive subject panels.
+  const subjects=[];let prelude=[];
+  for(const b of rest){if(/^h[1-4]$/.test(b.type))subjects.push({title:sourceText(b.text),blocks:[]});else if(subjects.length)subjects.at(-1).blocks.push(b);else prelude.push(b)}
+  if(subjects.length===1&&prelude.length&&(context.route==='mission'||context.route==='prayer')){subjects.unshift({title,blocks:prelude});prelude=[];}
+  const renderBlock=b=>b.type==='li'?`<p class="detail-list-item">${esc(sourceText(b.text))}</p>`:readableParagraph(b.text);
+  if(subjects.length>1){
+    body=prelude.map(renderBlock).join('')+`<div class="subject-journey">${subjects.map((item,i)=>`<article class="subject-stop" data-stop><span class="stop-index" aria-hidden="true">${String(i+1).padStart(2,'0')}</span><div><h3>${esc(item.title)}</h3>${item.blocks.map(renderBlock).join('')}</div></article>`).join('')}</div>`;
+  }
   const fullText=blocks.map(b=>b.text).join(' ');
   const isVerse=/\/\/\s*(?:[1-3]\s)?(?:Psalm|Proverbs|Matthew|Timothy|Corinthians|Jeremiah|Ephesians|Luke|John)/i.test(fullText);
   const mediaMap={
@@ -183,9 +209,11 @@ function standardSection(section,index,context){
    'young-adults':{2:['young-adults-red-night.jpg','RED NIGHT / ORIGINAL KLCC ARTWORK'],3:['young-adults-rise-night.jpg','RISE NIGHT / ORIGINAL KLCC ARTWORK']}
   };
   const media=mediaMap[context.route]?.[index];
-  const kind=isVerse?'verse':media?'visual':index===1?'lead':rest.filter(b=>/^h[1-4]$/.test(b.type)).length>1?'directory':'reading';
-  const chapter=`<div class="detail-heading" data-reveal><span class="detail-number">${String(index+1).padStart(2,'0')} / ${esc(context.category.toUpperCase())}</span><h2>${esc(title)}</h2></div>`;
-  return `<section class="detail-section narrative-section narrative-section--${kind}" id="section-${index}" data-chapter><div class="wide-wrap detail-layout">${chapter}<div class="detail-body" data-reveal>${body}${links?`<div class="detail-actions">${links}</div>`:''}</div>${media?`<figure class="chapter-media" data-depth><img src="${asset(media[0])}" alt="${esc(media[1])}" loading="lazy"><figcaption>${esc(media[1])}</figcaption></figure>`:''}</div></section>`;
+  const kind=isVerse?'verse':subjects.length>1?'journey':media?'visual':index===1?'lead':rest.filter(b=>/^h[1-4]$/.test(b.type)).length>1?'directory':'reading';
+  let chapter=`<div class="detail-heading" data-reveal data-heading-motion><span class="detail-number">${String(index+1).padStart(2,'0')} / ${esc(context.category.toUpperCase())}</span><h2>${esc(title)}</h2></div>`;
+  if(context.route==='mission'&&index===1)chapter=chapter.replace('<h2>Our Mission</h2>','<h2>Our mission<br>&amp; vision.</h2>');
+  if(kind==='journey'&&media)chapter=chapter.replace('</div>',`<figure class="chapter-media journey-place"><img src="${asset(media[0])}" alt="${esc(media[1])}" loading="lazy"><figcaption>${esc(media[1])}</figcaption></figure></div>`);
+  return `<section class="detail-section narrative-section narrative-section--${kind}" id="section-${index}" data-chapter data-motion-sequence><div class="wide-wrap detail-layout">${chapter}<div class="detail-body" data-reveal>${body}${links?`<div class="detail-actions">${links}</div>`:''}</div>${media&&kind!=='journey'?`<figure class="chapter-media" data-depth><img src="${asset(media[0])}" alt="${esc(media[1])}" loading="lazy"><figcaption>${esc(media[1])}</figcaption></figure>`:''}</div></section>`;
 
 }
 
@@ -266,7 +294,7 @@ function detail(page){
   const family=familyFor(route);
   const index=groups.findIndex(g=>g.links.some(l=>l[1]===route));
   const category=index>=0?groups[index].title:'Kingdom Life';
-  const special=route==='watch-live'?`<div class="media-panel" id="live-service"><h2>Watch the service</h2><p>Sunday worship begins at 10:00 AM Eastern. Join the next service here.</p><div class="embed-shell"><p class="embed-loading" role="status">Loading…<br><small>You can also use the direct link below.</small></p><iframe title="KLCC live service" src="https://subsplash.com/u/-TPGJTK/media/embed/d/*next-live" loading="lazy" allowfullscreen></iframe></div><a href="https://online.brushfire.com/klcc/" target="_blank" rel="noopener noreferrer">OPEN LIVE SERVICE ↗</a></div>`:route==='calendar'?`<div class="media-panel" id="events-calendar"><h2>Events & gatherings</h2><p>Find upcoming services, classes, and community gatherings.</p><div class="embed-shell"><p class="embed-loading" role="status">Loading…<br><small>You can also use the direct link below.</small></p><iframe title="KLCC events calendar" src="https://subsplash.com/+7664/lb/ca/+h3pghwr?embed&branding" loading="lazy"></iframe></div><a href="https://subsplash.com/+7664/lb/ca/+h3pghwr?embed&branding" target="_blank" rel="noopener noreferrer">OPEN EVENTS CALENDAR ↗</a></div>`:route==='previous-messages'||route==='subsplash-media'?`<div class="media-panel" id="media-library"><h2>Messages on demand</h2><p>Return to recent teaching and find a message for your week.</p><div class="embed-shell"><p class="embed-loading" role="status">Loading…<br><small>You can also use the direct link below.</small></p><iframe title="KLCC message library" src="https://subsplash.com/+7664/lb/li/+vb859jk?embed&branding" loading="lazy" allowfullscreen></iframe></div><a href="https://www.youtube.com/user/KLCCMilford/videos" target="_blank" rel="noopener noreferrer">WATCH ON YOUTUBE ↗</a></div>`:route==='give'?`<div class="media-panel" id="secure-giving"><h2>Give online</h2><p>Give securely online, or explore other ways to support Kingdom Life below.</p><div class="embed-shell"><p class="embed-loading" role="status">Loading…<br><small>You can also use the direct link below.</small></p><iframe title="KLCC online giving" src="https://subsplash.com/u/-TPGJTK/give?embed=true" loading="lazy"></iframe></div><a href="https://subsplash.com/u/-TPGJTK/give" target="_blank" rel="noopener noreferrer">OPEN SECURE GIVING ↗</a></div>`:route==='easter'?`<div class="media-panel"><h2>Past event</h2><p>This page records the Easter Sunday service of April 5, 2026. For an upcoming Sunday, see the current visit information.</p><a href="${path('new')}">PLAN A CURRENT VISIT ↗</a></div>`:'';
+  const special=route==='watch-live'?`<div class="media-panel" data-motion-sequence id="live-service"><h2>Watch the service</h2><p>Sunday worship begins at 10:00 AM Eastern. Join the next service here.</p><div class="embed-shell"><p class="embed-loading" role="status">Loading…<br><small>You can also use the direct link below.</small></p><iframe title="KLCC live service" src="https://subsplash.com/u/-TPGJTK/media/embed/d/*next-live" loading="lazy" allowfullscreen></iframe></div><a href="https://online.brushfire.com/klcc/" target="_blank" rel="noopener noreferrer">OPEN LIVE SERVICE ↗</a></div>`:route==='calendar'?`<div class="media-panel" data-motion-sequence id="events-calendar"><h2>Events & gatherings</h2><p>Find upcoming services, classes, and community gatherings.</p><div class="embed-shell"><p class="embed-loading" role="status">Loading…<br><small>You can also use the direct link below.</small></p><iframe title="KLCC events calendar" src="https://subsplash.com/+7664/lb/ca/+h3pghwr?embed&branding" loading="lazy"></iframe></div><a href="https://subsplash.com/+7664/lb/ca/+h3pghwr?embed&branding" target="_blank" rel="noopener noreferrer">OPEN EVENTS CALENDAR ↗</a></div>`:route==='previous-messages'||route==='subsplash-media'?`<div class="media-panel" data-motion-sequence id="media-library"><h2>Messages on demand</h2><p>Return to recent teaching and find a message for your week.</p><div class="embed-shell"><p class="embed-loading" role="status">Loading…<br><small>You can also use the direct link below.</small></p><iframe title="KLCC message library" src="https://subsplash.com/+7664/lb/li/+vb859jk?embed&branding" loading="lazy" allowfullscreen></iframe></div><a href="https://www.youtube.com/user/KLCCMilford/videos" target="_blank" rel="noopener noreferrer">WATCH ON YOUTUBE ↗</a></div>`:route==='give'?`<div class="media-panel" data-motion-sequence id="secure-giving"><h2>Give online</h2><p>Give securely online, or explore other ways to support Kingdom Life below.</p><div class="embed-shell"><p class="embed-loading" role="status">Loading…<br><small>You can also use the direct link below.</small></p><iframe title="KLCC online giving" src="https://subsplash.com/u/-TPGJTK/give?embed=true" loading="lazy"></iframe></div><a href="https://subsplash.com/u/-TPGJTK/give" target="_blank" rel="noopener noreferrer">OPEN SECURE GIVING ↗</a></div>`:route==='easter'?`<div class="media-panel" data-motion-sequence><h2>Past event</h2><p>This page records the Easter Sunday service of April 5, 2026. For an upcoming Sunday, see the current visit information.</p><a href="${path('new')}">PLAN A CURRENT VISIT ↗</a></div>`:'';
   const related=({'new':[['I believe','believe'],['Baptism','baptism'],['Kingdom Kids','kids']], 'calendar':[['Easter 2026 archive','easter'],['Courses','courses'],['Life Groups','life-groups']], 'previous-messages':[['Media library','subsplash-media'],['Watch live','watch-live'],['KLCC app','app']], 'watch-live':[['Previous messages','previous-messages'],['Plan a visit','new'],['Get the app','app']], 'give':[['Our mission','mission'],['Serve','serve'],['Plan a visit','new']], 'app':[['Watch live','watch-live'],['Events calendar','calendar'],['Previous messages','previous-messages']], 'weather-procedures':[['Plan a visit','new'],['Events calendar','calendar'],['Get the app','app']], 'easter':[['Plan a current visit','new'],['Watch live','watch-live'],['Kingdom Kids','kids']], 'subsplash-media':[['Watch live','watch-live'],['Previous messages','previous-messages'],['Get the app','app']]}[route]||[['Plan a visit','new'],['Find a Life Group','life-groups'],['Prayer & care','prayer']]);
   const heroActionMap={
     'new':[['WHAT TO EXPECT','#section-5'],['KINGDOM KIDS',path('kids')]],
@@ -299,7 +327,7 @@ function detail(page){
   const marker=pageMarks[route]||category.toUpperCase();
   const context={family,route,category,page};
   const closerLine=({'watch-live':'Come together again next Sunday.','previous-messages':'Carry the message into your week.','calendar':'Make room for what comes next.','give':'Generosity is part of our story.','app':'Take Kingdom Life with you.','weather-procedures':'Stay informed. Travel safely.','easter':'The invitation continues every Sunday.','subsplash-media':'There is more to discover.'})[route]||({story:'The story continues with you.',generations:'There is room for you here.',invitation:'Find your next step.',reflection:'Keep the conversation going.',practical:'Stay connected to KLCC.'})[family];
-  return `${header()}${menu()}<main class="detail-page detail-page--${family}" data-route="${esc(route)}">${newHero(route,title,intro,category,heroLinks,facts)}${pageContents(cleaned)}${special}<div class="detail-content">${cleaned.map((section,index)=>sectionView(section,index,context)).join('')}</div><section class="detail-closer"><div class="wide-wrap"><small>KEEP EXPLORING / KINGDOM LIFE</small><h2>${esc(closerLine)}</h2><div>${related.map(([label,slug])=>`<a href="${path(slug)}">${label} ↗</a>`).join('')}</div></div></section></main>${footer()}`;
+  return `${header()}${menu()}<main class="detail-page detail-page--${family}" data-route="${esc(route)}">${newHero(route,title,intro,category,heroLinks,facts)}${pageContents(cleaned)}${special}<div class="detail-content">${cleaned.map((section,index)=>sectionView(section,index,context)).join('')}</div><section class="detail-closer" data-closing-motion><div class="wide-wrap"><small>KEEP EXPLORING / KINGDOM LIFE</small><h2>${esc(closerLine)}</h2><div>${related.map(([label,slug])=>`<a href="${path(slug)}">${label} ↗</a>`).join('')}</div></div></section></main>${footer()}`;
 }
 
 function activate(){
@@ -333,6 +361,26 @@ function activate(){
   }
   const requestChapterMotion=()=>{if(!motionFrame)motionFrame=requestAnimationFrame(chapterMotion)};
   addEventListener('scroll',requestChapterMotion,{passive:true});addEventListener('resize',requestChapterMotion);chapterMotion();
+  const innerPage=document.querySelector('.detail-page');
+  if(innerPage){
+    innerPage.classList.add('has-chapter-motion');
+    const verses=[...innerPage.querySelectorAll('.narrative-section--verse h2')];
+    for(const title of verses){const words=title.textContent.split(/\s+/);title.innerHTML=words.map(word=>`<span class="reading-word">${esc(word)}</span>`).join(' ')}
+    const stops=[...innerPage.querySelectorAll('[data-stop]')];
+    const sequences=[...innerPage.querySelectorAll('[data-motion-sequence]')];
+    const closers=[...innerPage.querySelectorAll('[data-closing-motion]')];
+    let innerFrame=0;
+    const clamp=v=>Math.max(0,Math.min(1,v));
+    function updateInner(){
+      innerFrame=0;const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
+      for(const section of sequences){const r=section.getBoundingClientRect();const p=reduced?1:clamp((innerHeight*.8-r.top)/(innerHeight*.9));section.style.setProperty('--chapter-arrival',p.toFixed(3));}
+      for(const stop of stops){const r=stop.getBoundingClientRect();const p=reduced?1:clamp((innerHeight*.84-r.top)/(innerHeight*.46));stop.style.setProperty('--stop-progress',p.toFixed(3));stop.classList.toggle('stop-current',r.top<innerHeight*.65&&r.bottom>innerHeight*.3);}
+      for(const title of verses){const r=title.getBoundingClientRect();const p=reduced?1:clamp((innerHeight*.88-r.top)/(innerHeight*.62));const words=[...title.children];words.forEach((word,i)=>word.style.setProperty('--word-emphasis',clamp(p*1.5-i/Math.max(1,words.length)).toFixed(3)));}
+      for(const close of closers){const r=close.getBoundingClientRect();close.style.setProperty('--closing-progress',(reduced?1:clamp((innerHeight-r.top)/(innerHeight*.7))).toFixed(3));}
+    }
+    const requestInner=()=>{if(!innerFrame)innerFrame=requestAnimationFrame(updateInner)};
+    addEventListener('scroll',requestInner,{passive:true});addEventListener('resize',requestInner);updateInner();
+  }
   const stage=document.getElementById('filmStage');
   const travel=document.querySelector('.film-travel');
   if(!stage||!travel){document.documentElement.style.setProperty('--header-progress','1');return}

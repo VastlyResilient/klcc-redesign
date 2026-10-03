@@ -292,3 +292,130 @@ body.experience-rebuild .detail-page[data-route="young-adults"] .chapter-media i
 /* Outreach reverses the neighboring generations chapter's emphasis. */
 @media(min-width:651px){body.experience-rebuild .outreach-layout{grid-template-columns:.85fr 1.15fr}body.experience-rebuild .outreach-layout figure{grid-column:2;grid-row:1}body.experience-rebuild .outreach-layout>div{grid-column:1;grid-row:1}}
 @media(max-width:650px){body.experience-rebuild .route-opening--signal .opening-media{margin-top:28px}}
+/* Inner journeys: measured Kora subject handoff, Coorda reading orientation,
+   Spector progressive type. Company content remains visible without scripting. */
+body.experience-rebuild .detail-page .narrative-section{overflow:clip}
+body.experience-rebuild .detail-page .narrative-section--journey{overflow:visible;background:#eef1ed}
+body.experience-rebuild .detail-page .narrative-section--journey .detail-layout{align-items:start;grid-template-columns:.7fr 1.3fr;gap:8vw}
+body.experience-rebuild .detail-page .narrative-section--journey .detail-heading{position:sticky;top:145px;align-self:start}
+body.experience-rebuild .detail-page .narrative-section--journey .detail-body{margin:0;max-width:none}
+body.experience-rebuild .subject-journey{margin-top:35px}
+body.experience-rebuild .subject-stop{display:grid;grid-template-columns:32px 1fr;gap:22px;padding:38px 0 55px;border-top:1px solid #14212b35;position:relative}
+body.experience-rebuild .subject-stop:before{content:'';position:absolute;top:-1px;left:0;height:2px;width:100%;background:#355f77;transform:scaleX(var(--stop-progress,1));transform-origin:left}
+body.experience-rebuild .stop-index{font-size:12px;letter-spacing:.1em;line-height:2.2;color:#526675}
+body.experience-rebuild .detail-page .subject-stop h3{font-size:clamp(25px,2.8vw,40px);margin:0 0 25px;font-weight:550;letter-spacing:-.035em;line-height:1.1}
+body.experience-rebuild .has-chapter-motion .subject-stop>div{transform:translateY(calc((1 - var(--stop-progress,1))*18px))}
+body.experience-rebuild .detail-page .narrative-section--reading .detail-layout{grid-template-columns:.75fr 1.25fr;gap:10vw}
+body.experience-rebuild .detail-page .narrative-section--reading .detail-body{max-width:680px}
+body.experience-rebuild .detail-page .narrative-section--reading .detail-heading h2{font-size:clamp(35px,4vw,60px)}
+body.experience-rebuild .has-chapter-motion [data-heading-motion] h2{transform:translateY(calc((1 - var(--chapter-arrival,1))*22px));}
+body.experience-rebuild .detail-page .narrative-section--verse{background:#142631;color:#f7f7f3;padding:120px 0}
+body.experience-rebuild .detail-page .narrative-section--verse .detail-layout{display:block;max-width:1100px}
+body.experience-rebuild .detail-page .narrative-section--verse .detail-number{color:#bdcdd4}
+body.experience-rebuild .detail-page .narrative-section--verse .detail-heading h2{font-size:clamp(42px,5.7vw,80px);font-weight:500;line-height:1.16;max-width:1050px;letter-spacing:-.045em;color:#f7f7f3}
+body.experience-rebuild .detail-page .narrative-section--verse .detail-body{margin:30px 0 0 35%;max-width:650px}
+body.experience-rebuild .detail-page .narrative-section--verse .detail-body p{color:#d2dce1;font-size:19px}
+body.experience-rebuild .reading-word{color:color-mix(in srgb,#bac8cf calc((1 - var(--word-emphasis,1))*100%),#fff);}
+body.experience-rebuild .detail-page .narrative-section--verse a{color:#f7f7f3}
+body.experience-rebuild .detail-page .narrative-section--visual .detail-layout{grid-template-columns:.65fr 1.35fr;gap:35px 7vw;align-items:start}
+body.experience-rebuild .detail-page .narrative-section--visual .chapter-media{grid-column:1/-1;width:100%;margin:45px 0 0}
+body.experience-rebuild .detail-page .narrative-section--visual .chapter-media img{height:min(65vw,680px)}
+body.experience-rebuild .detail-page[data-route="our-story"] .narrative-section--visual .chapter-media{grid-row:1;grid-column:1/-1;margin:0 0 30px}
+body.experience-rebuild .detail-page[data-route="our-story"] .narrative-section--visual .detail-heading{grid-row:2}
+body.experience-rebuild .detail-page[data-route="our-story"] .narrative-section--visual .detail-body{grid-row:2}
+body.experience-rebuild .detail-page[data-route="our-story"] #section-3{background:#e8eeeb}
+body.experience-rebuild .detail-page[data-route="mission"] #section-1 .detail-layout{grid-template-columns:1fr 1fr}
+body.experience-rebuild .detail-page[data-route="mission"] #section-1 .detail-heading h2{font-size:clamp(55px,7vw,110px)}
+body.experience-rebuild .detail-page[data-route="courses"] .subject-stop{min-height:240px}
+body.experience-rebuild .detail-page[data-route="courses"] #section-3{background:#f7f7f3}
+body.experience-rebuild .detail-page .age-paths{display:block;margin-top:60px}
+body.experience-rebuild .detail-page .age-paths>div{display:grid;grid-template-columns:1fr 1fr;gap:20px 7vw;align-items:start;padding:60px 0!important;border-top:1px solid #14212b35;position:relative}
+body.experience-rebuild .detail-page .age-paths>div>span,body.experience-rebuild .detail-page .age-paths h3{grid-column:1}
+body.experience-rebuild .detail-page .age-paths>div>p{grid-column:2;grid-row:1/3;margin:0}
+body.experience-rebuild .detail-page .age-paths>div>a{grid-column:2}
+body.experience-rebuild .detail-page .age-paths h3{font-size:clamp(42px,5.7vw,80px);letter-spacing:-.045em;margin:0}
+body.experience-rebuild .age-paths>div:before,body.experience-rebuild .membership-step-grid>div:before{content:'';position:absolute;left:0;top:-1px;height:2px;width:100%;background:#355f77;transform:scaleX(var(--stop-progress,1));transform-origin:left}
+body.experience-rebuild .detail-page .membership-step-grid{display:block;max-width:1050px;margin:50px 0 0 auto}
+body.experience-rebuild .membership-step-grid>div{display:grid;grid-template-columns:45px 1fr 1.4fr;gap:25px;padding:40px 0;border-top:1px solid #14212b35;position:relative}
+body.experience-rebuild .membership-step-grid>div>span{grid-column:1}
+body.experience-rebuild .membership-step-grid>div>h3{grid-column:2;margin:0;font-size:38px}
+body.experience-rebuild .membership-step-grid>div>p{grid-column:3;margin:0;font-size:19px;line-height:1.7}
+body.experience-rebuild .has-chapter-motion .belief-list>div{transform:translateX(calc((1 - var(--stop-progress,1))*12px))}
+body.experience-rebuild .belief-list>div.stop-current p{color:#14212b}
+body.experience-rebuild .detail-page .detail-closer{background:#e8eeeb;overflow:clip}
+body.experience-rebuild .detail-page--story .detail-closer,body.experience-rebuild .detail-page--generations .detail-closer{background:#142631;color:#f7f7f3}
+body.experience-rebuild .detail-page--story .detail-closer :is(h2,a,small),body.experience-rebuild .detail-page--generations .detail-closer :is(h2,a,small){color:#f7f7f3}
+body.experience-rebuild .detail-page--story .detail-closer .wide-wrap>div,body.experience-rebuild .detail-page--generations .detail-closer .wide-wrap>div{border-color:#f7f7f340}
+body.experience-rebuild .has-chapter-motion .detail-closer h2{transform:translateX(calc((1 - var(--closing-progress,1))*25px))}
+body.experience-rebuild .detail-page--reflection .detail-closer .wide-wrap{display:grid;grid-template-columns:1.3fr 1fr;gap:25px 8vw}
+body.experience-rebuild .detail-page--reflection .detail-closer small{grid-column:1/-1}
+body.experience-rebuild .detail-page--reflection .detail-closer .wide-wrap>div{display:flex;flex-direction:column;justify-content:center;gap:22px;border-top:0}
+body.experience-rebuild .detail-page .detail-actions a{transition:color .2s,border-color .2s;min-height:44px;display:inline-flex;align-items:center}
+body.experience-rebuild .detail-page details>div,body.experience-rebuild .detail-page details>p{animation:reading-enter .3s ease both}
+@keyframes reading-enter{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:none}}
+@media(max-width:900px){
+ body.experience-rebuild .detail-page .narrative-section--journey .detail-layout{gap:5vw;grid-template-columns:.75fr 1.25fr}
+ body.experience-rebuild .detail-page .narrative-section--journey .detail-heading h2{font-size:38px}
+}
+@media(max-width:650px){
+ body.experience-rebuild .detail-page .narrative-section--journey .detail-layout,body.experience-rebuild .detail-page .narrative-section--reading .detail-layout,body.experience-rebuild .detail-page .narrative-section--visual .detail-layout,body.experience-rebuild .detail-page[data-route="mission"] #section-1 .detail-layout{display:block}
+ body.experience-rebuild .detail-page .narrative-section--journey .detail-heading{position:static}
+ body.experience-rebuild .detail-page .narrative-section--journey .detail-body{margin-top:30px}
+ body.experience-rebuild .subject-stop{grid-template-columns:24px 1fr;gap:12px;padding:30px 0 40px}
+ body.experience-rebuild .detail-page .subject-stop h3{font-size:29px}
+ body.experience-rebuild .detail-page .narrative-section--verse{padding:75px 0}
+ body.experience-rebuild .detail-page .narrative-section--verse .detail-heading h2{font-size:42px}
+ body.experience-rebuild .detail-page .narrative-section--verse .detail-body{margin:30px 0 0;max-width:none}
+ body.experience-rebuild .detail-page .narrative-section--visual .chapter-media img{height:340px}
+ body.experience-rebuild .detail-page .age-paths>div{display:block;padding:40px 0!important}
+ body.experience-rebuild .detail-page .age-paths h3{font-size:49px;margin:20px 0}
+ body.experience-rebuild .detail-page .age-paths>div>p{margin-bottom:20px}
+ body.experience-rebuild .membership-step-grid>div{grid-template-columns:25px 1fr;gap:12px 20px}
+ body.experience-rebuild .membership-step-grid>div>h3{font-size:31px}
+ body.experience-rebuild .membership-step-grid>div>p{grid-column:2;font-size:17px}
+ body.experience-rebuild .detail-page--reflection .detail-closer .wide-wrap{display:block}
+ body.experience-rebuild .detail-page--reflection .detail-closer .wide-wrap>div{margin-top:35px}
+ body.experience-rebuild .detail-page[data-route="young-adults"] .narrative-section--visual .chapter-media img{height:auto}
+}
+@media(prefers-reduced-motion:reduce){
+ body.experience-rebuild .has-chapter-motion :is([data-heading-motion] h2,.subject-stop>div,.belief-list>div,.detail-closer h2){transform:none!important}
+ body.experience-rebuild .detail-page details>div,body.experience-rebuild .detail-page details>p{animation:none}
+}
+body.experience-rebuild .detail-page .journey-place{margin:35px 0 0!important;width:100%}
+body.experience-rebuild .detail-page .journey-place img{height:210px;object-fit:cover;transform:none;clip-path:none}
+body.experience-rebuild .detail-page .journey-place figcaption{font-size:10px;line-height:1.5}
+body.experience-rebuild .detail-page .detail-body .schedule-lines{font-size:20px!important;line-height:1.6!important}
+body.experience-rebuild .schedule-lines>span{display:block;padding:20px 0;border-top:1px solid #14212b25}
+body.experience-rebuild .schedule-lines strong{display:block;font-weight:600;letter-spacing:-.02em;color:#14212b}
+body.experience-rebuild .schedule-lines--long>span{padding:25px 0}
+@media(min-width:651px){body.experience-rebuild .detail-page .narrative-section--journey .detail-heading{max-height:calc(100svh - 180px);overflow:auto;scrollbar-width:thin}}
+@media(max-width:650px){body.experience-rebuild .detail-page .journey-place img{height:200px}body.experience-rebuild .detail-page .detail-body .schedule-lines{font-size:18px!important}}
+body.experience-rebuild .has-chapter-motion .media-panel h2{transform:translateY(calc((1 - var(--chapter-arrival,1))*15px))}
+body.experience-rebuild .has-chapter-motion .media-panel .embed-shell{clip-path:inset(0 calc((1 - var(--chapter-arrival,1))*3%));}
+@media(prefers-reduced-motion:reduce){body.experience-rebuild .has-chapter-motion .media-panel h2{transform:none}body.experience-rebuild .has-chapter-motion .media-panel .embed-shell{clip-path:none}}
+body.experience-rebuild .vision-lines>span{display:block;padding:22px 0;border-top:1px solid #14212b25}
+body.experience-rebuild .vision-lines strong{display:block;font-size:clamp(23px,2.3vw,32px);font-weight:550;margin-bottom:8px;color:#14212b;letter-spacing:-.025em}
+body.experience-rebuild .detail-page .narrative-section--verse .chapter-media figcaption{color:#14212b;background:#f7f7f3}
+/* Actual ministry schedules become useful editorial objects, not decorative stats. */
+body.experience-rebuild .detail-page .youth-gathering{background:#f7f7f3}
+body.experience-rebuild .gathering-layout{display:grid;grid-template-columns:1fr 1fr;gap:45px 8vw;align-items:center}
+body.experience-rebuild .gathering-layout h2{font-size:clamp(46px,5vw,74px);font-weight:550;letter-spacing:-.05em;margin:0 0 30px}
+body.experience-rebuild .gathering-layout p{font-size:20px;line-height:1.7;color:#455661;max-width:650px}
+body.experience-rebuild .gathering-clock{border-top:1px solid #14212b50;border-bottom:1px solid #14212b50;padding:35px 0}
+body.experience-rebuild .gathering-clock>span,body.experience-rebuild .kids-stage-details>div>span{font-size:11px;letter-spacing:.12em;color:#526675}
+body.experience-rebuild .gathering-clock h3{font-size:clamp(75px,10vw,148px);font-weight:500;letter-spacing:-.07em;line-height:1.05;margin:30px 0}
+body.experience-rebuild .gathering-clock h3 small,body.experience-rebuild .kids-stage-details h3 small{font-size:.22em;letter-spacing:0;display:inline-block}
+body.experience-rebuild .gathering-invitation{grid-column:2;border-left:2px solid #355f77;padding-left:25px}
+body.experience-rebuild .has-chapter-motion .gathering-clock h3{transform:translateY(calc((1 - var(--stop-progress,1))*25px));clip-path:inset(0 0 calc((1 - var(--stop-progress,1))*22%) 0)}
+body.experience-rebuild .detail-page .kids-stages{background:#eef1ed}
+body.experience-rebuild .kids-stage-line{padding:20px 0 55px;border-bottom:1px solid #14212b35}
+body.experience-rebuild .kids-stage-line h2{font-size:40px;font-weight:500;margin:0 0 40px;letter-spacing:-.03em}
+body.experience-rebuild .kids-stage-line p{display:flex;align-items:baseline;justify-content:space-between;gap:25px;margin:0}
+body.experience-rebuild .kids-stage-line strong{font-size:clamp(58px,7.5vw,108px);line-height:1.1;font-weight:500;letter-spacing:-.055em}
+body.experience-rebuild .kids-stage-line p>span{font-size:20px;color:#526675}
+body.experience-rebuild .kids-stage-details{display:grid;grid-template-columns:1.3fr 1fr;gap:10vw;padding-top:55px;align-items:center}
+body.experience-rebuild .kids-stage-details>p{font-size:20px;line-height:1.7;color:#455661}
+body.experience-rebuild .kids-stage-details h3{font-size:clamp(60px,7vw,100px);font-weight:500;letter-spacing:-.055em;margin:15px 0}
+body.experience-rebuild .has-chapter-motion .kids-stage-line strong:last-child{transform:translateX(calc((1 - var(--stop-progress,1))*-25px));}
+@media(max-width:650px){body.experience-rebuild .gathering-layout,body.experience-rebuild .kids-stage-details{display:block}body.experience-rebuild .gathering-layout h2{font-size:45px}body.experience-rebuild .gathering-layout p,body.experience-rebuild .kids-stage-details>p{font-size:18px}body.experience-rebuild .gathering-clock{margin:35px 0}body.experience-rebuild .gathering-clock h3{font-size:95px}body.experience-rebuild .kids-stage-line p{display:flex;flex-direction:column;gap:15px}body.experience-rebuild .kids-stage-line strong{font-size:62px}body.experience-rebuild .kids-stage-line h2{font-size:36px}body.experience-rebuild .kids-stage-details>div{margin-top:35px}}
+@media(prefers-reduced-motion:reduce){body.experience-rebuild .has-chapter-motion .gathering-clock h3,body.experience-rebuild .has-chapter-motion .kids-stage-line strong:last-child{transform:none;clip-path:none}}

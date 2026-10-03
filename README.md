@@ -15,3 +15,9 @@ The full-journey composition draws on the studied Framer preview library: Kora's
 Styling: `styles.css` (approved intro and legacy layout foundation), `experience.css` (full-journey composition and responsive contracts). Interactions: `app.js`. Source inventory: `content.json`. Original Young Adults artwork is downloaded at its 1920 × 1080 resolution. Live service, message library, calendar, giving and registration retain their real external provider integrations and direct fallback actions. Tests do not submit forms or verify payment processing.
 
 The working research, route map, screenshots and independent visual review are outside this public repository in the local `site-engine/research/klcc-framer-rebuild-2026-10-02/` evidence package. Phone-width browser checks do not constitute physical-device testing.
+
+## Inner-page motion release — October 3, 2026
+
+All inner destinations now use content-aware motion: bounded individual reading units, progressive Scripture emphasis, stable desktop orientation with natural phone flow, authentic photo depth, accurate schedule/age compositions, and purposeful closing actions. The approved homepage is preserved. All original substantive paragraphs remain available; extraction errors and duplicated navigation prose are cleaned rather than copied into reading text.
+
+Reference and independent review evidence: `../research/klcc-motion-sequences-2026-10-03/`. Run `node scripts/inner-motion-qa.mjs` alongside both existing QA scripts; it verifies every inner route's forward/reverse progress and readable end state. Regenerate with `scripts/prerender.mjs` and fingerprint with `scripts/version_styles.py` after changes. No new animation library or paid film generation is required for this release.
