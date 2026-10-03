@@ -1,0 +1,294 @@
+/* KLCC full-journey rebuild. Observed reference moves and route map live in the research record. */
+body.experience-rebuild{--ink:#14212b;--cream:#f7f7f3;--paper:#ecefea;--accent:#c1d5e5;--plum:#111d27;--blue:#193443;background:var(--cream);font-family:'Albert Sans','Barlow',sans-serif;color:var(--ink)}
+body.experience-rebuild h2,body.experience-rebuild h3{font-family:'Albert Sans',sans-serif;font-weight:650;letter-spacing:-.045em}
+body.experience-rebuild .eyebrow{font-size:11px;letter-spacing:.13em;font-weight:600;color:#526675}
+body.experience-rebuild .eyebrow.light{color:#d7e1e8}
+body.experience-rebuild p{line-height:1.6}
+body.experience-rebuild figure{margin:0}
+body.experience-rebuild figcaption{font-size:10px;font-weight:500;letter-spacing:.12em;line-height:1.5;padding-top:13px}
+body.experience-rebuild .site-header{background:rgba(13,24,32,.97);backdrop-filter:none;height:calc(110px - var(--header-progress,1)*28px);border-bottom:1px solid #ffffff24}
+body.experience-rebuild[data-page="/"] .site-header{background:rgba(13,24,32,calc(.95*var(--header-progress,0)))}
+body.experience-rebuild .menu-panel{background:#10232e}
+body.experience-rebuild .menu-group-title h2{font-family:'Albert Sans',sans-serif;font-weight:500;font-size:22px;letter-spacing:-.025em}
+body.experience-rebuild .menu-group>a{font-size:17px;font-weight:400;line-height:1.4;min-height:44px}
+body.experience-rebuild .menu-group>a.current{font-weight:600;color:#fff}
+body.experience-rebuild .menu-group>a span{font-size:15px}
+body.experience-rebuild .header-nav a{font-weight:500}
+body.experience-rebuild .header-nav a.current{font-weight:650}
+body.experience-rebuild .chapter{padding:110px 0}
+body.experience-rebuild .chapter-heading h2{font-size:clamp(48px,6.4vw,98px);line-height:1.02;letter-spacing:-.055em}
+body.experience-rebuild .welcome-chapter .display-outline{font-family:'Albert Sans',sans-serif;font-size:clamp(56px,7.7vw,118px);font-weight:650;letter-spacing:-.055em;line-height:1.02}
+body.experience-rebuild .welcome-chapter .display-outline em{font-style:normal;color:#bdcfdd}
+body.experience-rebuild .welcome-worship{overflow:hidden}
+body.experience-rebuild .welcome-worship img{transition:transform .8s;object-fit:cover}
+body.experience-rebuild .welcome-worship:hover img{transform:scale(1.035)}
+body.experience-rebuild .paths-chapter{background:#f7f7f3}
+body.experience-rebuild .journey-card strong{font-family:'Albert Sans',sans-serif;font-weight:650;font-size:clamp(30px,3.2vw,47px);letter-spacing:-.035em}
+body.experience-rebuild .journey-card p{font-size:17px}
+body.experience-rebuild .journey-card{border-radius:2px}
+body.experience-rebuild .journey-icon{width:28px;height:28px}
+body.experience-rebuild .journey-icon img{width:100%;height:100%}
+body.experience-rebuild .journey-action>span{font-size:17px}
+body.experience-rebuild .generations-chapter{background:#e8edea;color:var(--ink)}
+body.experience-rebuild .generation-copy h2{font-size:clamp(54px,6.1vw,88px);font-weight:600;line-height:1.04}
+body.experience-rebuild .generation-copy h2 i{font-style:normal;color:#496b7f}
+body.experience-rebuild .generation-copy .eyebrow{color:#526675}
+body.experience-rebuild .generation-copy p{font-size:19px}
+body.experience-rebuild .generation-image img{height:540px;filter:none}
+body.experience-rebuild .generation-links a{font-weight:500;font-size:19px;padding:18px 0}
+body.experience-rebuild .generation-links a span{font-size:17px}
+body.experience-rebuild .outreach-story{padding:130px 0;background:#f7f7f3}
+body.experience-rebuild .outreach-layout{display:grid;grid-template-columns:1.15fr .85fr;gap:9%;align-items:center}
+body.experience-rebuild .outreach-layout figure{overflow:hidden}
+body.experience-rebuild .outreach-layout img{width:100%;height:550px;object-fit:cover}
+body.experience-rebuild .outreach-layout h2{font-size:clamp(52px,6.2vw,92px);font-weight:550;line-height:1.02;margin:30px 0}
+body.experience-rebuild .outreach-layout h2 em{font-style:normal;color:#567181}
+body.experience-rebuild .outreach-layout p{font-size:19px;max-width:370px}
+body.experience-rebuild .outreach-layout .text-link{display:inline-flex;margin-top:24px;font-weight:500;gap:35px}
+body.experience-rebuild .mission-chapter{background:#142631;color:#fff}
+body.experience-rebuild .mission-chapter h2{font-family:'Albert Sans',sans-serif;font-size:clamp(46px,7.7vw,112px);font-weight:550;letter-spacing:-.055em;line-height:1.08;margin-bottom:60px}
+body.experience-rebuild .mission-line{display:block;color:#80909b;transition:color .45s}
+body.experience-rebuild .mission-line.is-emphasized{color:#f2f4f1}
+body.experience-rebuild .mission-chapter .mission-tail{align-items:start}
+body.experience-rebuild .mission-archive img{filter:none}
+body.experience-rebuild .watch-chapter{background:#f7f7f3;color:var(--ink)}
+body.experience-rebuild .watch-copy h2{font-family:'Albert Sans',sans-serif;font-size:clamp(56px,7vw,100px);font-weight:600;line-height:1.04}
+body.experience-rebuild .watch-copy .eyebrow{color:#526675}
+body.experience-rebuild .watch-photo img{filter:none}
+body.experience-rebuild .visit-band{background:#e9eeec;color:var(--ink);padding:110px 0}
+body.experience-rebuild .visit-band h2{font-family:'Albert Sans',sans-serif;font-size:clamp(40px,4.5vw,70px);font-weight:600;letter-spacing:-.045em;line-height:1.08}
+body.experience-rebuild .visit-band h2 span{color:#527080}
+body.experience-rebuild .visit-details{border-color:#14212b40}
+body.experience-rebuild .visit-band .visit-action{border-color:#14212b80;background:transparent}
+body.experience-rebuild .site-footer{background:#0f1b24;padding:80px 5% 25px}
+body.experience-rebuild .footer-top p{font-family:'Albert Sans',sans-serif;font-size:clamp(42px,7vw,108px);font-weight:500;letter-spacing:-.055em;line-height:1;max-width:none}
+body.experience-rebuild .footer-columns small{color:#b7cbd9}
+body.experience-rebuild .footer-base{color:#c0ccd4}
+/* Varied route openings: context, people, artwork and quiet reading. */
+body.experience-rebuild .detail-page .route-opening{background:#f7f7f3;color:var(--ink);padding:165px 0 75px;min-height:0;display:block;overflow:visible}
+body.experience-rebuild .detail-page .route-opening:after{display:none}
+body.experience-rebuild .opening-grid{display:grid;grid-template-columns:1fr .9fr;gap:8%;align-items:center}
+body.experience-rebuild .opening-copy{position:relative;z-index:1}
+body.experience-rebuild .detail-page .route-opening h1{font-family:'Albert Sans',sans-serif;font-size:clamp(62px,7.1vw,110px);line-height:1.01;font-weight:550;letter-spacing:-.055em;white-space:normal;max-width:none;margin:32px 0;overflow-wrap:normal;color:var(--ink)}
+body.experience-rebuild .opening-title{font-size:14px!important;font-weight:650;letter-spacing:.015em;margin:0 0 14px}
+body.experience-rebuild .opening-deck{font-size:20px;line-height:1.6;max-width:490px;color:#52616b}
+body.experience-rebuild .detail-page .route-opening .detail-hero-links{gap:22px;flex-wrap:wrap;margin:30px 0 0;max-width:none}
+body.experience-rebuild .detail-page .route-opening .detail-hero-links a{display:flex;align-items:center;justify-content:space-between;gap:25px;background:none;color:var(--ink);border:0;border-bottom:1px solid #97a6af;border-radius:0;padding:12px 0;font-size:11px;font-weight:600;letter-spacing:.065em;min-width:0;min-height:44px}
+body.experience-rebuild .detail-page .route-opening .detail-hero-links a span{font-size:16px}
+body.experience-rebuild .detail-page .route-opening .detail-hero-fact{background:none;border:0;border-top:1px solid #a8b5ba;padding:22px 0 0;color:var(--ink);margin-top:35px;display:flex;gap:12px;flex-direction:column;max-width:none}
+body.experience-rebuild .detail-page .detail-hero-fact strong{font-size:12px;font-weight:650}
+body.experience-rebuild .detail-page .detail-hero-fact span{font-size:11px;letter-spacing:.065em}
+body.experience-rebuild .opening-media{position:relative;overflow:hidden}
+body.experience-rebuild .opening-media img{display:block;width:100%;height:540px;object-fit:cover;transform:translateY(var(--depth-y,0px)) scale(1.08);filter:none}
+body.experience-rebuild .opening-media figcaption{position:relative;z-index:1;background:#f7f7f3;padding-top:17px}
+body.experience-rebuild .detail-page .route-opening--place .opening-grid{display:flex;flex-direction:column;align-items:stretch;gap:45px}
+body.experience-rebuild .route-opening--place .opening-copy{display:grid;grid-template-columns:1.4fr .7fr;column-gap:10%}
+body.experience-rebuild .route-opening--place .opening-copy .eyebrow{grid-column:1/-1}
+body.experience-rebuild .detail-page .route-opening--place h1{grid-row:2/6;margin:25px 0}
+body.experience-rebuild .route-opening--place .opening-title{margin-top:30px}
+body.experience-rebuild .route-opening--place .opening-media img{height:clamp(350px,43vw,650px)}
+body.experience-rebuild .detail-page .route-opening--portrait .opening-grid{grid-template-columns:1.15fr .75fr}
+body.experience-rebuild .route-opening--portrait .opening-media img{height:580px;object-position:center}
+body.experience-rebuild .detail-page .route-opening--reading .opening-grid,body.experience-rebuild .detail-page .route-opening--statement .opening-grid{display:block}
+body.experience-rebuild .detail-page .route-opening--reading h1{font-size:clamp(64px,8vw,118px);max-width:1000px}
+body.experience-rebuild .route-opening--reading .opening-deck{max-width:650px}
+body.experience-rebuild .detail-page .route-opening--signal .opening-grid{display:block}
+body.experience-rebuild .route-opening--signal .opening-copy{display:grid;grid-template-columns:1.4fr .8fr;column-gap:10%}
+body.experience-rebuild .route-opening--signal .eyebrow{grid-column:1/-1}
+body.experience-rebuild .detail-page .route-opening--signal h1{font-size:clamp(72px,10.5vw,156px);grid-row:2/6;margin:24px 0}
+body.experience-rebuild .route-opening--signal .opening-title{margin-top:30px}
+body.experience-rebuild .route-opening--signal .opening-media{margin-top:50px}
+body.experience-rebuild .route-opening--signal .opening-media img{height:230px;object-fit:cover;transform:translateY(var(--depth-y,0px)) scale(1.1)}
+body.experience-rebuild .detail-page .route-opening--broadcast .opening-grid{grid-template-columns:.9fr 1.2fr}
+body.experience-rebuild .route-opening--broadcast .opening-media img{height:500px}
+/* Short contents rail stays in normal flow on phone; it never becomes a second fixed header. */
+body.experience-rebuild .page-contents{display:flex;flex-wrap:wrap;gap:8px 26px;align-items:center;padding:20px 4.5%;border-block:1px solid #ced5d7;background:#f7f7f3;font-size:13px}
+body.experience-rebuild .page-contents>span{font-size:10px;letter-spacing:.1em;color:#526675;margin-right:15px}
+body.experience-rebuild .page-contents a{padding:10px 0;border-bottom:1px solid transparent}
+body.experience-rebuild .page-contents a:hover,body.experience-rebuild .page-contents a:focus-visible,body.experience-rebuild .page-contents a.active{border-color:#526675;font-weight:550}
+body.experience-rebuild .detail-page .detail-content{background:#f7f7f3}
+body.experience-rebuild .detail-page .detail-section{padding:100px 0;background:#f7f7f3;color:var(--ink);border:0;border-bottom:1px solid #ccd4d4}
+body.experience-rebuild .detail-page .detail-layout{display:grid;grid-template-columns:.85fr 1fr;gap:9%;align-items:start}
+body.experience-rebuild .detail-page .detail-heading{display:block;position:static;padding:0;color:var(--ink)}
+body.experience-rebuild .detail-page .detail-number{display:block;color:#526675;font-size:10px;font-weight:500;letter-spacing:.1em;margin:0 0 28px}
+body.experience-rebuild .detail-page .detail-heading h2{font-family:'Albert Sans',sans-serif;font-size:clamp(38px,4.7vw,70px);line-height:1.07;font-weight:500;letter-spacing:-.045em;max-width:570px;color:var(--ink)}
+body.experience-rebuild .detail-page .detail-body{border:0;padding:0;margin:0;max-width:680px;color:var(--ink)}
+body.experience-rebuild .detail-page .detail-body p{font-size:18px;line-height:1.75;color:#455661;max-width:65ch;margin-bottom:22px}
+body.experience-rebuild .detail-page .detail-body h3{font-size:27px;font-weight:550;margin:32px 0 16px;line-height:1.15;border:0;color:var(--ink)}
+body.experience-rebuild .detail-page .detail-body h3:first-child{margin-top:0}
+body.experience-rebuild .detail-page .detail-actions{display:flex;gap:14px 26px;flex-wrap:wrap;padding-top:22px;border-top:1px solid #c4ced1;margin-top:30px}
+body.experience-rebuild .detail-page .detail-actions a{font-size:12px;font-weight:600;letter-spacing:.025em;color:var(--ink);background:none;border:0;border-bottom:1px solid #859ba7;padding:12px 0;border-radius:0;display:inline-flex;gap:25px;align-items:center;min-height:44px}
+body.experience-rebuild .detail-page .detail-actions a span{font-size:16px}
+body.experience-rebuild .detail-page .narrative-section--lead .detail-heading h2{font-size:clamp(45px,5.2vw,80px)}
+body.experience-rebuild .detail-page .narrative-section--lead .detail-body p:first-child{font-size:clamp(20px,2.3vw,30px);line-height:1.5;color:var(--ink)}
+body.experience-rebuild .detail-page .narrative-section--visual .detail-layout{grid-template-columns:1fr 1fr;gap:50px 8%}
+body.experience-rebuild .chapter-media{grid-column:1/-1;overflow:hidden}
+body.experience-rebuild .chapter-media img{width:100%;height:clamp(350px,42vw,650px);object-fit:cover;transform:translateY(var(--depth-y,0px)) scale(1.05)}
+body.experience-rebuild .chapter-media figcaption{position:relative;background:#f7f7f3}
+body.experience-rebuild .detail-page .narrative-section--verse{background:#e8eeeb;padding:110px 0}
+body.experience-rebuild .detail-page .narrative-section--verse .detail-layout{display:block;max-width:1080px}
+body.experience-rebuild .detail-page .narrative-section--verse h2{font-size:clamp(40px,5.5vw,83px);max-width:none;line-height:1.15;font-weight:450}
+body.experience-rebuild .detail-page .narrative-section--verse .detail-body{max-width:760px;margin:35px 0 0 auto}
+body.experience-rebuild .detail-page .narrative-section--directory .detail-body h3{padding-top:24px;border-top:1px solid #ccd4d4}
+body.experience-rebuild .detail-page .detail-more summary{color:var(--ink);font-size:13px;border-bottom:1px solid #a3b3ba;padding:12px 0;margin-bottom:20px;cursor:pointer;min-height:44px}
+body.experience-rebuild .detail-page .founder-layout{display:grid;grid-template-columns:1fr .8fr;gap:10%;align-items:center}
+body.experience-rebuild .detail-page .founder-layout img{width:100%;height:600px;object-fit:cover}
+body.experience-rebuild .detail-page .founder-layout h2{font-size:clamp(40px,5vw,72px);line-height:1.07;font-weight:500}
+body.experience-rebuild .detail-page .founder-layout p{font-size:18px;line-height:1.7;color:#455661}
+body.experience-rebuild .detail-page .founder-layout summary{font-size:13px;min-height:44px;padding:12px 0;cursor:pointer}
+body.experience-rebuild .people-list details{border-top:1px solid #b9c7cd}
+body.experience-rebuild .people-list details:last-child{border-bottom:1px solid #b9c7cd}
+body.experience-rebuild .people-list summary{display:grid;grid-template-columns:50px 1fr 230px 80px;gap:22px;align-items:center;cursor:pointer;list-style:none;padding:35px 0}
+body.experience-rebuild .people-list summary::-webkit-details-marker{display:none}
+body.experience-rebuild .people-list h2{font-size:clamp(28px,4vw,56px);font-weight:500;margin:0;line-height:1.05}
+body.experience-rebuild .people-list summary>span:first-child{font-size:11px;color:#526675}
+body.experience-rebuild .people-list .person-role{font-size:14px;color:#526675}
+body.experience-rebuild .people-list .disclosure-word{font-size:12px;text-align:right;border-bottom:1px solid #aab8bf;padding:10px 0}
+body.experience-rebuild .people-list details>div{max-width:750px;margin:0 auto 40px;font-size:18px;line-height:1.7}
+body.experience-rebuild .people-list details[open] .disclosure-word{font-weight:650}
+body.experience-rebuild .detail-page .detail-section--age-paths h2,body.experience-rebuild .detail-page .groups-head h2,body.experience-rebuild .detail-page .membership-steps h2,body.experience-rebuild .detail-page .belief-chapter h2{font-family:'Albert Sans',sans-serif;font-size:clamp(45px,6vw,84px);line-height:1.07;font-weight:550;letter-spacing:-.045em}
+body.experience-rebuild .age-paths{gap:9%;margin-top:50px}
+body.experience-rebuild .age-paths>div{border-top:1px solid #b5c3c9;min-height:0;background:none;padding:30px 0 0}
+body.experience-rebuild .age-paths h3{font-size:clamp(36px,4vw,58px);font-weight:500;margin:22px 0}
+body.experience-rebuild .age-paths p{font-size:18px;line-height:1.7}
+body.experience-rebuild .age-paths a{font-size:11px;letter-spacing:.035em;min-height:44px;padding:12px 0}
+body.experience-rebuild .age-paths a span{font-size:16px}
+body.experience-rebuild .groups-list .group-row{border-color:#b8c6cc}
+body.experience-rebuild .groups-list h3{font-size:29px;font-weight:550}
+body.experience-rebuild .groups-list p{font-size:17px;line-height:1.7}
+body.experience-rebuild .membership-step-grid h3{font-size:32px;font-weight:550}
+body.experience-rebuild .membership-step-grid p{font-size:18px;line-height:1.7}
+body.experience-rebuild .detail-page .detail-closer{background:#e8eeeb;color:var(--ink);padding:90px 0}
+body.experience-rebuild .detail-page .detail-closer h2{font-family:'Albert Sans',sans-serif;font-size:clamp(45px,6.4vw,94px);font-weight:500;line-height:1.06;letter-spacing:-.05em;margin:25px 0 42px;max-width:1100px}
+body.experience-rebuild .detail-page .detail-closer a{font-size:15px;font-weight:500;padding:14px 0;border:0;border-bottom:1px solid #95a8b1;color:var(--ink);background:none;border-radius:0}
+body.experience-rebuild .detail-page .media-panel{background:#edf1ed;color:var(--ink);padding:75px 5%;gap:30px}
+body.experience-rebuild .detail-page .media-panel h2{font-family:'Albert Sans',sans-serif;font-size:clamp(35px,4.5vw,65px);font-weight:500;line-height:1.1}
+body.experience-rebuild .detail-page .media-panel p{font-size:18px}
+body.experience-rebuild .detail-page .media-panel a{font-size:12px;font-weight:600}
+body.experience-rebuild :focus-visible{outline:2px solid #759fbc;outline-offset:5px}
+body.experience-rebuild [data-reveal]{transition-duration:850ms;transition-timing-function:cubic-bezier(.16,1,.3,1)}
+body.experience-rebuild [data-depth] img{will-change:transform}
+body.experience-rebuild [id^="section-"]{scroll-margin-top:115px}
+@media(max-width:1000px){
+ body.experience-rebuild .detail-page .route-opening h1{font-size:clamp(50px,7.3vw,76px)}
+ body.experience-rebuild .opening-grid{gap:6%}
+ body.experience-rebuild .opening-media img{height:440px}
+ body.experience-rebuild .people-list summary{grid-template-columns:35px 1fr 150px 70px;gap:15px}
+ body.experience-rebuild .outreach-layout{gap:6%}
+ body.experience-rebuild .outreach-layout img{height:450px}
+}
+@media(max-width:650px){
+ body.experience-rebuild .site-header{height:76px;padding:0 5%}
+ body.experience-rebuild .brand img{width:170px}
+ body.experience-rebuild .menu-inner{padding-top:115px}
+ body.experience-rebuild .menu-group-title h2{font-size:20px}
+ body.experience-rebuild .menu-group>a{font-size:16px}
+ body.experience-rebuild .chapter,body.experience-rebuild .outreach-story{padding:72px 0}
+ body.experience-rebuild .chapter-heading h2{font-size:50px}
+ body.experience-rebuild .welcome-chapter .display-outline{font-size:55px}
+ body.experience-rebuild .journey-card strong{font-size:34px}
+ body.experience-rebuild .generation-copy h2{font-size:52px}
+ body.experience-rebuild .generation-image img{height:370px}
+ body.experience-rebuild .outreach-layout{display:flex;flex-direction:column;gap:45px;align-items:stretch}
+ body.experience-rebuild .outreach-layout img{height:360px}
+ body.experience-rebuild .outreach-layout h2{font-size:58px;margin:22px 0}
+ body.experience-rebuild .outreach-layout p{font-size:18px}
+ body.experience-rebuild .mission-chapter h2{font-size:44px;letter-spacing:-.045em;line-height:1.15}
+ body.experience-rebuild .watch-copy h2{font-size:58px}
+ body.experience-rebuild .visit-band{padding:72px 0}
+ body.experience-rebuild .visit-band h2{font-size:38px}
+ body.experience-rebuild .footer-top{align-items:start;gap:35px;flex-direction:column}
+ body.experience-rebuild .footer-top p{font-size:62px}
+ body.experience-rebuild .detail-page .route-opening{padding:125px 0 55px}
+ body.experience-rebuild .detail-page .opening-grid,body.experience-rebuild .detail-page .route-opening--portrait .opening-grid,body.experience-rebuild .detail-page .route-opening--broadcast .opening-grid{display:flex;flex-direction:column;gap:35px;align-items:stretch}
+ body.experience-rebuild .route-opening--place .opening-copy,body.experience-rebuild .route-opening--signal .opening-copy{display:block}
+ body.experience-rebuild .detail-page .route-opening h1,body.experience-rebuild .detail-page .route-opening--reading h1{font-size:clamp(48px,13vw,70px);margin:24px 0;line-height:1.02}
+ body.experience-rebuild .detail-page .route-opening--signal h1{font-size:clamp(62px,17vw,87px)}
+ body.experience-rebuild .opening-title{margin-top:0!important}
+ body.experience-rebuild .opening-deck{font-size:18px;max-width:none}
+ body.experience-rebuild .opening-media img,body.experience-rebuild .route-opening--place .opening-media img,body.experience-rebuild .route-opening--portrait .opening-media img,body.experience-rebuild .route-opening--broadcast .opening-media img{height:380px}
+ body.experience-rebuild .route-opening--signal .opening-media{margin-top:0}
+ body.experience-rebuild .route-opening--signal .opening-media img{height:170px}
+ body.experience-rebuild .page-contents{gap:8px 20px;font-size:12px;padding:20px 5%}
+ body.experience-rebuild .page-contents>span{flex-basis:100%}
+ body.experience-rebuild .detail-page .detail-section{padding:65px 0}
+ body.experience-rebuild .detail-page .detail-layout,body.experience-rebuild .detail-page .narrative-section--visual .detail-layout{display:block}
+ body.experience-rebuild .detail-page .detail-number{margin-bottom:20px}
+ body.experience-rebuild .detail-page .detail-heading h2,body.experience-rebuild .detail-page .narrative-section--lead h2{font-size:43px;line-height:1.08}
+ body.experience-rebuild .detail-page .detail-body{margin:30px 0 0;max-width:none}
+ body.experience-rebuild .detail-page .detail-body p{font-size:17px;line-height:1.7}
+ body.experience-rebuild .detail-page .narrative-section--lead .detail-body p:first-child{font-size:22px}
+ body.experience-rebuild .detail-page .detail-body h3{font-size:26px}
+ body.experience-rebuild .chapter-media{margin-top:40px}
+ body.experience-rebuild .chapter-media img{height:350px}
+ body.experience-rebuild .detail-page .narrative-section--verse h2{font-size:39px;font-weight:450}
+ body.experience-rebuild .detail-page .founder-layout{display:flex;flex-direction:column;gap:40px;align-items:stretch}
+ body.experience-rebuild .detail-page .founder-layout img{height:400px}
+ body.experience-rebuild .detail-page .founder-layout h2{font-size:42px}
+ body.experience-rebuild .people-list summary{grid-template-columns:25px 1fr 65px;gap:12px;padding:25px 0}
+ body.experience-rebuild .people-list h2{font-size:31px}
+ body.experience-rebuild .people-list .person-role{grid-column:2;font-size:13px}
+ body.experience-rebuild .people-list .disclosure-word{grid-column:3;grid-row:1/3;font-size:11px}
+ body.experience-rebuild .people-list details>div{font-size:17px;margin:0 0 30px}
+ body.experience-rebuild .detail-page .detail-section--age-paths h2,body.experience-rebuild .detail-page .groups-head h2,body.experience-rebuild .detail-page .membership-steps h2,body.experience-rebuild .detail-page .belief-chapter h2{font-size:43px}
+ body.experience-rebuild .age-paths h3{font-size:38px}
+ body.experience-rebuild .age-paths p{font-size:17px}
+ body.experience-rebuild .groups-list h3{font-size:27px}
+ body.experience-rebuild .membership-step-grid h3{font-size:29px}
+ body.experience-rebuild .detail-page .detail-closer{padding:65px 0}
+ body.experience-rebuild .detail-page .detail-closer h2{font-size:44px}
+ body.experience-rebuild .detail-page .media-panel{padding:65px 5%}
+ body.experience-rebuild .detail-page .media-panel h2{font-size:36px}
+}
+@media(prefers-reduced-motion:reduce){body.experience-rebuild [data-depth] img{transform:none!important}body.experience-rebuild .mission-line{transition:none;color:#f2f4f1}body.experience-rebuild [data-reveal]{opacity:1!important;transform:none!important;transition:none!important}}
+/* Light sections keep explicit foreground colors rather than inheriting dark-section colors. */
+body.experience-rebuild .generation-copy>p:not(.eyebrow),body.experience-rebuild .watch-copy>p:not(.eyebrow){color:#455661}
+body.experience-rebuild .generation-links,body.experience-rebuild .generation-links a{border-color:#14212b40;color:#14212b}
+body.experience-rebuild .generation-links a:hover,body.experience-rebuild .generation-links a:focus-visible{color:#355f77}
+body.experience-rebuild .watch-actions .text-link,body.experience-rebuild .visit-action{color:#14212b}
+body.experience-rebuild .watch-actions .dark-action{color:#fff;background:#14212b}
+body.experience-rebuild .mission-story .mission-origin{color:#c0d3df}
+body.experience-rebuild .chapter-media img,body.experience-rebuild .outreach-layout figure img{clip-path:inset(0 calc((1 - var(--depth-in,1))*7%));}
+body.experience-rebuild .opening-media img{clip-path:inset(0 calc((1 - var(--depth-in,1))*5%));}
+body.experience-rebuild .opening-media figcaption,body.experience-rebuild .chapter-media figcaption{clip-path:none}
+body.experience-rebuild .detail-page .detail-section--age-paths{background:#e8eeeb}
+body.experience-rebuild .detail-page .detail-section--age-paths .age-paths>div{background:transparent}
+body.experience-rebuild .detail-page .membership-steps{background:#e8eeeb}
+body.experience-rebuild .detail-page .groups-directory{background:#e8eeeb}
+body.experience-rebuild .person-role{color:#526675}
+@media(prefers-reduced-motion:reduce){body.experience-rebuild [data-depth] img{clip-path:none!important}}
+/* Legacy route styles used important foregrounds; the new light opening owns the color contract. */
+body.experience-rebuild .detail-page .route-opening .detail-hero-links a{color:#14212b!important}
+body.experience-rebuild .detail-page .route-opening .detail-hero-links a:hover,body.experience-rebuild .detail-page .route-opening .detail-hero-links a:focus-visible{color:#355f77!important}
+body.experience-rebuild .detail-page .route-opening .detail-hero-fact span{color:#52616b}
+body.experience-rebuild .mission-story>p:not(.mission-origin){color:#d5e0e6}
+body.experience-rebuild .detail-page .detail-body h3{font-family:'Albert Sans',sans-serif;font-weight:550}
+body.experience-rebuild .detail-page .detail-closer small{color:#526675}
+body.experience-rebuild .detail-page .membership-step-grid p,body.experience-rebuild .detail-page .membership-step-grid span{color:#455661}
+body.experience-rebuild .detail-page[data-route="alpha"] .opening-media img,body.experience-rebuild .detail-page[data-route="app"] .opening-media img{height:auto;max-height:580px;object-fit:contain;transform:none;clip-path:none}
+body.experience-rebuild .detail-page[data-route="leadership"] .chapter-media img{object-fit:contain;background:#e8eeeb;transform:none;clip-path:none}
+body.experience-rebuild .detail-page .detail-closer .wide-wrap>div{border-color:#14212b40}
+@media(max-width:650px){body.experience-rebuild .mission-chapter h2{font-size:clamp(33px,9.5vw,44px);overflow-wrap:normal}body.experience-rebuild .mission-line{max-width:100%}body.experience-rebuild .watch-copy{padding:0 5vw 45px}}
+
+body.experience-rebuild .welcome-chapter{position:relative;overflow:clip}
+body.experience-rebuild .membership-steps .detail-number{color:#526675}
+body.experience-rebuild .watch-photo{min-height:0}
+body.experience-rebuild .visit-place{min-height:0}
+body.experience-rebuild .mission-chapter h2 span{color:#80909b}
+body.experience-rebuild .mission-chapter h2 span.is-emphasized{color:#f2f4f1}
+body.experience-rebuild .embed-shell{position:relative;min-height:390px;border:1px solid #ccd4d4;background:#e4ebe8;overflow:hidden}
+body.experience-rebuild .embed-shell iframe{width:100%;margin:0;min-height:390px;background:transparent;position:relative;z-index:1;opacity:0;transition:opacity .25s}
+body.experience-rebuild .embed-loaded iframe{opacity:1}
+body.experience-rebuild .embed-loading{position:absolute;inset:0;display:flex;flex-direction:column;gap:12px;align-items:center;justify-content:center;text-align:center;padding:25px;font-size:20px;color:#14212b}
+body.experience-rebuild .embed-loading small{font-size:13px;color:#455661}
+body.experience-rebuild .embed-loaded .embed-loading{display:none}
+body.experience-rebuild .welcome-worship img,body.experience-rebuild .generation-image img,body.experience-rebuild .watch-photo img,body.experience-rebuild .visit-place img{transform:translateY(var(--depth-y,0px)) scale(1.04);clip-path:inset(0 calc((1 - var(--depth-in,1))*4%))}
+body.experience-rebuild .detail-page[data-route="young-adults"] .narrative-section--visual .detail-layout{grid-template-columns:.8fr 1.2fr;align-items:center}
+body.experience-rebuild .detail-page[data-route="young-adults"] .narrative-section--visual .detail-heading{grid-column:1}
+body.experience-rebuild .detail-page[data-route="young-adults"] .narrative-section--visual .detail-body{grid-column:1}
+body.experience-rebuild .detail-page[data-route="young-adults"] .chapter-media{grid-column:2;grid-row:1/3}
+body.experience-rebuild .detail-page[data-route="young-adults"] .chapter-media img{height:auto;transform:none;clip-path:none}
+@media(max-width:650px){body.experience-rebuild .detail-page[data-route="young-adults"] .narrative-section--visual .detail-layout{display:block}}
+/* Outreach reverses the neighboring generations chapter's emphasis. */
+@media(min-width:651px){body.experience-rebuild .outreach-layout{grid-template-columns:.85fr 1.15fr}body.experience-rebuild .outreach-layout figure{grid-column:2;grid-row:1}body.experience-rebuild .outreach-layout>div{grid-column:1;grid-row:1}}
+@media(max-width:650px){body.experience-rebuild .route-opening--signal .opening-media{margin-top:28px}}

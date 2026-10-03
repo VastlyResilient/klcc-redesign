@@ -1,11 +1,17 @@
 # Kingdom Life Christian Church — redesign preview
 
-A company-specific, cinematic redesign for KLCC. The home intro has a scroll-controlled still fallback with staged live HTML typography; an approved film can be added to `assets/hero-film.mp4` and enabled through `body[data-film="ready"]` after visual QA. All 28 source pages have local routes and prerendered HTML. Live service, message library, calendar, and giving retain their necessary third-party provider integrations.
+A full-site KLCC redesign with 28 directly loadable, prerendered routes. The approved opening uses scroll-controlled authentic worship photography and staged live HTML lettering. Later chapters add reversible image framing, subtle depth and individually emphasized mission statements. There is no generated video installed in this build. An approved clip can be installed at `assets/hero-film.mp4` and enabled through `body[data-film="ready"]` after its separate quality gate.
+
+The full-journey composition draws on the studied Framer preview library: Kora's editorial ministry passages, Nord A's image/story rhythm, Tabfolio's indexed reading, Coorda's clear pathways, and Pactum/Soren's people-first treatment. Existing MotionSites and X-informed opening and icon decisions are preserved. Company photographs, graphic artwork and meaningful source text come from KLCC; third-party template imagery and fonts are not redistributed.
 
 ## Build and verification
 
-- `python3 scripts/build_routes.py && node scripts/prerender.mjs && python3 scripts/version_styles.py` regenerates the static routes and fingerprints the stylesheet URL on every page. Rerun `version_styles.py` after a CSS-only edit before publishing so an existing browser does not keep the previous visual treatment.
-- `node scripts/qa.mjs` verifies direct routes, responsive scroll states, menu interactions, and selected inner pages. Requires Playwright and Chrome.
-- Source-page text inventory: `content.json`. Styling and interactions: `styles.css`, `app.js`.
+1. `python3 scripts/build_routes.py` builds 27 inner route shells.
+2. `node scripts/prerender.mjs` renders all 28 pages, using the local preview at `http://127.0.0.1:4197/` by default.
+3. `python3 scripts/version_styles.py` fingerprints both stylesheets and the interaction script on every route. Run after any CSS or JS edit before publication.
+4. `node scripts/qa.mjs` checks the approved opening states and preserved program CTAs.
+5. `node scripts/experience-qa.mjs` checks every route at desktop/tablet/phone widths, complete inner-page prose, local actions, menus, biography disclosures, image motion and no-JS reading/navigation. Set `KLCC_BASE` for a deployed build.
 
-Images are from the official KLCC site. The generated film, if used, is illustrative and is not documentary footage of a KLCC service.
+Styling: `styles.css` (approved intro and legacy layout foundation), `experience.css` (full-journey composition and responsive contracts). Interactions: `app.js`. Source inventory: `content.json`. Original Young Adults artwork is downloaded at its 1920 × 1080 resolution. Live service, message library, calendar, giving and registration retain their real external provider integrations and direct fallback actions. Tests do not submit forms or verify payment processing.
+
+The working research, route map, screenshots and independent visual review are outside this public repository in the local `site-engine/research/klcc-framer-rebuild-2026-10-02/` evidence package. Phone-width browser checks do not constitute physical-device testing.

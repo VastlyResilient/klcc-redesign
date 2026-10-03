@@ -20,6 +20,11 @@ for route in routes:
     )
     if count != 1:
         raise RuntimeError(f"Expected one stylesheet link in {page}, found {count}")
+    for filename,attribute in [('experience.css','href'),('app.js','src')]:
+        fingerprint=hashlib.sha256((root/filename).read_bytes()).hexdigest()[:12]
+        updated,n=re.subn(rf'{attribute}="{re.escape(prefix)}{re.escape(filename)}(?:\?v=[^\"]+)?"', f'{attribute}="{prefix}{filename}?v={fingerprint}"',updated)
+        if n!=1: raise RuntimeError(f"Expected one {filename} reference in {page}, found {n}")
+    updated=updated.replace('#17112e','#14212b')
     page.write_text(updated)
 
 print(f"Versioned {len(routes)} stylesheet links: {version}")

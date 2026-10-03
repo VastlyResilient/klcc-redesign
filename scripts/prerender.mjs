@@ -10,9 +10,9 @@ const browser = await chromium.launch({headless:true,executablePath:'/Applicatio
 for(const route of Object.keys(content.pages)){
   const url=new URL((route==='/'?'':route.slice(1)+'/')+'?prerender=1',base).href;
   const page=await browser.newPage();
-  await page.goto(url);
+  await page.goto(url,{waitUntil:'domcontentloaded'});
   await page.locator('#app .site-header').waitFor();
-  const rendered=await page.locator('#app').innerHTML();
+  const rendered=(await page.locator('#app').innerHTML()).replace(/ inert=""/g,'').replace('id="menuPanel" aria-hidden="true"','id="menuPanel"').replace(/ tabindex="-1"/g,'');
   const file=path.join(root,route==='/'?'index.html':path.join(route.slice(1),'index.html'));
   let shell=fs.readFileSync(file,'utf8');
   shell=shell.replace(/<div id="app">[\s\S]*?<\/div>(?=\s*<script defer)/,`<div id="app">${rendered}</div>`);
