@@ -419,3 +419,80 @@ body.experience-rebuild .kids-stage-details h3{font-size:clamp(60px,7vw,100px);f
 body.experience-rebuild .has-chapter-motion .kids-stage-line strong:last-child{transform:translateX(calc((1 - var(--stop-progress,1))*-25px));}
 @media(max-width:650px){body.experience-rebuild .gathering-layout,body.experience-rebuild .kids-stage-details{display:block}body.experience-rebuild .gathering-layout h2{font-size:45px}body.experience-rebuild .gathering-layout p,body.experience-rebuild .kids-stage-details>p{font-size:18px}body.experience-rebuild .gathering-clock{margin:35px 0}body.experience-rebuild .gathering-clock h3{font-size:95px}body.experience-rebuild .kids-stage-line p{display:flex;flex-direction:column;gap:15px}body.experience-rebuild .kids-stage-line strong{font-size:62px}body.experience-rebuild .kids-stage-line h2{font-size:36px}body.experience-rebuild .kids-stage-details>div{margin-top:35px}}
 @media(prefers-reduced-motion:reduce){body.experience-rebuild .has-chapter-motion .gathering-clock h3,body.experience-rebuild .has-chapter-motion .kids-stage-line strong:last-child{transform:none;clip-path:none}}
+
+/* Windsor live/editor study, October 5: independent motion families, company-owned assets. */
+body.windsor-motion .windsor-word{display:inline-block;opacity:0;filter:blur(10px);transform:translateY(10px)}
+body.windsor-motion .windsor-word.word-ready{opacity:1;filter:none;transform:none}
+body.windsor-motion .rolling-label{position:relative;display:inline-block;overflow:clip;vertical-align:bottom;line-height:1.35}
+body.windsor-motion .rolling-label>span{display:block;transition:transform .55s cubic-bezier(.44,0,.56,1)}
+body.windsor-motion .rolling-label>span[aria-hidden]{position:absolute;inset:100% 0 auto}
+body.windsor-motion :is(a:hover,a:focus-visible,.group-row:hover) .rolling-label>span{transform:translateY(-100%)}
+body.windsor-motion .settling-card{perspective:1200px;opacity:1;transform:translateY(calc((1 - var(--card-settle,1))*90px)) rotateY(calc((1 - var(--card-settle,1))*-30deg));transition:none!important;transform-origin:left center}
+body.windsor-motion .settling-card:focus-within{opacity:1;transform:none}
+body.windsor-motion .windsor-step{opacity:calc(.35 + var(--windsor-step,1)*.65);transform:translateX(calc((1 - var(--windsor-step,1))*var(--step-side,1)*40px));transition:none}
+body.windsor-motion .windsor-step:focus-within{opacity:1;transform:none}
+body.windsor-motion .windsor-media{clip-path:inset(0 calc((1 - var(--media-open,1))*6%));transition:clip-path .08s linear}
+/* Graphics keep their entire frame; don't alter logos, lettering, or factual artwork. */
+body.windsor-motion :is(.route-opening--signal,[data-route="alpha"],[data-route="app"],[data-route="young-adults"],[data-route="baptism"],[data-route="courses"]) .windsor-media{clip-path:none}
+body.windsor-motion .windsor-timeline{position:relative}
+body.windsor-motion .windsor-timeline:before{content:'';position:absolute;left:3vw;top:0;bottom:0;width:1px;background:#14212b25;z-index:1;pointer-events:none}
+body.windsor-motion .windsor-timeline:after{content:'';position:absolute;left:3vw;top:0;bottom:0;width:2px;background:#658391;transform:scaleY(var(--timeline-progress,1));transform-origin:top;z-index:2;pointer-events:none}
+body.windsor-motion .timeline-entry .wide-wrap{transform:translateY(calc((1 - var(--entry-progress,1))*50px));opacity:calc(.35 + var(--entry-progress,1)*.65)}
+body.windsor-motion .church-image-fan{position:relative;width:min(850px,90vw);height:290px;margin:0 auto 65px;overflow:visible;border:0!important;display:block!important}
+body.windsor-motion .church-image-fan img{position:absolute;top:25px;left:50%;width:25%;height:210px;object-fit:cover;border:4px solid #f7f7f3;box-shadow:0 8px 24px #10232e17;transform:translateX(calc(-50% + (var(--fan-index) - 1.5)*(45px + var(--fan-progress,1)*135px))) translateY(calc((var(--fan-index) - 1.5)*(var(--fan-index) - 1.5)*var(--fan-progress,1)*18px)) rotate(calc((var(--fan-index) - 1.5)*var(--fan-progress,1)*7deg));will-change:transform}
+body.windsor-motion .menu-group>a{transition:color .2s,transform .45s cubic-bezier(.44,0,.56,1)}
+body.windsor-motion .menu-group>a:is(:hover,:focus-visible){transform:translateX(6px)}
+@media(min-width:1100px) and (min-height:700px){
+ body.windsor-motion .paths-chapter.windsor-pinned{height:220svh;padding:0;position:relative;overflow:visible}
+ body.windsor-motion .paths-chapter.windsor-pinned>.wide-wrap{position:sticky;top:82px;height:calc(100svh - 82px);display:flex;flex-direction:column;justify-content:center;gap:24px;padding:24px 0}
+ body.windsor-motion .windsor-pinned .chapter-heading{display:grid;grid-template-columns:1fr 1fr;gap:4px 7%;margin:0}
+ body.windsor-motion .windsor-pinned .chapter-heading>.eyebrow{grid-column:1/-1;margin:0}
+ body.windsor-motion .windsor-pinned .chapter-heading h2{font-size:clamp(40px,4vw,64px);margin:0}
+ body.windsor-motion .windsor-pinned .chapter-heading>p:last-child{align-self:end;font-size:17px;max-width:380px;margin:0}
+ body.windsor-motion .windsor-pinned .journey-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;margin:0;perspective:1200px}
+ body.windsor-motion .windsor-pinned .journey-card{min-height:300px;padding:24px 20px;gap:12px;display:flex;flex-direction:column}
+ body.windsor-motion .windsor-pinned .journey-card strong{font-size:30px;line-height:1.1;margin-top:14px}
+ body.windsor-motion .windsor-pinned .journey-card p{font-size:15px;line-height:1.45;margin:0}
+ body.windsor-motion .windsor-pinned .journey-icon{position:static;width:24px;height:24px}
+ body.windsor-motion .windsor-pinned .journey-index{font-size:10px}
+ body.windsor-motion .windsor-pinned .journey-action{margin-top:auto;font-size:9px;letter-spacing:.03em}
+ body.windsor-motion .windsor-pinned .journey-more{margin:0;padding-top:10px;font-size:10px}
+}
+@media(max-width:650px){
+ body.windsor-motion .settling-card{transform:translateY(calc((1 - var(--card-settle,1))*40px)) rotateY(calc((1 - var(--card-settle,1))*-12deg))}
+ body.windsor-motion .windsor-step{transform:translateX(calc((1 - var(--windsor-step,1))*var(--step-side,1)*18px))}
+ body.windsor-motion .windsor-timeline:before,body.windsor-motion .windsor-timeline:after{left:10px}
+ body.windsor-motion .church-image-fan{height:155px;margin-bottom:35px;width:88vw}
+ body.windsor-motion .church-image-fan img{height:110px;width:27%;border-width:2px;transform:translateX(calc(-50% + (var(--fan-index) - 1.5)*(18px + var(--fan-progress,1)*55px))) translateY(calc((var(--fan-index) - 1.5)*(var(--fan-index) - 1.5)*var(--fan-progress,1)*10px)) rotate(calc((var(--fan-index) - 1.5)*var(--fan-progress,1)*7deg))}
+}
+@media(prefers-reduced-motion:reduce){
+ body.windsor-motion .windsor-word{opacity:1!important;filter:none!important;transform:none!important}
+ body.windsor-motion :is(.settling-card,.windsor-step,.timeline-entry .wide-wrap){opacity:1!important;transform:none!important}
+ body.windsor-motion .rolling-label>span,body.windsor-motion .windsor-media{transition:none!important;clip-path:none}
+ body.windsor-motion .rolling-label>span[aria-hidden]{display:none}
+ body.windsor-motion .rolling-label>span{transform:none!important}
+}
+
+body.windsor-motion .windsor-pinned .journey-more{opacity:0;visibility:hidden;transition:opacity .2s}
+body.windsor-motion .windsor-pinned.invitations-ready .journey-more{opacity:1;visibility:visible}
+@supports (interpolate-size:allow-keywords){
+ body.windsor-motion .detail-page details{interpolate-size:allow-keywords}
+ body.windsor-motion .detail-page details::details-content{block-size:0;overflow:clip;transition:block-size .6s cubic-bezier(.44,0,.56,1),content-visibility .6s allow-discrete}
+ body.windsor-motion .detail-page details[open]::details-content{block-size:auto}
+}
+@media(prefers-reduced-motion:reduce){body.windsor-motion .detail-page details::details-content{transition:none!important}}
+body.windsor-motion .windsor-media{transform:scale(calc(.92 + var(--media-open,1)*.08));transform-origin:center;transition:clip-path .08s linear,transform .08s linear}
+body.windsor-motion :is(.route-opening--signal,[data-route="alpha"],[data-route="app"],[data-route="young-adults"],[data-route="baptism"],[data-route="courses"]) .windsor-media{transform:none}
+@media(prefers-reduced-motion:reduce){body.windsor-motion .windsor-media{transform:none;transition:none}}
+/* Windsor Why Choose Us: vertical scrolling carries a horizontal selection story. */
+@media(min-width:1100px) and (min-height:700px){
+ body.windsor-motion .detail-page .groups-directory.windsor-horizontal{height:calc(100svh + var(--group-count,5)*28svh);padding:0;position:relative;overflow:clip visible}
+ body.windsor-motion .windsor-horizontal>.wide-wrap{position:sticky;top:82px;height:calc(100svh - 82px);display:flex;flex-direction:column;justify-content:center;gap:24px;overflow:hidden;padding:30px 0}
+ body.windsor-motion .windsor-horizontal .groups-head h2{font-size:54px;margin:12px 0}
+ body.windsor-motion .windsor-horizontal .groups-head p{font-size:17px;max-width:none;margin:0}
+ body.windsor-motion .windsor-horizontal .groups-list{display:flex;gap:30px;transform:translateX(var(--directory-x,0px));margin:0;overflow:visible;flex-shrink:0}
+ body.windsor-motion .windsor-horizontal .group-row{display:flex;flex-direction:column;flex:0 0 42%;gap:16px;min-height:300px;padding:24px;border:1px solid #14212b30;background:#e9eeeb;opacity:1;transform:none}
+ body.windsor-motion .windsor-horizontal .group-row h3{font-size:36px;line-height:1.12;margin:0;max-width:100%}
+ body.windsor-motion .windsor-horizontal .group-row p{font-size:18px;line-height:1.6;margin:0}
+ body.windsor-motion .windsor-horizontal .groups-register{margin:0;align-self:flex-start;min-height:44px}
+}

@@ -330,7 +330,86 @@ function detail(page){
   return `${header()}${menu()}<main class="detail-page detail-page--${family}" data-route="${esc(route)}">${newHero(route,title,intro,category,heroLinks,facts)}${pageContents(cleaned)}${special}<div class="detail-content">${cleaned.map((section,index)=>sectionView(section,index,context)).join('')}</div><section class="detail-closer" data-closing-motion><div class="wide-wrap"><small>KEEP EXPLORING / KINGDOM LIFE</small><h2>${esc(closerLine)}</h2><div>${related.map(([label,slug])=>`<a href="${path(slug)}">${label} ↗</a>`).join('')}</div></div></section></main>${footer()}`;
 }
 
+// Windsor motion study: research/windsor-2026-10-05/KLCC-MOTION-MAP.md.
+// Runtime-only enhancement: static HTML always retains complete readable content.
+function windsorMotion(){
+ if(new URLSearchParams(location.search).has('prerender'))return;
+ const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+ const clamp=v=>Math.max(0,Math.min(1,v));
+ const ease=v=>v*v*(3-2*v);
+ const route=document.querySelector('.detail-page')?.dataset.route||'home';
+ document.body.classList.add('windsor-motion');
+ const headings=[...document.querySelectorAll('.opening-copy h1,.display-outline,.generation-copy h2,.chapter-heading h2,.detail-heading h2,.groups-head h2,.membership-steps h2,.kids-stage-line h2,.gathering-layout h2,.detail-section--age-paths h2,.founder-layout h2,.belief-chapter h2,.detail-closer h2,.outreach-layout h2,.watch-copy h2,.visit-copy h2')].filter(el=>!el.querySelector('.reading-word'));
+ // Solve the measured overdamped spring; normalize its last frame to a clean rest.
+ const k=210,c=100,m=1.6,disc=Math.sqrt(c*c-4*m*k);
+ const r1=(-c+disc)/(2*m),r2=(-c-disc)/(2*m);
+ const response=t=>1-(r2*Math.exp(r1*t)-r1*Math.exp(r2*t))/(r2-r1);
+ const final=response(1.65);
+ const springFrames=Array.from({length:56},(_,i)=>{const p=clamp(response(i/55*1.65)/final);return{opacity:p,filter:`blur(${10*(1-p)}px)`,transform:`translateY(${10*(1-p)}px)`,offset:i/55}});
+ const enterTitle=el=>{
+   if(el.dataset.windsorSeen)return;
+   el.dataset.windsorSeen='true';
+   el.querySelectorAll('.windsor-word').forEach((word,i)=>{
+     word.classList.add('word-ready');
+     if(!reduced.matches){const animation=word.animate(springFrames,{duration:1650,delay:i*50,fill:'both'});animation.finished.then(()=>animation.cancel()).catch(()=>{});}
+   });
+ };
+ const headingObserver=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting){enterTitle(e.target);headingObserver.unobserve(e.target)}}),{threshold:.12,rootMargin:'0px 0px -6% 0px'});
+ for(const title of headings){
+   const walker=document.createTreeWalker(title,NodeFilter.SHOW_TEXT);const nodes=[];while(walker.nextNode())nodes.push(walker.currentNode);
+   for(const node of nodes){const fragment=document.createDocumentFragment();node.textContent.split(/(\s+)/).forEach(word=>{if(!word)return;if(/\s/.test(word))fragment.append(document.createTextNode(word));else{const span=document.createElement('span');span.className='windsor-word';span.textContent=word;fragment.append(span)}});node.replaceWith(fragment)}
+   headingObserver.observe(title);
+ }
+ // Rolling titles keep their accessible name and their surrounding arrow untouched.
+ for(const link of document.querySelectorAll('.generation-links a,.detail-closer a,.group-row h3')){
+   const node=[...link.childNodes].find(n=>n.nodeType===Node.TEXT_NODE&&n.textContent.trim());if(!node)continue;
+   const label=node.textContent;const roll=document.createElement('span');roll.className='rolling-label';
+   const primary=document.createElement('span');primary.textContent=label;const duplicate=primary.cloneNode(true);duplicate.setAttribute('aria-hidden','true');roll.append(primary,duplicate);node.replaceWith(roll);
+ }
+ const pin=document.querySelector('.paths-chapter');
+ const cards=[...document.querySelectorAll('.journey-card')];
+ cards.forEach(card=>{card.removeAttribute('data-reveal');card.classList.add('seen','settling-card')});
+ const steps=[...document.querySelectorAll('.membership-step-grid>div,.age-paths>div,.people-list>details')];
+ steps.forEach((el,i)=>{el.classList.add('windsor-step');el.style.setProperty('--step-side',i%2?-1:1)});
+ const media=[...document.querySelectorAll('.opening-media,.chapter-media,.welcome-worship,.outreach-layout figure,.watch-photo,.founder-layout figure,.visit-place')];
+ for(const figure of media){if(!figure.querySelector('img'))continue;figure.classList.add('windsor-media');}
+ const story=document.querySelector('[data-route="our-story"] .detail-content');
+ if(story){story.classList.add('windsor-timeline');[...story.children].forEach(el=>el.classList.add('timeline-entry'))}
+ const fanHost=document.querySelector(route==='home'?'.visit-band':route==='our-story'?'.detail-closer':'.no-image-fan');
+ if(fanHost){
+   const fan=document.createElement('div');fan.className='church-image-fan';fan.setAttribute('aria-label','Scenes from Kingdom Life');
+   [['worship.jpg','The congregation in worship'],['community-pantry.jpg','Community outreach'],['founding-1991.jpg','An early church gathering'],['worship-stage.jpg','The worship team']].forEach(([src,alt],i)=>{const image=document.createElement('img');image.src=asset(src);image.alt=alt;image.loading='lazy';image.style.setProperty('--fan-index',i);fan.append(image)});
+   fanHost.prepend(fan);
+ }
+ const fans=[...document.querySelectorAll('.church-image-fan')];
+ const directory=document.querySelector('.groups-directory');
+ const directoryTrack=directory?.querySelector('.groups-list');
+ if(directory)directory.style.setProperty('--group-count',directoryTrack.children.length);
+
+ // Native details semantics remain intact. Opening grows first, then its copy arrives.
+ for(const details of document.querySelectorAll('.detail-page details')){
+   details.addEventListener('toggle',()=>{if(!details.open||reduced.matches)return;const body=[...details.children].filter(n=>n.tagName!=='SUMMARY');for(const el of body){el.animate([{opacity:0,transform:'translateY(12px)'},{opacity:1,transform:'translateY(0)'}],{duration:500,delay:120,easing:'cubic-bezier(.44,0,.56,1)',fill:'backwards'})}});
+ }
+ let frame=0;
+ function update(){
+   frame=0;const h=innerHeight,wide=innerWidth>=1100&&h>=700&&!reduced.matches;
+   pin?.classList.toggle('windsor-pinned',wide);
+   if(directory){directory.classList.toggle('windsor-horizontal',wide);const dr=directory.getBoundingClientRect();const dp=clamp((82-dr.top)/Math.max(1,dr.height-h+82));const distance=wide?Math.max(0,directoryTrack.scrollWidth-directoryTrack.clientWidth):0;directoryTrack.style.setProperty('--directory-x',`${(-distance*dp).toFixed(2)}px`)}
+   for(const title of headings){if(title.getBoundingClientRect().top<h*.9)enterTitle(title)}
+   if(pin){const r=pin.getBoundingClientRect();const progress=wide?clamp((82-r.top)/Math.max(1,r.height-h+82)):0;pin.classList.toggle('invitations-ready',!wide||progress>.83);
+     cards.forEach((card,i)=>{const cr=card.getBoundingClientRect();const v=reduced.matches?1:wide?ease(clamp((progress-i*.14)/.3)):ease(clamp((h*.94-cr.top)/(h*.36)));card.style.setProperty('--card-settle',v.toFixed(4));});
+   }
+   for(const el of steps){const r=el.getBoundingClientRect();const p=reduced.matches?1:ease(clamp((h*.95-r.top)/(h*.45)));el.style.setProperty('--windsor-step',p.toFixed(4))}
+   for(const el of media){const r=el.getBoundingClientRect();const p=reduced.matches?1:ease(clamp((h*.94-r.top)/(h*.68)));el.style.setProperty('--media-open',p.toFixed(4))}
+   if(story){const r=story.getBoundingClientRect();story.style.setProperty('--timeline-progress',clamp((h*.6-r.top)/r.height).toFixed(4));for(const el of story.children){const er=el.getBoundingClientRect();el.style.setProperty('--entry-progress',(reduced.matches?1:ease(clamp((h*.92-er.top)/(h*.5)))).toFixed(4))}}
+   for(const fan of fans){const r=fan.getBoundingClientRect();fan.style.setProperty('--fan-progress',(reduced.matches?1:ease(clamp((h-r.top)/(h*.75)))).toFixed(4))}
+ }
+ const request=()=>{if(!frame)frame=requestAnimationFrame(update)};
+ addEventListener('scroll',request,{passive:true});addEventListener('resize',request);reduced.addEventListener('change',request);update();
+}
+
 function activate(){
+  windsorMotion();
   const menuButton=document.getElementById('menuButton');
   const panel=document.getElementById('menuPanel');
   function toggle(open){menuButton.setAttribute('aria-expanded',String(open));menuButton.setAttribute('aria-label',open?'Close menu':'Open menu');panel.setAttribute('aria-hidden',String(!open));panel.inert=!open;document.body.classList.toggle('menu-open',open);if(open)panel.querySelector('a')?.focus();else menuButton.focus()}
