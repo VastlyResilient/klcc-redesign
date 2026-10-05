@@ -1,0 +1,965 @@
+{
+  "young-adults": {
+    "reference": "Agents",
+    "preview": "https://agents.framer.website/",
+    "opening": "agents",
+    "headline": "Growing side by side.",
+    "image": "worship.jpg",
+    "alt": "The Kingdom Life congregation worshipping together",
+    "intro": "Community for young adults in college and early career, with RED Night and RISE Night at the Youth Center.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 2,
+        "layout": "poster",
+        "tone": "night",
+        "image": "young-adults-red-night.jpg",
+        "alt": "Original RED Night gathering poster",
+        "caption": "Third Saturday \u00b7 7 PM \u00b7 Youth Center"
+      },
+      {
+        "index": 3,
+        "layout": "split",
+        "tone": "paper",
+        "image": "young-adults-rise-night.jpg",
+        "alt": "Original RISE Night gathering poster",
+        "caption": "Second and fourth Thursdays \u00b7 7:30 PM \u00b7 Youth Center"
+      },
+      {
+        "index": 4,
+        "layout": "statement",
+        "tone": "night"
+      }
+    ],
+    "close": {
+      "label": "Life Groups",
+      "title": "More ways to find community.",
+      "route": "life-groups"
+    },
+    "move": "Full-height imagery with a large lower heading, followed by an unequal image grid and small metadata.",
+    "motion": "Open as a bounded original-artwork feature with a lower heading; reveal the two event posters at unequal scale, each intact and each beside its own time and action. Settle imagery before metadata; reverse with native scrolling.",
+    "caption": ""
+  },
+  "youth": {
+    "reference": "Perform",
+    "preview": "https://perform.framer.website/",
+    "opening": "scene",
+    "headline": "Faith. Friends. Real community.",
+    "image": "worship-stage.jpg",
+    "alt": "The worship stage at Kingdom Life Christian Church",
+    "intro": "Elevate welcomes teens in seventh through twelfth grades. Youth services meet Wednesdays at the Youth Center.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "stack",
+        "tone": "white",
+        "image": "page/youth.jpg",
+        "alt": "Original Elevate ministry artwork",
+        "caption": "ELEVATE / ORIGINAL KLCC ARTWORK",
+        "images": [
+          "page/youth.jpg",
+          "worship-stage.jpg"
+        ],
+        "imageAlts": [
+          "Original Elevate ministry artwork",
+          "Worship at Kingdom Life"
+        ]
+      },
+      {
+        "index": 3,
+        "layout": "paired",
+        "tone": "paper"
+      },
+      {
+        "index": 2,
+        "layout": "statement",
+        "tone": "night"
+      },
+      {
+        "index": 4,
+        "layout": "reading",
+        "tone": "white"
+      }
+    ],
+    "close": {
+      "label": "Plan a Visit",
+      "title": "Find your way to Kingdom Life.",
+      "route": "new"
+    },
+    "move": "Three passages accompany a sticky three-image crossfade; subdued prose becomes emphasized and reverses on return.",
+    "motion": "Emphasize successive service, age-group and Scripture passages as the visitor advances. Keep the source texture as atmosphere; no invented three-photo sequence. Service facts and contact actions remain readable and static; reverse emphasis on return."
+  },
+  "kids": {
+    "reference": "Atoks",
+    "preview": "https://atoks.framer.website/",
+    "opening": "center",
+    "headline": "A place to learn, play and grow.",
+    "image": "page/kids.jpg",
+    "alt": "Bright multicolour source Kingdom Kids artwork",
+    "intro": "Kingdom Kids offers classes from six weeks old through sixth grade. Sunday classrooms open at 9:45 AM.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "paired",
+        "tone": "white",
+        "image": "faith-editorial.webp",
+        "alt": "Conceptual open-book artwork representing learning and growth",
+        "caption": "FAITH / GROWTH / DISCOVERY"
+      },
+      {
+        "index": 3,
+        "layout": "statement",
+        "tone": "paper"
+      },
+      {
+        "index": 2,
+        "layout": "split",
+        "tone": "white"
+      }
+    ],
+    "close": {
+      "label": "Plan a Visit",
+      "title": "Your family\u2019s first Sunday.",
+      "route": "new"
+    },
+    "move": "A centered hero object and limited, clearly separated factual detail.",
+    "motion": "Reveal the bounded source artwork object, then the complete age range, opening time and program description. The volunteer invitation follows as a distinct quieter chapter; artwork never covers reading."
+  },
+  "women": {
+    "reference": "Blissful",
+    "preview": "https://blissful.framer.website/",
+    "opening": "editorial",
+    "headline": "Grow in purpose. Connect in community.",
+    "image": "page/women.jpg",
+    "alt": "Pink source women\u2019s ministry artwork",
+    "intro": "Year-round events and women-only Life Groups create opportunities to connect and grow.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "paired",
+        "tone": "white",
+        "image": "worship.jpg",
+        "alt": "The Kingdom Life congregation",
+        "caption": "LIFE TOGETHER / KINGDOM LIFE"
+      },
+      {
+        "index": 2,
+        "layout": "timeline",
+        "tone": "paper"
+      },
+      {
+        "index": 3,
+        "layout": "statement",
+        "tone": "white"
+      }
+    ],
+    "close": {
+      "label": "Life Groups",
+      "title": "Find a women\u2019s Life Group.",
+      "route": "life-groups"
+    },
+    "move": "A small photograph expands into the hero, and inline photographs punctuate large prose.",
+    "motion": "Let the original pink artwork expand modestly inside its bounded stage, then settle before the purpose paragraph. Keep the calendar intact with generous type; omit inline documentary images because no verified women\u2019s ministry photographs are available."
+  },
+  "men": {
+    "reference": "Portfoliod",
+    "preview": "https://portfoliod.framer.website/",
+    "opening": "banner",
+    "headline": "Leading families. Building brothers.",
+    "image": "page/men.jpg",
+    "alt": "Blue-green source men\u2019s ministry artwork",
+    "intro": "Prayer, fellowship and discipleship help men mature in their walk with God and serve their families and community.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "split",
+        "tone": "white",
+        "image": "leadership.jpg",
+        "alt": "Kingdom Life leaders together on stage",
+        "caption": "KINGDOM LIFE / LEADERSHIP"
+      },
+      {
+        "index": 3,
+        "layout": "directory",
+        "tone": "paper"
+      },
+      {
+        "index": 2,
+        "layout": "timeline",
+        "tone": "white"
+      },
+      {
+        "index": 4,
+        "layout": "steps",
+        "tone": "paper"
+      },
+      {
+        "index": 6,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 5,
+        "layout": "statement",
+        "tone": "night"
+      }
+    ],
+    "close": {
+      "label": "Life Groups",
+      "title": "Keep growing together.",
+      "route": "life-groups"
+    },
+    "move": "Large chapter words, varied large and small images, and ruled service entries.",
+    "motion": "Use chapter-scale type for purpose and ruled entries for recurring gatherings. Distinguish the annual schedule, Every Man A Warrior and Men\u2019s Advance; preserve their complete actions. The original texture stays subordinate to the reading."
+  },
+  "new": {
+    "reference": "Royal",
+    "preview": "https://royaltemplate.framer.website/",
+    "opening": "scene",
+    "headline": "Come as you are.",
+    "image": "worship.jpg",
+    "alt": "Kingdom Life congregation gathered for worship",
+    "intro": "Whether you are new to church or new to faith, you are welcome at Kingdom Life Christian Church.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 5,
+        "layout": "steps",
+        "tone": "paper",
+        "image": "story.jpg",
+        "alt": "The Cathedral and parking in Milford",
+        "caption": "YOUR SUNDAY DESTINATION"
+      },
+      {
+        "index": 2,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 3,
+        "layout": "paired",
+        "tone": "paper"
+      },
+      {
+        "index": 4,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 6,
+        "layout": "paired",
+        "tone": "paper",
+        "image": "worship.jpg",
+        "alt": "Worship at Kingdom Life",
+        "caption": "THE KINGDOM LIFE CONGREGATION"
+      },
+      {
+        "index": 7,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 8,
+        "layout": "statement",
+        "tone": "night"
+      }
+    ],
+    "close": {
+      "label": "Kingdom Kids",
+      "title": "A Sunday welcome for your children.",
+      "route": "kids"
+    },
+    "move": "A full image with a place heading at lower left, followed by alternating portrait and copy chapters.",
+    "motion": "Use the authentic congregation scene with a lower-left welcome heading, then shift into a complete visitor-arrival sequence. Settled chapters follow visitor questions; do not alternate arbitrary photographs through parking, childcare and support facts."
+  },
+  "our-story": {
+    "reference": "NetFolio",
+    "preview": "https://net-studio.framer.website/",
+    "opening": "archive",
+    "headline": "A vision carried through generations.",
+    "image": "founding-1991.jpg",
+    "alt": "An early Kingdom Life gathering",
+    "intro": "Founded in 1991 by Bishop Jay Ramirez and about 40 people, Kingdom Life continues its intergenerational, intercultural mission.",
+    "sections": [
+      {
+        "index": 2,
+        "layout": "timeline",
+        "tone": "paper",
+        "image": "founding-1991.jpg",
+        "alt": "Early Kingdom Life gathering from the church archive",
+        "caption": "Kingdom Life\u2019s beginnings \u00b7 1991"
+      },
+      {
+        "index": 1,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 3,
+        "layout": "split",
+        "tone": "paper",
+        "image": "worship-stage.jpg",
+        "alt": "Kingdom Life worship stage"
+      },
+      {
+        "index": 4,
+        "layout": "reading",
+        "tone": "white"
+      }
+    ],
+    "close": {
+      "label": "Leadership",
+      "title": "Meet the team continuing the story.",
+      "route": "leadership"
+    },
+    "move": "A wide photograph and three-column metadata resolve into label-left, bounded-copy reading.",
+    "motion": "Introduce the founders as a portrait, then give the founding archive a wide contained stage with the 1991 caption. Chapter labels lead bounded biography/history copy, preserving all paragraphs. Image reveals settle before the reader reaches long text."
+  },
+  "leadership": {
+    "reference": "Design & Co",
+    "preview": "https://design-co.framer.website/",
+    "opening": "portrait",
+    "headline": "Care. Guidance. Leadership.",
+    "image": "leadership.jpg",
+    "alt": "Kingdom Life leadership team on the church stage",
+    "intro": "KLCC\u2019s ordained pastors care for, guide and lead the Kingdom Life community.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 2,
+        "layout": "split",
+        "tone": "paper",
+        "image": "founders-portrait.jpg",
+        "alt": "Bishop Jay and Jeannine Ramirez"
+      },
+      {
+        "index": 3,
+        "layout": "statement",
+        "tone": "night"
+      },
+      {
+        "index": 4,
+        "layout": "directory",
+        "tone": "white"
+      },
+      {
+        "index": 5,
+        "layout": "directory",
+        "tone": "paper"
+      }
+    ],
+    "close": {
+      "label": "Our Story",
+      "title": "The story behind our community.",
+      "route": "our-story"
+    },
+    "move": "Large photography pairs with service copy; portraits accompany individual biographies.",
+    "motion": "Settle the authentic leadership image and introduction, pair the founders portrait with their complete biography, then reveal name/role/biography entries. Individual portraits are not invented; shared team photography is labelled honestly."
+  },
+  "mission": {
+    "reference": "Rivelle",
+    "preview": "https://rivelle.framer.media/",
+    "opening": "object",
+    "headline": "Proclaim and demonstrate.",
+    "image": "page/mission.jpg",
+    "alt": "Source mission artwork showing a lens held toward a mountain landscape",
+    "intro": "Our mission is to proclaim and demonstrate the gospel of the Kingdom and the rule of Christ.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "stack",
+        "tone": "white"
+      },
+      {
+        "index": 2,
+        "layout": "statement",
+        "tone": "night"
+      }
+    ],
+    "close": {
+      "label": "Serve",
+      "title": "Put purpose into action.",
+      "route": "serve"
+    },
+    "move": "A sharp foreground image appears over a blurred full-frame duplicate of the same photograph.",
+    "motion": "Keep the church-supplied lens illustration sharp inside a bounded stage, with any atmospheric duplicate below the reading layer. It is source artwork, not a photo of KLCC activity. Mission and vision unfold as distinct text entries, followed by Scripture."
+  },
+  "life-groups": {
+    "reference": "Design & Co",
+    "preview": "https://design-co.framer.website/",
+    "opening": "banner",
+    "headline": "Life is better together.",
+    "image": "worship.jpg",
+    "alt": "The Kingdom Life congregation",
+    "intro": "Twelve-week trimesters offer opportunities for friendship and belonging, with groups meeting online or in person.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 3,
+        "layout": "directory",
+        "tone": "paper"
+      },
+      {
+        "index": 2,
+        "layout": "paired",
+        "tone": "white",
+        "image": "klcc-life-groups-original.jpg",
+        "alt": "Original KLCC Life Groups artwork",
+        "caption": "LIFE GROUPS / ORIGINAL KLCC ARTWORK"
+      },
+      {
+        "index": 4,
+        "layout": "statement",
+        "tone": "night"
+      }
+    ],
+    "close": {
+      "label": "Membership",
+      "title": "Take the next step in community.",
+      "route": "membership"
+    },
+    "move": "Large photographic pairs accompany service explanations and portrait biographies.",
+    "motion": "Adapt the explanatory hierarchy to complete group descriptions and their audience. The supplied Life Groups artwork provides a bounded identity cue; no photograph is assigned to a demographic without evidence. Reveal directory entries in order, then registration."
+  },
+  "membership": {
+    "reference": "Brightedge",
+    "preview": "https://brightedge.framer.website/",
+    "opening": "editorial",
+    "headline": "Join community. Discover purpose.",
+    "image": "page/membership.jpg",
+    "alt": "Purple source membership artwork",
+    "intro": "The membership class introduces KLCC\u2019s history, beliefs and culture, and ways to connect and serve.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 2,
+        "layout": "steps",
+        "tone": "paper",
+        "image": "worship.jpg",
+        "alt": "The Kingdom Life congregation",
+        "caption": "THE KINGDOM LIFE CONGREGATION"
+      }
+    ],
+    "close": {
+      "label": "Serve",
+      "title": "Use your gifts to love people.",
+      "route": "serve"
+    },
+    "move": "Overlapping project cards and a numbered process line beside a photograph.",
+    "motion": "Translate the numbered process into Join, Community, Discover and Purpose, keeping every supporting sentence. Class timing and registration precede the process. Use the authentic purple artwork as a restrained visual anchor rather than pretending it is a project photograph."
+  },
+  "alpha": {
+    "reference": "Presenta",
+    "preview": "https://presentatemplate.framer.website/",
+    "opening": "object",
+    "headline": "Explore life, faith and meaning.",
+    "image": "page/alpha.jpg",
+    "alt": "Red source Alpha artwork",
+    "intro": "Alpha offers twelve weeks of open conversation about life\u2019s big questions, with Wednesday sessions at the Cathedral and virtual options.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 2,
+        "layout": "statement",
+        "tone": "paper"
+      }
+    ],
+    "close": {
+      "label": "Wednesday Night",
+      "title": "Explore more discipleship courses.",
+      "route": "courses"
+    },
+    "move": "A split introduction, paired images and metadata, and Challenge/Solution/Results chapters.",
+    "motion": "Split the original red Alpha artwork from clear introductory text. Keep the visitor\u2019s questions, twelve-week format, time, virtual options and two actions together in a complete reading chapter. Do not introduce unsupported outcome claims or synthetic proof photographs."
+  },
+  "courses": {
+    "reference": "Fragments",
+    "preview": "https://fragments.framer.website/",
+    "opening": "center",
+    "headline": "Go deeper. Grow stronger.",
+    "image": "page/courses.jpg",
+    "alt": "Original source image of a person holding a Bible",
+    "intro": "Wednesday night discipleship brings Bible-centered teaching into everyday life, with seasonal courses and practical next steps.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "directory",
+        "tone": "white"
+      },
+      {
+        "index": 2,
+        "layout": "reading",
+        "tone": "paper"
+      },
+      {
+        "index": 3,
+        "layout": "paired",
+        "tone": "white",
+        "image": "faith-editorial.webp",
+        "alt": "Conceptual editorial artwork of an open book",
+        "caption": "LEARNING / CONCEPTUAL ARTWORK"
+      },
+      {
+        "index": 4,
+        "layout": "reading",
+        "tone": "paper"
+      }
+    ],
+    "close": {
+      "label": "Alpha",
+      "title": "A place for life\u2019s big questions.",
+      "route": "alpha"
+    },
+    "move": "A broad visual gives way to narrow groups and three-column illustrations.",
+    "motion": "Use the source Bible image as a broad introductory artifact, then narrow into seasonal course groups. Each course keeps its title, description, dates and registration; mobile stacks complete items. Reveal chapters by season without moving dates out of view."
+  },
+  "serve": {
+    "reference": "Outreach",
+    "preview": "https://outreachtemplate.framer.website/",
+    "opening": "scene",
+    "headline": "YOUR GIFTS.\nOUR COMMUNITY.",
+    "image": "community-pantry.jpg",
+    "alt": "Kingdom Life community food outreach",
+    "intro": "Bring the gifts and skills God has given you to a ministry team at Kingdom Life.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "split",
+        "tone": "white",
+        "image": "community-pantry.jpg",
+        "alt": "Kingdom Life community food outreach",
+        "caption": "SERVING OUR COMMUNITY"
+      },
+      {
+        "index": 2,
+        "layout": "statement",
+        "tone": "night"
+      }
+    ],
+    "close": {
+      "label": "Explore community",
+      "title": "Find your people.",
+      "route": "life-groups"
+    },
+    "move": "Atmospheric opening resolves into a grounded outreach feature, followed by a quiet Scripture statement.",
+    "motion": "The outreach image opens as copy settles; team invitation arrives before the signup action. Scripture reveals by complete thought; reverse remains readable."
+  },
+  "believe": {
+    "reference": "MVNStudio",
+    "preview": "https://mvnstudio.framer.website/",
+    "opening": "center",
+    "headline": "I HAVE\nDECIDED.",
+    "image": "faith-editorial.webp",
+    "alt": "Conceptual editorial artwork of an open book and olive branch",
+    "intro": "A first commitment or a fresh start: let us know, and find your next step in following Jesus.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 2,
+        "layout": "paired",
+        "tone": "paper",
+        "image": "worship.jpg",
+        "alt": "Kingdom Life congregation gathered for worship"
+      },
+      {
+        "index": 3,
+        "layout": "split",
+        "tone": "white",
+        "image": "klcc-alpha-original.jpg",
+        "alt": "Original KLCC Alpha program artwork",
+        "caption": "ALPHA / EXPLORE LIFE, FAITH & MEANING"
+      },
+      {
+        "index": 4,
+        "layout": "statement",
+        "tone": "night"
+      }
+    ],
+    "close": {
+      "label": "Keep growing",
+      "title": "Explore Alpha.",
+      "route": "alpha"
+    },
+    "move": "One clear central commitment leads to distinct next-step principles and the original Alpha artwork.",
+    "motion": "Commitment copy arrives in complete lines, next-step choices resolve in sequence, and Alpha artwork is revealed without cutting its lettering. No motion hides actions."
+  },
+  "baptism": {
+    "reference": "Arix",
+    "preview": "https://arix.framer.website/",
+    "opening": "poster",
+    "headline": "YOUR NEXT\nSTEP.",
+    "image": "page/baptism.jpg",
+    "alt": "Ocean imagery from KLCC\u2019s Baptism page",
+    "intro": "Make your decision to follow Jesus public through water baptism.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "split",
+        "tone": "white",
+        "image": "page/baptism.jpg",
+        "alt": "Original KLCC baptism page ocean artwork",
+        "caption": "BAPTISM / ORIGINAL KLCC ARTWORK"
+      },
+      {
+        "index": 2,
+        "layout": "steps",
+        "tone": "night"
+      }
+    ],
+    "close": {
+      "label": "Keep growing",
+      "title": "Find a Life Group.",
+      "route": "life-groups"
+    },
+    "move": "Source ocean imagery yields to white preparation copy and a dark numbered class-and-ceremony chapter.",
+    "motion": "Image aperture opens gently; preparation settles before the November class and baptism dates. The date chapter stays visible and its registration control remains stable."
+  },
+  "beliefs": {
+    "reference": "Nouva",
+    "preview": "https://nouva-template.framer.website/",
+    "opening": "object",
+    "headline": "WHAT WE\nBELIEVE.",
+    "image": "faith-editorial.webp",
+    "alt": "Conceptual editorial artwork of an open book and olive branch",
+    "intro": "Read the convictions that shape Kingdom Life\u2019s faith, mission, and life together.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "stack",
+        "tone": "white",
+        "image": "page/beliefs.jpg",
+        "alt": "Open Bible imagery from KLCC\u2019s What We Believe page"
+      }
+    ],
+    "close": {
+      "label": "Our mission",
+      "title": "See how we live it.",
+      "route": "mission"
+    },
+    "move": "A single Bible image supports the complete nine-statement creed in a readable, numbered sequence.",
+    "motion": "Restrained image reveal and passage-by-passage emphasis follow reading position; text is never dependent on a timed reveal. On mobile the image precedes the full creed."
+  },
+  "prayer": {
+    "reference": "ConsultPro",
+    "preview": "https://consult-pro.framer.website/",
+    "opening": "care",
+    "headline": "COME,\nHOLY SPIRIT.",
+    "image": "page/prayer.jpg",
+    "alt": "Abstract colored light artwork from KLCC\u2019s Prayer page",
+    "intro": "Join us in prayer, ask us to pray with you, or share what God is doing in your life.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "split",
+        "tone": "white",
+        "image": "worship.jpg",
+        "alt": "The Kingdom Life congregation in worship",
+        "caption": "GATHERED IN WORSHIP"
+      },
+      {
+        "index": 2,
+        "layout": "statement",
+        "tone": "night"
+      },
+      {
+        "index": 3,
+        "layout": "paired",
+        "tone": "paper"
+      }
+    ],
+    "close": {
+      "label": "Community",
+      "title": "Share life with others.",
+      "route": "life-groups"
+    },
+    "move": "Gathering facts form a ruled directory before Scripture and two clearly separate request/story actions.",
+    "motion": "Schedule entries settle by row and remain static; the verse arrives as a complete thought, then request and testimony groups enter independently. External forms remain stable."
+  },
+  "pastoral-care": {
+    "reference": "ConsultPro",
+    "preview": "https://consult-pro.framer.website/",
+    "opening": "editorial",
+    "headline": "CARE FOR\nYOUR JOURNEY.",
+    "image": "page/pastoral-care.jpg",
+    "alt": "Abstract color artwork from KLCC\u2019s Pastoral Care page",
+    "intro": "Find pastoral and scriptural guidance through the challenges you are facing.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "paired",
+        "tone": "white",
+        "image": "faith-editorial.webp",
+        "alt": "Conceptual open-book and olive-branch artwork",
+        "caption": "A QUIET SPACE / CONCEPTUAL ARTWORK"
+      },
+      {
+        "index": 2,
+        "layout": "statement",
+        "tone": "night"
+      }
+    ],
+    "close": {
+      "label": "Prayer",
+      "title": "Let us pray with you.",
+      "route": "prayer"
+    },
+    "move": "Calm guidance and expectations share one readable consultation chapter before the compassion Scripture.",
+    "motion": "The guidance heading and body settle gently; availability and counseling expectations remain visible beside the request. The closing Scripture has a slow, complete-line reveal."
+  },
+  "watch-live": {
+    "reference": "Lou",
+    "preview": "https://louperez.framer.website/",
+    "opening": "scene",
+    "headline": "ONE CHURCH.\nWHEREVER YOU ARE.",
+    "image": "worship-stage.jpg",
+    "alt": "KLCC worship team leading a service",
+    "intro": "Join Kingdom Life\u2019s Sunday service online at 10 AM Eastern.",
+    "sections": [],
+    "close": {
+      "label": "Watch again",
+      "title": "Previous messages.",
+      "route": "previous-messages"
+    },
+    "move": "A worship photograph with service metadata leads directly to the live player and its external fallback.",
+    "motion": "The source photograph sharpens into focus and metadata arrives next. Only the surrounding heading moves; player, loading state, controls, and fallback link remain fixed in normal document flow."
+  },
+  "previous-messages": {
+    "reference": "Slab",
+    "preview": "https://slabtemplate.framer.website/",
+    "opening": "library",
+    "headline": "A MESSAGE\nFOR YOUR WEEK.",
+    "image": "page/previous-messages.jpg",
+    "alt": "Abstract source artwork from KLCC\u2019s Previous Messages page",
+    "intro": "Return to KLCC teaching through the message library or YouTube archive.",
+    "sections": [],
+    "close": {
+      "label": "Join us Sunday",
+      "title": "Watch the next service.",
+      "route": "watch-live"
+    },
+    "move": "Compact archive orientation precedes the genuine message library; no invented local thumbnails or filters.",
+    "motion": "Archive heading and metadata receive a small coordinated arrival. Embedded archive contents and controls receive no scaling, clipping, sticky pinning, or stagger."
+  },
+  "subsplash-media": {
+    "reference": "Slab",
+    "preview": "https://slabtemplate.framer.website/",
+    "opening": "library",
+    "headline": "KEEP LISTENING.\nKEEP LEARNING.",
+    "image": "worship-stage.jpg",
+    "alt": "KLCC worship team leading a service",
+    "intro": "Explore the message library by series, topics, speakers, Scripture, and Kids Online.",
+    "sections": [
+      {
+        "index": 0,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 1,
+        "layout": "directory",
+        "tone": "paper"
+      }
+    ],
+    "close": {
+      "label": "Join us Sunday",
+      "title": "Watch live.",
+      "route": "watch-live"
+    },
+    "move": "Recent message title and dated speaker metadata remain together above a ruled library orientation.",
+    "motion": "The recent-message brief and library labels settle in sequence; the official library remains a stable interaction surface. Do not animate iframe contents or imply local filtering."
+  },
+  "calendar": {
+    "reference": "Nexflow",
+    "preview": "https://nexflow.framer.media/",
+    "opening": "utility",
+    "headline": "LIFE AT\nKINGDOM LIFE.",
+    "image": "page/calendar.jpg",
+    "alt": "Abstract colored light artwork from KLCC\u2019s Calendar page",
+    "intro": "Find upcoming services, classes, and community gatherings in KLCC\u2019s calendar.",
+    "sections": [],
+    "close": {
+      "label": "Midweek",
+      "title": "Explore Wednesday courses.",
+      "route": "courses"
+    },
+    "move": "Strict aligned heading and quiet event surface give the actual calendar immediate priority.",
+    "motion": "Heading and context use a restrained line arrival; embedded calendar and event interactions remain still and immediately usable. No horizontal scroll or delayed access."
+  },
+  "give": {
+    "reference": "Nexflow",
+    "preview": "https://nexflow.framer.media/",
+    "opening": "utility",
+    "headline": "GENEROSITY\nWITH PURPOSE.",
+    "image": "page/give.jpg",
+    "alt": "Giving-related imagery from KLCC\u2019s original Giving page",
+    "intro": "Explore the ways to give and the purpose behind generosity at Kingdom Life.",
+    "sections": [
+      {
+        "index": 0,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 1,
+        "layout": "directory",
+        "tone": "paper"
+      },
+      {
+        "index": 2,
+        "layout": "statement",
+        "tone": "night"
+      },
+      {
+        "index": 3,
+        "layout": "split",
+        "tone": "white",
+        "image": "community-pantry.jpg",
+        "alt": "Kingdom Life community food outreach",
+        "caption": "COMMUNITY / KINGDOM LIFE"
+      },
+      {
+        "index": 4,
+        "layout": "reading",
+        "tone": "paper"
+      }
+    ],
+    "close": {
+      "label": "Serve",
+      "title": "Give your time and gifts.",
+      "route": "serve"
+    },
+    "move": "Secure giving precedes an aligned three-way directory, then Scripture, community context, and the full giving rationale.",
+    "motion": "Ways to Give settles row by row; secure giving form stays still. Community imagery has a gentle aperture reveal while financial teaching remains calm and readable."
+  },
+  "app": {
+    "reference": "Drospecta",
+    "preview": "https://drospecta.framer.website/",
+    "opening": "object",
+    "headline": "TAKE KINGDOM\nLIFE WITH YOU.",
+    "image": "page/app.jpg",
+    "alt": "Phone imagery from KLCC\u2019s original App page; not a KLCC interface preview",
+    "intro": "Connect to live messages, worship, events, social media, and more.",
+    "sections": [
+      {
+        "index": 0,
+        "layout": "paired",
+        "tone": "white",
+        "image": "page/app.jpg",
+        "alt": "Phone imagery from KLCC\u2019s original App page; not a KLCC interface preview",
+        "caption": "STAY CONNECTED / KLCC APP"
+      }
+    ],
+    "close": {
+      "label": "Online worship",
+      "title": "Watch live.",
+      "route": "watch-live"
+    },
+    "move": "Dark split introduction uses KLCC\u2019s existing phone imagery as an illustrative object; source feature copy remains intact.",
+    "motion": "Illustrative phone image resolves separately from the text. Feature descriptions arrive together, with no invented app screens, live UI, download status, or usage statistics."
+  },
+  "weather-procedures": {
+    "reference": "ConsultPro",
+    "preview": "https://consult-pro.framer.website/",
+    "opening": "editorial",
+    "headline": "STAY\nINFORMED.",
+    "image": "page/weather-procedures.jpg",
+    "alt": "Weather texture from KLCC\u2019s original Weather Procedures page",
+    "intro": "Check KLCC updates when severe weather may affect a service, and use discretion when traveling.",
+    "sections": [
+      {
+        "index": 1,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 2,
+        "layout": "directory",
+        "tone": "paper"
+      },
+      {
+        "index": 3,
+        "layout": "split",
+        "tone": "white",
+        "image": "page/weather-procedures.jpg",
+        "alt": "Weather texture from KLCC\u2019s original Weather Procedures page",
+        "caption": "WEATHER PROCEDURES / KLCC"
+      }
+    ],
+    "close": {
+      "label": "Stay connected",
+      "title": "Get KLCC updates.",
+      "route": "app"
+    },
+    "move": "Service policy comes first, followed by notification channels and the genuine snow-removal signup.",
+    "motion": "Policy copy settles quickly; notification rows receive a small stagger, while all channel links remain available. Source texture has no drifting weather particles or simulated church imagery."
+  },
+  "easter": {
+    "reference": "Presenta",
+    "preview": "https://presentatemplate.framer.website/",
+    "opening": "editorial",
+    "headline": "EASTER 2026.\nTHE ARCHIVE.",
+    "image": "page/easter.jpg",
+    "alt": "Abstract dawn artwork from KLCC\u2019s Easter Sunday page",
+    "intro": "A record of the April 5, 2026 Easter service. Plan a current Sunday visit for upcoming service information.",
+    "sections": [
+      {
+        "index": 0,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 1,
+        "layout": "poster",
+        "tone": "paper",
+        "image": "page/easter.jpg",
+        "alt": "Abstract dawn artwork from KLCC\u2019s Easter Sunday page",
+        "caption": "EASTER SUNDAY / APRIL 5, 2026"
+      },
+      {
+        "index": 2,
+        "layout": "reading",
+        "tone": "white"
+      },
+      {
+        "index": 3,
+        "layout": "directory",
+        "tone": "paper"
+      }
+    ],
+    "close": {
+      "label": "This Sunday",
+      "title": "Plan a current visit.",
+      "route": "new"
+    },
+    "move": "A split archive heading and compact dated overview lead to source artwork, then grouped visit expectations and current connection paths.",
+    "motion": "The split archive title and date settle separately; original expectations remain grouped as readable question passages. Any disclosure is stable and never timed; current visit links remain available."
+  }
+}
