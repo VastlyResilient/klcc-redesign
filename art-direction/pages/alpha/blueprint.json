@@ -427,7 +427,7 @@
     "implementation": "src/motion/scenes/alpha.ts",
     "runtime": "src/motion/scroll-detail.ts",
     "evidence": "art-direction/qa/scroll-expansion/",
-    "status": "Implemented; incremental review pending",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
     "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
   }
 }

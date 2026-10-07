@@ -1,0 +1,881 @@
+[
+  {
+    "route": "calendar",
+    "width": 1440,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-calendar-context-0",
+        "start": -376.1093622460937,
+        "end": 127.89063775390628
+      },
+      {
+        "id": "detail-calendar-reading-0",
+        "start": -116.78126621093747,
+        "end": 387.2187337890625
+      },
+      {
+        "id": "detail-calendar-reading-1",
+        "start": 108.546875,
+        "end": 612.546875
+      },
+      {
+        "id": "detail-calendar-reading-2",
+        "start": 333.875,
+        "end": 837.875
+      },
+      {
+        "id": "detail-calendar-reading-3",
+        "start": 559.203125,
+        "end": 1063.203125
+      },
+      {
+        "id": "detail-calendar-reading-4",
+        "start": 784.53125,
+        "end": 1288.53125
+      },
+      {
+        "id": "detail-calendar-reading-5",
+        "start": 1009.859375,
+        "end": 1513.859375
+      }
+    ],
+    "details": 7,
+    "motion": [
+      {
+        "id": "detail-calendar-context-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px 3.53081px",
+            "opacity": "0.975926",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 3.53081px",
+            "opacity": "0.975926",
+            "filter": "none"
+          },
+          {
+            "y": 128,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 3.5308px",
+            "opacity": "0.975926",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px 12.0934px",
+            "opacity": "0.870428",
+            "filter": "none"
+          },
+          {
+            "y": 135,
+            "translate": "0px 7.00911px",
+            "opacity": "0.924902",
+            "filter": "none"
+          },
+          {
+            "y": 387,
+            "translate": "0px 7.9096e-06px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 12.0934px",
+            "opacity": "0.870428",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-1",
+        "states": [
+          {
+            "y": 109,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 361,
+            "translate": "0px 6.98112px",
+            "opacity": "0.925202",
+            "filter": "none"
+          },
+          {
+            "y": 613,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 109,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-2",
+        "states": [
+          {
+            "y": 334,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 586,
+            "translate": "0px 6.99479px",
+            "opacity": "0.925056",
+            "filter": "none"
+          },
+          {
+            "y": 838,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 334,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-3",
+        "states": [
+          {
+            "y": 559,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 811,
+            "translate": "0px 7.00846px",
+            "opacity": "0.924909",
+            "filter": "none"
+          },
+          {
+            "y": 1063,
+            "translate": "0px 6.82057e-06px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 559,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-4",
+        "states": [
+          {
+            "y": 785,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1037,
+            "translate": "0px 6.98047px",
+            "opacity": "0.925209",
+            "filter": "none"
+          },
+          {
+            "y": 1289,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 785,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-5",
+        "states": [
+          {
+            "y": 1010,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1262,
+            "translate": "0px 6.99414px",
+            "opacity": "0.925063",
+            "filter": "none"
+          },
+          {
+            "y": 1514,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1010,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-calendar-context-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-2",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-3",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-4",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-5",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  },
+  {
+    "route": "calendar",
+    "width": 1024,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-calendar-context-0",
+        "start": -342.0156134765625,
+        "end": 161.98438652343748
+      },
+      {
+        "id": "detail-calendar-reading-0",
+        "start": -55.500023828124995,
+        "end": 448.499976171875
+      },
+      {
+        "id": "detail-calendar-reading-1",
+        "start": 197.015625,
+        "end": 701.015625
+      },
+      {
+        "id": "detail-calendar-reading-2",
+        "start": 422.34375,
+        "end": 926.34375
+      },
+      {
+        "id": "detail-calendar-reading-3",
+        "start": 647.671875,
+        "end": 1151.671875
+      },
+      {
+        "id": "detail-calendar-reading-4",
+        "start": 873,
+        "end": 1377
+      },
+      {
+        "id": "detail-calendar-reading-5",
+        "start": 1098.328125,
+        "end": 1602.328125
+      }
+    ],
+    "details": 7,
+    "motion": [
+      {
+        "id": "detail-calendar-context-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px 5.3568px",
+            "opacity": "0.963476",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 5.3568px",
+            "opacity": "0.963476",
+            "filter": "none"
+          },
+          {
+            "y": 162,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 5.3568px",
+            "opacity": "0.963476",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px 13.5281px",
+            "opacity": "0.855056",
+            "filter": "none"
+          },
+          {
+            "y": 196,
+            "translate": "0px 7.02083px",
+            "opacity": "0.924777",
+            "filter": "none"
+          },
+          {
+            "y": 448,
+            "translate": "0px 4.13078e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 13.5281px",
+            "opacity": "0.855056",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-1",
+        "states": [
+          {
+            "y": 197,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 449,
+            "translate": "0px 7.00065px",
+            "opacity": "0.924993",
+            "filter": "none"
+          },
+          {
+            "y": 701,
+            "translate": "0px 4.04324e-08px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 197,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-2",
+        "states": [
+          {
+            "y": 422,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 674,
+            "translate": "0px 7.01432px",
+            "opacity": "0.924847",
+            "filter": "none"
+          },
+          {
+            "y": 926,
+            "translate": "0px 1.95296e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 422,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-3",
+        "states": [
+          {
+            "y": 648,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 900,
+            "translate": "0px 6.98633px",
+            "opacity": "0.925146",
+            "filter": "none"
+          },
+          {
+            "y": 1152,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 648,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-4",
+        "states": [
+          {
+            "y": 873,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1125,
+            "translate": "0px 7px",
+            "opacity": "0.925",
+            "filter": "none"
+          },
+          {
+            "y": 1377,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 873,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-5",
+        "states": [
+          {
+            "y": 1098,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1350,
+            "translate": "0px 7.01367px",
+            "opacity": "0.924854",
+            "filter": "none"
+          },
+          {
+            "y": 1602,
+            "translate": "0px 1.77957e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1098,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-calendar-context-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-2",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-3",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-4",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-5",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  },
+  {
+    "route": "calendar",
+    "width": 390,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-calendar-context-0",
+        "start": -331.8124726953125,
+        "end": 172.18752730468748
+      },
+      {
+        "id": "detail-calendar-reading-0",
+        "start": 90.390625,
+        "end": 594.390625
+      },
+      {
+        "id": "detail-calendar-reading-1",
+        "start": 340.40625,
+        "end": 844.40625
+      },
+      {
+        "id": "detail-calendar-reading-2",
+        "start": 590.421875,
+        "end": 1094.421875
+      },
+      {
+        "id": "detail-calendar-reading-3",
+        "start": 840.4375,
+        "end": 1344.4375
+      },
+      {
+        "id": "detail-calendar-reading-4",
+        "start": 1090.453125,
+        "end": 1594.453125
+      },
+      {
+        "id": "detail-calendar-reading-5",
+        "start": 1340.46875,
+        "end": 1844.46875
+      }
+    ],
+    "details": 7,
+    "motion": [
+      {
+        "id": "detail-calendar-context-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px 2.97446px",
+            "opacity": "0.959439",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 2.97446px",
+            "opacity": "0.959439",
+            "filter": "none"
+          },
+          {
+            "y": 172,
+            "translate": "0px 4.56566e-06px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 2.97446px",
+            "opacity": "0.959439",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-0",
+        "states": [
+          {
+            "y": 90,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 342,
+            "translate": "0px 3.50814px",
+            "opacity": "0.924826",
+            "filter": "none"
+          },
+          {
+            "y": 594,
+            "translate": "0px 1.26078e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 90,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-1",
+        "states": [
+          {
+            "y": 340,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 592,
+            "translate": "0px 3.50846px",
+            "opacity": "0.924819",
+            "filter": "none"
+          },
+          {
+            "y": 844,
+            "translate": "0px 1.36361e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 340,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-2",
+        "states": [
+          {
+            "y": 590,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 842,
+            "translate": "0px 3.50879px",
+            "opacity": "0.924812",
+            "filter": "none"
+          },
+          {
+            "y": 1094,
+            "translate": "0px 1.47046e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 590,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-3",
+        "states": [
+          {
+            "y": 840,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1092,
+            "translate": "0px 3.50911px",
+            "opacity": "0.924805",
+            "filter": "none"
+          },
+          {
+            "y": 1344,
+            "translate": "0px 1.58157e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 840,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-4",
+        "states": [
+          {
+            "y": 1090,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1342,
+            "translate": "0px 3.50944px",
+            "opacity": "0.924798",
+            "filter": "none"
+          },
+          {
+            "y": 1594,
+            "translate": "0px 1.69649e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1090,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-calendar-reading-5",
+        "states": [
+          {
+            "y": 1340,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1592,
+            "translate": "0px 3.50977px",
+            "opacity": "0.924791",
+            "filter": "none"
+          },
+          {
+            "y": 1844,
+            "translate": "0px 1.81544e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1340,
+            "translate": "0px 7px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-calendar-context-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-2",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-3",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-4",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-calendar-reading-5",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  }
+]

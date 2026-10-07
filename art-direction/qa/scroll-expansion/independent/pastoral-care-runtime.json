@@ -1,0 +1,401 @@
+[
+  {
+    "route": "pastoral-care",
+    "width": 1440,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-care-picture-0",
+        "start": -282.90625,
+        "end": 131.09375
+      },
+      {
+        "id": "detail-care-expectation-0",
+        "start": -229.51558994140623,
+        "end": 292.48441005859377
+      },
+      {
+        "id": "detail-care-comfort-0",
+        "start": 7.84375,
+        "end": 637.84375
+      }
+    ],
+    "details": 3,
+    "motion": [
+      {
+        "id": "detail-care-picture-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(0.474609px)"
+          },
+          {
+            "y": 0,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(0.474609px)"
+          },
+          {
+            "y": 131,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(3.07629e-07px)"
+          },
+          {
+            "y": 0,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(0.474609px)"
+          }
+        ]
+      },
+      {
+        "id": "detail-care-expectation-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px 16.5209px",
+            "opacity": "0.911495",
+            "filter": "none"
+          },
+          {
+            "y": 31,
+            "translate": "0px 14.039px",
+            "opacity": "0.924791",
+            "filter": "none"
+          },
+          {
+            "y": 292,
+            "translate": "0px 7.22811e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 16.5209px",
+            "opacity": "0.911495",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-care-comfort-0",
+        "states": [
+          {
+            "y": 8,
+            "translate": "0px 36px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 323,
+            "translate": "0px 17.9866px",
+            "opacity": "0.925056",
+            "filter": "none"
+          },
+          {
+            "y": 638,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 8,
+            "translate": "0px 36px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-care-picture-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-care-expectation-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-care-comfort-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  },
+  {
+    "route": "pastoral-care",
+    "width": 1024,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-care-picture-0",
+        "start": -211.625,
+        "end": 202.375
+      },
+      {
+        "id": "detail-care-expectation-0",
+        "start": -158.23438847656246,
+        "end": 363.76561152343754
+      },
+      {
+        "id": "detail-care-comfort-0",
+        "start": 140.3125,
+        "end": 770.3125
+      }
+    ],
+    "details": 3,
+    "motion": [
+      {
+        "id": "detail-care-picture-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(0.966491px)"
+          },
+          {
+            "y": 0,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(0.966491px)"
+          },
+          {
+            "y": 202,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(4.91984e-06px)"
+          },
+          {
+            "y": 0,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(0.966491px)"
+          }
+        ]
+      },
+      {
+        "id": "detail-care-expectation-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px 21.8412px",
+            "opacity": "0.882994",
+            "filter": "none"
+          },
+          {
+            "y": 103,
+            "translate": "0px 13.9811px",
+            "opacity": "0.925101",
+            "filter": "none"
+          },
+          {
+            "y": 364,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 21.8412px",
+            "opacity": "0.882994",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-care-comfort-0",
+        "states": [
+          {
+            "y": 140,
+            "translate": "0px 36px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 455,
+            "translate": "0px 18.0268px",
+            "opacity": "0.924888",
+            "filter": "none"
+          },
+          {
+            "y": 770,
+            "translate": "0px 2.65626e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 140,
+            "translate": "0px 36px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-care-picture-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-care-expectation-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-care-comfort-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  },
+  {
+    "route": "pastoral-care",
+    "width": 390,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-care-picture-0",
+        "start": 201.765625,
+        "end": 615.765625
+      },
+      {
+        "id": "detail-care-expectation-0",
+        "start": 255.15625,
+        "end": 777.15625
+      },
+      {
+        "id": "detail-care-comfort-0",
+        "start": 645.484375,
+        "end": 1275.484375
+      }
+    ],
+    "details": 3,
+    "motion": [
+      {
+        "id": "detail-care-picture-0",
+        "states": [
+          {
+            "y": 202,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(0.999999px)"
+          },
+          {
+            "y": 409,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(0.499151px)"
+          },
+          {
+            "y": 616,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(0px)"
+          },
+          {
+            "y": 202,
+            "translate": "none",
+            "opacity": "1",
+            "filter": "blur(0.999999px)"
+          }
+        ]
+      },
+      {
+        "id": "detail-care-expectation-0",
+        "states": [
+          {
+            "y": 255,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 516,
+            "translate": "0px 7.00629px",
+            "opacity": "0.924933",
+            "filter": "none"
+          },
+          {
+            "y": 777,
+            "translate": "0px 3.76323e-06px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 255,
+            "translate": "0px 14px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-care-comfort-0",
+        "states": [
+          {
+            "y": 645,
+            "translate": "0px 18px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 960,
+            "translate": "0px 9.02076px",
+            "opacity": "0.924827",
+            "filter": "none"
+          },
+          {
+            "y": 1275,
+            "translate": "0px 3.19054e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 645,
+            "translate": "0px 18px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-care-picture-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-care-expectation-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-care-comfort-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  }
+]

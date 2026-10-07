@@ -1,0 +1,401 @@
+[
+  {
+    "route": "weather-procedures",
+    "width": 1440,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-weather-picture-0",
+        "start": -691,
+        "end": -187
+      },
+      {
+        "id": "detail-weather-volunteer-0",
+        "start": 670.375,
+        "end": 1174.375
+      },
+      {
+        "id": "detail-weather-volunteer-1",
+        "start": 778.375,
+        "end": 1282.375
+      }
+    ],
+    "details": 3,
+    "motion": [
+      {
+        "id": "detail-weather-picture-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-weather-volunteer-0",
+        "states": [
+          {
+            "y": 670,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 922,
+            "translate": "0px 11.0246px",
+            "opacity": "0.924833",
+            "filter": "none"
+          },
+          {
+            "y": 1174,
+            "translate": "0px 3.65195e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 670,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-weather-volunteer-1",
+        "states": [
+          {
+            "y": 778,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1030,
+            "translate": "0px 11.0246px",
+            "opacity": "0.924833",
+            "filter": "none"
+          },
+          {
+            "y": 1282,
+            "translate": "0px 3.65195e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 778,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-weather-picture-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-weather-volunteer-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-weather-volunteer-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  },
+  {
+    "route": "weather-procedures",
+    "width": 1024,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-weather-picture-0",
+        "start": -691,
+        "end": -187
+      },
+      {
+        "id": "detail-weather-volunteer-0",
+        "start": 670.375,
+        "end": 1174.375
+      },
+      {
+        "id": "detail-weather-volunteer-1",
+        "start": 778.375,
+        "end": 1282.375
+      }
+    ],
+    "details": 3,
+    "motion": [
+      {
+        "id": "detail-weather-picture-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-weather-volunteer-0",
+        "states": [
+          {
+            "y": 670,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 922,
+            "translate": "0px 11.0246px",
+            "opacity": "0.924833",
+            "filter": "none"
+          },
+          {
+            "y": 1174,
+            "translate": "0px 3.65195e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 670,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-weather-volunteer-1",
+        "states": [
+          {
+            "y": 778,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1030,
+            "translate": "0px 11.0246px",
+            "opacity": "0.924833",
+            "filter": "none"
+          },
+          {
+            "y": 1282,
+            "translate": "0px 3.65195e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 778,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-weather-picture-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-weather-volunteer-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-weather-volunteer-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  },
+  {
+    "route": "weather-procedures",
+    "width": 390,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-weather-picture-0",
+        "start": -293.1406127929688,
+        "end": 210.8593872070312
+      },
+      {
+        "id": "detail-weather-volunteer-0",
+        "start": 918.671875,
+        "end": 1422.671875
+      },
+      {
+        "id": "detail-weather-volunteer-1",
+        "start": 1124.171875,
+        "end": 1628.171875
+      }
+    ],
+    "details": 3,
+    "motion": [
+      {
+        "id": "detail-weather-picture-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px 4.54375px",
+            "opacity": "0.962135",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 4.54375px",
+            "opacity": "0.962135",
+            "filter": "none"
+          },
+          {
+            "y": 211,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px 4.54375px",
+            "opacity": "0.962135",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-weather-volunteer-0",
+        "states": [
+          {
+            "y": 919,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1171,
+            "translate": "0px 5.48926px",
+            "opacity": "0.925147",
+            "filter": "none"
+          },
+          {
+            "y": 1423,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 919,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-weather-volunteer-1",
+        "states": [
+          {
+            "y": 1124,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1376,
+            "translate": "0px 5.50563px",
+            "opacity": "0.924923",
+            "filter": "none"
+          },
+          {
+            "y": 1628,
+            "translate": "0px 3.83711e-06px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1124,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-weather-picture-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-weather-volunteer-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-weather-volunteer-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  }
+]

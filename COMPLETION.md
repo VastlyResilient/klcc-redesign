@@ -1,3 +1,11 @@
+# Latest increment: interactive inner-page scrolling
+
+The 27 content routes now have additional native-scroll responses. Existing homepage motion is unchanged. Independent motion-integration review passed 81 viewport cases, with 243 screenshots and 27 visually inspected boards. All 291 registered detail-scene instances were sampled forward and backward; reduced motion and no-JavaScript checks passed. See [review](art-direction/qa/scroll-expansion/independent/REVIEW.md) and [source/adaptation plan](art-direction/qa/scroll-expansion/PLAN.md).
+
+This increment does not waive the historical strict geometry and universal differentiation conditions below. Prior fidelity records describe their captured baseline, not automatic approval of later changes.
+
+---
+
 # KLCC repair report
 
 Updated 2026-10-07T20:07:58.451903+00:00.
