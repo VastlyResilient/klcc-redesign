@@ -109,7 +109,7 @@
       "comparison": null,
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/kids.json",
-        "reviewed_at": "2026-10-07T20:01:48.046251+00:00"
+        "reviewed_at": "2026-10-07T20:09:58.359Z"
       },
       "owner_feedback": null,
       "corrected": null
@@ -160,7 +160,7 @@
           "selectors": [
             ".kids-next-art figure"
           ],
-          "source_settings": "Source observed vertical translations900\u2192669\u2192182\u2192-20px around next-project; exact curve unknown",
+          "source_settings": "Source observed vertical translations900→669→182→-20px around next-project; exact curve unknown",
           "implementation_values": "y=clamp(0,(stage.top-.2*viewportHeight)*.28,160px), native scroll; no pin or auto-navigation",
           "reverse": "Translation reverses with scroll; essential copy and signup remain static",
           "mobile": "Hold at700px and below",
@@ -193,7 +193,7 @@
       "comparison": null,
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/kids.json",
-        "reviewed_at": "2026-10-07T20:01:48.046251+00:00"
+        "reviewed_at": "2026-10-07T20:09:58.359Z"
       },
       "owner_feedback": null,
       "corrected": null
@@ -266,7 +266,7 @@
         "selectors": [
           ".kids-next-art figure"
         ],
-        "source_settings": "Source observed vertical translations900\u2192669\u2192182\u2192-20px around next-project; exact curve unknown",
+        "source_settings": "Source observed vertical translations900→669→182→-20px around next-project; exact curve unknown",
         "implementation_values": "y=clamp(0,(stage.top-.2*viewportHeight)*.28,160px), native scroll; no pin or auto-navigation",
         "reverse": "Translation reverses with scroll; essential copy and signup remain static",
         "mobile": "Hold at700px and below",

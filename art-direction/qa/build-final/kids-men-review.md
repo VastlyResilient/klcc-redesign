@@ -9,3 +9,7 @@ Independent review caught prohibited Men body-character splitting before final c
 Raw structural acceptance is not established: source region aliases must resolve to real measured boundaries, Men study includes image+explanation while its selected section-2 is text-only, and full Men opening lengths differ materially from source reading/credentials. Kids bounded next-project movement is an explicit adaptation, not exact source editor settings. Static H1s still collide in the universal heading-axis gate.
 
 15 section/viewport10-dimension rubrics, comparisons and exact evidence paths: kids-men-review.json. Actual motion/control/geometry: kids-men-evidence/observations.json; contrast.json. Earlier packets and global failures untouched.
+
+## Narrow Motion Inspector follow-up
+
+Reviewed 2026-10-07T20:09:58.359Z. PASS for registration only: desktop/tablet inspector seeks0/.5/1/.5/0 reproduce159.95/79.87/.07/79.87/159.95px, matching original native motion. At700px and390px, no scene registered and all sampled states Hold (none/opacity1). Reduced motion removes registration and transform, with no hidden essential content. Source SHA256 9f2f5fcfa0cb833517aa249e5303099c14339e22c4d581a26f612aabf0e9526a. Evidence kids-men-evidence/kids-inspector-followup.json. Prior full review preserved; geometry/provenance/global limits remain, no source edited.

@@ -139,6 +139,11 @@
       "id": "D-PREVIEW-20261007",
       "decision": "Publish all 30 routes under /preview/ while retaining current production root.",
       "reason": "User requests a complete inspectable website. Independent section reviews pass; strict geometry and universal heading-axis gates remain open and must not be silently waived. No owner Accepted status assigned."
+    },
+    {
+      "id": "D-PUBLISH-20261007",
+      "decision": "Published isolated preview subtree at main commit d3a7b58 from source e0f1a08.",
+      "reason": "All 30 routes present; original main root files unchanged. Final full-contract source geometry gates remain open, documented as review build."
     }
   ]
 }

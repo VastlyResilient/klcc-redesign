@@ -1,6 +1,6 @@
 {
   "reviewer": "repair_practical independent reviewer",
-  "reviewed_at": "2026-10-07T20:01:48.046251+00:00",
+  "reviewed_at": "2026-10-07T20:09:58.359Z",
   "status": "Blocked",
   "visual_review_status": "Fidelity-reviewed",
   "accepted": false,
@@ -381,5 +381,16 @@
     "Kids title/intro+art translation is bounded adaptation of large source next-project sequence, not exact editor timing or a complete source pin. Preserve that limitation.",
     "Pairwise heading-axis uniqueness is not cleared: both H1s remain static, while observed secondary mechanisms differ."
   ],
-  "anti_sameness": "Targeted prior New/Kids and Men/Leadership opening interchangeability resolved by actual hierarchy/media order, not labels or palette. This is not all-site anti-sameness acceptance."
+  "anti_sameness": "Targeted prior New/Kids and Men/Leadership opening interchangeability resolved by actual hierarchy/media order, not labels or palette. This is not all-site anti-sameness acceptance.",
+  "previous_visual_reviewed_at": "2026-10-07T20:01:48.046251+00:00",
+  "inspector_followup": {
+    "status": "Pass",
+    "reviewer": "repair_practical independent inspector-only follow-up",
+    "reviewed_at": "2026-10-07T20:09:58.359Z",
+    "source_sha256": "9f2f5fcfa0cb833517aa249e5303099c14339e22c4d581a26f612aabf0e9526a",
+    "source": "src/motion/scenes/kids.ts",
+    "evidence": "art-direction/qa/build-final/kids-men-evidence/kids-inspector-followup.json",
+    "scope": "Only exact registered native bounds sampled. No visual reapproval, source edits or geometry waiver.",
+    "result": "1440/1024 p0/.5/1/reverse.5/reverse0 =159.95/79.87/.07/79.87/159.95px. At700 and390 no registeredscene, allstates transformnone/opacity1. Reducedallwidths sceneMapempty, transformnone, hiddencontent0."
+  }
 }

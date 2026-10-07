@@ -61,7 +61,7 @@
   "sections": [
     {
       "id": "men-opening",
-      "title": "Men\u2019s Ministry",
+      "title": "Men’s Ministry",
       "visitor_task": "Compare recurring gatherings, current dates and discipleship opportunities.",
       "critical_answer_visible_without_animation": true,
       "reference_section": {
@@ -100,8 +100,8 @@
           "selectors": [
             ".men-mission [data-clarity]"
           ],
-          "source_settings": "Lou held-scroll probe opacity .429\u2192.944\u2192.999\u21921; timed after entry, not reversible; source character splitting intentionally rejected under BodySplitText prohibition",
-          "implementation_values": "Readable .55\u21921 opacity on whole semantic paragraph;1700ms ease-out;threshold .25. No BodySplitText, no character spans.",
+          "source_settings": "Lou held-scroll probe opacity .429→.944→.999→1; timed after entry, not reversible; source character splitting intentionally rejected under BodySplitText prohibition",
+          "implementation_values": "Readable .55→1 opacity on whole semantic paragraph;1700ms ease-out;threshold .25. No BodySplitText, no character spans.",
           "reverse": "Completed text stays fully legible on reverse",
           "reduced_motion": "No animations; full semantic passage and schedules visible"
         },
@@ -127,7 +127,7 @@
       "comparison": null,
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/men.json",
-        "reviewed_at": "2026-10-07T20:01:48.046251+00:00"
+        "reviewed_at": "2026-10-07T20:09:58.359Z"
       },
       "owner_feedback": null,
       "corrected": null
@@ -286,15 +286,15 @@
       "comparison": null,
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/men.json",
-        "reviewed_at": "2026-10-07T20:01:48.046251+00:00"
+        "reviewed_at": "2026-10-07T20:09:58.359Z"
       },
       "owner_feedback": null,
       "corrected": null
     },
     {
       "id": "men-calendar",
-      "title": "Men\u2019s Advance",
-      "visitor_task": "Read men\u2019s advance and find its relevant action.",
+      "title": "Men’s Advance",
+      "visitor_task": "Read men’s advance and find its relevant action.",
       "critical_answer_visible_without_animation": true,
       "reference_section": {
         "template": "slab",
@@ -355,7 +355,7 @@
       "comparison": null,
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/men.json",
-        "reviewed_at": "2026-10-07T20:01:48.046251+00:00"
+        "reviewed_at": "2026-10-07T20:09:58.359Z"
       },
       "owner_feedback": null,
       "corrected": null
@@ -437,8 +437,8 @@
         "selectors": [
           ".men-mission [data-clarity]"
         ],
-        "source_settings": "Lou held-scroll probe opacity .429\u2192.944\u2192.999\u21921; timed after entry, not reversible; source character splitting intentionally rejected under BodySplitText prohibition",
-        "implementation_values": "Readable .55\u21921 opacity on whole semantic paragraph;1700ms ease-out;threshold .25. No BodySplitText, no character spans.",
+        "source_settings": "Lou held-scroll probe opacity .429→.944→.999→1; timed after entry, not reversible; source character splitting intentionally rejected under BodySplitText prohibition",
+        "implementation_values": "Readable .55→1 opacity on whole semantic paragraph;1700ms ease-out;threshold .25. No BodySplitText, no character spans.",
         "reverse": "Completed text stays fully legible on reverse",
         "reduced_motion": "No animations; full semantic passage and schedules visible"
       }

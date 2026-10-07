@@ -16,6 +16,10 @@ Updated 2026-10-07T20:07:58.451903+00:00.
 - Rebuilt Kids around parent logistics, Men around weekly reading and meeting credentials, Women around gathering records, and Give around real provider actions. Fresh reports: `art-direction/qa/build-final/`.
 - Added truthful Hold/static motion checks and review import validation. A changing class name or a hidden element is not evidence of animation.
 
+## Public delivery
+
+All 30 routes are available at https://vastlyresilient.github.io/klcc-redesign/preview/. GitHub Pages deployment `d3a7b58` succeeded. The existing production root is unchanged. Public HTTP checks and 12 desktop/phone browser cases passed; see [public verification](art-direction/qa/preview-public.json). This review publication does not waive the remaining G6 conditions.
+
 ## Evidence
 
 - Latest task-specific composition reviews: [Give](art-direction/qa/build-final/give-review.json), [Kids and Men](art-direction/qa/build-final/kids-men-review.json), [Women](art-direction/qa/build-final/women-review.json).
