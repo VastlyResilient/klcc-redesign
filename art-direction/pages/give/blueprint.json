@@ -25,9 +25,9 @@
         "template": "royal",
         "route": "/contact",
         "dossier": "art-direction/references/deep/royal/contact/dossier.md",
-        "composition": "Quiet legalentitytitle and immediate secureprovideraction with boundedactualart.",
-        "sequence": "Hold / native document progression. Giving controls Hold. Slab proof image is an intact factual asset in document flow; it is not a chapter sequence.",
-        "landmark": "section-0"
+        "landmark": "section-0",
+        "composition": "One practical heading followed by sparse actual channels on the left and dominant provider-action field on the right.",
+        "sequence": "Hold; payment controls and required instructions stay immediately usable."
       },
       "company_content": {
         "copy": [
@@ -39,7 +39,7 @@
         "media": []
       },
       "reconstruction": {
-        "layout": "Quiet legalentitytitle and immediate secureprovideraction with boundedactualart.",
+        "layout": "Royal Contact relation split into two semantic sections: heading, then two-column actual channels/provider action. Phone places the provider action before alternatives.",
         "motion": {
           "mechanism": "Hold",
           "values": {
@@ -52,10 +52,10 @@
       },
       "deviations": [
         {
-          "reference": "Commercial forms/project fields",
-          "conflict": "Church visitor tasks and actual provider destinations",
-          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
-          "test": "content and destinationledgerdiff"
+          "reference": "Royal editable contact form",
+          "conflict": "KLCC donation processing must remain with its real provider; no fabricated card fields or transaction behavior.",
+          "adaptation": "Provider purpose, direct secure launch, fallback instruction and optional existing embedded form occupy the real action field. No artificial height added to resemble source form.",
+          "test": "Independent responsive composition and source/action preservation; actual payments not submitted."
         }
       ],
       "status": {
@@ -67,7 +67,7 @@
       },
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/give.json",
-        "reviewed_at": "2026-10-07T09:23:28.298Z"
+        "reviewed_at": "2026-10-07T19:56:37.737036+00:00"
       }
     },
     {
@@ -75,13 +75,12 @@
       "visitor_task": "Choose a giving method without pressure or animation delays.",
       "critical_answer_visible_without_animation": true,
       "reference_section": {
-        "template": "slab",
-        "route": "/projects/hydra",
-        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-        "composition": "Left label and one continuous right reading column, matching observed Slab Brief relationship.",
-        "sequence": "Hold / native document progression. Giving controls Hold. Slab proof image is an intact factual asset in document flow; it is not a chapter sequence.",
-        "landmark": "brief",
-        "state": "forward-002"
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "landmark": "section-0",
+        "composition": "One practical heading followed by sparse actual channels on the left and dominant provider-action field on the right.",
+        "sequence": "Hold; payment controls and required instructions stay immediately usable."
       },
       "company_content": {
         "copy": [
@@ -96,7 +95,7 @@
         "media": []
       },
       "reconstruction": {
-        "layout": "34% label,58% stacked reading column,8% gap; mobile onecolumn",
+        "layout": "Royal Contact relation split into two semantic sections: heading, then two-column actual channels/provider action. Phone places the provider action before alternatives.",
         "motion": {
           "mechanism": "Hold",
           "values": {
@@ -109,16 +108,10 @@
       },
       "deviations": [
         {
-          "reference": "Commercial forms/project fields",
-          "conflict": "Church visitor tasks and actual provider destinations",
-          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
-          "test": "content and destinationledgerdiff"
-        },
-        {
-          "reference": "Slab project brief",
-          "conflict": "Church logistics have several actionable channels",
-          "adaptation": "Keep leftlabel/rightreading relationship; real channels become orderedparagraphs with stablelinks, not3colcards",
-          "test": "Threewidthcomparison afterindependentreviewcorrection"
+          "reference": "Royal editable contact form",
+          "conflict": "KLCC donation processing must remain with its real provider; no fabricated card fields or transaction behavior.",
+          "adaptation": "Provider purpose, direct secure launch, fallback instruction and optional existing embedded form occupy the real action field. No artificial height added to resemble source form.",
+          "test": "Independent responsive composition and source/action preservation; actual payments not submitted."
         }
       ],
       "status": {
@@ -130,7 +123,7 @@
       },
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/give.json",
-        "reviewed_at": "2026-10-07T09:23:28.298Z"
+        "reviewed_at": "2026-10-07T19:56:37.737036+00:00"
       }
     },
     {
@@ -185,7 +178,7 @@
       },
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/give.json",
-        "reviewed_at": "2026-10-07T09:23:28.298Z"
+        "reviewed_at": "2026-10-07T19:56:37.737036+00:00"
       }
     },
     {
@@ -240,10 +233,11 @@
       },
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/give.json",
-        "reviewed_at": "2026-10-07T09:23:28.298Z"
+        "reviewed_at": "2026-10-07T19:56:37.737036+00:00"
       }
     }
   ],
   "repair_review_note": "Composition repaired 2026-10-07; historical fidelity record unchanged. Requires independent fresh judgment, not author approval.",
-  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred"
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "updated_at": "2026-10-07T19:50:54.467449+00:00"
 }

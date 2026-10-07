@@ -2,8 +2,8 @@
   "route": "kids",
   "reference": {
     "template": "royal",
-    "route": "/about",
-    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "route": "/contact",
+    "dossier": "art-direction/references/deep/royal/contact/dossier.md",
     "mode": "B",
     "donors": [
       "lou",
@@ -29,15 +29,9 @@
   "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
   "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
   "signature": {
-    "id": "kids-frame",
-    "dominant_verb": "Frame",
-    "structural_idea": "Parent-first practical proof strip beneath source-art typography",
-    "axes": {
-      "unit": "content-specific block/image",
-      "vector": "Hold pending observed scene contract",
-      "driver": "native scroll",
-      "frame": "route-owned composition"
-    }
+    "id": "kids-parent-arrival",
+    "dominant_verb": "Orient",
+    "structural_idea": "Immediate practical contact hierarchy then separate volunteer continuation"
   },
   "heading_arrival": {
     "unit": "block",
@@ -64,12 +58,12 @@
       "critical_answer_visible_without_animation": true,
       "reference_section": {
         "template": "royal",
-        "route": "/about",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
-        "landmark": "hero",
-        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "landmark": "section-0",
+        "state": "opening-settled",
+        "composition": "Asymmetric contact identity and factual channels left; lower right complete explanation. Subordinate campus orientation image follows right copy.",
+        "selection_reason": "Parent must find ages, Sunday timing and check-in immediately; broad photo hero duplicated New."
       },
       "company_content": {
         "copy": [
@@ -84,18 +78,17 @@
         "ci:kids.s1.b0"
       ],
       "reconstruction": {
-        "layout": "2026-10-07 repair; inspect src/pages/kids.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
+        "layout": "2026-10-07 distinct opening revision; see preconstruction decision in plan.md.",
         "ground": "ink",
         "motion": {
-          "mechanism": "Hold in native document flow",
+          "mechanism": "Hold / native document progression",
           "selectors": [],
           "source_settings": "Exact editor settings unknown",
-          "implementation_values": "No route-owned motion on this section",
-          "heading": "Static readable HTML",
-          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
+          "implementation_values": "All text and actions visible by default",
+          "reverse": "Native flow"
         },
         "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
-        "mobile_rewrite": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information.",
+        "mobile_rewrite": "Title, ages,9:45 AM and check-in link precede complete learning description and small campus context image.",
         "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
       },
       "deviations": [
@@ -116,7 +109,7 @@
       "comparison": null,
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/kids.json",
-        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+        "reviewed_at": "2026-10-07T20:01:48.046251+00:00"
       },
       "owner_feedback": null,
       "corrected": null
@@ -130,17 +123,18 @@
         "template": "slab",
         "route": "/projects/hydra",
         "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-        "landmark": "section-2",
-        "state": "forward-004",
-        "composition": "Authentic artwork before left label/right enlarged explanation; intact image proportions.",
-        "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
-        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+        "landmark": "section-7",
+        "state": "forward-015",
+        "composition": "Centered next-step identity gives way to dominant artwork entering from below, then explicit volunteer explanation and signup.",
+        "selection_reason": "Slab continuation advances to another task; parent journey now offers service as a deliberate optional next step.",
+        "selector": "[data-framer-name=\"Next Project Section\"]",
+        "semantic_manifest": "art-direction/references/deep/slab/hydra-regions/regions.json"
       },
       "company_content": {
         "copy": [
+          "ci:kids.s2.b0",
           "ci:kids.s3.b0",
           "ci:kids.s3.b1",
-          "ci:kids.s2.b0",
           "ci:kids.s2.b1"
         ],
         "media": [
@@ -151,26 +145,31 @@
         ]
       },
       "content_ids": [
+        "ci:kids.s2.b0",
         "img:kids.faith-editorial",
         "ci:kids.s3.b0",
         "ci:kids.s3.b1",
-        "ci:kids.s2.b0",
         "ci:kids.s2.b1",
         "cta:kids.s2.a0"
       ],
       "reconstruction": {
-        "layout": "2026-10-07 repair; inspect src/pages/kids.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
+        "layout": "2026-10-07 distinct opening revision; see preconstruction decision in plan.md.",
         "ground": "paper",
         "motion": {
-          "mechanism": "Scroll-triggered once-entered opacity",
+          "mechanism": "Scroll-linked bounded artwork translation",
           "selectors": [
-            "#kids-team figure",
-            "#kids-team p:not(.eyebrow)"
+            ".kids-next-art figure"
           ],
-          "source_settings": "Exact editor settings unknown",
-          "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
-          "heading": "Static readable HTML",
-          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
+          "source_settings": "Source observed vertical translations900\u2192669\u2192182\u2192-20px around next-project; exact curve unknown",
+          "implementation_values": "y=clamp(0,(stage.top-.2*viewportHeight)*.28,160px), native scroll; no pin or auto-navigation",
+          "reverse": "Translation reverses with scroll; essential copy and signup remain static",
+          "mobile": "Hold at700px and below",
+          "reduced_motion": "Hold, transform:none",
+          "inspector": {
+            "id": "kids-volunteer-art-continuation",
+            "bounds": "start=artDocumentTop-.2*viewportHeight-160/.28; end=artDocumentTop-.2*viewportHeight",
+            "hold": "Scene unregistered at<=700px or reduced motion because no motion exists"
+          }
         },
         "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
         "mobile_rewrite": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information.",
@@ -178,10 +177,10 @@
       },
       "deviations": [
         {
-          "reference": "Reference typography/brand and commercial claims",
-          "conflict": "The church identity and real content differ from the template.",
-          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
-          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+          "reference": "Slab automatic next-project navigation and progress",
+          "conflict": "Volunteer signup must be deliberate and never triggered by scrolling",
+          "adaptation": "Explicit existing signup action; no invented completion percentage; bounded media translation only",
+          "test": "Forward/reverse artwork positions, keyboard signup, phone and reduced-motion static state"
         }
       ],
       "status": {
@@ -194,7 +193,7 @@
       "comparison": null,
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/kids.json",
-        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+        "reviewed_at": "2026-10-07T20:01:48.046251+00:00"
       },
       "owner_feedback": null,
       "corrected": null
@@ -210,8 +209,7 @@
   "deletion_pass": "Do not add invented photographs of children, floating feature icons, or unsupported safeguarding claims.",
   "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
   "unresolved": [
-    "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
-    "Image focal points, type measures and every interaction require review of the rendered result."
+    "Fresh independent source/composition and motion review pending; no owner acceptance inferred."
   ],
   "title": "Kids | Kingdom Life",
   "implementation": {
@@ -219,21 +217,24 @@
     "css": "src/pages/kids.css",
     "motion": "src/motion/scenes/kids.ts",
     "observed_references": [
-      "Royal /about image and content entry",
-      "Lou /about footer clarity arrival",
-      "Slab project image entry"
+      "art-direction/references/deep/royal/contact/dossier.md#section-0",
+      "art-direction/references/deep/slab/hydra-scoped/dossier.md#next-project"
     ],
-    "values": "Only listed live selectors receive once-entered opacity .65 to 1 over 1100ms ease-out at threshold .15. Removed obsolete no-op selectors; no sticky chapter exchange or reversible scripture focus.",
+    "values": "See exact per-section reconstruction.motion; old generic opacity observers removed.",
     "deviation": "Motion is estimated rather than exact editor reconstruction. No invented pairwise axis distinctions. Every element remains visible before script.",
     "status": "Reconstructed; independent fidelity review pending",
     "actual_sections": [
       {
-        "class": "kids-opening",
-        "reference_landmark": "hero"
+        "class": [
+          "kids-opening"
+        ],
+        "reference_landmark": "section-0"
       },
       {
-        "class": "kids-team",
-        "reference_landmark": "section-2"
+        "class": [
+          "kids-team"
+        ],
+        "reference_landmark": "next-project"
       }
     ],
     "full_section_order": [
@@ -256,28 +257,44 @@
   },
   "motion_contract": {
     "mechanisms": [
-      "Scroll-triggered once-entered opacity"
+      "Scroll-linked bounded artwork translation"
+    ],
+    "essential_content": "All required content and actions render without JS; reduced-motion remains static.",
+    "section_contracts": [
+      {
+        "mechanism": "Scroll-linked bounded artwork translation",
+        "selectors": [
+          ".kids-next-art figure"
+        ],
+        "source_settings": "Source observed vertical translations900\u2192669\u2192182\u2192-20px around next-project; exact curve unknown",
+        "implementation_values": "y=clamp(0,(stage.top-.2*viewportHeight)*.28,160px), native scroll; no pin or auto-navigation",
+        "reverse": "Translation reverses with scroll; essential copy and signup remain static",
+        "mobile": "Hold at700px and below",
+        "reduced_motion": "Hold, transform:none",
+        "inspector": {
+          "id": "kids-volunteer-art-continuation",
+          "bounds": "start=artDocumentTop-.2*viewportHeight-160/.28; end=artDocumentTop-.2*viewportHeight",
+          "hold": "Scene unregistered at<=700px or reduced motion because no motion exists"
+        }
+      }
     ],
     "selectors": [
-      "#kids-team figure",
-      "#kids-team p:not(.eyebrow)"
-    ],
-    "focus_selector": null,
-    "estimated_settings": {
-      "opacity_start": 0.65,
-      "duration_ms": 1100,
-      "threshold": 0.15
-    },
-    "reverse": "No replay; no reversed filter. Native flow.",
-    "mobile": "Native document flow; same nonessential entry selectors; essential content holds.",
-    "limitations": "Source editor timings unknown. No pin, chapter exchange or footer-focus reconstruction."
+      ".kids-next-art figure"
+    ]
   },
   "repair": {
     "date": "2026-10-07",
     "status": "Rebuilt; author desktop/tablet/phone visual checks performed; independent reference review still required",
-    "source_decision": "See plan.md preconstruction repair decision",
+    "source_decision": "2026-10-07 distinct-opening decision in plan.md",
     "removed_false_mechanism": "Short scripture heading no longer receives Lou footer blur",
     "content": "All original IDs retained. Repeated scripture section deleted; exact scripture now serves contextual proof inside task-specific section, not a separate false Lou donor scene.",
     "author_capture_directory": "/tmp/klcc-ministry-repair"
+  },
+  "motion_fallbacks": {
+    "phone": {
+      "max_width": 700,
+      "mechanism": "Hold",
+      "reason": "Native flow keeps parent information and volunteer artwork stationary on small screens."
+    }
   }
 }

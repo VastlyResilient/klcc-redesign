@@ -1,10 +1,10 @@
 # KLCC repair report
 
-Updated 2026-10-07T10:01:34.431858+00:00.
+Updated 2026-10-07T20:07:58.451903+00:00.
 
 **Independent section review: 30/30 routes Fidelity-reviewed; 0 route records Blocked.** The original 23 blocked route records were repaired and independently re-reviewed. **Production release remains blocked by global G6 checks.** This is progress with evidence, not full-contract completion or owner acceptance.
 
-[Local website](http://127.0.0.1:4201/) · [Visual review packet](review/index.html) · [Draft PR](https://github.com/VastlyResilient/klcc-redesign/pull/1) · [Remaining gates](BLOCKED.md)
+[Complete public review build](https://vastlyresilient.github.io/klcc-redesign/preview/) · [Visual review packet](review/index.html) · [Draft PR](https://github.com/VastlyResilient/klcc-redesign/pull/1) · [Remaining gates](BLOCKED.md)
 
 ## Repairs actually made
 
@@ -13,21 +13,25 @@ Updated 2026-10-07T10:01:34.431858+00:00.
 - Corrected source misreadings: Lou’s reading field is centered; Slab’s hero image and metadata are separate DOM regions; screenshot frame numbers do not identify equivalent mobile landmarks.
 - Fixed Beliefs heading contrast and Membership phone captions using continuous feathered image grading, without rectangular text panels. Final independently measured minima: Beliefs 5.71:1 across three widths; Membership caption minimum 10.25:1 on phone.
 - Corrected five tablet H1 sizes against actual source measurements. Preserved original company information, authentic artwork, legitimate provider actions and all required content IDs.
+- Rebuilt Kids around parent logistics, Men around weekly reading and meeting credentials, Women around gathering records, and Give around real provider actions. Fresh reports: `art-direction/qa/build-final/`.
 - Added truthful Hold/static motion checks and review import validation. A changing class name or a hidden element is not evidence of animation.
 
 ## Evidence
 
+- Latest task-specific composition reviews: [Give](art-direction/qa/build-final/give-review.json), [Kids and Men](art-direction/qa/build-final/kids-men-review.json), [Women](art-direction/qa/build-final/women-review.json).
+- Runtime mechanics: 90/90 viewport cases; separate preview smoke: 30 routes and 12 desktop/phone browser cases.
+
 - Three-width independent reviews: [ministry](art-direction/qa/round-2/ministry-review.json), [practical](art-direction/qa/round-2/practical-review.json), [editorial](art-direction/qa/round-2/editorial-review.json), [Mission correction](art-direction/qa/round-2/mission-review.json).
 - [Fidelity records](art-direction/qa/fidelity/), [capture index](art-direction/qa/EVIDENCE-INDEX.md), [reference map and blueprints](art-direction/pages/), [motion checks](art-direction/qa/motion-results.json).
 - [433 required content checks](art-direction/qa/dom-ledger-results.json), [link audit](art-direction/qa/link-audit.json), [resilience/NoJS/WebKit](art-direction/qa/resilience.json), [GitHub subpath/404 checks](art-direction/qa/subpath-404.json).
-- [Gates](art-direction/qa/gates.json): 25 passing; 2 failing. Raw structural results: {'pass': 659, 'fail': 193, 'missing': 57}. Counts are assertions, not distinct defects.
+- [Gates](art-direction/qa/gates.json): 25 passing; 2 failing. Raw structural results: {'pass': 655, 'fail': 206, 'missing': 54}. Counts are assertions, not distinct defects.
 - [Skill protection](art-direction/protected-skills-end.json), [unapplied proposals](pending-proposals.md), [decisions](decisions.json).
 
 ## Verification limits and release boundary
 
 The independent section rubric and the exact global contract are different checks. **All repaired route section rubrics may pass while G6 still fails.** No scores were invented and no source boxes were changed to force a match.
 
-Two global checks still fail: universal two-axis heading uniqueness, and strict measured structural parity. The independent whole-site review also identifies repeated opening silhouettes (notably New/Kids and Men/Leadership). These findings are retained in the [global diagnosis](art-direction/qa/round-3/global-gate-diagnosis.md). Static-heading requirements conflict with universal pairwise differentiation; inventing arbitrary animations would violate the same contract. Content expansion explains some aspect deviations but does not automatically waive the 15% threshold.
+Two global checks still fail: universal two-axis heading uniqueness, and strict measured structural parity. The earlier independent whole-site review identified repeated opening silhouettes. Kids, Men, Women and Give have since received task-specific compositions and fresh independent three-width reviews; the historical findings are retained in the [global diagnosis](art-direction/qa/round-3/global-gate-diagnosis.md). Static-heading requirements conflict with universal pairwise differentiation; inventing arbitrary animations would violate the same contract. Content expansion explains some aspect deviations but does not automatically waive the 15% threshold.
 
 The protected homepage baseline contains a pinned photograph and staged HTML, not an active MP4. Its approved mechanics were preserved; movie playback is not claimed. Tests use browser emulation and WebKit, not physical phones. No payment or form was submitted, and third-party playback was not exhaustively validated. Exact Framer editor values remain estimates where inaccessible. No route is Accepted.
 

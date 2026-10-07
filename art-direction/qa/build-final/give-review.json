@@ -1,0 +1,332 @@
+{
+  "reviewer": "repair_practical independent reviewer",
+  "reviewed_at": "2026-10-07T19:56:37.737036+00:00",
+  "status": "Blocked",
+  "visual_review_status": "Fidelity-reviewed",
+  "accepted": false,
+  "routes": [
+    {
+      "route": "give",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "give-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/1440-opening.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/1440-give-opening-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet12px legal-entity label and50/40/32px title; brand hierarchy fixed after independent cascade defect. This title and following methods are one continuous Contact interaction composition, separate DOM sections.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            },
+            {
+              "viewport": 1024,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/1024-opening.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/1024-give-opening-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet12px legal-entity label and50/40/32px title; brand hierarchy fixed after independent cascade defect. This title and following methods are one continuous Contact interaction composition, separate DOM sections.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            },
+            {
+              "viewport": 390,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/390-opening.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/390-give-opening-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet12px legal-entity label and50/40/32px title; brand hierarchy fixed after independent cascade defect. This title and following methods are one continuous Contact interaction composition, separate DOM sections.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            }
+          ]
+        },
+        {
+          "id": "give-methods",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/1440-give-methods.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/1440-give-methods-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Real App/Online/Mail channels form sparse left column; separate right provider purpose, immediate real secure launch, fallback and native optional embed disclosure. Phone puts actual primary giving service first. The asymmetric complete interaction field now differs materially from Calendar compact title/intro and agenda.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            },
+            {
+              "viewport": 1024,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/1024-give-methods.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/1024-give-methods-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Real App/Online/Mail channels form sparse left column; separate right provider purpose, immediate real secure launch, fallback and native optional embed disclosure. Phone puts actual primary giving service first. The asymmetric complete interaction field now differs materially from Calendar compact title/intro and agenda.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            },
+            {
+              "viewport": 390,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/390-give-methods.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/390-give-methods-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Real App/Online/Mail channels form sparse left column; separate right provider purpose, immediate real secure launch, fallback and native optional embed disclosure. Phone puts actual primary giving service first. The asymmetric complete interaction field now differs materially from Calendar compact title/intro and agenda.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            }
+          ]
+        },
+        {
+          "id": "give-generosity",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/opening.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/1440-give-generosity.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/1440-give-generosity-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic pantry image remains intact, image-first then left identity/right generosity explanation; phone stacks. Paper interval gives actual proof its own pause. Original company lettering/pixels preserved.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            },
+            {
+              "viewport": 1024,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/opening.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/1024-give-generosity.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/1024-give-generosity-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic pantry image remains intact, image-first then left identity/right generosity explanation; phone stacks. Paper interval gives actual proof its own pause. Original company lettering/pixels preserved.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            },
+            {
+              "viewport": 390,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/opening.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/390-give-generosity.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/390-give-generosity-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic pantry image remains intact, image-first then left identity/right generosity explanation; phone stacks. Paper interval gives actual proof its own pause. Original company lettering/pixels preserved.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            }
+          ]
+        },
+        {
+          "id": "give-reading",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/1440-give-reading.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/1440-give-reading-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet left label, primary right complete explanation plus contextual scripture; no fabricated quote scene or body splitting. Stable native flow.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            },
+            {
+              "viewport": 1024,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/1024-give-reading.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/1024-give-reading-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet left label, primary right complete explanation plus contextual scripture; no fabricated quote scene or body splitting. Stable native flow.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            },
+            {
+              "viewport": 390,
+              "state": "Settled initial, full section, native disclosure and no-JS/reduced controls sampled",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
+              "build_evidence": "art-direction/qa/build-final/give-evidence/390-give-reading.png",
+              "comparison": "art-direction/qa/build-final/give-evidence/390-give-reading-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "Quiet left label, primary right complete explanation plus contextual scripture; no fabricated quote scene or body splitting. Stable native flow.",
+              "sequence_scope": "Hold/native flow; no unsupported source animation"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "blocker": "Strict source Contact combined-field aspect differs by more than15% at all3 widths. Visual rubric clearance does not waive this structural assertion.",
+  "geometry": [
+    {
+      "viewport": 1440,
+      "source_contact_height": 760,
+      "actual_opening_plus_methods_height": 921.640625,
+      "relative_difference": 0.21268503289473695,
+      "within_15_percent": false
+    },
+    {
+      "viewport": 1024,
+      "source_contact_height": 698.8125,
+      "actual_opening_plus_methods_height": 910.640625,
+      "relative_difference": 0.30312583847598606,
+      "within_15_percent": false
+    },
+    {
+      "viewport": 390,
+      "source_contact_height": 1037.21875,
+      "actual_opening_plus_methods_height": 1452.296875,
+      "relative_difference": 0.4001837847609291,
+      "within_15_percent": false
+    }
+  ],
+  "observations": "art-direction/qa/build-final/give-evidence/observations.json",
+  "checks": {
+    "all_widths_no_overflow_or_broken_images": true,
+    "keyboard_enter_opens_and_closes_native_disclosure": true,
+    "primary_cta_top_px": [
+      543.140625,
+      561.828125,
+      532.515625
+    ],
+    "noJS_direct_provider_link_visible": true,
+    "reduced_motion_primary_action_visible": true,
+    "payment_or_donation_submitted": false
+  },
+  "repaired_finding": "Original higher-specificity24px eyebrow selector was independently caught and then removed by author; new captures verify compact legal-entity label. Before measurement retained separately.",
+  "limitations": [
+    "Provider embed did not settle in prior1.5s read-only audit; current direct Subsplash destination remains visible and native disclosure opens. No payment interaction tested.",
+    "Merged visual contact field still consists of two DOMsections. Source provenance must compare union to complete RoyalContact region, not independently compare both chunks to the760px source.",
+    "Actual body density explains taller field but is not approval to relax contracted15% threshold.",
+    "Global heading-axis uniqueness and full-site anti-sameness gates are outside this visual route review."
+  ]
+}

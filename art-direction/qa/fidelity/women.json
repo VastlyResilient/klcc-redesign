@@ -5,14 +5,18 @@
   "sections": [
     {
       "id": "women-opening",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "height": 900,
+          "state": "settled after actual forward traversal and reverse return",
+          "build_evidence": "art-direction/qa/build-final/women-independent/desktop-women-opening.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-regions/desktop-unit-metadata.png",
+          "source_state": "forward-001",
+          "source_unit": "metadata",
           "comparison": "review/independent/women-0.webp",
-          "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-desktop-women-opening.png",
-          "additional_build_evidence": [],
-          "source_evidence": "art-direction/references/deep/royal/about/desktop/section-hero.png",
           "scores": {
             "text_placement": 4,
             "readability": 5,
@@ -22,23 +26,29 @@
             "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
-            "sequence_parity": 4,
-            "mobile_recomposition": 4
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Small title, full broad real image and compact proof below preserve Royal hierarchy. The photo is honestly captioned as wider congregation. Reused opening imagery across ministry family requires separate anti-sameness review.",
-          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
-          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/women-desktop-women-opening.jpg",
+          "judgment": "Title and Life Groups action balance two complete dated records. Date/time/place are immediately legible, with earlier dates explicitly historical. Thin rules and quiet navy preserve the metadata-led character; greater company information density makes this taller than Slab.",
+          "measured_build_rect": {
+            "top": 0,
+            "height": 661.859375,
+            "width": 1440,
+            "x": 0
+          },
+          "source_adaptation": "Schedule-first metadata opening. November and December are separate complete gathering records with date/time/place; earlier fall dates remain historical. Real event hierarchy replaces project metadata. No invented registration action.",
+          "original_comparison": "art-direction/qa/build-final/women-independent/desktop-women-opening-compare.png",
           "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "height": 768,
+          "state": "settled after actual forward traversal and reverse return",
+          "build_evidence": "art-direction/qa/build-final/women-independent/tablet-women-opening.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-regions/tablet-unit-metadata.png",
+          "source_state": "forward-001",
+          "source_unit": "metadata",
           "comparison": "review/independent/women-1.webp",
-          "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-tablet-women-opening.png",
-          "additional_build_evidence": [
-            "art-direction/qa/round-2/ministry-evidence/women-tablet-women-opening-end.png"
-          ],
-          "source_evidence": "art-direction/references/deep/royal/about/tablet/section-hero.png",
           "scores": {
             "text_placement": 4,
             "readability": 5,
@@ -48,21 +58,29 @@
             "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
-            "sequence_parity": 4,
-            "mobile_recomposition": 4
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Small title, full broad real image and compact proof below preserve Royal hierarchy. The photo is honestly captioned as wider congregation. Reused opening imagery across ministry family requires separate anti-sameness review.",
-          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
-          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/women-tablet-women-opening.jpg",
+          "judgment": "Two columns remain balanced; neither date nor venue collides or wraps awkwardly. Record rules and matching time/place columns make the schedule readable. Greater section height than source remains an adaptation.",
+          "measured_build_rect": {
+            "top": 0,
+            "height": 635.671875,
+            "width": 1024,
+            "x": 0
+          },
+          "source_adaptation": "Schedule-first metadata opening. November and December are separate complete gathering records with date/time/place; earlier fall dates remain historical. Real event hierarchy replaces project metadata. No invented registration action.",
+          "original_comparison": "art-direction/qa/build-final/women-independent/tablet-women-opening-compare.png",
           "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "height": 844,
+          "state": "settled after actual forward traversal and reverse return",
+          "build_evidence": "art-direction/qa/build-final/women-independent/phone-women-opening.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-regions/phone-unit-metadata.png",
+          "source_state": "forward-001",
+          "source_unit": "metadata",
           "comparison": "review/independent/women-2.webp",
-          "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-phone-women-opening.png",
-          "additional_build_evidence": [],
-          "source_evidence": "art-direction/references/deep/royal/about/phone/section-hero.png",
           "scores": {
             "text_placement": 4,
             "readability": 5,
@@ -72,110 +90,248 @@
             "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
-            "sequence_parity": 4,
-            "mobile_recomposition": 4
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Small title, full broad real image and compact proof below preserve Royal hierarchy. The photo is honestly captioned as wider congregation. Reused opening imagery across ministry family requires separate anti-sameness review.",
-          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
-          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/women-phone-women-opening.jpg",
+          "judgment": "The title/action and each complete event record stack clearly with generous divisions. November is readable without a reveal; December follows naturally. No compressed horizontal metadata or clipping. The section is taller than the source and exceeds one screen.",
+          "measured_build_rect": {
+            "top": 0,
+            "height": 920.625,
+            "width": 390,
+            "x": 0
+          },
+          "source_adaptation": "Schedule-first metadata opening. November and December are separate complete gathering records with date/time/place; earlier fall dates remain historical. Real event hierarchy replaces project metadata. No invented registration action.",
+          "original_comparison": "art-direction/qa/build-final/women-independent/phone-women-opening-compare.png",
           "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
     {
-      "id": "women-calendar",
+      "id": "women-together",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "height": 900,
+          "state": "settled after actual forward traversal and reverse return",
+          "build_evidence": "art-direction/qa/build-final/women-independent/desktop-women-together.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-regions/desktop-unit-dominant-artwork.png",
+          "source_state": "forward-007",
+          "source_unit": "dominant-artwork",
           "comparison": "review/independent/women-3.webp",
-          "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-desktop-women-calendar.png",
-          "additional_build_evidence": [],
-          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
           "scores": {
             "text_placement": 4,
             "readability": 5,
-            "text_image_association": 4,
-            "media_position": 4,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
             "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
-            "sequence_parity": 5,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Quiet left year/context and bounded ruled right factual dates retain Brief reading rhythm. Past September/October dates are distinguished and current November date is legible. Stable date controls are appropriate.",
-          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
-          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/women-desktop-women-calendar.jpg",
+          "judgment": "A single dominant documentary photograph forms a clean interval after metadata. Human subjects remain legible; the caption accurately identifies the wider congregation. The company photo replaces source laptop artwork and has a different aspect, without distortion.",
+          "measured_build_rect": {
+            "top": 661.859375,
+            "height": 874.59375,
+            "width": 1440,
+            "x": 0
+          },
+          "source_adaptation": "Required authentic wider-congregation photo becomes a separate dominant visual interval, clearly captioned as the wider church rather than a women-only event.",
+          "original_comparison": "art-direction/qa/build-final/women-independent/desktop-women-together-compare.png",
           "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "height": 768,
+          "state": "settled after actual forward traversal and reverse return",
+          "build_evidence": "art-direction/qa/build-final/women-independent/tablet-women-together.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-regions/tablet-unit-dominant-artwork.png",
+          "source_state": "forward-007",
+          "source_unit": "dominant-artwork",
           "comparison": "review/independent/women-4.webp",
-          "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-tablet-women-calendar.png",
-          "additional_build_evidence": [],
-          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
           "scores": {
             "text_placement": 4,
             "readability": 5,
-            "text_image_association": 4,
-            "media_position": 4,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
             "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
-            "sequence_parity": 5,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Quiet left year/context and bounded ruled right factual dates retain Brief reading rhythm. Past September/October dates are distinguished and current November date is legible. Stable date controls are appropriate.",
-          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
-          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/women-tablet-women-calendar.jpg",
+          "judgment": "Image retains visual dominance and the subjects remain identifiable at this crop. Caption sits directly beneath on a solid ground; no text is overlaid on the busy scene. Larger margins and company photo aspect differ from source.",
+          "measured_build_rect": {
+            "top": 635.671875,
+            "height": 657.34375,
+            "width": 1024,
+            "x": 0
+          },
+          "source_adaptation": "Required authentic wider-congregation photo becomes a separate dominant visual interval, clearly captioned as the wider church rather than a women-only event.",
+          "original_comparison": "art-direction/qa/build-final/women-independent/tablet-women-together-compare.png",
           "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "height": 844,
+          "state": "settled after actual forward traversal and reverse return",
+          "build_evidence": "art-direction/qa/build-final/women-independent/phone-women-together.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-regions/phone-unit-dominant-artwork.png",
+          "source_state": "forward-005",
+          "source_unit": "dominant-artwork",
           "comparison": "review/independent/women-5.webp",
-          "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-phone-women-calendar.png",
-          "additional_build_evidence": [],
-          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
           "scores": {
             "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "A deliberate closer crop retains the stage participants and congregation; the caption wraps legibly in two lines. No object stretching or accidental text overlap. Documentary atmosphere differs from product-render source.",
+          "measured_build_rect": {
+            "top": 920.625,
+            "height": 358.28125,
+            "width": 390,
+            "x": 0
+          },
+          "source_adaptation": "Required authentic wider-congregation photo becomes a separate dominant visual interval, clearly captioned as the wider church rather than a women-only event.",
+          "original_comparison": "art-direction/qa/build-final/women-independent/phone-women-together-compare.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "women-purpose",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "settled after actual forward traversal and reverse return",
+          "build_evidence": "art-direction/qa/build-final/women-independent/desktop-women-purpose.png",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/desktop/forward-002.png",
+          "source_state": "forward-002",
+          "source_unit": "section-2",
+          "comparison": "review/independent/women-6.webp",
+          "scores": {
+            "text_placement": 5,
             "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
             "alignment": 5,
-            "spacing": 4,
+            "spacing": 5,
             "atmosphere_parity": 4,
-            "sequence_parity": 5,
-            "mobile_recomposition": 4
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
           },
-          "judgment": "Quiet left year/context and bounded ruled right factual dates retain Brief reading rhythm. Past September/October dates are distinguished and current November date is legible. Stable date controls are appropriate.",
-          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
-          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/women-phone-women-calendar.jpg",
+          "judgment": "The broad inset reading field preserves Lou reading placement. Two intact paragraphs have clear sentence hierarchy, followed by subordinate scripture with a rule. Pale ground is a company inversion, not exact color matching.",
+          "measured_build_rect": {
+            "top": 1536.453125,
+            "height": 762.59375,
+            "width": 1440,
+            "x": 0
+          },
+          "source_adaptation": "Continuous company-purpose reading, followed by contextual scripture; the existing Life Groups action remains immediately available in the opening.",
+          "original_comparison": "art-direction/qa/build-final/women-independent/desktop-women-purpose-compare.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "settled after actual forward traversal and reverse return",
+          "build_evidence": "art-direction/qa/build-final/women-independent/tablet-women-purpose.png",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/tablet/forward-002.png",
+          "source_state": "forward-002",
+          "source_unit": "section-2",
+          "comparison": "review/independent/women-7.webp",
+          "scores": {
+            "text_placement": 5,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 5,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
+          },
+          "judgment": "The reading field expands proportionally and remains coherently aligned. Paragraph line lengths are comfortable, scripture stays subordinate, and spacing does not create an orphan section. The shorter content changes source duration and density.",
+          "measured_build_rect": {
+            "top": 1293.015625,
+            "height": 688.96875,
+            "width": 1024,
+            "x": 0
+          },
+          "source_adaptation": "Continuous company-purpose reading, followed by contextual scripture; the existing Life Groups action remains immediately available in the opening.",
+          "original_comparison": "art-direction/qa/build-final/women-independent/tablet-women-purpose-compare.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "settled after actual forward traversal and reverse return",
+          "build_evidence": "art-direction/qa/build-final/women-independent/phone-women-purpose.png",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/phone/forward-002.png",
+          "source_state": "forward-002",
+          "source_unit": "section-2",
+          "comparison": "review/independent/women-8.webp",
+          "scores": {
+            "text_placement": 5,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 5,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Near-full-width large paragraphs read cleanly with stable line breaks; scripture remains readable beneath a distinct rule. No sideways overflow or hidden text. Pale ground and shorter content are deliberate source adaptations.",
+          "measured_build_rect": {
+            "top": 1278.90625,
+            "height": 834.75,
+            "width": 390,
+            "x": 0
+          },
+          "source_adaptation": "Continuous company-purpose reading, followed by contextual scripture; the existing Life Groups action remains immediately available in the opening.",
+          "original_comparison": "art-direction/qa/build-final/women-independent/phone-women-purpose-compare.png",
           "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     }
   ],
-  "reviewer": "repair_practical agent, independent of ministry authorship",
-  "reviewed_at": "2026-10-07T09:15:54.842468+00:00",
-  "scope": "Independent follow-up after actual geometry repairs; section rubric cleared. This is not owner acceptance or whole-site anti-sameness/structural approval.",
-  "source_review": "art-direction/qa/round-2/ministry-review.json",
+  "reviewer": "Independent reviewer /root/editorial_independent_review (not product author)",
+  "reviewed_at": "2026-10-07T20:02:08.157202+00:00",
+  "scope": "Independent three-width section review",
+  "source_review": "art-direction/qa/build-final/women-review.json",
   "prior_review": "art-direction/qa/round-1/fidelity/women.json",
   "source_hashes": {
-    "src/pages/women.html": "db9886050fff4910e58d5cfd56ca95125429a8a819bdd85ee2e226c27e89dc3f",
-    "src/pages/women.css": "d77fed20a4776cff83318a27e697540f42c46991fa8148d3f706eea16bc05e8c",
-    "src/motion/scenes/women.ts": "a405135be8c5fe15deb27c87e0cfa4c75ad6607a6789ee2363175d987f74d2a4"
+    "src/pages/women.html": "8780c4eea53526b7d4f4ac12c5d44dc1f2b039f62ae4eeeb8c56574df1386912",
+    "src/pages/women.css": "407ee2d80088ec19817599063c1cf781f5e442de72f47c672cf3c5d5d43689ab",
+    "src/motion/scenes/women.ts": "daf084a120c1fb2b71c301222f5fe36bcf6144eb39da2a017f8b1b137eb2718c"
   },
   "limits": [
-    "Headless installed Chrome; no physical phone.",
-    "No real forms submitted.",
-    "Exact Framer editor timing unknown.",
-    "Functional native biography/request links checked without submitting.",
-    "Root retains authority over whole-site gates and owner acceptance."
+    "These visual judgments do not waive raw mechanical source geometry/section count or global evidence checks.",
+    "Slab metadata unit is text-only; neighboring artwork is not included. Two company event records make it substantially taller than the source unit.",
+    "Dominant-artwork source is a laptop rendering; replacement documentary photograph and crop preserve the visual role, not pixel identity.",
+    "Lou reading comparison uses the exact per-viewport forward-002 evidence and measured reading field; source screenshot includes neighboring context. Company pale ground, shorter prose and scripture are adaptations.",
+    "Media dimensions in text-only sections score appropriate absence and text association, not presence of invented media.",
+    "Exact source Framer editor timing is unavailable; observed build values are not claimed to be exact source timings.",
+    "Browser emulation is not physical-device testing. No numeric all-frame glyph-contrast certification in this Women-only review.",
+    "No Accepted status and no production/global readiness conclusion."
   ],
   "issues": []
 }

@@ -1,9 +1,9 @@
 {
   "route": "women",
   "reference": {
-    "template": "royal",
-    "route": "/about",
-    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "template": "slab",
+    "route": "/projects/hydra",
+    "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
     "mode": "B",
     "donors": [
       "lou",
@@ -18,14 +18,14 @@
   "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
   "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
   "signature": {
-    "id": "women-unfold",
-    "dominant_verb": "Unfold",
-    "structural_idea": "Editorial seasonal notice with one source-art field and two clearly dated lines",
+    "id": "women-gathering-first",
+    "dominant_verb": "Gather",
+    "structural_idea": "Useful event records first; documentary image interval second; purpose and encouragement essay third. Deliberately different from Youth’s Royal title/photo opening.",
     "axes": {
-      "unit": "content-specific block/image",
-      "vector": "Hold pending observed scene contract",
-      "driver": "native scroll",
-      "frame": "route-owned composition"
+      "unit": "event record / documentary image / intact purpose paragraph",
+      "driver": "Hold for schedules, Scroll-triggered clarity for narrative",
+      "vector": "opacity only; no forced split text",
+      "frame": "metadata→full-width photograph→measured reading field"
     }
   },
   "heading_arrival": {
@@ -36,136 +36,91 @@
   },
   "content_ids": [
     "ci:women.s0.b0",
-    "ci:women.s1.b0",
     "ci:women.s2.b0",
     "ci:women.s2.b1",
+    "img:women.worship",
+    "ci:women.s1.b0",
     "ci:women.s3.b0",
-    "ci:women.s3.b1",
-    "img:women.page-women",
-    "img:women.worship"
+    "ci:women.s3.b1"
   ],
   "sections": [
     {
       "id": "women-opening",
-      "title": "Women’s Ministry",
-      "visitor_task": "Find women’s connection opportunities and distinguish upcoming from past events.",
-      "critical_answer_visible_without_animation": true,
-      "reference_section": {
-        "template": "royal",
-        "route": "/about",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
-        "landmark": "hero",
-        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-      },
-      "company_content": {
-        "copy": [
-          "ci:women.s0.b0",
-          "ci:women.s1.b0",
-          "ci:women.s3.b0",
-          "ci:women.s3.b1"
-        ],
-        "media": [
-          "img:women.worship"
-        ],
-        "cta": []
-      },
+      "selector": "#women-opening",
+      "title": "opening",
       "content_ids": [
         "ci:women.s0.b0",
-        "img:women.worship",
-        "ci:women.s1.b0",
-        "ci:women.s3.b0",
-        "ci:women.s3.b1"
+        "ci:women.s2.b0",
+        "ci:women.s2.b1"
       ],
-      "reconstruction": {
-        "layout": "2026-10-07 repair; inspect src/pages/women.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
-        "ground": "ink",
-        "motion": {
-          "mechanism": "Hold in native document flow",
-          "selectors": [],
-          "source_settings": "Exact editor settings unknown",
-          "implementation_values": "No route-owned motion on this section",
-          "heading": "Static readable HTML",
-          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
-        },
-        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
-        "mobile_rewrite": "Keep each date, event name, time and venue together. Preserve earlier dates in a clearly historical group.",
-        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
-      },
-      "deviations": [
-        {
-          "reference": "Reference typography/brand and commercial claims",
-          "conflict": "The church identity and real content differ from the template.",
-          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
-          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
-        }
-      ],
-      "status": {
-        "covered": true,
-        "observed": true,
-        "reconstructed": true,
-        "fidelity_reviewed": true,
-        "accepted": false
-      },
-      "comparison": null,
-      "reviewer_findings": {
-        "record": "art-direction/qa/fidelity/women.json",
-        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
-      },
-      "owner_feedback": null,
-      "corrected": null
-    },
-    {
-      "id": "women-calendar",
-      "title": "This season together",
-      "visitor_task": "Read this season together and find its relevant action.",
-      "critical_answer_visible_without_animation": true,
       "reference_section": {
         "template": "slab",
         "route": "/projects/hydra",
         "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-        "landmark": "section-1",
-        "state": "forward-002",
-        "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
-        "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
-        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
-      },
-      "company_content": {
-        "copy": [
-          "ci:women.s2.b0",
-          "ci:women.s2.b1"
-        ],
-        "media": [],
-        "cta": []
-      },
-      "content_ids": [
-        "ci:women.s2.b0",
-        "ci:women.s2.b1"
-      ],
-      "reconstruction": {
-        "layout": "2026-10-07 repair; inspect src/pages/women.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
-        "ground": "paper",
-        "motion": {
-          "mechanism": "Hold in native document flow",
-          "selectors": [],
-          "source_settings": "Exact editor settings unknown",
-          "implementation_values": "No route-owned motion on this section",
-          "heading": "Static readable HTML",
-          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "landmark": "section-0",
+        "region": {
+          "selector": "[data-framer-name=\"Header Section\"]",
+          "definition": "metadata",
+          "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+          "viewports": {
+            "desktop": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-metadata.png",
+              "box": {
+                "x": 0,
+                "top": 540,
+                "width": 1440,
+                "height": 401.78125
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "tablet": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-metadata.png",
+              "box": {
+                "x": 0,
+                "top": 490.0625,
+                "width": 1024,
+                "height": 401.78125
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "phone": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-metadata.png",
+              "box": {
+                "x": 0,
+                "top": 337.59375,
+                "width": 390,
+                "height": 487.109375
+              },
+              "fullbleed": true,
+              "sticky": false
+            }
+          }
         },
-        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
-        "mobile_rewrite": "Keep each date, event name, time and venue together. Preserve earlier dates in a clearly historical group.",
-        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+        "comparison_scope": "Actual measured metadata visual unit. Do not include preceding/following artwork or assume a form.",
+        "states": {
+          "desktop": "forward-001",
+          "tablet": "forward-001",
+          "phone": "forward-001"
+        },
+        "state": "forward-001"
       },
-      "deviations": [
-        {
-          "reference": "Reference typography/brand and commercial claims",
-          "conflict": "The church identity and real content differ from the template.",
-          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
-          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
-        }
-      ],
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Schedule-first metadata opening. November and December are separate complete gathering records with date/time/place; earlier fall dates remain historical. Real event hierarchy replaces project metadata. No invented registration action.",
+      "reconstruction": {
+        "ground": "ink",
+        "motion": {
+          "mechanism": "Hold",
+          "selectors": [],
+          "implementation_values": "All essentials visible. Entry opacity .8→1; image1100ms, intact paragraphs1500ms; threshold .18; authored estimates.",
+          "reverse": "No repeat on reverse; normal document flow.",
+          "source_settings": "Source exact editor timings unknown."
+        },
+        "mobile_rewrite": "Complete event records stack; photograph takes its own interval; reading approaches full width.",
+        "reduced_motion": "All visible static HTML; active keyframes cancel when changed."
+      },
       "status": {
         "covered": true,
         "observed": true,
@@ -173,90 +128,229 @@
         "fidelity_reviewed": true,
         "accepted": false
       },
-      "comparison": null,
       "reviewer_findings": {
         "record": "art-direction/qa/fidelity/women.json",
-        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+        "reviewed_at": "2026-10-07T20:02:08.157202+00:00"
+      }
+    },
+    {
+      "id": "women-together",
+      "selector": "#women-together",
+      "title": "together",
+      "content_ids": [
+        "img:women.worship"
+      ],
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "landmark": "section-3",
+        "region": {
+          "selector": ".framer-13ygb0k",
+          "definition": "dominant-artwork",
+          "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+          "viewports": {
+            "desktop": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-dominant-artwork.png",
+              "box": {
+                "x": 8,
+                "top": 2977.9375,
+                "width": 1424,
+                "height": 962.15625
+              },
+              "fullbleed": false,
+              "sticky": false
+            },
+            "tablet": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-dominant-artwork.png",
+              "box": {
+                "x": 8,
+                "top": 2617.140625,
+                "width": 1008,
+                "height": 681.078125
+              },
+              "fullbleed": false,
+              "sticky": false
+            },
+            "phone": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-dominant-artwork.png",
+              "box": {
+                "x": 8,
+                "top": 2296.921875,
+                "width": 374,
+                "height": 277.03125
+              },
+              "fullbleed": false,
+              "sticky": false
+            }
+          }
+        },
+        "comparison_scope": "Actual measured dominant-artwork visual unit. Do not include preceding/following artwork or assume a form.",
+        "states": {
+          "desktop": "forward-007",
+          "tablet": "forward-007",
+          "phone": "forward-005"
+        },
+        "state": "forward-007"
       },
-      "owner_feedback": null,
-      "corrected": null
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Required authentic wider-congregation photo becomes a separate dominant visual interval, clearly captioned as the wider church rather than a women-only event.",
+      "reconstruction": {
+        "ground": "ink",
+        "motion": {
+          "mechanism": "Scroll-triggered once-entered clarity",
+          "selectors": [
+            ".women-together figure"
+          ],
+          "implementation_values": "All essentials visible. Entry opacity .8→1; image1100ms, intact paragraphs1500ms; threshold .18; authored estimates.",
+          "reverse": "No repeat on reverse; normal document flow.",
+          "source_settings": "Source exact editor timings unknown."
+        },
+        "mobile_rewrite": "Complete event records stack; photograph takes its own interval; reading approaches full width.",
+        "reduced_motion": "All visible static HTML; active keyframes cancel when changed."
+      },
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/women.json",
+        "reviewed_at": "2026-10-07T20:02:08.157202+00:00"
+      }
+    },
+    {
+      "id": "women-purpose",
+      "selector": "#women-purpose",
+      "title": "purpose",
+      "content_ids": [
+        "ci:women.s1.b0",
+        "ci:women.s3.b0",
+        "ci:women.s3.b1"
+      ],
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+        "landmark": "section-2",
+        "comparison_scope": "Measured 880px desktop/816px tablet reading field; intact timed paragraph clarity. Company pale-ground inversion and shorter argument are explicit adaptations.",
+        "states": {
+          "desktop": "forward-002",
+          "tablet": "forward-002",
+          "phone": "forward-002"
+        },
+        "state": "forward-002"
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Continuous company-purpose reading, followed by contextual scripture; the existing Life Groups action remains immediately available in the opening.",
+      "reconstruction": {
+        "ground": "paper",
+        "motion": {
+          "mechanism": "Scroll-triggered once-entered clarity",
+          "selectors": [
+            ".women-purpose-copy p"
+          ],
+          "implementation_values": "All essentials visible. Entry opacity .8→1; image1100ms, intact paragraphs1500ms; threshold .18; authored estimates.",
+          "reverse": "No repeat on reverse; normal document flow.",
+          "source_settings": "Source exact editor timings unknown."
+        },
+        "mobile_rewrite": "Complete event records stack; photograph takes its own interval; reading approaches full width.",
+        "reduced_motion": "All visible static HTML; active keyframes cancel when changed."
+      },
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/women.json",
+        "reviewed_at": "2026-10-07T20:02:08.157202+00:00"
+      }
     }
   ],
   "content_coverage": {
-    "expected": 8,
-    "assigned": 7,
-    "missing": [
+    "expected_required": 7,
+    "assigned_required": 7,
+    "missing_required": [],
+    "optional_omitted": [
       "img:women.page-women"
     ]
   },
   "deletion_pass": "Do not invent registration actions. Use genuine shared contact navigation if needed; do not create a fake event form.",
   "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
   "unresolved": [
-    "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
-    "Image focal points, type measures and every interaction require review of the rendered result."
+    "New independent visual/motion review pending."
   ],
   "title": "Women | Kingdom Life",
   "implementation": {
     "source": "src/pages/women.html",
     "css": "src/pages/women.css",
     "motion": "src/motion/scenes/women.ts",
-    "observed_references": [
-      "Royal /about image and content entry",
-      "Lou /about footer clarity arrival",
-      "Slab project image entry"
-    ],
-    "values": "Only listed live selectors receive once-entered opacity .65 to 1 over 1100ms ease-out at threshold .15. Removed obsolete no-op selectors; no sticky chapter exchange or reversible scripture focus.",
-    "deviation": "Motion is estimated rather than exact editor reconstruction. No invented pairwise axis distinctions. Every element remains visible before script.",
-    "status": "Reconstructed; independent fidelity review pending",
     "actual_sections": [
-      {
-        "class": "women-opening",
-        "reference_landmark": "hero"
-      },
-      {
-        "class": "women-calendar",
-        "reference_landmark": "section-1"
-      }
+      "women-opening",
+      "women-together",
+      "women-purpose"
     ],
     "full_section_order": [
       "women-opening",
-      "women-calendar"
+      "women-together",
+      "women-purpose"
     ],
-    "deleted": [
-      "Legacy texture-only source backgrounds omitted where they conflicted with the locked identity; asset files retained.",
-      "No automatic decorative arrows or icon badges."
-    ],
+    "values": "Schedule hold; image and two intact purpose paragraphs once-entered opacity .8→1; responsive static fallbacks.",
+    "status": "Reconstructed; new comparison pending",
     "functional_checks": {
       "viewports": [
-        1440,
-        1024,
-        390
+        [
+          1440,
+          900
+        ],
+        [
+          1024,
+          768
+        ],
+        [
+          390,
+          844
+        ]
       ],
-      "artifact": "art-direction/qa/functional-young-adults-youth-kids-women-men-new-leadership-life-groups.json",
-      "result": "24 browser checks clean: no overflow, required ledger omissions, missing loaded images, JS errors, or hidden reduced-motion essentials; menu/Escape functional."
+      "artifact": "art-direction/qa/women-distinct-author/functional-motion.json",
+      "result": "All7 required IDs and existing action present at each width; no overflow; 3 once-only entries; reverse adds0; reduced motion entries0, allopacity1."
     }
   },
   "motion_contract": {
     "mechanisms": [
-      "Hold"
+      "Hold",
+      "Scroll-triggered"
     ],
-    "selectors": [],
-    "focus_selector": null,
+    "selectors": [
+      ".women-together figure",
+      ".women-purpose-copy p"
+    ],
     "estimated_settings": {
-      "opacity_start": 0.65,
-      "duration_ms": 1100,
-      "threshold": 0.15
+      "opacity_start": 0.8,
+      "image_duration_ms": 1100,
+      "paragraph_duration_ms": 1500,
+      "threshold": 0.18
     },
-    "reverse": "No replay; no reversed filter. Native flow.",
-    "mobile": "Native document flow; same nonessential entry selectors; essential content holds.",
-    "limitations": "Source editor timings unknown. No pin, chapter exchange or footer-focus reconstruction."
+    "reverse": "Entry does not replay. No pin.",
+    "mobile": "Same semantic grouping and entry driver; no hidden information.",
+    "reduced_motion": "Static HTML, active animations canceled."
   },
   "repair": {
     "date": "2026-10-07",
-    "status": "Rebuilt; author desktop/tablet/phone visual checks performed; independent reference review still required",
-    "source_decision": "See plan.md preconstruction repair decision",
-    "removed_false_mechanism": "Short scripture heading no longer receives Lou footer blur",
-    "content": "All original IDs retained. Repeated scripture section deleted; exact scripture now serves contextual proof inside task-specific section, not a separate false Lou donor scene.",
-    "author_capture_directory": "/tmp/klcc-ministry-repair"
-  }
+    "reason": "Resolve Youth/Women opening sameness through actual events-first composition, not an image swap.",
+    "source_decision": "plan.md anti-sameness repair rationale",
+    "content": "All seven required IDs and existing Life Groups destination preserved."
+  },
+  "actual_sections": [
+    "women-opening",
+    "women-together",
+    "women-purpose"
+  ]
 }

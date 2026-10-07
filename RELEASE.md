@@ -1,6 +1,6 @@
 # Release disposition
 
-Production has not been changed. The repair is on `codex/klcc-v22-gated-rebuild`, with [draft PR1](https://github.com/VastlyResilient/klcc-redesign/pull/1).
+The existing production root is preserved. The complete 30-route review build is staged for `/preview/`. The repair is on `codex/klcc-v22-gated-rebuild`, with [draft PR1](https://github.com/VastlyResilient/klcc-redesign/pull/1).
 
 30/30 routes pass the independent section rubric. Global G6 remains failed; this is not a complete release certificate.
 

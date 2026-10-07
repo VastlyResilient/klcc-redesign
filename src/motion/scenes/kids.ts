@@ -1,7 +1,16 @@
-const reduced=()=>matchMedia('(prefers-reduced-motion: reduce)').matches||document.body.classList.contains('motion-reduced');
-const active=new Set<Animation>();
-// Once-entered opacity .65 to 1, 1100ms ease-out; threshold .15. Native flow; no pin, chapter exchange, or reversible filter.
-const entry0=new IntersectionObserver(es=>{for(const e of es){if(!e.isIntersecting)continue;entry0.unobserve(e.target);if(reduced())continue;const a=e.target.animate([{opacity:.65},{opacity:1}],{duration:1100,easing:'ease-out'});active.add(a);a.finished.then(()=>active.delete(a),()=>active.delete(a))}},{threshold:.15});document.querySelectorAll('#kids-team figure').forEach(e=>entry0.observe(e));
-// Once-entered opacity .65 to 1, 1100ms ease-out; threshold .15. Native flow; no pin, chapter exchange, or reversible filter.
-const entry1=new IntersectionObserver(es=>{for(const e of es){if(!e.isIntersecting)continue;entry1.unobserve(e.target);if(reduced())continue;const a=e.target.animate([{opacity:.65},{opacity:1}],{duration:1100,easing:'ease-out'});active.add(a);a.finished.then(()=>active.delete(a),()=>active.delete(a))}},{threshold:.15});document.querySelectorAll('#kids-team p:not(.eyebrow)').forEach(e=>entry1.observe(e));
-addEventListener('klcc-motion-change',()=>{if(reduced()){active.forEach(a=>a.cancel());document.querySelectorAll<HTMLElement>('main [style*=filter]').forEach(e=>e.style.filter='none')}});
+// Slab Hydra next-project frames014–016: artwork moves up with native scroll.
+// KLCC uses a bounded 160px continuation, explicit signup, no automatic navigation.
+const stage=document.querySelector<HTMLElement>('.kids-next-art');
+const reduced=()=>matchMedia('(prefers-reduced-motion: reduce)').matches||document.body.classList.contains('motion-reduced')||innerWidth<=700;
+let queued=false;
+const update=()=>{queued=false;if(!stage)return;const y=reduced()?0:Math.max(0,Math.min(160,(stage.getBoundingClientRect().top-innerHeight*.2)*.28));stage.style.setProperty('--art-entry',`${y}px`)};
+const schedule=()=>{if(!queued){queued=true;requestAnimationFrame(update)}};
+addEventListener('scroll',schedule,{passive:true});addEventListener('resize',schedule);addEventListener('klcc-motion-change',schedule);matchMedia('(prefers-reduced-motion: reduce)').addEventListener('change',schedule);update();
+// Inspector bounds are the exact native-scroll interval used above:
+// y=160 at artTop-.2vh-160/.28 and y=0 at artTop-.2vh.
+const scenes=(window as any).__klccScenes??=((new Map()));
+const sceneId='kids-volunteer-art-continuation';
+const bounds=()=>{const end=(stage?.getBoundingClientRect().top??0)+scrollY-innerHeight*.2;return{start:end-160/.28,end}};
+const syncInspector=()=>{if(stage&&!reduced())scenes.set(sceneId,{bounds});else scenes.delete(sceneId)};
+addEventListener('resize',syncInspector);addEventListener('klcc-motion-change',syncInspector);matchMedia('(prefers-reduced-motion: reduce)').addEventListener('change',syncInspector);syncInspector();
+addEventListener('pageswap',()=>{scenes.delete(sceneId);removeEventListener('scroll',schedule);removeEventListener('resize',schedule);removeEventListener('resize',syncInspector);removeEventListener('klcc-motion-change',schedule);removeEventListener('klcc-motion-change',syncInspector)},{once:true});

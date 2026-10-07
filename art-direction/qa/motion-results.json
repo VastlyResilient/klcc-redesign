@@ -1,5 +1,5 @@
 {
-  "created": "2026-10-07T09:52:47.683Z",
+  "created": "2026-10-07T20:07:11.189Z",
   "scope": "Runtime motion mechanics; unknown does not pass.",
   "checks": [
     {
@@ -270,14 +270,14 @@
     },
     {
       "route": "membership",
-      "viewport": 1024,
+      "viewport": 390,
       "pass": true,
       "note": "Main-content computed property changes observed; not a source-fidelity approval.",
       "evidence": "art-direction/qa/motion-runtime.json"
     },
     {
       "route": "membership",
-      "viewport": 390,
+      "viewport": 1024,
       "pass": true,
       "note": "Main-content computed property changes observed; not a source-fidelity approval.",
       "evidence": "art-direction/qa/motion-runtime.json"
@@ -347,27 +347,13 @@
     },
     {
       "route": "courses",
-      "viewport": 1024,
+      "viewport": 390,
       "pass": true,
       "note": "Main-content computed property changes observed; not a source-fidelity approval.",
       "evidence": "art-direction/qa/motion-runtime.json"
     },
     {
       "route": "courses",
-      "viewport": 390,
-      "pass": true,
-      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
-      "evidence": "art-direction/qa/motion-runtime.json"
-    },
-    {
-      "route": "kids",
-      "viewport": 1440,
-      "pass": true,
-      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
-      "evidence": "art-direction/qa/motion-runtime.json"
-    },
-    {
-      "route": "kids",
       "viewport": 1024,
       "pass": true,
       "note": "Main-content computed property changes observed; not a source-fidelity approval.",
@@ -377,6 +363,13 @@
       "route": "kids",
       "viewport": 390,
       "pass": true,
+      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "kids",
+      "viewport": 1440,
+      "pass": true,
       "note": "Main-content computed property changes observed; not a source-fidelity approval.",
       "evidence": "art-direction/qa/motion-runtime.json"
     },
@@ -389,6 +382,13 @@
     },
     {
       "route": "youth",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "kids",
       "viewport": 1024,
       "pass": true,
       "note": "Main-content computed property changes observed; not a source-fidelity approval.",
@@ -426,26 +426,40 @@
       "route": "women",
       "viewport": 1440,
       "pass": true,
-      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
       "evidence": "art-direction/qa/motion-runtime.json"
     },
     {
       "route": "women",
       "viewport": 1024,
       "pass": true,
-      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
       "evidence": "art-direction/qa/motion-runtime.json"
     },
     {
       "route": "women",
       "viewport": 390,
       "pass": true,
-      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
       "evidence": "art-direction/qa/motion-runtime.json"
     },
     {
       "route": "men",
       "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "men",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "men",
+      "viewport": 390,
       "pass": true,
       "note": "Main-content computed property changes observed; not a source-fidelity approval.",
       "evidence": "art-direction/qa/motion-runtime.json"
@@ -458,36 +472,22 @@
       "evidence": "art-direction/qa/motion-runtime.json"
     },
     {
-      "route": "men",
+      "route": "calendar",
       "viewport": 1024,
       "pass": true,
-      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
       "evidence": "art-direction/qa/motion-runtime.json"
     },
     {
-      "route": "men",
+      "route": "calendar",
       "viewport": 390,
       "pass": true,
-      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
       "evidence": "art-direction/qa/motion-runtime.json"
     },
     {
       "route": "previous-messages",
       "viewport": 1440,
-      "pass": true,
-      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
-      "evidence": "art-direction/qa/motion-runtime.json"
-    },
-    {
-      "route": "calendar",
-      "viewport": 1024,
-      "pass": true,
-      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
-      "evidence": "art-direction/qa/motion-runtime.json"
-    },
-    {
-      "route": "calendar",
-      "viewport": 390,
       "pass": true,
       "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
       "evidence": "art-direction/qa/motion-runtime.json"
@@ -572,6 +572,20 @@
     {
       "route": "subsplash-media",
       "viewport": 1440,
+      "pass": true,
+      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "subsplash-media",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "subsplash-media",
+      "viewport": 390,
       "pass": true,
       "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
       "evidence": "art-direction/qa/motion-runtime.json"
@@ -584,14 +598,7 @@
       "evidence": "art-direction/qa/motion-runtime.json"
     },
     {
-      "route": "subsplash-media",
-      "viewport": 390,
-      "pass": true,
-      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
-      "evidence": "art-direction/qa/motion-runtime.json"
-    },
-    {
-      "route": "subsplash-media",
+      "route": "legal",
       "viewport": 1024,
       "pass": true,
       "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
@@ -599,7 +606,7 @@
     },
     {
       "route": "legal",
-      "viewport": 1024,
+      "viewport": 390,
       "pass": true,
       "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
       "evidence": "art-direction/qa/motion-runtime.json"
@@ -607,13 +614,6 @@
     {
       "route": "404",
       "viewport": 1440,
-      "pass": true,
-      "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
-      "evidence": "art-direction/qa/motion-runtime.json"
-    },
-    {
-      "route": "legal",
-      "viewport": 390,
       "pass": true,
       "note": "Explicit Hold contract: verify zero animated visual property changes and no opacity-hidden essential content. This proves stillness, not reference fidelity.",
       "evidence": "art-direction/qa/motion-runtime.json"

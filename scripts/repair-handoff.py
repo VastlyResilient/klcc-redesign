@@ -20,6 +20,7 @@ notes='''## Repairs actually made
 - Corrected source misreadings: Lou’s reading field is centered; Slab’s hero image and metadata are separate DOM regions; screenshot frame numbers do not identify equivalent mobile landmarks.
 - Fixed Beliefs heading contrast and Membership phone captions using continuous feathered image grading, without rectangular text panels. Final independently measured minima: Beliefs 5.71:1 across three widths; Membership caption minimum 10.25:1 on phone.
 - Corrected five tablet H1 sizes against actual source measurements. Preserved original company information, authentic artwork, legitimate provider actions and all required content IDs.
+- Rebuilt Kids around parent logistics, Men around weekly reading and meeting credentials, Women around gathering records, and Give around real provider actions. Fresh reports: `art-direction/qa/build-final/`.
 - Added truthful Hold/static motion checks and review import validation. A changing class name or a hidden element is not evidence of animation.
 
 '''
@@ -27,7 +28,7 @@ limits='''## Verification limits and release boundary
 
 The independent section rubric and the exact global contract are different checks. **All repaired route section rubrics may pass while G6 still fails.** No scores were invented and no source boxes were changed to force a match.
 
-Two global checks still fail: universal two-axis heading uniqueness, and strict measured structural parity. The independent whole-site review also identifies repeated opening silhouettes (notably New/Kids and Men/Leadership). These findings are retained in the [global diagnosis](art-direction/qa/round-3/global-gate-diagnosis.md). Static-heading requirements conflict with universal pairwise differentiation; inventing arbitrary animations would violate the same contract. Content expansion explains some aspect deviations but does not automatically waive the 15% threshold.
+Two global checks still fail: universal two-axis heading uniqueness, and strict measured structural parity. The earlier independent whole-site review identified repeated opening silhouettes. Kids, Men, Women and Give have since received task-specific compositions and fresh independent three-width reviews; the historical findings are retained in the [global diagnosis](art-direction/qa/round-3/global-gate-diagnosis.md). Static-heading requirements conflict with universal pairwise differentiation; inventing arbitrary animations would violate the same contract. Content expansion explains some aspect deviations but does not automatically waive the 15% threshold.
 
 The protected homepage baseline contains a pinned photograph and staged HTML, not an active MP4. Its approved mechanics were preserved; movie playback is not claimed. Tests use browser emulation and WebKit, not physical phones. No payment or form was submitted, and third-party playback was not exhaustively validated. Exact Framer editor values remain estimates where inaccessible. No route is Accepted.
 
@@ -38,7 +39,7 @@ Updated {now}.
 
 **Independent section review: {counts.get('Fidelity-reviewed',0)}/30 routes Fidelity-reviewed; {counts.get('Blocked',0)} route records Blocked.** The original 23 blocked route records were repaired and independently re-reviewed. **Production release remains blocked by global G6 checks.** This is progress with evidence, not full-contract completion or owner acceptance.
 
-[Local website](http://127.0.0.1:4201/) · [Visual review packet](review/index.html) · [Draft PR](https://github.com/VastlyResilient/klcc-redesign/pull/1) · [Remaining gates](BLOCKED.md)
+[Complete public review build](https://vastlyresilient.github.io/klcc-redesign/preview/) · [Visual review packet](review/index.html) · [Draft PR](https://github.com/VastlyResilient/klcc-redesign/pull/1) · [Remaining gates](BLOCKED.md)
 
 '''+notes+f'''## Evidence
 
@@ -57,7 +58,7 @@ All original 23 route-level repair loops have now received independent section j
 (root/'BLOCKED.md').write_text(blocked)
 (root/'RELEASE.md').write_text('''# Release disposition
 
-Production has not been changed. The repair is on `codex/klcc-v22-gated-rebuild`, with [draft PR1](https://github.com/VastlyResilient/klcc-redesign/pull/1).
+The existing production root is preserved. The complete 30-route review build is staged for `/preview/`. The repair is on `codex/klcc-v22-gated-rebuild`, with [draft PR1](https://github.com/VastlyResilient/klcc-redesign/pull/1).
 
 '''+f"{counts.get('Fidelity-reviewed',0)}/30 routes pass the independent section rubric. Global G6 remains failed; this is not a complete release certificate.\n\n"+'''Local preview: http://127.0.0.1:4201/ and http://127.0.0.1:4201/review/.
 

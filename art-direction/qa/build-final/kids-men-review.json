@@ -1,0 +1,385 @@
+{
+  "reviewer": "repair_practical independent reviewer",
+  "reviewed_at": "2026-10-07T20:01:48.046251+00:00",
+  "status": "Blocked",
+  "visual_review_status": "Fidelity-reviewed",
+  "accepted": false,
+  "scope": "Changed Kids/Men routes, all sections at1440/1024/390; geometry/provenance limitations remain separate and blocking",
+  "routes": [
+    {
+      "route": "kids",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "kids-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "source_evidence": "art-direction/references/deep/royal/contact/desktop/section-section-0.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/kids-1440-kids-opening.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/kids-1440-kids-opening-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "Practical left identity, age and Sunday time/check-in channels; lower right explanatory copy and subordinate true campus image. Phone preserves primary parent facts before detailed explanation. This is materially distinct from New aerial-image hero.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            },
+            {
+              "viewport": 1024,
+              "source_evidence": "art-direction/references/deep/royal/contact/tablet/section-section-0.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/kids-1024-kids-opening.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/kids-1024-kids-opening-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "Practical left identity, age and Sunday time/check-in channels; lower right explanatory copy and subordinate true campus image. Phone preserves primary parent facts before detailed explanation. This is materially distinct from New aerial-image hero.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            },
+            {
+              "viewport": 390,
+              "source_evidence": "art-direction/references/deep/royal/contact/phone/section-section-0.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/kids-390-kids-opening.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/kids-390-kids-opening-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "Practical left identity, age and Sunday time/check-in channels; lower right explanatory copy and subordinate true campus image. Phone preserves primary parent facts before detailed explanation. This is materially distinct from New aerial-image hero.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            }
+          ]
+        },
+        {
+          "id": "kids-team",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-015.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/kids-1440-kids-team.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/kids-1440-kids-team-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 4,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Centered optional volunteering continuation precedes upward image entry. Actual bounded160px scroll translation reverses; phone/reduced Hold. Source larger continuous next-project transition is adapted to explicit signup and complete existing scripture/explanation; no auto-navigation or invented progress meter.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            },
+            {
+              "viewport": 1024,
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-015.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/kids-1024-kids-team.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/kids-1024-kids-team-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 4,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Centered optional volunteering continuation precedes upward image entry. Actual bounded160px scroll translation reverses; phone/reduced Hold. Source larger continuous next-project transition is adapted to explicit signup and complete existing scripture/explanation; no auto-navigation or invented progress meter.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            },
+            {
+              "viewport": 390,
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-015.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/kids-390-kids-team.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/kids-390-kids-team-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 4,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Centered optional volunteering continuation precedes upward image entry. Actual bounded160px scroll translation reverses; phone/reduced Hold. Source larger continuous next-project transition is adapted to explicit signup and complete existing scripture/explanation; no auto-navigation or invented progress meter.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "men",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "men-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "source_evidence": "art-direction/qa/round-2/lou-reader-1440.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/men-1440-men-opening.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/men-1440-men-opening-comparison.jpg",
+              "scores": {
+                "text_placement": 5,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 5,
+                "media_size_aspect": 5,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "Actual centered880/816/350px reading field and40/24px mission paragraph, modest weekly facts in2\u21921 columns. The original semantic paragraph is preserved after independently caught body-splitting violation was repaired. Whole block clarity is timed once, reverse stays1. Distinct from Leadership image-led opening.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            },
+            {
+              "viewport": 1024,
+              "source_evidence": "art-direction/qa/round-2/lou-reader-1024.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/men-1024-men-opening.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/men-1024-men-opening-comparison.jpg",
+              "scores": {
+                "text_placement": 5,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 5,
+                "media_size_aspect": 5,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "Actual centered880/816/350px reading field and40/24px mission paragraph, modest weekly facts in2\u21921 columns. The original semantic paragraph is preserved after independently caught body-splitting violation was repaired. Whole block clarity is timed once, reverse stays1. Distinct from Leadership image-led opening.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            },
+            {
+              "viewport": 390,
+              "source_evidence": "art-direction/qa/round-2/lou-reader-390.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/men-390-men-opening.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/men-390-men-opening-comparison.jpg",
+              "scores": {
+                "text_placement": 5,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 5,
+                "media_size_aspect": 5,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "Actual centered880/816/350px reading field and40/24px mission paragraph, modest weekly facts in2\u21921 columns. The original semantic paragraph is preserved after independently caught body-splitting violation was repaired. Whole block clarity is timed once, reverse stays1. Distinct from Leadership image-led opening.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            }
+          ]
+        },
+        {
+          "id": "men-study",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-004.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/men-1440-men-study.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/men-1440-men-study-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 4,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic leadership photo now secondary study-context proof with honest caption. Context scripture left, primary32px study explanation and signup right; phone remains complete and sequential. Source provenance must describe preceding artwork PLUS Renewable Focus text, not text-only section-2.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            },
+            {
+              "viewport": 1024,
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-004.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/men-1024-men-study.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/men-1024-men-study-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 4,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic leadership photo now secondary study-context proof with honest caption. Context scripture left, primary32px study explanation and signup right; phone remains complete and sequential. Source provenance must describe preceding artwork PLUS Renewable Focus text, not text-only section-2.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            },
+            {
+              "viewport": 390,
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-004.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/men-390-men-study.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/men-390-men-study-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 4,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic leadership photo now secondary study-context proof with honest caption. Context scripture left, primary32px study explanation and signup right; phone remains complete and sequential. Source provenance must describe preceding artwork PLUS Renewable Focus text, not text-only section-2.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            }
+          ]
+        },
+        {
+          "id": "men-calendar",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/men-1440-men-calendar.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/men-1440-men-calendar-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 5,
+                "media_size_aspect": 5,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet year label left and chronological ruled dates/conference detail right; phone stacks cleanly. All existing event information and contact destination remain in native flow.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            },
+            {
+              "viewport": 1024,
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/men-1024-men-calendar.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/men-1024-men-calendar-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 5,
+                "media_size_aspect": 5,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet year label left and chronological ruled dates/conference detail right; phone stacks cleanly. All existing event information and contact destination remain in native flow.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            },
+            {
+              "viewport": 390,
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
+              "build_evidence": "art-direction/qa/build-final/kids-men-evidence/men-390-men-calendar.png",
+              "comparison": "art-direction/qa/build-final/kids-men-evidence/men-390-men-calendar-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 5,
+                "media_size_aspect": 5,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet year label left and chronological ruled dates/conference detail right; phone stacks cleanly. All existing event information and contact destination remain in native flow.",
+              "state": "Initial/settled whole section plus motion forward/reverse/reduced and no-JS checked",
+              "limits": "Section screenshot may include fixed shell at its scroll position; source/build semantic region matching must be verified separately."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "checks": {
+    "overflow_or_broken_images": false,
+    "all6_noJS_content_and_native_links_visible": true,
+    "kids_actual_translation": "160\u21920\u2192160px desktop;150\u21920\u2192150 tablet;nonephone/reduced",
+    "men_actual_animation": "semantic p .55\u21921 over1700ms once; reverse1; reduced1; zerocharacter spans",
+    "men_minimum_composited_contrast": 5.494454170443351,
+    "kids_checkin_anchor": "../new/#children exists",
+    "payment_or_signup_submitted": false
+  },
+  "evidence": [
+    "art-direction/qa/build-final/kids-men-evidence/observations.json",
+    "art-direction/qa/build-final/kids-men-evidence/contrast.json"
+  ],
+  "structural_limitations": [
+    "Kids next-project and Men reading-credentials/settled-reading source names are not literal recorded semantic-manifest IDs. They need actual source-selector/region provenance; absence remains Blocked.",
+    "Men study includes preceding image+RenewableFocus explanation; current section-2 attribution denotes320px text-only source while build1388px includesimage. Correct like-for-like region evidence before judging raw ratio.",
+    "Men actual reader width matches source; entire opening1009.58/997.58/1199.11px is shorter than source reading+credentials1626/1435.94/1542.03px. Do not waive strict15% gate on basis of readable content or this visual4 rubric.",
+    "Kids title/intro+art translation is bounded adaptation of large source next-project sequence, not exact editor timing or a complete source pin. Preserve that limitation.",
+    "Pairwise heading-axis uniqueness is not cleared: both H1s remain static, while observed secondary mechanisms differ."
+  ],
+  "anti_sameness": "Targeted prior New/Kids and Men/Leadership opening interchangeability resolved by actual hierarchy/media order, not labels or palette. This is not all-site anti-sameness acceptance."
+}

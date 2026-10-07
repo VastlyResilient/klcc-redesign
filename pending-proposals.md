@@ -67,3 +67,8 @@ Proposed only. A declared Hold sequence on a safety, recovery, legal, giving or 
 ## P-010 — Separate route fidelity from sitewide repetition and exact metric parity
 
 Proposed only; no skill changes applied. A page can pass a ten-dimension visual rubric while the site repeats opening silhouettes or misses specified source geometry. Keep independent section scores, actual measured deviations and global anti-sameness as separate gates. Never summarize a local pass as whole-site readiness. Test contrast against the actual changing photo crop, including small captions, at every relevant viewport; large-title contrast alone does not protect supporting copy. Prefer continuous source-appropriate photographic grading over prohibited rectangular hero text panels.
+
+
+## P-011 — Distinguish the actual visitor task before changing the opening
+
+Proposed only. In the complete-build revision, parents received immediate check-in and age information; men received weekly meeting rhythm; women received gathering records; donors received the actual provider action and alternative channels. Different images alone did not fix interchangeable openings. Preserve genuine source relationships while organizing the real task. Audit old CSS selectors after removing wrappers: an obsolete last-child selector made a small legal-entity label24px on phones despite a later12px declaration. Verify computed styles and visible results, not the intended override. Body paragraphs remain semantic text rather than individually animated character spans.

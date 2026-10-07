@@ -134,6 +134,11 @@
       "date": "2026-10-07T09:55:42.491225+00:00",
       "decision": "Import independently re-reviewed section passes for all23 previously blocked routes, while retaining failed global structural and anti-sameness gates and keeping production unchanged.",
       "reason": "Section-level review, source-metric parity, whole-site differentiation and release readiness are separate evidence requirements. No status renaming, axis synonyms or arbitrary animation may fabricate compliance."
+    },
+    {
+      "id": "D-PREVIEW-20261007",
+      "decision": "Publish all 30 routes under /preview/ while retaining current production root.",
+      "reason": "User requests a complete inspectable website. Independent section reviews pass; strict geometry and universal heading-axis gates remain open and must not be silently waived. No owner Accepted status assigned."
     }
   ]
 }

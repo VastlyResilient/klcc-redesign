@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T10:00:04.079Z",
+  "generated_at": "2026-10-07T20:07:58.343Z",
   "checks": [
     {
       "route": "404",
@@ -2498,7 +2498,7 @@
       "viewport": "desktop",
       "section": "give-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.35524088541666665,
+      "actual": 0.20151909722222222,
       "reference": 0.5277777777777778,
       "pass": false
     },
@@ -2533,10 +2533,28 @@
       "route": "give",
       "viewport": "desktop",
       "section": "give-methods",
-      "test": "explicit-landmark-pair",
-      "pass": null,
-      "status": "Blocked",
-      "reason": "Blueprint/capture/reference landmark absent; no guessed replacement."
+      "test": "section-aspect-within-15-percent",
+      "actual": 0.43850911458333336,
+      "reference": 0.5277777777777778,
+      "pass": false
+    },
+    {
+      "route": "give",
+      "viewport": "desktop",
+      "section": "give-methods",
+      "test": "fullbleed-match",
+      "actual": true,
+      "reference": true,
+      "pass": true
+    },
+    {
+      "route": "give",
+      "viewport": "desktop",
+      "section": "give-methods",
+      "test": "pin-presence-match",
+      "actual": false,
+      "reference": false,
+      "pass": true
     },
     {
       "route": "give",
@@ -2569,7 +2587,7 @@
       "viewport": "tablet",
       "section": "give-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.4995574951171875,
+      "actual": 0.27264404296875,
       "reference": 0.68243408203125,
       "pass": false
     },
@@ -2604,10 +2622,28 @@
       "route": "give",
       "viewport": "tablet",
       "section": "give-methods",
-      "test": "explicit-landmark-pair",
-      "pass": null,
-      "status": "Blocked",
-      "reason": "Blueprint/capture/reference landmark absent; no guessed replacement."
+      "test": "section-aspect-within-15-percent",
+      "actual": 0.6166534423828125,
+      "reference": 0.68243408203125,
+      "pass": true
+    },
+    {
+      "route": "give",
+      "viewport": "tablet",
+      "section": "give-methods",
+      "test": "fullbleed-match",
+      "actual": true,
+      "reference": true,
+      "pass": true
+    },
+    {
+      "route": "give",
+      "viewport": "tablet",
+      "section": "give-methods",
+      "test": "pin-presence-match",
+      "actual": false,
+      "reference": false,
+      "pass": true
     },
     {
       "route": "give",
@@ -2640,7 +2676,7 @@
       "viewport": "phone",
       "section": "give-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 1.323036858974359,
+      "actual": 0.5830128205128206,
       "reference": 2.6595352564102566,
       "pass": false
     },
@@ -2675,10 +2711,28 @@
       "route": "give",
       "viewport": "phone",
       "section": "give-methods",
-      "test": "explicit-landmark-pair",
-      "pass": null,
-      "status": "Blocked",
-      "reason": "Blueprint/capture/reference landmark absent; no guessed replacement."
+      "test": "section-aspect-within-15-percent",
+      "actual": 3.1408253205128207,
+      "reference": 2.6595352564102566,
+      "pass": false
+    },
+    {
+      "route": "give",
+      "viewport": "phone",
+      "section": "give-methods",
+      "test": "fullbleed-match",
+      "actual": true,
+      "reference": true,
+      "pass": true
+    },
+    {
+      "route": "give",
+      "viewport": "phone",
+      "section": "give-methods",
+      "test": "pin-presence-match",
+      "actual": false,
+      "reference": false,
+      "pass": true
     },
     {
       "route": "give",
@@ -2762,8 +2816,8 @@
       "viewport": "desktop",
       "section": "kids-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.8741427951388889,
-      "reference": 0.8749782986111111,
+      "actual": 0.47725694444444444,
+      "reference": 0.5277777777777778,
       "pass": true
     },
     {
@@ -2798,8 +2852,8 @@
       "viewport": "desktop",
       "section": "kids-team",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.8228081597222222,
-      "reference": 0.2222222222222222,
+      "actual": 1.0388129340277779,
+      "reference": 1.25,
       "pass": false
     },
     {
@@ -2833,8 +2887,8 @@
       "viewport": "tablet",
       "section": "kids-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 1.000946044921875,
-      "reference": 1.05401611328125,
+      "actual": 0.68585205078125,
+      "reference": 0.68243408203125,
       "pass": true
     },
     {
@@ -2859,7 +2913,7 @@
       "route": "kids",
       "viewport": "tablet",
       "test": "largest-opening-type-viewport-ratio-within20percent",
-      "actual": 0.0348,
+      "actual": 0.0390625,
       "reference": 0.0390625,
       "pass": true,
       "note": "Largest section text measured by capture; cannot certify this is h1 if another element is larger."
@@ -2869,9 +2923,9 @@
       "viewport": "tablet",
       "section": "kids-team",
       "test": "section-aspect-within-15-percent",
-      "actual": 1.17620849609375,
-      "reference": 0.3271484375,
-      "pass": false
+      "actual": 1.4102935791015625,
+      "reference": 1.5,
+      "pass": true
     },
     {
       "route": "kids",
@@ -2904,9 +2958,9 @@
       "viewport": "phone",
       "section": "kids-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 2.3122996794871793,
-      "reference": 2.87744391025641,
-      "pass": false
+      "actual": 2.6311298076923078,
+      "reference": 2.6595352564102566,
+      "pass": true
     },
     {
       "route": "kids",
@@ -2940,8 +2994,8 @@
       "viewport": "phone",
       "section": "kids-team",
       "test": "section-aspect-within-15-percent",
-      "actual": 2.3600560897435896,
-      "reference": 1.0502403846153847,
+      "actual": 2.5970753205128205,
+      "reference": 4.328205128205128,
       "pass": false
     },
     {
@@ -3981,16 +4035,16 @@
       "viewport": "desktop",
       "test": "section-count-within-one-of-blueprint",
       "pass": true,
-      "actual": 4,
-      "expected": 4
+      "actual": 3,
+      "expected": 3
     },
     {
       "route": "men",
       "viewport": "desktop",
       "section": "men-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.7852756076388889,
-      "reference": 0.8749782986111111,
+      "actual": 1.1472478693181818,
+      "reference": 1.1291666666666667,
       "pass": true
     },
     {
@@ -3998,9 +4052,9 @@
       "viewport": "desktop",
       "section": "men-opening",
       "test": "fullbleed-match",
-      "actual": true,
+      "actual": false,
       "reference": true,
-      "pass": true
+      "pass": false
     },
     {
       "route": "men",
@@ -4015,44 +4069,17 @@
       "route": "men",
       "viewport": "desktop",
       "test": "largest-opening-type-viewport-ratio-within20percent",
-      "actual": 0.034722222222222224,
-      "reference": 0.034722222222222224,
+      "actual": 0.027777777777777776,
+      "reference": 0.027777777777777776,
       "pass": true,
       "note": "Largest section text measured by capture; cannot certify this is h1 if another element is larger."
     },
     {
       "route": "men",
       "viewport": "desktop",
-      "section": "men-week",
-      "test": "section-aspect-within-15-percent",
-      "actual": 0.6060655381944444,
-      "reference": 0.46805555555555556,
-      "pass": false
-    },
-    {
-      "route": "men",
-      "viewport": "desktop",
-      "section": "men-week",
-      "test": "fullbleed-match",
-      "actual": true,
-      "reference": true,
-      "pass": true
-    },
-    {
-      "route": "men",
-      "viewport": "desktop",
-      "section": "men-week",
-      "test": "pin-presence-match",
-      "actual": false,
-      "reference": false,
-      "pass": true
-    },
-    {
-      "route": "men",
-      "viewport": "desktop",
       "section": "men-study",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.3796115451388889,
+      "actual": 0.9640625,
       "reference": 0.2222222222222222,
       "pass": false
     },
@@ -4079,9 +4106,9 @@
       "viewport": "desktop",
       "section": "men-calendar",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.54443359375,
+      "actual": 0.5162326388888889,
       "reference": 0.46805555555555556,
-      "pass": false
+      "pass": true
     },
     {
       "route": "men",
@@ -4106,16 +4133,16 @@
       "viewport": "tablet",
       "test": "section-count-within-one-of-blueprint",
       "pass": true,
-      "actual": 4,
-      "expected": 4
+      "actual": 3,
+      "expected": 3
     },
     {
       "route": "men",
       "viewport": "tablet",
       "section": "men-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.96331787109375,
-      "reference": 1.05401611328125,
+      "actual": 1.2225222120098038,
+      "reference": 1.40228271484375,
       "pass": true
     },
     {
@@ -4123,9 +4150,9 @@
       "viewport": "tablet",
       "section": "men-opening",
       "test": "fullbleed-match",
-      "actual": true,
+      "actual": false,
       "reference": true,
-      "pass": true
+      "pass": false
     },
     {
       "route": "men",
@@ -4140,7 +4167,7 @@
       "route": "men",
       "viewport": "tablet",
       "test": "largest-opening-type-viewport-ratio-within20percent",
-      "actual": 0.0348,
+      "actual": 0.0390625,
       "reference": 0.0390625,
       "pass": true,
       "note": "Largest section text measured by capture; cannot certify this is h1 if another element is larger."
@@ -4148,36 +4175,9 @@
     {
       "route": "men",
       "viewport": "tablet",
-      "section": "men-week",
-      "test": "section-aspect-within-15-percent",
-      "actual": 0.9053802490234375,
-      "reference": 0.7197265625,
-      "pass": false
-    },
-    {
-      "route": "men",
-      "viewport": "tablet",
-      "section": "men-week",
-      "test": "fullbleed-match",
-      "actual": true,
-      "reference": true,
-      "pass": true
-    },
-    {
-      "route": "men",
-      "viewport": "tablet",
-      "section": "men-week",
-      "test": "pin-presence-match",
-      "actual": false,
-      "reference": false,
-      "pass": true
-    },
-    {
-      "route": "men",
-      "viewport": "tablet",
       "section": "men-study",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.6150665283203125,
+      "actual": 1.222137451171875,
       "reference": 0.3271484375,
       "pass": false
     },
@@ -4204,7 +4204,7 @@
       "viewport": "tablet",
       "section": "men-calendar",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.7928466796875,
+      "actual": 0.7540740966796875,
       "reference": 0.7197265625,
       "pass": true
     },
@@ -4231,16 +4231,16 @@
       "viewport": "phone",
       "test": "section-count-within-one-of-blueprint",
       "pass": true,
-      "actual": 4,
-      "expected": 4
+      "actual": 3,
+      "expected": 3
     },
     {
       "route": "men",
       "viewport": "phone",
       "section": "men-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 1.8127804487179486,
-      "reference": 2.87744391025641,
+      "actual": 3.074639423076923,
+      "reference": 3.953926282051282,
       "pass": false
     },
     {
@@ -4265,44 +4265,17 @@
       "route": "men",
       "viewport": "phone",
       "test": "largest-opening-type-viewport-ratio-within20percent",
-      "actual": 0.08205128205128205,
-      "reference": 0.08205128205128205,
-      "pass": true,
+      "actual": 0.07692307692307693,
+      "reference": 0.06153846153846154,
+      "pass": false,
       "note": "Largest section text measured by capture; cannot certify this is h1 if another element is larger."
-    },
-    {
-      "route": "men",
-      "viewport": "phone",
-      "section": "men-week",
-      "test": "section-aspect-within-15-percent",
-      "actual": 2.6149839743589745,
-      "reference": 1.8092147435897437,
-      "pass": false
-    },
-    {
-      "route": "men",
-      "viewport": "phone",
-      "section": "men-week",
-      "test": "fullbleed-match",
-      "actual": true,
-      "reference": true,
-      "pass": true
-    },
-    {
-      "route": "men",
-      "viewport": "phone",
-      "section": "men-week",
-      "test": "pin-presence-match",
-      "actual": false,
-      "reference": false,
-      "pass": true
     },
     {
       "route": "men",
       "viewport": "phone",
       "section": "men-study",
       "test": "section-aspect-within-15-percent",
-      "actual": 1.7302483974358975,
+      "actual": 2.455488782051282,
       "reference": 1.0502403846153847,
       "pass": false
     },
@@ -4329,7 +4302,7 @@
       "viewport": "phone",
       "section": "men-calendar",
       "test": "section-aspect-within-15-percent",
-      "actual": 2.113301282051282,
+      "actual": 2.1138621794871795,
       "reference": 1.8092147435897437,
       "pass": false
     },
@@ -6648,17 +6621,17 @@
       "viewport": "desktop",
       "test": "section-count-within-one-of-blueprint",
       "pass": true,
-      "actual": 2,
-      "expected": 2
+      "actual": 3,
+      "expected": 3
     },
     {
       "route": "women",
       "viewport": "desktop",
       "section": "women-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.8620551215277777,
-      "reference": 0.8749782986111111,
-      "pass": true
+      "actual": 0.45962456597222223,
+      "reference": 0.27901475694444444,
+      "pass": false
     },
     {
       "route": "women",
@@ -6683,23 +6656,50 @@
       "viewport": "desktop",
       "test": "largest-opening-type-viewport-ratio-within20percent",
       "actual": 0.034722222222222224,
-      "reference": 0.034722222222222224,
+      "reference": 0.03333333333333333,
       "pass": true,
       "note": "Largest section text measured by capture; cannot certify this is h1 if another element is larger."
     },
     {
       "route": "women",
       "viewport": "desktop",
-      "section": "women-calendar",
+      "section": "women-together",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.4454535590277778,
-      "reference": 0.46805555555555556,
+      "actual": 0.6073567708333333,
+      "reference": 0.6756715238764045,
       "pass": true
     },
     {
       "route": "women",
       "viewport": "desktop",
-      "section": "women-calendar",
+      "section": "women-together",
+      "test": "fullbleed-match",
+      "actual": true,
+      "reference": false,
+      "pass": false
+    },
+    {
+      "route": "women",
+      "viewport": "desktop",
+      "section": "women-together",
+      "test": "pin-presence-match",
+      "actual": false,
+      "reference": false,
+      "pass": true
+    },
+    {
+      "route": "women",
+      "viewport": "desktop",
+      "section": "women-purpose",
+      "test": "section-aspect-within-15-percent",
+      "actual": 0.5295789930555556,
+      "reference": 1.1291666666666667,
+      "pass": false
+    },
+    {
+      "route": "women",
+      "viewport": "desktop",
+      "section": "women-purpose",
       "test": "fullbleed-match",
       "actual": true,
       "reference": true,
@@ -6708,7 +6708,7 @@
     {
       "route": "women",
       "viewport": "desktop",
-      "section": "women-calendar",
+      "section": "women-purpose",
       "test": "pin-presence-match",
       "actual": false,
       "reference": false,
@@ -6719,17 +6719,17 @@
       "viewport": "tablet",
       "test": "section-count-within-one-of-blueprint",
       "pass": true,
-      "actual": 2,
-      "expected": 2
+      "actual": 3,
+      "expected": 3
     },
     {
       "route": "women",
       "viewport": "tablet",
       "section": "women-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 1.083099365234375,
-      "reference": 1.05401611328125,
-      "pass": true
+      "actual": 0.6207733154296875,
+      "reference": 0.392364501953125,
+      "pass": false
     },
     {
       "route": "women",
@@ -6753,24 +6753,51 @@
       "route": "women",
       "viewport": "tablet",
       "test": "largest-opening-type-viewport-ratio-within20percent",
-      "actual": 0.0348,
-      "reference": 0.0390625,
+      "actual": 0.0390625,
+      "reference": 0.0375,
       "pass": true,
       "note": "Largest section text measured by capture; cannot certify this is h1 if another element is larger."
     },
     {
       "route": "women",
       "viewport": "tablet",
-      "section": "women-calendar",
+      "section": "women-together",
       "test": "section-aspect-within-15-percent",
-      "actual": 0.6264190673828125,
-      "reference": 0.7197265625,
+      "actual": 0.641937255859375,
+      "reference": 0.6756727430555556,
       "pass": true
     },
     {
       "route": "women",
       "viewport": "tablet",
-      "section": "women-calendar",
+      "section": "women-together",
+      "test": "fullbleed-match",
+      "actual": true,
+      "reference": false,
+      "pass": false
+    },
+    {
+      "route": "women",
+      "viewport": "tablet",
+      "section": "women-together",
+      "test": "pin-presence-match",
+      "actual": false,
+      "reference": false,
+      "pass": true
+    },
+    {
+      "route": "women",
+      "viewport": "tablet",
+      "section": "women-purpose",
+      "test": "section-aspect-within-15-percent",
+      "actual": 0.672821044921875,
+      "reference": 1.40228271484375,
+      "pass": false
+    },
+    {
+      "route": "women",
+      "viewport": "tablet",
+      "section": "women-purpose",
       "test": "fullbleed-match",
       "actual": true,
       "reference": true,
@@ -6779,7 +6806,7 @@
     {
       "route": "women",
       "viewport": "tablet",
-      "section": "women-calendar",
+      "section": "women-purpose",
       "test": "pin-presence-match",
       "actual": false,
       "reference": false,
@@ -6790,16 +6817,16 @@
       "viewport": "phone",
       "test": "section-count-within-one-of-blueprint",
       "pass": true,
-      "actual": 2,
-      "expected": 2
+      "actual": 3,
+      "expected": 3
     },
     {
       "route": "women",
       "viewport": "phone",
       "section": "women-opening",
       "test": "section-aspect-within-15-percent",
-      "actual": 2.3481971153846155,
-      "reference": 2.87744391025641,
+      "actual": 2.360576923076923,
+      "reference": 1.2489983974358974,
       "pass": false
     },
     {
@@ -6824,24 +6851,51 @@
       "route": "women",
       "viewport": "phone",
       "test": "largest-opening-type-viewport-ratio-within20percent",
-      "actual": 0.08205128205128205,
-      "reference": 0.08205128205128205,
-      "pass": true,
+      "actual": 0.09743589743589744,
+      "reference": 0.07876923076923077,
+      "pass": false,
       "note": "Largest section text measured by capture; cannot certify this is h1 if another element is larger."
     },
     {
       "route": "women",
       "viewport": "phone",
-      "section": "women-calendar",
+      "section": "women-together",
       "test": "section-aspect-within-15-percent",
-      "actual": 1.816786858974359,
-      "reference": 1.8092147435897437,
+      "actual": 0.9186698717948718,
+      "reference": 0.7407252673796791,
+      "pass": false
+    },
+    {
+      "route": "women",
+      "viewport": "phone",
+      "section": "women-together",
+      "test": "fullbleed-match",
+      "actual": true,
+      "reference": false,
+      "pass": false
+    },
+    {
+      "route": "women",
+      "viewport": "phone",
+      "section": "women-together",
+      "test": "pin-presence-match",
+      "actual": false,
+      "reference": false,
       "pass": true
     },
     {
       "route": "women",
       "viewport": "phone",
-      "section": "women-calendar",
+      "section": "women-purpose",
+      "test": "section-aspect-within-15-percent",
+      "actual": 2.1403846153846153,
+      "reference": 3.953926282051282,
+      "pass": false
+    },
+    {
+      "route": "women",
+      "viewport": "phone",
+      "section": "women-purpose",
       "test": "fullbleed-match",
       "actual": true,
       "reference": true,
@@ -6850,7 +6904,7 @@
     {
       "route": "women",
       "viewport": "phone",
-      "section": "women-calendar",
+      "section": "women-purpose",
       "test": "pin-presence-match",
       "actual": false,
       "reference": false,
@@ -7754,7 +7808,7 @@
       "route": "kids",
       "viewport": 1024,
       "test": "semantic-h1-ratio-within20percent",
-      "actual": 0.0348,
+      "actual": 0.0390625,
       "reference": 0.0390625,
       "pass": true,
       "evidence": "art-direction/qa/dom-ledger-results.json"
@@ -7827,7 +7881,7 @@
       "viewport": 1440,
       "test": "semantic-h1-ratio-within20percent",
       "actual": 0.034722222222222224,
-      "reference": 0.034722222222222224,
+      "reference": 0.03333333333333333,
       "pass": true,
       "evidence": "art-direction/qa/dom-ledger-results.json"
     },
@@ -7835,8 +7889,8 @@
       "route": "women",
       "viewport": 1024,
       "test": "semantic-h1-ratio-within20percent",
-      "actual": 0.0348,
-      "reference": 0.0390625,
+      "actual": 0.0390625,
+      "reference": 0.0375,
       "pass": true,
       "evidence": "art-direction/qa/dom-ledger-results.json"
     },
@@ -7844,36 +7898,36 @@
       "route": "women",
       "viewport": 390,
       "test": "semantic-h1-ratio-within20percent",
-      "actual": 0.08205128205128205,
-      "reference": 0.08205128205128205,
-      "pass": true,
+      "actual": 0.09743589743589744,
+      "reference": 0.07876923076923077,
+      "pass": false,
       "evidence": "art-direction/qa/dom-ledger-results.json"
     },
     {
       "route": "men",
       "viewport": 1440,
       "test": "semantic-h1-ratio-within20percent",
-      "actual": 0.034722222222222224,
-      "reference": 0.034722222222222224,
-      "pass": true,
+      "actual": 0.027777777777777776,
+      "reference": 0.20833333333333334,
+      "pass": false,
       "evidence": "art-direction/qa/dom-ledger-results.json"
     },
     {
       "route": "men",
       "viewport": 1024,
       "test": "semantic-h1-ratio-within20percent",
-      "actual": 0.0348,
-      "reference": 0.0390625,
-      "pass": true,
+      "actual": 0.0390625,
+      "reference": 0.1171875,
+      "pass": false,
       "evidence": "art-direction/qa/dom-ledger-results.json"
     },
     {
       "route": "men",
       "viewport": 390,
       "test": "semantic-h1-ratio-within20percent",
-      "actual": 0.08205128205128205,
-      "reference": 0.08205128205128205,
-      "pass": true,
+      "actual": 0.07692307692307693,
+      "reference": 0.1641025641025641,
+      "pass": false,
       "evidence": "art-direction/qa/dom-ledger-results.json"
     },
     {

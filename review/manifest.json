@@ -1,5 +1,5 @@
 {
-  "created": "2026-10-07T10:00:16.296Z",
+  "created": "2026-10-07T20:08:56.090Z",
   "status": "Artifact packet complete; fidelity verdicts separate",
   "missing": [],
   "entries": [
@@ -2485,8 +2485,8 @@
     },
     {
       "route": "kids",
-      "kept": "A restrained title hierarchy and staged, bounded reading passages.",
-      "adapted": "Age and check-in answers lead; conceptual book art is labelled, and no fictional children are depicted.",
+      "kept": "Royal Contact practical asymmetry; bounded Slab artwork continuation.",
+      "adapted": "Parent ages, time and check-in lead; authentic campus context is secondary. Phone and reduced motion keep artwork stationary.",
       "title": "Kids | Kingdom Life",
       "status": "Fidelity-reviewed",
       "record": "art-direction/qa/fidelity/kids.json",
@@ -2495,14 +2495,14 @@
           "id": "kids-opening",
           "source": {
             "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
-            "landmark": "hero",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "landmark": "section-0",
+            "state": "opening-settled",
+            "composition": "Asymmetric contact identity and factual channels left; lower right complete explanation. Subordinate campus orientation image follows right copy.",
+            "selection_reason": "Parent must find ages, Sunday timing and check-in immediately; broad photo hero duplicated New."
           },
-          "kept": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+          "kept": "Asymmetric contact identity and factual channels left; lower right complete explanation. Subordinate campus orientation image follows right copy.",
           "adaptations": [
             {
               "reference": "Reference typography/brand and commercial claims",
@@ -2518,19 +2518,20 @@
             "template": "slab",
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-            "landmark": "section-2",
-            "state": "forward-004",
-            "composition": "Authentic artwork before left label/right enlarged explanation; intact image proportions.",
-            "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
-            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+            "landmark": "section-7",
+            "state": "forward-015",
+            "composition": "Centered next-step identity gives way to dominant artwork entering from below, then explicit volunteer explanation and signup.",
+            "selection_reason": "Slab continuation advances to another task; parent journey now offers service as a deliberate optional next step.",
+            "selector": "[data-framer-name=\"Next Project Section\"]",
+            "semantic_manifest": "art-direction/references/deep/slab/hydra-regions/regions.json"
           },
-          "kept": "Authentic artwork before left label/right enlarged explanation; intact image proportions.",
+          "kept": "Centered next-step identity gives way to dominant artwork entering from below, then explicit volunteer explanation and signup.",
           "adaptations": [
             {
-              "reference": "Reference typography/brand and commercial claims",
-              "conflict": "The church identity and real content differ from the template.",
-              "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
-              "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+              "reference": "Slab automatic next-project navigation and progress",
+              "conflict": "Volunteer signup must be deliberate and never triggered by scrolling",
+              "adaptation": "Explicit existing signup action; no invented completion percentage; bounded media translation only",
+              "test": "Forward/reverse artwork positions, keyboard signup, phone and reduced-motion static state"
             }
           ]
         }
@@ -2806,8 +2807,8 @@
     },
     {
       "route": "women",
-      "kept": "Date-led reading rhythm and alternating photographic and factual sections.",
-      "adapted": "Actual gatherings and dates replace commercial project information; past dates are distinguished.",
+      "kept": "Slab metadata hierarchy and Lou bounded reading.",
+      "adapted": "Gathering dates, times and place lead beside invitation; authentic congregation photograph forms a separate interval. Copy and imagery clarify separately.",
       "title": "Women | Kingdom Life",
       "status": "Fidelity-reviewed",
       "record": "art-direction/qa/fidelity/women.json",
@@ -2815,43 +2816,146 @@
         {
           "id": "women-opening",
           "source": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
-            "landmark": "hero",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "landmark": "section-0",
+            "region": {
+              "selector": "[data-framer-name=\"Header Section\"]",
+              "definition": "metadata",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 540,
+                    "width": 1440,
+                    "height": 401.78125
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 490.0625,
+                    "width": 1024,
+                    "height": 401.78125
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 337.59375,
+                    "width": 390,
+                    "height": 487.109375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            },
+            "comparison_scope": "Actual measured metadata visual unit. Do not include preceding/following artwork or assume a form.",
+            "states": {
+              "desktop": "forward-001",
+              "tablet": "forward-001",
+              "phone": "forward-001"
+            },
+            "state": "forward-001"
           },
-          "kept": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
           "adaptations": [
             {
-              "reference": "Reference typography/brand and commercial claims",
-              "conflict": "The church identity and real content differ from the template.",
-              "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
-              "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+              "adaptation": "Schedule-first metadata opening. November and December are separate complete gathering records with date/time/place; earlier fall dates remain historical. Real event hierarchy replaces project metadata. No invented registration action."
             }
           ]
         },
         {
-          "id": "women-calendar",
+          "id": "women-together",
           "source": {
             "template": "slab",
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-            "landmark": "section-1",
-            "state": "forward-002",
-            "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
-            "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
-            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "landmark": "section-3",
+            "region": {
+              "selector": ".framer-13ygb0k",
+              "definition": "dominant-artwork",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-dominant-artwork.png",
+                  "box": {
+                    "x": 8,
+                    "top": 2977.9375,
+                    "width": 1424,
+                    "height": 962.15625
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-dominant-artwork.png",
+                  "box": {
+                    "x": 8,
+                    "top": 2617.140625,
+                    "width": 1008,
+                    "height": 681.078125
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-dominant-artwork.png",
+                  "box": {
+                    "x": 8,
+                    "top": 2296.921875,
+                    "width": 374,
+                    "height": 277.03125
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                }
+              }
+            },
+            "comparison_scope": "Actual measured dominant-artwork visual unit. Do not include preceding/following artwork or assume a form.",
+            "states": {
+              "desktop": "forward-007",
+              "tablet": "forward-007",
+              "phone": "forward-005"
+            },
+            "state": "forward-007"
           },
-          "kept": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
           "adaptations": [
             {
-              "reference": "Reference typography/brand and commercial claims",
-              "conflict": "The church identity and real content differ from the template.",
-              "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
-              "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+              "adaptation": "Required authentic wider-congregation photo becomes a separate dominant visual interval, clearly captioned as the wider church rather than a women-only event."
+            }
+          ]
+        },
+        {
+          "id": "women-purpose",
+          "source": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+            "landmark": "section-2",
+            "comparison_scope": "Measured 880px desktop/816px tablet reading field; intact timed paragraph clarity. Company pale-ground inversion and shorter argument are explicit adaptations.",
+            "states": {
+              "desktop": "forward-002",
+              "tablet": "forward-002",
+              "phone": "forward-002"
+            },
+            "state": "forward-002"
+          },
+          "adaptations": [
+            {
+              "adaptation": "Continuous company-purpose reading, followed by contextual scripture; the existing Life Groups action remains immediately available in the opening."
             }
           ]
         }
@@ -2900,8 +3004,8 @@
     },
     {
       "route": "men",
-      "kept": "A strong opening hierarchy and aligned factual reading blocks.",
-      "adapted": "Actual meeting routines and event information are separated; real registration routes remain intact.",
+      "kept": "Lou centered reading field and separated credentials; gallery and highlight as one measured source region.",
+      "adapted": "Weekly Sunday/Monday details lead; real leadership imagery supports the study section. Whole paragraphs clarify without character splitting.",
       "title": "Men | Kingdom Life",
       "status": "Fidelity-reviewed",
       "record": "art-direction/qa/fidelity/men.json",
@@ -2909,43 +3013,23 @@
         {
           "id": "men-opening",
           "source": {
-            "template": "royal",
+            "template": "lou",
             "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
-            "landmark": "hero",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "landmark": "section-2",
+            "state": "section-section-2",
+            "composition": "Centered broad40px mission field, followed by modest two-column weekly credentials. Measured source reading width880px desktop,816px tablet,350px phone.",
+            "selection_reason": "Men need purpose and real weekly connection, not another hero image of church leaders. Source reading unit is transplanted to opening; not Lou portrait hero.",
+            "semantic_manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+            "geometry_note": "Exact semantic source section-2 is the reading-and-credentials section, not the portrait/name section-1."
           },
-          "kept": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+          "kept": "Centered broad40px mission field, followed by modest two-column weekly credentials. Measured source reading width880px desktop,816px tablet,350px phone.",
           "adaptations": [
             {
-              "reference": "Reference typography/brand and commercial claims",
-              "conflict": "The church identity and real content differ from the template.",
-              "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
-              "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
-            }
-          ]
-        },
-        {
-          "id": "men-week",
-          "source": {
-            "template": "slab",
-            "route": "/projects/hydra",
-            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-            "landmark": "section-1",
-            "state": "forward-002",
-            "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
-            "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
-            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
-          },
-          "kept": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
-          "adaptations": [
-            {
-              "reference": "Reference typography/brand and commercial claims",
-              "conflict": "The church identity and real content differ from the template.",
-              "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
-              "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+              "reference": "Lou multi-paragraph professional biography and awards",
+              "conflict": "Shorter church mission and weekly schedules are the actual required content",
+              "adaptation": "No filler to match essay length. One full large mission paragraph, then all original weekly facts; density is content-led. No portrait/name hero claim.",
+              "test": "Large paragraph remains primary; all weekly descriptions and contact action remain in same native section"
             }
           ]
         },
@@ -2957,10 +3041,94 @@
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
             "landmark": "section-2",
             "state": "forward-004",
-            "composition": "Quiet left label, large right explanation following artwork; 32px right text, phone24px.",
-            "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+            "composition": "Real leadership image first with honest church-leadership caption; then contextual scripture left and enlarged Every Man A Warrior explanation/actions right.",
+            "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout.",
+            "source_region": {
+              "kind": "union-of-adjacent-observed-units",
+              "selectors": [
+                "[data-framer-name=\"Gallery Section 1\"]",
+                "[data-framer-name=\"Highlight Section 1\"]"
+              ],
+              "evidence": "art-direction/qa/round-4/kids-men-author/source-hydra-composite.json",
+              "captured_at": "2026-10-07T20:02:02.179Z",
+              "reason": "Original preconstruction Slab selection was artwork before enlarged explanation. Actual large image plus reading cannot be compared solely to320px text semanticsection2. Source gallery is a real preceding sibling, not a crop chosen to fit build.",
+              "viewports": [
+                {
+                  "viewport": {
+                    "width": 1440,
+                    "height": 900
+                  },
+                  "box": {
+                    "x": 0,
+                    "top": 1615.78125,
+                    "width": 1440,
+                    "height": 1282.15625
+                  },
+                  "art": {
+                    "x": 0,
+                    "top": 1615.78125,
+                    "width": 1440,
+                    "height": 962.15625
+                  },
+                  "reading": {
+                    "x": 0,
+                    "top": 2577.9375,
+                    "width": 1440,
+                    "height": 320
+                  }
+                },
+                {
+                  "viewport": {
+                    "width": 1024,
+                    "height": 768
+                  },
+                  "box": {
+                    "x": 0,
+                    "top": 1628.84375,
+                    "width": 1024,
+                    "height": 908.296875
+                  },
+                  "art": {
+                    "x": 0,
+                    "top": 1628.84375,
+                    "width": 1024,
+                    "height": 573.296875
+                  },
+                  "reading": {
+                    "x": 0,
+                    "top": 2202.140625,
+                    "width": 1024,
+                    "height": 335
+                  }
+                },
+                {
+                  "viewport": {
+                    "width": 390,
+                    "height": 844
+                  },
+                  "box": {
+                    "x": 0,
+                    "top": 1530.296875,
+                    "width": 390,
+                    "height": 686.625
+                  },
+                  "art": {
+                    "x": 0,
+                    "top": 1530.296875,
+                    "width": 390,
+                    "height": 277.03125
+                  },
+                  "reading": {
+                    "x": 0,
+                    "top": 1807.328125,
+                    "width": 390,
+                    "height": 409.59375
+                  }
+                }
+              ]
+            }
           },
-          "kept": "Quiet left label, large right explanation following artwork; 32px right text, phone24px.",
+          "kept": "Real leadership image first with honest church-leadership caption; then contextual scripture left and enlarged Every Man A Warrior explanation/actions right.",
           "adaptations": [
             {
               "reference": "Reference typography/brand and commercial claims",
@@ -3275,8 +3443,8 @@
     },
     {
       "route": "give",
-      "kept": "Royal’s stable task opening and Slab’s left-label/right-reading stack.",
-      "adapted": "Real giving methods and a genuine pantry photograph replace commercial enquiry content; financial actions never animate away.",
+      "kept": "Royal Contact sparse methods beside a stable interaction area.",
+      "adapted": "Actual Subsplash action replaces the reference form; App, Online and Mail remain intact. No invented financial interface or padded placeholder.",
       "title": "Giving | Kingdom Life",
       "status": "Fidelity-reviewed",
       "record": "art-direction/qa/fidelity/give.json",
@@ -3287,44 +3455,37 @@
             "template": "royal",
             "route": "/contact",
             "dossier": "art-direction/references/deep/royal/contact/dossier.md",
-            "composition": "Quiet legalentitytitle and immediate secureprovideraction with boundedactualart.",
-            "sequence": "Hold / native document progression. Giving controls Hold. Slab proof image is an intact factual asset in document flow; it is not a chapter sequence.",
-            "landmark": "section-0"
+            "landmark": "section-0",
+            "composition": "One practical heading followed by sparse actual channels on the left and dominant provider-action field on the right.",
+            "sequence": "Hold; payment controls and required instructions stay immediately usable."
           },
-          "kept": "Quiet legalentitytitle and immediate secureprovideraction with boundedactualart.",
+          "kept": "One practical heading followed by sparse actual channels on the left and dominant provider-action field on the right.",
           "adaptations": [
             {
-              "reference": "Commercial forms/project fields",
-              "conflict": "Church visitor tasks and actual provider destinations",
-              "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
-              "test": "content and destinationledgerdiff"
+              "reference": "Royal editable contact form",
+              "conflict": "KLCC donation processing must remain with its real provider; no fabricated card fields or transaction behavior.",
+              "adaptation": "Provider purpose, direct secure launch, fallback instruction and optional existing embedded form occupy the real action field. No artificial height added to resemble source form.",
+              "test": "Independent responsive composition and source/action preservation; actual payments not submitted."
             }
           ]
         },
         {
           "id": "give-methods",
           "source": {
-            "template": "slab",
-            "route": "/projects/hydra",
-            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-            "composition": "Left label and one continuous right reading column, matching observed Slab Brief relationship.",
-            "sequence": "Hold / native document progression. Giving controls Hold. Slab proof image is an intact factual asset in document flow; it is not a chapter sequence.",
-            "landmark": "brief",
-            "state": "forward-002"
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "landmark": "section-0",
+            "composition": "One practical heading followed by sparse actual channels on the left and dominant provider-action field on the right.",
+            "sequence": "Hold; payment controls and required instructions stay immediately usable."
           },
-          "kept": "Left label and one continuous right reading column, matching observed Slab Brief relationship.",
+          "kept": "One practical heading followed by sparse actual channels on the left and dominant provider-action field on the right.",
           "adaptations": [
             {
-              "reference": "Commercial forms/project fields",
-              "conflict": "Church visitor tasks and actual provider destinations",
-              "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
-              "test": "content and destinationledgerdiff"
-            },
-            {
-              "reference": "Slab project brief",
-              "conflict": "Church logistics have several actionable channels",
-              "adaptation": "Keep leftlabel/rightreading relationship; real channels become orderedparagraphs with stablelinks, not3colcards",
-              "test": "Threewidthcomparison afterindependentreviewcorrection"
+              "reference": "Royal editable contact form",
+              "conflict": "KLCC donation processing must remain with its real provider; no fabricated card fields or transaction behavior.",
+              "adaptation": "Provider purpose, direct secure launch, fallback instruction and optional existing embedded form occupy the real action field. No artificial height added to resemble source form.",
+              "test": "Independent responsive composition and source/action preservation; actual payments not submitted."
             }
           ]
         },
