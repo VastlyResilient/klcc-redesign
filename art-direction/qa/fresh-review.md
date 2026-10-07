@@ -384,3 +384,5 @@ Final Alpha desktop recheck: Final desktop board now shows both provider thumbna
 Source clarification: Mission lens image is original KLCC artwork (img:mission.page-mission), not an invented stock substitution. Our-story/mission reused pilot captures follow intrinsic-dimension/srcset-only changes with no visual CSS changes reported; this does not establish a visual defect.
 
 Regenerated grayscale sheets re-reviewed: all nine now mask header/logo bands and strongly obscure text. AS-01 through AS-04 remain unchanged after this recheck.
+
+Final requested spot recheck: desktop-grayscale-0.png and phone-grayscale-0.png were visually inspected again. Header/logo bands are masked and copy is strongly obscured. Prior all-nine-sheet composition findings AS-01 through AS-04 remain unchanged: prayer/legal/pastoral-care opening interchangeability, weather/easter/beliefs/courses/legal reading-block repetition, and men/young-adults opening similarity. No blanket pass assigned. Some baked-in campaign symbols and small image lettering remain recognizable; this does not negate the observed layout repetition.
