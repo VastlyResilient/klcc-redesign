@@ -11,3 +11,7 @@ Local preview: http://127.0.0.1:4201/ and http://127.0.0.1:4201/review/.
 The branch contains source, generated pages, compact portable review assets, ledgers, decisions and repair reports. Raw recordings/full screenshots remain in the local evidence tree; a clean clone needs those captures regenerated. Skills remain read-only; lessons are pending proposals. No paid generation.
 
 Public verification: all 30 route responses passed; 12 desktop/phone browser cases passed for overflow, images, JavaScript errors and internal preview navigation. See `art-direction/qa/preview-public.json`.
+
+## Interactive inner-page update
+
+Published 27 content-page scroll expansions in preview commit `61a78f9`, followed by the tablet/caption correction in `b7c31a7`. Existing production-root files and the homepage baseline are unchanged. Independent integration review, reference/adaptation notes, recordings and public checks are in `art-direction/qa/scroll-expansion/`. This incremental release does not waive the earlier exact-reference gates.

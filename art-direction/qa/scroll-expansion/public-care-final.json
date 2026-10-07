@@ -1,0 +1,707 @@
+{
+  "created": "2026-10-07T22:26:15.783Z",
+  "base": "https://vastlyresilient.github.io/klcc-redesign/preview/",
+  "pass": true,
+  "results": [
+    {
+      "route": "pastoral-care",
+      "width": 1024,
+      "scenes": [
+        {
+          "id": "detail-care-picture-0",
+          "states": [
+            {
+              "progress": 0,
+              "actual": {
+                "requested": -211.625,
+                "max": 1149
+              },
+              "y": 0,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(0.966491px)",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": -4.625,
+                "max": 1149
+              },
+              "y": 0,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(0.966491px)",
+              "visible": true
+            },
+            {
+              "progress": 1,
+              "actual": {
+                "requested": 202.375,
+                "max": 1149
+              },
+              "y": 202,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(4.91984e-06px)",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": -4.625,
+                "max": 1149
+              },
+              "y": 0,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(0.966491px)",
+              "visible": true
+            },
+            {
+              "progress": 0,
+              "actual": {
+                "requested": -211.625,
+                "max": 1149
+              },
+              "y": 0,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(0.966491px)",
+              "visible": true
+            }
+          ],
+          "changed": true,
+          "reverse": true
+        },
+        {
+          "id": "detail-care-expectation-0",
+          "states": [
+            {
+              "progress": 0,
+              "actual": {
+                "requested": -158.23438847656246,
+                "max": 1149
+              },
+              "y": 0,
+              "translate": "0px 21.8412px",
+              "opacity": "0.882994",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 102.76561152343754,
+                "max": 1149
+              },
+              "y": 103,
+              "translate": "0px 13.9811px",
+              "opacity": "0.925101",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 1,
+              "actual": {
+                "requested": 363.7656651367188,
+                "max": 1149
+              },
+              "y": 364,
+              "translate": "0px",
+              "opacity": "1",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 102.765625,
+                "max": 1149
+              },
+              "y": 103,
+              "translate": "0px 13.9811px",
+              "opacity": "0.925101",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0,
+              "actual": {
+                "requested": -158.23433486328122,
+                "max": 1149
+              },
+              "y": 0,
+              "translate": "0px 21.8412px",
+              "opacity": "0.882994",
+              "filter": "none",
+              "visible": true
+            }
+          ],
+          "changed": true,
+          "reverse": true
+        },
+        {
+          "id": "detail-care-comfort-0",
+          "states": [
+            {
+              "progress": 0,
+              "actual": {
+                "requested": 140.3125,
+                "max": 1149
+              },
+              "y": 140,
+              "translate": "0px 36px",
+              "opacity": "0.85",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 455.3125,
+                "max": 1149
+              },
+              "y": 455,
+              "translate": "0px 18.0268px",
+              "opacity": "0.924888",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 1,
+              "actual": {
+                "requested": 770.3124944335938,
+                "max": 1149
+              },
+              "y": 770,
+              "translate": "0px 2.65634e-05px",
+              "opacity": "1",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 455.31250395417817,
+                "max": 1149
+              },
+              "y": 455,
+              "translate": "0px 18.0268px",
+              "opacity": "0.924888",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0,
+              "actual": {
+                "requested": 140.31249443359377,
+                "max": 1149
+              },
+              "y": 140,
+              "translate": "0px 36px",
+              "opacity": "0.85",
+              "filter": "none",
+              "visible": true
+            }
+          ],
+          "changed": true,
+          "reverse": true
+        }
+      ],
+      "reduced": [
+        {
+          "id": "detail-care-picture-0",
+          "translate": "",
+          "opacity": "",
+          "filter": ""
+        },
+        {
+          "id": "detail-care-expectation-0",
+          "translate": "",
+          "opacity": "",
+          "filter": ""
+        },
+        {
+          "id": "detail-care-comfort-0",
+          "translate": "",
+          "opacity": "",
+          "filter": ""
+        }
+      ],
+      "layout": {
+        "overflow": false,
+        "hidden": 0
+      },
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "width": 390,
+      "scenes": [
+        {
+          "id": "detail-care-picture-0",
+          "states": [
+            {
+              "progress": 0,
+              "actual": {
+                "requested": 249.92562499999997,
+                "max": 1902
+              },
+              "y": 250,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(1px)",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 444.045625,
+                "max": 1902
+              },
+              "y": 444,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(0.500176px)",
+              "visible": true
+            },
+            {
+              "progress": 1,
+              "actual": {
+                "requested": 638.165625,
+                "max": 1902
+              },
+              "y": 638,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(5.45819e-07px)",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 444.045625,
+                "max": 1902
+              },
+              "y": 444,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(0.500176px)",
+              "visible": true
+            },
+            {
+              "progress": 0,
+              "actual": {
+                "requested": 249.92562499999997,
+                "max": 1902
+              },
+              "y": 250,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(1px)",
+              "visible": true
+            }
+          ],
+          "changed": true,
+          "reverse": true
+        },
+        {
+          "id": "detail-care-expectation-0",
+          "states": [
+            {
+              "progress": 0,
+              "actual": {
+                "requested": 304.43625,
+                "max": 1902
+              },
+              "y": 304,
+              "translate": "0px 14px",
+              "opacity": "0.85",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 549.19625,
+                "max": 1902
+              },
+              "y": 549,
+              "translate": "0px 7.00842px",
+              "opacity": "0.92491",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 1,
+              "actual": {
+                "requested": 793.9562528515626,
+                "max": 1902
+              },
+              "y": 794,
+              "translate": "0px",
+              "opacity": "1",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 549.19625,
+                "max": 1902
+              },
+              "y": 549,
+              "translate": "0px 7.00842px",
+              "opacity": "0.92491",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0,
+              "actual": {
+                "requested": 304.4362528515626,
+                "max": 1902
+              },
+              "y": 304,
+              "translate": "0px 14px",
+              "opacity": "0.85",
+              "filter": "none",
+              "visible": true
+            }
+          ],
+          "changed": true,
+          "reverse": true
+        },
+        {
+          "id": "detail-care-comfort-0",
+          "states": [
+            {
+              "progress": 0,
+              "actual": {
+                "requested": 698.1243750000001,
+                "max": 1902
+              },
+              "y": 698,
+              "translate": "0px 18px",
+              "opacity": "0.85",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 993.5243750000001,
+                "max": 1902
+              },
+              "y": 994,
+              "translate": "0px 8.97826px",
+              "opacity": "0.925181",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 1,
+              "actual": {
+                "requested": 1288.924386484375,
+                "max": 1902
+              },
+              "y": 1289,
+              "translate": "0px",
+              "opacity": "1",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 993.5243750000001,
+                "max": 1902
+              },
+              "y": 994,
+              "translate": "0px 8.97826px",
+              "opacity": "0.925181",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0,
+              "actual": {
+                "requested": 698.124386484375,
+                "max": 1902
+              },
+              "y": 698,
+              "translate": "0px 18px",
+              "opacity": "0.85",
+              "filter": "none",
+              "visible": true
+            }
+          ],
+          "changed": true,
+          "reverse": true
+        }
+      ],
+      "reduced": [
+        {
+          "id": "detail-care-picture-0",
+          "translate": "",
+          "opacity": "",
+          "filter": ""
+        },
+        {
+          "id": "detail-care-expectation-0",
+          "translate": "",
+          "opacity": "",
+          "filter": ""
+        },
+        {
+          "id": "detail-care-comfort-0",
+          "translate": "",
+          "opacity": "",
+          "filter": ""
+        }
+      ],
+      "layout": {
+        "overflow": false,
+        "hidden": 0
+      },
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "width": 1440,
+      "scenes": [
+        {
+          "id": "detail-care-picture-0",
+          "states": [
+            {
+              "progress": 0,
+              "actual": {
+                "requested": -282.90625,
+                "max": 997
+              },
+              "y": 0,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(0.474609px)",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": -75.90625,
+                "max": 997
+              },
+              "y": 0,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(0.474609px)",
+              "visible": true
+            },
+            {
+              "progress": 1,
+              "actual": {
+                "requested": 131.09375,
+                "max": 997
+              },
+              "y": 131,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(3.07629e-07px)",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": -75.90625,
+                "max": 997
+              },
+              "y": 0,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(0.474609px)",
+              "visible": true
+            },
+            {
+              "progress": 0,
+              "actual": {
+                "requested": -282.90625,
+                "max": 997
+              },
+              "y": 0,
+              "translate": "none",
+              "opacity": "1",
+              "filter": "blur(0.474609px)",
+              "visible": true
+            }
+          ],
+          "changed": true,
+          "reverse": true
+        },
+        {
+          "id": "detail-care-expectation-0",
+          "states": [
+            {
+              "progress": 0,
+              "actual": {
+                "requested": -229.51558994140623,
+                "max": 997
+              },
+              "y": 0,
+              "translate": "0px 16.5209px",
+              "opacity": "0.911495",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 31.484410058593767,
+                "max": 997
+              },
+              "y": 31,
+              "translate": "0px 14.039px",
+              "opacity": "0.924791",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 1,
+              "actual": {
+                "requested": 292.48437646484376,
+                "max": 997
+              },
+              "y": 292,
+              "translate": "0px 7.22738e-05px",
+              "opacity": "1",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 31.484363761356235,
+                "max": 997
+              },
+              "y": 31,
+              "translate": "0px 14.039px",
+              "opacity": "0.924791",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0,
+              "actual": {
+                "requested": -229.5156845703125,
+                "max": 997
+              },
+              "y": 0,
+              "translate": "0px 16.5209px",
+              "opacity": "0.911495",
+              "filter": "none",
+              "visible": true
+            }
+          ],
+          "changed": true,
+          "reverse": true
+        },
+        {
+          "id": "detail-care-comfort-0",
+          "states": [
+            {
+              "progress": 0,
+              "actual": {
+                "requested": 7.84375,
+                "max": 997
+              },
+              "y": 8,
+              "translate": "0px 36px",
+              "opacity": "0.85",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 322.84375,
+                "max": 997
+              },
+              "y": 323,
+              "translate": "0px 17.9866px",
+              "opacity": "0.925056",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 1,
+              "actual": {
+                "requested": 637.843722265625,
+                "max": 997
+              },
+              "y": 638,
+              "translate": "0px",
+              "opacity": "1",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0.5,
+              "actual": {
+                "requested": 322.84375,
+                "max": 997
+              },
+              "y": 323,
+              "translate": "0px 17.9866px",
+              "opacity": "0.925056",
+              "filter": "none",
+              "visible": true
+            },
+            {
+              "progress": 0,
+              "actual": {
+                "requested": 7.843722265625047,
+                "max": 997
+              },
+              "y": 8,
+              "translate": "0px 36px",
+              "opacity": "0.85",
+              "filter": "none",
+              "visible": true
+            }
+          ],
+          "changed": true,
+          "reverse": true
+        }
+      ],
+      "reduced": [
+        {
+          "id": "detail-care-picture-0",
+          "translate": "",
+          "opacity": "",
+          "filter": ""
+        },
+        {
+          "id": "detail-care-expectation-0",
+          "translate": "",
+          "opacity": "",
+          "filter": ""
+        },
+        {
+          "id": "detail-care-comfort-0",
+          "translate": "",
+          "opacity": "",
+          "filter": ""
+        }
+      ],
+      "layout": {
+        "overflow": false,
+        "hidden": 0
+      },
+      "errors": [],
+      "pass": true
+    }
+  ],
+  "limits": "Computed runtime states establish motion/reverse/static behavior, not reference fidelity or physical-phone operation."
+}
