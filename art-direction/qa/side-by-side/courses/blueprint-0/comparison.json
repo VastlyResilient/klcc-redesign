@@ -1,17 +1,17 @@
 {
-  "created": "2026-10-07T07:38:46.968Z",
+  "created": "2026-10-07T09:46:39.817Z",
   "pairs": [
     {
       "viewport": "desktop",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-courses-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/desktop-section-courses-opening.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "desktop",
-      "referenceState": "section-stry",
+      "referenceState": "forward-002",
       "buildState": "section-courses-fall",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/desktop-section-courses-fall.png",
       "referenceSettled": false,
@@ -19,15 +19,23 @@
     },
     {
       "viewport": "desktop",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-002",
       "buildState": "section-courses-seasons",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/desktop-section-courses-seasons.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "desktop",
-      "referenceState": "section-cta",
+      "referenceState": "forward-007",
+      "buildState": "section-courses-reading",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/desktop-section-courses-reading.png",
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "desktop",
+      "referenceState": "forward-010",
       "buildState": "section-courses-marriage",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/desktop-section-courses-marriage.png",
       "referenceSettled": false,
@@ -35,15 +43,15 @@
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-courses-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/tablet-section-courses-opening.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-stry",
+      "referenceState": "forward-002",
       "buildState": "section-courses-fall",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/tablet-section-courses-fall.png",
       "referenceSettled": false,
@@ -51,15 +59,23 @@
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-002",
       "buildState": "section-courses-seasons",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/tablet-section-courses-seasons.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-cta",
+      "referenceState": "forward-007",
+      "buildState": "section-courses-reading",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/tablet-section-courses-reading.png",
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "tablet",
+      "referenceState": "forward-010",
       "buildState": "section-courses-marriage",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/tablet-section-courses-marriage.png",
       "referenceSettled": false,
@@ -67,7 +83,7 @@
     },
     {
       "viewport": "phone",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-courses-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/phone-section-courses-opening.png",
       "referenceSettled": true,
@@ -75,15 +91,15 @@
     },
     {
       "viewport": "phone",
-      "referenceState": "section-stry",
+      "referenceState": "forward-002",
       "buildState": "section-courses-fall",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/phone-section-courses-fall.png",
-      "referenceSettled": false,
+      "referenceSettled": true,
       "buildSettled": true
     },
     {
       "viewport": "phone",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-002",
       "buildState": "section-courses-seasons",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/phone-section-courses-seasons.png",
       "referenceSettled": true,
@@ -91,10 +107,18 @@
     },
     {
       "viewport": "phone",
-      "referenceState": "section-cta",
+      "referenceState": "forward-007",
+      "buildState": "section-courses-reading",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/phone-section-courses-reading.png",
+      "referenceSettled": true,
+      "buildSettled": true
+    },
+    {
+      "viewport": "phone",
+      "referenceState": "forward-010",
       "buildState": "section-courses-marriage",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/courses/blueprint-0/phone-section-courses-marriage.png",
-      "referenceSettled": false,
+      "referenceSettled": true,
       "buildSettled": true
     }
   ],

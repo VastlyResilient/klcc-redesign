@@ -1,0 +1,228 @@
+{
+  "route": "give",
+  "self_check": [
+    {
+      "route": "give",
+      "w": 1440,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "give-opening",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "give-methods",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "give-generosity",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "give-reading",
+          "width": 1440,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "give",
+      "w": 1024,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "give-opening",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "give-methods",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "give-generosity",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "give-reading",
+          "width": 1024,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "give",
+      "w": 390,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "give-opening",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "give-methods",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "give-generosity",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "give-reading",
+          "width": 390,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    }
+  ],
+  "source_comparison_status": "Awaiting independent review",
+  "controls": {
+    "practical_motion": "Hold"
+  },
+  "calendar_source": null,
+  "followup_self_check": [
+    {
+      "route": "give",
+      "w": 1440,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "give-opening",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "give-methods",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "give-generosity",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "give-reading",
+          "width": 1440,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "give",
+      "w": 1024,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "give-opening",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "give-methods",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "give-generosity",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "give-reading",
+          "width": 1024,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "give",
+      "w": 390,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "give-opening",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "give-methods",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "give-generosity",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "give-reading",
+          "width": 390,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    }
+  ],
+  "final_measured_metrics": [
+    {
+      "r": "give",
+      "w": 1440,
+      "h1": "50px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Give securely online",
+          "top": 315.375,
+          "bottom": 373.265625
+        }
+      ]
+    },
+    {
+      "r": "give",
+      "w": 1024,
+      "h1": "40px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Give securely online",
+          "top": 315.375,
+          "bottom": 373.265625
+        }
+      ]
+    },
+    {
+      "r": "give",
+      "w": 390,
+      "h1": "32px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Give securely online",
+          "top": 341.359375,
+          "bottom": 397.703125
+        }
+      ]
+    }
+  ],
+  "followup_evidence": "/tmp/klcc-practical-final/"
+}

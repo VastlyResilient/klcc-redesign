@@ -1,72 +1,88 @@
 {
   "route": "believe",
-  "status": "Blocked",
-  "reviewer": "independent v22_capture_pipeline",
-  "reviewed_at": "2026-10-07T07:16:03.691Z",
-  "evidence": "art-direction/qa/side-by-side/believe/",
-  "observations": "All three widths: immediate decision/action, two next-step image panels, genuine Alpha artwork and separate scripture. Initial image/text spacing and unequal panel topology were repaired; latest panel geometry needs final capture confirmation.",
-  "repairs": [
-    "Heading/image/copy spacing added",
-    "Let us know capitalization corrected",
-    "Two equal panel envelopes replace unequal landscape pair; full group photograph preserved"
-  ],
+  "status": "Fidelity-reviewed",
+  "accepted": false,
   "sections": [
     {
       "id": "believe-opening",
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-opening-desktop.png",
+          "build_sha256": "40b2131a6daa58fb53ee79af18fce64fd350fc1cb0d790567019d4c5ae226a46",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-hero.png",
+          "source_state": "section-hero",
+          "source_unit": "hero",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Compact Royal-style title precedes dominant authentic worship photo and supportive invitation. Phone crop retains the primary people and keeps response link with supporting message. Clear hierarchy replaces earlier type-only opening.",
+          "comparison": "review/independent/believe-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-opening-tablet.png",
+          "build_sha256": "07ac614c766778e8a59bf195da6c3c8dc1fae4606ba7c521946dbe358b447d35",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-hero.png",
+          "source_state": "section-hero",
+          "source_unit": "hero",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Compact Royal-style title precedes dominant authentic worship photo and supportive invitation. Phone crop retains the primary people and keeps response link with supporting message. Clear hierarchy replaces earlier type-only opening.",
+          "comparison": "review/independent/believe-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-opening-phone.png",
+          "build_sha256": "766079a84722534b53acfe381fe028ff0810a31be6add6c3004b19516996c371",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-hero.png",
+          "source_state": "section-hero",
+          "source_unit": "hero",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Compact Royal-style title precedes dominant authentic worship photo and supportive invitation. Phone crop retains the primary people and keeps response link with supporting message. Clear hierarchy replaces earlier type-only opening.",
+          "comparison": "review/independent/believe-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -75,116 +91,81 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-steps-desktop.png",
+          "build_sha256": "0071e383fcd2d49dfbdd0f0a46de5a6636b217a53be8cf765a393189155c7f0d",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/forward-007.png",
+          "source_state": "forward-007",
+          "source_unit": "ourvalues",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Three consistently tall image-backed cards now follow Royal values hierarchy. Alpha uses an appropriate photographic frame rather than letterboxed poster, while poster is preserved in materials. Mobile stacks all three complete actions with safe text gradients.",
+          "comparison": "review/independent/believe-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-steps-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-steps-tablet.png",
+          "build_sha256": "04ba7aa59d44c3e9ecdc74165825015f05e80f94e184adc21d4a7c59f42b6d9d",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-ourvalues.png",
+          "source_state": "section-ourvalues",
+          "source_unit": "ourvalues",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Three consistently tall image-backed cards now follow Royal values hierarchy. Alpha uses an appropriate photographic frame rather than letterboxed poster, while poster is preserved in materials. Mobile stacks all three complete actions with safe text gradients.",
+          "comparison": "review/independent/believe-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-steps-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-steps-phone.png",
+          "build_sha256": "7b3ceac20d782962546d6802e906707fdf35cad72589852598c98fbfc327c8d1",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-ourvalues.png",
+          "source_state": "section-ourvalues",
+          "source_unit": "ourvalues",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
-        }
-      ]
-    },
-    {
-      "id": "believe-alpha",
-      "reviews": [
-        {
-          "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
-        },
-        {
-          "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
-        },
-        {
-          "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Three consistently tall image-backed cards now follow Royal values hierarchy. Alpha uses an appropriate photographic frame rather than letterboxed poster, while poster is preserved in materials. Mobile stacks all three complete actions with safe text gradients.",
+          "comparison": "review/independent/believe-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-steps-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -193,72 +174,185 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-scripture-desktop.png",
+          "build_sha256": "f587c85e7769547ae4bf2037e37d3aa96f426406c3f0a74ab3c26d5a4fca9f5b",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+          "source_state": "forward-010",
+          "source_unit": "text-row",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Small scripture lead at left and larger continuation at right matches exact text-row scope. Page-update disclosure is subordinate and closed. Phone keeps the short quotation and disclosure in a clear reading sequence.",
+          "comparison": "review/independent/believe-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-scripture-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-scripture-tablet.png",
+          "build_sha256": "155d99fcef2eeabece15e1c60620585514af0117078feee3fe71a563b62225b7",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+          "source_state": "forward-010",
+          "source_unit": "text-row",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Small scripture lead at left and larger continuation at right matches exact text-row scope. Page-update disclosure is subordinate and closed. Phone keeps the short quotation and disclosure in a clear reading sequence.",
+          "comparison": "review/independent/believe-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-scripture-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/believe/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-scripture-phone.png",
+          "build_sha256": "77cd357a89cd223c276c407249cd350a44c3096784ea49972fb04141bddc4be6",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png",
+          "source_state": "forward-008",
+          "source_unit": "text-row",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Small scripture lead at left and larger continuation at right matches exact text-row scope. Page-update disclosure is subordinate and closed. Phone keeps the short quotation and disclosure in a clear reading sequence.",
+          "comparison": "review/independent/believe-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-scripture-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "believe-materials",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-materials-desktop.png",
+          "build_sha256": "0cc0b20518cc1c57093a7a2ff5c8c9e75e4867dbba531977836531df952a740d",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-paired-tiles.png",
+          "source_state": "forward-009",
+          "source_unit": "paired-tiles",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Two explanatory artworks now form a discrete paired-media unit, with captions identifying conceptual image and original program poster. Containment preserves the Alpha lettering; native image aspect differences are meaningful asset adaptation, not distortion.",
+          "comparison": "review/independent/believe-3.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-materials-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-materials-tablet.png",
+          "build_sha256": "70cd2fac29b5b1989e0137c02a75932426a5b5bb8437f1f6150a24f86d5c9806",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-paired-tiles.png",
+          "source_state": "forward-009",
+          "source_unit": "paired-tiles",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Two explanatory artworks now form a discrete paired-media unit, with captions identifying conceptual image and original program poster. Containment preserves the Alpha lettering; native image aspect differences are meaningful asset adaptation, not distortion.",
+          "comparison": "review/independent/believe-3.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-materials-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/believe-materials-phone.png",
+          "build_sha256": "fd985d5a2e89b767f10fd2f5031ad2534ce4851a6263f46c8d7125da7a147ab2",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-paired-tiles.png",
+          "source_state": "forward-006",
+          "source_unit": "paired-tiles",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Two explanatory artworks now form a discrete paired-media unit, with captions identifying conceptual image and original program poster. Containment preserves the Alpha lettering; native image aspect differences are meaningful asset adaptation, not distortion.",
+          "comparison": "review/independent/believe-3.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/believe-materials-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     }
   ],
-  "blockers": [
-    {
-      "condition": "Exact-reference fidelity gate remains below4/5",
-      "evidence": "Royal values has three edge-to-edge tall photo panels with inset captions. Final KLCC two-panel adaptation preserves whole landscape gathering photograph using contain (visible letterbox), and reserves separate copy areas. These are intentional content-preserving deviations but exact source media fill/topology/sequence remain3/5.",
-      "attempt": "Compared actual3-width page sections and matching reference boards; requested concrete visual repairs where identified.",
-      "fallback": "Keep legible real-company content and explicitly documented reference adaptations. Do not invent factual imagery or hide schedules to imitate unsupported scenes."
-    }
-  ],
+  "reviewer": "editorial_independent_review; independent of product authorship",
+  "reviewed_at": "2026-10-07T09:51:03.135775+00:00",
+  "scope": "Round 3 exact-unit visual review, actual browser motion and targeted actual-pixel contrast; section rubric only, not owner acceptance or mechanical gate waiver",
+  "source_review": "art-direction/qa/round-2/editorial-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/believe.json",
+  "source_hashes": {
+    "src/pages/believe.html": "b3e8abed117269c7cc0934b1ba6545aa9c0aabce7e07a966197bb3e12b975041",
+    "src/pages/believe.css": "98cffa9de9861378772299f82a8a024c2ed4358ea4d97098410fa34c88b61dba",
+    "src/motion/scenes/believe.ts": "2fb86bd35a75b14154b7dac85a68fdc9fddf3403a9bff8f5f134eed1e35ef724"
+  },
   "limits": [
-    "No claim that public preview reveals exact editor easing/settings.",
-    "Accepted is reserved to owner."
+    "Raw section aspect ratios, full-bleed flags, heading ratios and total section-count assertions remain separate mechanical gate results; these visual scores do not waive them.",
+    "Source copy length, intrinsic company assets and church palette intentionally differ; no pixel similarity percentage claimed.",
+    "Whole-unit build crops exclude fixed browser/header chrome for unobstructed content review; opening and motion screenshots retain actual header.",
+    "No physical phone, exact source editor timing, all-frame contrast proof or owner Accepted status claimed.",
+    "Targeted overlay/hero contrast sampling is not a complete WCAG audit of every text node or every transitional frame.",
+    "Source Lou first-arrival is observed but per-character implementation parity is not claimed; intact-unit clarity avoids hiding essential copy."
   ],
-  "repairs_verified": "Final3-width captures show source-scaled heading, sentence-case action, two equal card envelopes, spacing restored; worship photograph contained to retain people. Captured07:16:30UTC."
+  "issues": []
 }

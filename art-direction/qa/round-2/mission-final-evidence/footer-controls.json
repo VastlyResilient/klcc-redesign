@@ -1,0 +1,56 @@
+[
+  {
+    "w": 1440,
+    "footer": {
+      "height": 694,
+      "filter": "blur(0px)",
+      "buttons": [
+        {
+          "text": "Reduce motion",
+          "aria": "false"
+        }
+      ]
+    },
+    "reduced": {
+      "filter": "none",
+      "bodyClass": "motion-reduced"
+    },
+    "backTopY": 0
+  },
+  {
+    "w": 1024,
+    "footer": {
+      "height": 660,
+      "filter": "blur(0px)",
+      "buttons": [
+        {
+          "text": "Reduce motion",
+          "aria": "false"
+        }
+      ]
+    },
+    "reduced": {
+      "filter": "none",
+      "bodyClass": "motion-reduced"
+    },
+    "backTopY": 0
+  },
+  {
+    "w": 390,
+    "footer": {
+      "height": 865,
+      "filter": "blur(0px)",
+      "buttons": [
+        {
+          "text": "Reduce motion",
+          "aria": "false"
+        }
+      ]
+    },
+    "reduced": {
+      "filter": "none",
+      "bodyClass": "motion-reduced"
+    },
+    "backTopY": 1
+  }
+]

@@ -9,7 +9,8 @@
   "heading_arrival": {
     "unit": "block",
     "vector": "hold",
-    "driver": "native-scroll"
+    "driver": "native-scroll",
+    "source_reason": "Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently."
   },
   "reference": {
     "template": "royal",
@@ -25,7 +26,7 @@
         "route": "/contact",
         "dossier": "art-direction/references/deep/royal/contact/dossier.md",
         "composition": "Oversized calendar title balanced by actual abstractsourceart and timezone note.",
-        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "sequence": "Hold / native document progression. Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently.",
         "landmark": "section-0"
       },
       "company_content": {
@@ -38,13 +39,13 @@
       "reconstruction": {
         "layout": "Oversized calendar title balanced by actual abstractsourceart and timezone note.",
         "motion": {
-          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "mechanism": "Hold",
           "values": {
-            "estimated": true
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
           }
         },
         "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
-        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
         "reduced_motion": "All HTML visible, no pin or focusblur."
       },
       "deviations": [
@@ -59,8 +60,12 @@
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/calendar.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
       }
     },
     {
@@ -68,12 +73,13 @@
       "visitor_task": "Find upcoming events, dates, and registration.",
       "critical_answer_visible_without_animation": true,
       "reference_section": {
-        "template": "royal",
-        "route": "/contact",
-        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
-        "composition": "Large stable calendar embedded on cream; directproviderfallback aboveframe.",
-        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-        "landmark": "section-1"
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "brief",
+        "state": "forward-002",
+        "composition": "One left calendar context label, one right vertical agenda of factual events with high contrast full wrapping dates and native details; provider fallback follows.",
+        "sequence": "Hold / native document progression. Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently."
       },
       "company_content": {
         "copy": [],
@@ -81,15 +87,15 @@
         "media": []
       },
       "reconstruction": {
-        "layout": "Large stable calendar embedded on cream; directproviderfallback aboveframe.",
+        "layout": "One left calendar context label, one right vertical agenda of factual events with high contrast full wrapping dates and native details; provider fallback follows.",
         "motion": {
-          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "mechanism": "Hold",
           "values": {
-            "estimated": true
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
           }
         },
         "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
-        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
         "reduced_motion": "All HTML visible, no pin or focusblur."
       },
       "deviations": [
@@ -104,8 +110,12 @@
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/calendar.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
       }
     },
     {
@@ -116,9 +126,10 @@
         "template": "royal",
         "route": "/contact",
         "dossier": "art-direction/references/deep/royal/contact/dossier.md",
-        "composition": "Three text-only contextual routes for regular gatherings; no fabricatedevents.",
-        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-        "landmark": "section-1"
+        "landmark": "section-0",
+        "state": "opening-settled",
+        "composition": "Left utility label, right sparse vertical destination list. Phone follows source contact stacking.",
+        "sequence": "Hold / native document progression. Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently."
       },
       "company_content": {
         "copy": [],
@@ -126,15 +137,15 @@
         "media": []
       },
       "reconstruction": {
-        "layout": "Three text-only contextual routes for regular gatherings; no fabricatedevents.",
+        "layout": "Left utility label, right sparse vertical destination list. Phone follows source contact stacking.",
         "motion": {
-          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "mechanism": "Hold",
           "values": {
-            "estimated": true
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
           }
         },
         "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
-        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
         "reduced_motion": "All HTML visible, no pin or focusblur."
       },
       "deviations": [
@@ -149,9 +160,15 @@
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/calendar.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
       }
     }
-  ]
+  ],
+  "repair_review_note": "Composition repaired 2026-10-07; historical fidelity record unchanged. Requires independent fresh judgment, not author approval.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred"
 }

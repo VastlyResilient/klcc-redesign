@@ -29,14 +29,14 @@
   "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
   "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
   "signature": {
-    "id": "serve-reframe",
-    "dominant_verb": "Reframe",
-    "structural_idea": "One authentic act of service as the entire visual argument",
+    "id": "serve-repaired-composition",
+    "dominant_verb": "Read",
+    "structural_idea": "Live DOM correction replaces the false narrow-right dossier assumption: reading field x280/w880 at1440; x104/w816 at1024. Phone remains full-width readable. Scripture remains part of the same essay.",
     "axes": {
-      "unit": "content-specific block/image",
-      "vector": "Hold pending observed scene contract",
-      "driver": "native scroll",
-      "frame": "route-owned composition"
+      "unit": "intact editorial unit",
+      "vector": "clarity without translation",
+      "driver": "Scroll-triggered once, native reading",
+      "frame": "native document flow"
     }
   },
   "heading_arrival": {
@@ -58,11 +58,12 @@
     {
       "id": "serve-opening",
       "title": "opening",
+      "selector": "#serve-opening",
       "content_ids": [
+        "img:serve.community-pantry",
         "ci:serve.s0.b0",
         "ci:serve.s1.b0",
-        "cta:serve.s1.a0",
-        "img:serve.community-pantry"
+        "cta:serve.s1.a0"
       ],
       "reference_section": {
         "template": "royal",
@@ -71,47 +72,69 @@
         "state": "section-cta",
         "dossier": "art-direction/references/deep/royal/about/dossier.md",
         "manifest": "art-direction/references/deep/royal/about/manifest.json",
-        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+        "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-cta.png",
+        "states": {
+          "desktop": "section-cta",
+          "tablet": "section-cta",
+          "phone": "section-cta"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-cta.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-cta.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-cta.png"
+        }
       },
       "critical_answer_visible_without_animation": true,
-      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+      "adaptation": "Authentic pantry photograph fills invitation, with centered title and one small sign-up action. First-screen placement is a deliberate useful-action adaptation.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/serve.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
     },
     {
       "id": "serve-purpose",
       "title": "purpose",
+      "selector": "#serve-purpose",
       "content_ids": [
-        "ci:serve.s1.b1"
-      ],
-      "reference_section": {
-        "template": "lou",
-        "route": "/about",
-        "landmark": "section-2",
-        "state": "section-section-2",
-        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-        "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
-      },
-      "critical_answer_visible_without_animation": true,
-      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
-    },
-    {
-      "id": "serve-scripture",
-      "title": "scripture",
-      "content_ids": [
+        "ci:serve.s1.b1",
         "ci:serve.s2.b0",
         "ci:serve.s2.b1"
       ],
       "reference_section": {
         "template": "lou",
         "route": "/about",
-        "landmark": "section-3",
-        "state": "section-section-3",
+        "landmark": "section-2",
+        "state": "forward-002",
         "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
         "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+        "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/forward-002.png",
+        "states": {
+          "desktop": "forward-002",
+          "tablet": "forward-002",
+          "phone": "forward-002"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/forward-002.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/tablet/forward-002.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/phone/forward-002.png"
+        }
       },
       "critical_answer_visible_without_animation": true,
-      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+      "adaptation": "One continuous Lou-derived offset reading chapter containing the purpose statement and scripture continuation. No separately attributed short closer. Intact paragraph clarity explicitly differs from source character-level splitting.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/serve.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
     }
   ],
   "content_coverage": {
@@ -120,18 +143,38 @@
     "missing": []
   },
   "deletion_pass": "Do not invent volunteering departments, participant counts, outcomes or testimonials.",
-  "implementation_status": "Reconstructed",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
   "unresolved": [
-    "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
-    "Image focal points, type measures and every interaction require review of the rendered result."
+    "Fresh independent reference-fidelity review pending; old review records are unchanged.",
+    "Literal pairwise heading-axis uniqueness is not claimed; static readable headings intentionally remain."
   ],
   "motion_notes": {
-    "evidence": "Royal/about sticky reading topology; Lou/about measured timed first-entry opacity and reversible footer blur only. Durations are reconstructed estimates.",
-    "initial": "All essential content visible without JavaScript.",
-    "trigger": "Native scroll or first intersection",
-    "reverse": "Native reading reverses. Focus / emphasis scenes reverse; first-entry animation does not replay.",
-    "mobile": "Single-column native flow; sticky sidebars disabled below 700px.",
-    "reduced": "No entrance keyframes; no blur; all content visible.",
-    "limitation": "No claim of two unique heading axes: unobserved effects were not fabricated."
+    "initial": "All content visible without JavaScript; enhanced membership stages initialize immediately.",
+    "trigger": "First intersection of intact unit, opacity .8→1; authored reconstruction timing.",
+    "reverse": "Membership paired stage reverses; other first-entry clarity does not replay.",
+    "mobile": "Native document reading, no hidden essential passage or forced pin.",
+    "reduced": "Fully visible, unpinned static content.",
+    "limitation": "No bodySplitText; Lou character-level granularity is not claimed. No new fidelity scores assigned."
+  },
+  "actual_sections": [
+    "serve-opening",
+    "serve-purpose"
+  ],
+  "motion_contract": {
+    "scene": "serve-first-entry-clarity",
+    "source_observation": "Observed modest enter arrival or Lou held-position timed clarity",
+    "test_states": [
+      "before entry",
+      "after 1500ms",
+      "reverse after entry"
+    ],
+    "essential_text_min_opacity": 0.8,
+    "estimate_notice": "Reconstruction durations are design estimates, not source editor values."
+  },
+  "implementation": {
+    "html": "src/pages/serve.html",
+    "css": "src/pages/serve.css",
+    "motion": "src/motion/scenes/serve.ts",
+    "repair_notes": "art-direction/pages/serve/repair-notes.md"
   }
 }

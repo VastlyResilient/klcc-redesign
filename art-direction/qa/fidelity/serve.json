@@ -1,72 +1,88 @@
 {
   "route": "serve",
-  "status": "Blocked",
-  "reviewer": "independent v22_capture_pipeline",
-  "reviewed_at": "2026-10-07T07:16:03.694Z",
-  "evidence": "art-direction/qa/side-by-side/serve/",
-  "observations": "All three widths: real food-outreach photo leads, sign-up remains immediately available, then a bounded purpose passage and scripture. No invented volunteer categories or testimonial faces.",
-  "repairs": [
-    "Authentic image retained at natural aspect",
-    "Source-based H1 scale restored",
-    "Generic invented service grids avoided"
-  ],
+  "status": "Fidelity-reviewed",
+  "accepted": false,
   "sections": [
     {
       "id": "serve-opening",
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/serve/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/serve-opening-desktop.png",
+          "build_sha256": "ae0637267a7192b4aa4b0440c5842aeca74e20e7fea9cf125d137e00347fb89c",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-cta.png",
+          "source_state": "section-cta",
+          "source_unit": "cta",
           "scores": {
             "text_placement": 4,
             "readability": 4,
-            "text_image_association": 4,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Centered invitation and compact signup action over genuine outreach photography follow Royal CTA relation. Larger full-scene crop preserves serving context. Actual solid-glyph headline contrast passes 3:1 at all widths; action text exceeds 13:1.",
+          "comparison": "review/independent/serve-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/serve-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/serve/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/serve-opening-tablet.png",
+          "build_sha256": "3d2341f9b96fb28dcb70d67a4b549bc293f176cb13e14c9b8bf6c5fe5d3e0f53",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-cta.png",
+          "source_state": "section-cta",
+          "source_unit": "cta",
           "scores": {
             "text_placement": 4,
             "readability": 4,
-            "text_image_association": 4,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Centered invitation and compact signup action over genuine outreach photography follow Royal CTA relation. Larger full-scene crop preserves serving context. Actual solid-glyph headline contrast passes 3:1 at all widths; action text exceeds 13:1.",
+          "comparison": "review/independent/serve-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/serve-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/serve/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/serve-opening-phone.png",
+          "build_sha256": "6c2cd503b1e8317c7a651ea159f26d7152eeddce786bf4e262ff77efff2e0a74",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-cta.png",
+          "source_state": "section-cta",
+          "source_unit": "cta",
           "scores": {
             "text_placement": 4,
             "readability": 4,
-            "text_image_association": 4,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Centered invitation and compact signup action over genuine outreach photography follow Royal CTA relation. Larger full-scene crop preserves serving context. Actual solid-glyph headline contrast passes 3:1 at all widths; action text exceeds 13:1.",
+          "comparison": "review/independent/serve-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/serve-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -75,131 +91,102 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/serve/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/serve-purpose-desktop.png",
+          "build_sha256": "09c25ace94268d07dbe4b283f0106152b315b729a1c1e6cd0a4921e0bad6b9ec",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/forward-002.png",
+          "source_state": "forward-002",
+          "source_unit": "section-2",
           "scores": {
-            "text_placement": 4,
-            "readability": 4,
+            "text_placement": 5,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "alignment": 5,
+            "spacing": 5,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Reading field now matches measured Lou width/placement rather than the failed right sidebar. Strong intact paragraph followed by quieter scripture remains readable and logically ordered; phone stays near full width. Once-entry clarity is reconstructed, not falsely attributed as reversible word fill.",
+          "comparison": "review/independent/serve-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/serve-purpose-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/serve/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/serve-purpose-tablet.png",
+          "build_sha256": "0e7263f20792d56d612889661990c6671b4d9a6258d1bba305016cb6f44fdb28",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/tablet/forward-002.png",
+          "source_state": "forward-002",
+          "source_unit": "section-2",
           "scores": {
-            "text_placement": 4,
-            "readability": 4,
+            "text_placement": 5,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "alignment": 5,
+            "spacing": 5,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Reading field now matches measured Lou width/placement rather than the failed right sidebar. Strong intact paragraph followed by quieter scripture remains readable and logically ordered; phone stays near full width. Once-entry clarity is reconstructed, not falsely attributed as reversible word fill.",
+          "comparison": "review/independent/serve-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/serve-purpose-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/serve/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/serve-purpose-phone.png",
+          "build_sha256": "3968486926de3f54084389b7b05bdcf01a87dded4f32587b593e0a2c20466e63",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/phone/forward-002.png",
+          "source_state": "forward-002",
+          "source_unit": "section-2",
           "scores": {
-            "text_placement": 4,
-            "readability": 4,
+            "text_placement": 5,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "alignment": 5,
+            "spacing": 5,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
-        }
-      ]
-    },
-    {
-      "id": "serve-scripture",
-      "reviews": [
-        {
-          "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/serve/",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
-        },
-        {
-          "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/serve/",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
-        },
-        {
-          "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/serve/",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Reading field now matches measured Lou width/placement rather than the failed right sidebar. Strong intact paragraph followed by quieter scripture remains readable and logically ordered; phone stays near full width. Once-entry clarity is reconstructed, not falsely attributed as reversible word fill.",
+          "comparison": "review/independent/serve-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/serve-purpose-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     }
   ],
-  "blockers": [
-    {
-      "condition": "Exact-reference fidelity gate remains below4/5",
-      "evidence": "The reference assignment included Royal image-backed CTA but the build presents title/action above an inset photo. Lou reading influence is visible in offset copy, yet no exact reference scene pairing or matching animation timing is established.",
-      "attempt": "Compared actual3-width page sections and matching reference boards; requested concrete visual repairs where identified.",
-      "fallback": "Keep legible real-company content and explicitly documented reference adaptations. Do not invent factual imagery or hide schedules to imitate unsupported scenes."
-    }
-  ],
+  "reviewer": "editorial_independent_review; independent of product authorship",
+  "reviewed_at": "2026-10-07T09:51:03.135775+00:00",
+  "scope": "Round 3 exact-unit visual review, actual browser motion and targeted actual-pixel contrast; section rubric only, not owner acceptance or mechanical gate waiver",
+  "source_review": "art-direction/qa/round-2/editorial-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/serve.json",
+  "source_hashes": {
+    "src/pages/serve.html": "d1c4510b096777695beef7b78f0b22dc6b6b79f2e29f1c2e96ca3461999dc762",
+    "src/pages/serve.css": "93bd7770b2e74542d7cc9e75ea49bf1b0749803e8e04528dc3312030fcb4b9f1",
+    "src/motion/scenes/serve.ts": "8611a1a1c2ccfdf3f99cf4d98bfcf79aa4ed330b2611952fbeff56d9bce0faa7"
+  },
   "limits": [
-    "No claim that public preview reveals exact editor easing/settings.",
-    "Accepted is reserved to owner."
+    "Raw section aspect ratios, full-bleed flags, heading ratios and total section-count assertions remain separate mechanical gate results; these visual scores do not waive them.",
+    "Source copy length, intrinsic company assets and church palette intentionally differ; no pixel similarity percentage claimed.",
+    "Whole-unit build crops exclude fixed browser/header chrome for unobstructed content review; opening and motion screenshots retain actual header.",
+    "No physical phone, exact source editor timing, all-frame contrast proof or owner Accepted status claimed.",
+    "Targeted overlay/hero contrast sampling is not a complete WCAG audit of every text node or every transitional frame.",
+    "Source Lou first-arrival is observed but per-character implementation parity is not claimed; intact-unit clarity avoids hiding essential copy."
   ],
-  "final_evidence": "art-direction/qa/captures/serve/manifest.json"
+  "issues": []
 }

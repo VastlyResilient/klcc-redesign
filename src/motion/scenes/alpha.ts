@@ -1,2 +1,6 @@
-import {registerScene} from '../lifecycle.js';
-const el=document.querySelector<HTMLElement>('.alpha-scripture')!;registerScene('alpha-scripture-focus',el,p=>el.style.setProperty('--alpha-focus',`${Math.max(0,1-p*3)*3}px`),1,.5);const copy=document.querySelector('.alpha-conversation>p:not(.eyebrow)')!;if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-reduced')){const o=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting)){copy.animate([{opacity:.6},{opacity:1}],{duration:1100});o.disconnect()}},{threshold:.2});o.observe(copy)}
+// Observed first-entry clarity, reconstructed timing. Essential copy stays readable.
+const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+if(!reduced.matches&&!document.body.classList.contains('motion-reduced')){
+ const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){if(!reduced.matches&&!document.body.classList.contains('motion-reduced'))entry.target.animate([{opacity:.8},{opacity:1}],{duration:1100,easing:'cubic-bezier(.2,.65,.3,1)'});observer.unobserve(entry.target)}}),{threshold:.15});
+ document.querySelectorAll('.alpha-films figure').forEach(el=>observer.observe(el));
+}

@@ -1,2 +1,6 @@
-import {registerScene} from '../lifecycle.js';
-const quote=document.querySelector<HTMLElement>('.believe-scripture')!;registerScene('believe-scripture-focus',quote,p=>quote.style.setProperty('--believe-focus',`${Math.max(0,1-p*3)*3}px`),1,.5);if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-reduced')){const o=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.animate([{opacity:.6,transform:'translateY(6px)'},{opacity:1,transform:'none'}],{duration:1100});o.unobserve(e.target)}}),{threshold:.2});document.querySelectorAll('.believe-step-pair article').forEach(e=>o.observe(e))}
+// Observed first-entry clarity, reconstructed timing. Essential copy stays readable.
+const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+if(!reduced.matches&&!document.body.classList.contains('motion-reduced')){
+ const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){if(!reduced.matches&&!document.body.classList.contains('motion-reduced'))entry.target.animate([{opacity:.8},{opacity:1}],{duration:900,easing:'cubic-bezier(.2,.65,.3,1)'});observer.unobserve(entry.target)}}),{threshold:.15});
+ document.querySelectorAll('.believe-step-pair article').forEach(el=>observer.observe(el));
+}

@@ -1,6 +1,6 @@
 {
-  "created": "2026-10-07T07:54:37.361625+00:00",
-  "status": "Release Blocked",
+  "created": "2026-10-07T10:01:34.431858+00:00",
+  "status": "Release Blocked; section-review repair complete",
   "gates": [
     {
       "gate": "G0",
@@ -52,13 +52,13 @@
     },
     {
       "gate": "G5",
-      "status": "Authored; quality blocked atG6",
+      "status": "Authored and section-reviewed",
       "artifacts": [
         "src/pages/",
         "src/motion/scenes/",
         "art-direction/pages/"
       ],
-      "limits": "All30 routes exist; implementation presence does not certify design quality."
+      "limits": "All 30 route section records Fidelity-reviewed; raw global gates separate."
     },
     {
       "gate": "G6",
@@ -70,7 +70,7 @@
         "art-direction/qa/structural-results.json",
         "art-direction/qa/motion-results.json"
       ],
-      "limits": "Failed reference topology, sequence, structural and anti-sameness conditions remain."
+      "limits": "Independent section reviews passed; raw structural parity and global uniqueness still fail."
     },
     {
       "gate": "G7",
@@ -84,7 +84,7 @@
     },
     {
       "gate": "G8",
-      "status": "Artifact packet assembled; not release approval",
+      "status": "Artifacts written; release blocked",
       "artifacts": [
         "COMPLETION.md",
         "BLOCKED.md",
@@ -93,7 +93,7 @@
         "pending-proposals.md",
         "art-direction/protected-skills-end.json"
       ],
-      "limits": "Every route has a terminal review disposition. Production blocked until failed conditions resolved."
+      "limits": "No Accepted status; exact unresolved gates retained."
     }
   ]
 }

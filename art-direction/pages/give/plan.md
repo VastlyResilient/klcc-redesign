@@ -17,3 +17,8 @@ Deleted: repeated decorative arrows, redundant genericCTAs and panelaround every
 G6 limitation: calm headings deliberatelyHold; do not inventrandom2-axis effects togameallpairuniqueness.
 
 Comparison againsttop3examples pendingrenderedreview.
+
+
+## Fidelity repair — 2026-10-07
+Replace the unsupported single-image Royal story stage with Slab Hydra image-first proof followed by title-left / explanation-right metadata. Keep the actual pantry artwork intact. Stable Hold, no invented chapter exchange.
+Sources inspected before repair: Royal /contact dossier and desktop contact board; Royal /about invitation dossier; Slab /projects/hydra dossier and desktop section board; Slab /archive three-width dossier. These are repairs for renewed independent review, not approval.

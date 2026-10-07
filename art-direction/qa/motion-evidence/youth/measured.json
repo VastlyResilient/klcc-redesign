@@ -9,56 +9,23 @@
     "desktop": {
       "measuredVisualChanges": [
         {
-          "from": "menu-open",
-          "to": "forward-001",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>figure:nth-child(2)",
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
           "properties": {
             "opacity": {
               "from": "1",
-              "to": "0.995032"
-            }
-          }
-        },
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>figure:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.995032",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(1)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.986939"
-            }
-          }
-        },
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(2)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.986939"
+              "to": "0.991418"
             }
           }
         },
         {
           "from": "forward-002",
           "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(1)>p:nth-child(2)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
           "properties": {
             "opacity": {
-              "from": "0.986939",
+              "from": "0.991418",
               "to": "1"
             }
           }
@@ -66,184 +33,74 @@
         {
           "from": "forward-002",
           "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(2)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.986939",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-002",
-          "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
-          "properties": {
-            "filter": {
-              "from": "blur(2px)",
-              "to": "blur(0px)"
-            }
-          }
-        },
-        {
-          "from": "section-section-0",
-          "to": "section-elevate-opening",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
-          "properties": {
-            "filter": {
-              "from": "blur(0.667479px)",
-              "to": "blur(2px)"
-            }
-          }
-        },
-        {
-          "from": "section-elevate-service",
-          "to": "section-age-paths",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
-          "properties": {
-            "filter": {
-              "from": "blur(2px)",
-              "to": "blur(0px)"
-            }
-          }
-        },
-        {
-          "from": "reverse-1842",
-          "to": "reverse-1392",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
-          "properties": {
-            "filter": {
-              "from": "blur(0px)",
-              "to": "blur(2px)"
-            }
-          }
-        }
-      ],
-      "scrollStates": 33,
-      "errors": [],
-      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/youth/capture-desktop/desktop/video/page@d0a29e880687d905d11720e4dae07ffe.webm",
-      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/youth/desktop-recording-board.png"
-    },
-    "tablet": {
-      "measuredVisualChanges": [
-        {
-          "from": "menu-open",
-          "to": "forward-001",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>figure:nth-child(2)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
           "properties": {
             "opacity": {
               "from": "1",
-              "to": "0.986953"
-            }
-          }
-        },
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>figure:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.986953",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(1)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.978813"
-            }
-          }
-        },
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(2)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.978813"
-            }
-          }
-        },
-        {
-          "from": "forward-002",
-          "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(1)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.978813",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-002",
-          "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(2)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.978813",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-002",
-          "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
-          "properties": {
-            "filter": {
-              "from": "blur(2px)",
-              "to": "blur(0.128755px)"
+              "to": "0.969065"
             }
           }
         },
         {
           "from": "forward-003",
           "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
           "properties": {
-            "filter": {
-              "from": "blur(0.128755px)",
-              "to": "blur(0px)"
+            "opacity": {
+              "from": "0.969065",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 31,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/youth/capture-desktop/desktop/video/page@84713aeef70abb98e8b92b1c2f4922eb.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/youth/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.984423"
             }
           }
         },
         {
-          "from": "section-elevate-service",
-          "to": "section-age-paths",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
           "properties": {
-            "filter": {
-              "from": "blur(2px)",
-              "to": "blur(0px)"
+            "opacity": {
+              "from": "1",
+              "to": "0.984423"
             }
           }
         },
         {
-          "from": "reverse-1803",
-          "to": "reverse-1419",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
           "properties": {
-            "filter": {
-              "from": "blur(0px)",
-              "to": "blur(1.38004px)"
+            "opacity": {
+              "from": "0.984423",
+              "to": "1"
             }
           }
         },
         {
-          "from": "reverse-1419",
-          "to": "reverse-1035",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
           "properties": {
-            "filter": {
-              "from": "blur(1.38004px)",
-              "to": "blur(2px)"
+            "opacity": {
+              "from": "0.984423",
+              "to": "1"
             }
           }
         }
@@ -255,67 +112,34 @@
     "phone": {
       "measuredVisualChanges": [
         {
-          "from": "menu-open",
-          "to": "forward-001",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>figure:nth-child(2)",
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
           "properties": {
             "opacity": {
               "from": "1",
-              "to": "0.989286"
-            }
-          }
-        },
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>figure:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.989286",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(1)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.984413"
+              "to": "0.972466"
             }
           }
         },
         {
           "from": "forward-002",
           "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(1)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.984413",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-002",
-          "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(2)>p:nth-child(2)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
           "properties": {
             "opacity": {
               "from": "1",
-              "to": "0.969034"
+              "to": "0.972466"
             }
           }
         },
         {
           "from": "forward-003",
           "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>article:nth-child(2)>p:nth-child(2)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
           "properties": {
             "opacity": {
-              "from": "0.969034",
+              "from": "0.972466",
               "to": "1"
             }
           }
@@ -323,60 +147,16 @@
         {
           "from": "forward-003",
           "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
           "properties": {
-            "filter": {
-              "from": "blur(2px)",
-              "to": "blur(0px)"
-            }
-          }
-        },
-        {
-          "from": "section-elevate-service",
-          "to": "section-age-paths",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
-          "properties": {
-            "filter": {
-              "from": "blur(2px)",
-              "to": "blur(1.14911px)"
-            }
-          }
-        },
-        {
-          "from": "section-age-paths",
-          "to": "section-youth-scripture",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
-          "properties": {
-            "filter": {
-              "from": "blur(1.14911px)",
-              "to": "blur(0px)"
-            }
-          }
-        },
-        {
-          "from": "reverse-2322",
-          "to": "reverse-1900",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
-          "properties": {
-            "filter": {
-              "from": "blur(0px)",
-              "to": "blur(0.89611px)"
-            }
-          }
-        },
-        {
-          "from": "reverse-1900",
-          "to": "reverse-1478",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
-          "properties": {
-            "filter": {
-              "from": "blur(0.89611px)",
-              "to": "blur(2px)"
+            "opacity": {
+              "from": "0.972466",
+              "to": "1"
             }
           }
         }
       ],
-      "scrollStates": 31,
+      "scrollStates": 29,
       "errors": [],
       "video": null
     }

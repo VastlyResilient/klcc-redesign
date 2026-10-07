@@ -1,0 +1,1705 @@
+{
+  "reviewer": "repair_ministry agent; independent of practical page authorship",
+  "reviewed_at": "2026-10-07T09:23:28.298Z",
+  "review_stage": "Independent initial official evidence review and author-repair follow-up. Section rubric only; owner acceptance and cross-site anti-sameness remain separate.",
+  "initial_blocked_findings": [
+    {
+      "route": "give",
+      "section": "give-opening",
+      "finding": "Oversized heading129.6/92.16/72px versus50/40/32 source",
+      "initial_scores": {
+        "text_placement": 3,
+        "spacing": 3
+      },
+      "resolution": "Actual geometry/content integration repaired by practical author and independently recaptured"
+    },
+    {
+      "route": "pastoral-care",
+      "section": "care-request",
+      "finding": "Oversized heading95/67.6/58px",
+      "initial_scores": {
+        "text_placement": 3,
+        "spacing": 3
+      },
+      "resolution": "Actual geometry/content integration repaired by practical author and independently recaptured"
+    },
+    {
+      "route": "easter",
+      "section": "easter-opening",
+      "finding": "Oversized heading122/87/67px",
+      "initial_scores": {
+        "text_placement": 3,
+        "spacing": 3
+      },
+      "resolution": "Actual geometry/content integration repaired by practical author and independently recaptured"
+    },
+    {
+      "route": "app",
+      "section": "app-opening",
+      "finding": "Tall intrinsic image pushed all metadata/actions below desktop fold",
+      "initial_scores": {
+        "media_size_aspect": 3,
+        "sequence_parity": 3
+      },
+      "resolution": "Actual geometry/content integration repaired by practical author and independently recaptured"
+    },
+    {
+      "route": "previous-messages",
+      "section": "archive-library",
+      "finding": "Oversized left heading inverted small-left/right-primary source hierarchy",
+      "initial_scores": {
+        "text_placement": 3,
+        "spacing": 3
+      },
+      "resolution": "Actual geometry/content integration repaired by practical author and independently recaptured"
+    },
+    {
+      "route": "give",
+      "section": "give-reading",
+      "finding": "Equal reading panels did not match mapped Royal contact footer",
+      "initial_scores": {
+        "text_placement": 3,
+        "sequence_parity": 3
+      },
+      "resolution": "Actual geometry/content integration repaired by practical author and independently recaptured"
+    },
+    {
+      "route": "pastoral-care",
+      "section": "care-comfort",
+      "finding": "Standalone short scripture did not supply mapped Brief roles",
+      "initial_scores": {
+        "text_placement": 3,
+        "sequence_parity": 3
+      },
+      "resolution": "Actual geometry/content integration repaired by practical author and independently recaptured"
+    }
+  ],
+  "routes": [
+    {
+      "route": "give",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "give-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-desktop-give-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Secure giving identity and direct provider action now use source-scale heading and asymmetric contact columns. Essential action remains visible before any disclosure.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-desktop-give-opening.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-tablet-give-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Secure giving identity and direct provider action now use source-scale heading and asymmetric contact columns. Essential action remains visible before any disclosure.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-tablet-give-opening.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-phone-give-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-phone-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Secure giving identity and direct provider action now use source-scale heading and asymmetric contact columns. Essential action remains visible before any disclosure.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-phone-give-opening.png"
+            }
+          ]
+        },
+        {
+          "id": "give-methods",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-desktop-give-methods.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Small left label and single ruled right sequence retain app, online and postal methods. Native embed disclosure supplements the direct provider route.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-desktop-give-methods.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-tablet-give-methods.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Small left label and single ruled right sequence retain app, online and postal methods. Native embed disclosure supplements the direct provider route.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-tablet-give-methods.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-phone-give-methods.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Small left label and single ruled right sequence retain app, online and postal methods. Native embed disclosure supplements the direct provider route.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-phone-give-methods.png"
+            }
+          ]
+        },
+        {
+          "id": "give-generosity",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-desktop-give-generosity.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic pantry photograph leads, with modest identity and explanatory metadata beneath. Documentary subject and broad ratio stay intact.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-desktop-give-generosity.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-tablet-give-generosity.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic pantry photograph leads, with modest identity and explanatory metadata beneath. Documentary subject and broad ratio stay intact.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-tablet-give-generosity.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-phone-give-generosity.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic pantry photograph leads, with modest identity and explanatory metadata beneath. Documentary subject and broad ratio stay intact.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-phone-give-generosity.png"
+            }
+          ]
+        },
+        {
+          "id": "give-reading",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-desktop-give-reading.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repair replaces unrelated footer attribution and two equal reading panels with actual small-left/right-primary Brief hierarchy. Scripture is a contextual note within that column.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-desktop-give-reading.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-tablet-give-reading.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repair replaces unrelated footer attribution and two equal reading panels with actual small-left/right-primary Brief hierarchy. Scripture is a contextual note within that column.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-tablet-give-reading.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/give-phone-give-reading.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/give-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "Repair replaces unrelated footer attribution and two equal reading panels with actual small-left/right-primary Brief hierarchy. Scripture is a contextual note within that column.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/give-phone-give-reading.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "app",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "app-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/app-desktop-app-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/app-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repaired desktop/tablet media stage is bounded to source-like 540px maximum. Phone and hand remain recognizable; title and download actions follow in metadata columns, stacking on phone.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/app-desktop-app-opening.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/app-tablet-app-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/app-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repaired desktop/tablet media stage is bounded to source-like 540px maximum. Phone and hand remain recognizable; title and download actions follow in metadata columns, stacking on phone.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/app-tablet-app-opening.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/app-phone-app-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/app-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repaired desktop/tablet media stage is bounded to source-like 540px maximum. Phone and hand remain recognizable; title and download actions follow in metadata columns, stacking on phone.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/app-phone-app-opening.png"
+            }
+          ]
+        },
+        {
+          "id": "app-use",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/app-desktop-app-use.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/app-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Brief label and right continuous ruled destinations are clearly subordinate to the visual opening. Phone reads label then destinations.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/app-desktop-app-use.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/app-tablet-app-use.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/app-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Brief label and right continuous ruled destinations are clearly subordinate to the visual opening. Phone reads label then destinations.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/app-tablet-app-use.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/app-phone-app-use.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/app-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "Brief label and right continuous ruled destinations are clearly subordinate to the visual opening. Phone reads label then destinations.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/app-phone-app-use.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "watch-live",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "live-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/watch-live-desktop-live-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/watch-live-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/royal/about/desktop/section-cta.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Centered invitation and stable service action sit on authentic worship scene, matching Royal photographic CTA relationship. Schedule is immediately legible; no invented pin or sequence.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/watch-live-desktop-live-opening.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/watch-live-tablet-live-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/watch-live-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/royal/about/tablet/section-cta.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Centered invitation and stable service action sit on authentic worship scene, matching Royal photographic CTA relationship. Schedule is immediately legible; no invented pin or sequence.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/watch-live-tablet-live-opening.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/watch-live-phone-live-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/watch-live-phone-states.png",
+              "source_evidence": "art-direction/references/deep/royal/about/phone/section-cta.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Centered invitation and stable service action sit on authentic worship scene, matching Royal photographic CTA relationship. Schedule is immediately legible; no invented pin or sequence.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/watch-live-phone-live-opening.png"
+            }
+          ]
+        },
+        {
+          "id": "live-player",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/watch-live-desktop-live-player.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/watch-live-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Functional broad player precedes title and playback context. Provider countdown rendered in official evidence; direct service fallback remains visible.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/watch-live-desktop-live-player.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/watch-live-tablet-live-player.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/watch-live-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Functional broad player precedes title and playback context. Provider countdown rendered in official evidence; direct service fallback remains visible.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/watch-live-tablet-live-player.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/watch-live-phone-live-player.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/watch-live-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Functional broad player precedes title and playback context. Provider countdown rendered in official evidence; direct service fallback remains visible.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/watch-live-phone-live-player.png"
+            }
+          ]
+        },
+        {
+          "id": "watch-live-section-2",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/watch-live-desktop-watch-live-section-2.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/watch-live-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact left invitation with stable right alternate routes keeps the Contact hierarchy as a small utility. No fake form is added.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/watch-live-desktop-watch-live-section-2.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/watch-live-tablet-watch-live-section-2.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/watch-live-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact left invitation with stable right alternate routes keeps the Contact hierarchy as a small utility. No fake form is added.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/watch-live-tablet-watch-live-section-2.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/watch-live-phone-watch-live-section-2.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/watch-live-phone-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact left invitation with stable right alternate routes keeps the Contact hierarchy as a small utility. No fake form is added.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/watch-live-phone-watch-live-section-2.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "previous-messages",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "archive-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/previous-messages-desktop-archive-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/previous-messages-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Original sermon artwork is primary, with restrained archive identity and factual context beneath. Labels honestly describe a selection rather than claiming latest.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/previous-messages-desktop-archive-opening.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/previous-messages-tablet-archive-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/previous-messages-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Original sermon artwork is primary, with restrained archive identity and factual context beneath. Labels honestly describe a selection rather than claiming latest.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/previous-messages-tablet-archive-opening.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/previous-messages-phone-archive-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/previous-messages-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Original sermon artwork is primary, with restrained archive identity and factual context beneath. Labels honestly describe a selection rather than claiming latest.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/previous-messages-phone-archive-opening.png"
+            }
+          ]
+        },
+        {
+          "id": "archive-selection",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/previous-messages-desktop-archive-selection.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/previous-messages-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/archive-verified/desktop/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Three columns desktop/tablet and two phone preserve observed archive density with intact varied original covers. Necessary factual title/date/speaker captions add semantic association.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/previous-messages-desktop-archive-selection.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/previous-messages-tablet-archive-selection.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/previous-messages-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/archive-verified/tablet/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Three columns desktop/tablet and two phone preserve observed archive density with intact varied original covers. Necessary factual title/date/speaker captions add semantic association.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/previous-messages-tablet-archive-selection.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/previous-messages-phone-archive-selection.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/previous-messages-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/archive-verified/phone/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Three columns desktop/tablet and two phone preserve observed archive density with intact varied original covers. Necessary factual title/date/speaker captions add semantic association.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/previous-messages-phone-archive-selection.png"
+            }
+          ]
+        },
+        {
+          "id": "archive-library",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/previous-messages-desktop-archive-library.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/previous-messages-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repaired small left label and larger right explanation restore Brief hierarchy; full provider library destination remains stable.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/previous-messages-desktop-archive-library.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/previous-messages-tablet-archive-library.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/previous-messages-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repaired small left label and larger right explanation restore Brief hierarchy; full provider library destination remains stable.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/previous-messages-tablet-archive-library.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/previous-messages-phone-archive-library.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/previous-messages-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "Repaired small left label and larger right explanation restore Brief hierarchy; full provider library destination remains stable.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/previous-messages-phone-archive-library.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "subsplash-media",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "message-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/subsplash-media-desktop-message-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/subsplash-media-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic worship image establishes context with honest caption; current message identity and verified speaker/date remain associated beneath.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/subsplash-media-desktop-message-opening.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/subsplash-media-tablet-message-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/subsplash-media-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic worship image establishes context with honest caption; current message identity and verified speaker/date remain associated beneath.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/subsplash-media-tablet-message-opening.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/subsplash-media-phone-message-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/subsplash-media-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic worship image establishes context with honest caption; current message identity and verified speaker/date remain associated beneath.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/subsplash-media-phone-message-opening.png"
+            }
+          ]
+        },
+        {
+          "id": "message-player",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/subsplash-media-desktop-message-player.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/subsplash-media-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Player occupies the broad media stage with compact metadata/direct fallback below. Native provider controls remain stable.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/subsplash-media-desktop-message-player.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/subsplash-media-tablet-message-player.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/subsplash-media-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Player occupies the broad media stage with compact metadata/direct fallback below. Native provider controls remain stable.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/subsplash-media-tablet-message-player.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/subsplash-media-phone-message-player.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/subsplash-media-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Player occupies the broad media stage with compact metadata/direct fallback below. Native provider controls remain stable.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/subsplash-media-phone-message-player.png"
+            }
+          ]
+        },
+        {
+          "id": "message-categories",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/subsplash-media-desktop-message-categories.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/subsplash-media-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "One small left label and right continuous library/control column retain source reading hierarchy. Native selectors and factual results are functional content, not decorative animation.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/subsplash-media-desktop-message-categories.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/subsplash-media-tablet-message-categories.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/subsplash-media-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "One small left label and right continuous library/control column retain source reading hierarchy. Native selectors and factual results are functional content, not decorative animation.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/subsplash-media-tablet-message-categories.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/subsplash-media-phone-message-categories.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/subsplash-media-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "One small left label and right continuous library/control column retain source reading hierarchy. Native selectors and factual results are functional content, not decorative animation.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/subsplash-media-phone-message-categories.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "pastoral-care",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "care-request",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/pastoral-care-desktop-care-request.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/pastoral-care-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repaired 50/40/32px heading restores Contact scale. Complete care explanation and request action remain together; short scripture is now contextual within this section, removing false standalone donor sequence. Conceptual image has honest role.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/pastoral-care-desktop-care-request.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/pastoral-care-tablet-care-request.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/pastoral-care-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repaired 50/40/32px heading restores Contact scale. Complete care explanation and request action remain together; short scripture is now contextual within this section, removing false standalone donor sequence. Conceptual image has honest role.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/pastoral-care-tablet-care-request.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/pastoral-care-phone-care-request.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/pastoral-care-phone-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repaired 50/40/32px heading restores Contact scale. Complete care explanation and request action remain together; short scripture is now contextual within this section, removing false standalone donor sequence. Conceptual image has honest role.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/pastoral-care-phone-care-request.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "calendar",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "calendar-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-desktop-calendar-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact Contact-scale title and right calendar context keep practical date information immediate. Source artwork remains supplemental.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/calendar-desktop-calendar-opening.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-3/tablet-heading-followup/calendar-whole-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Targeted tablet correction: h1 now40px, matching chosen source. Whole opening visually inspected: no clipped/awkward heading words, facts and imagery retain prior hierarchy, zero overflow. Desktop and phone h1 sizes remain unchanged. This does not clear other structural or global anti-sameness failures.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-3/tablet-heading-followup/calendar-comparison.jpg",
+              "reviewer": "repair_practical independent follow-up",
+              "reviewed_at": "2026-10-07T09:52:53.527835+00:00",
+              "followup_measurements": "art-direction/qa/round-3/tablet-heading-followup/measurements.json"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-phone-calendar-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-phone-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact Contact-scale title and right calendar context keep practical date information immediate. Source artwork remains supplemental.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/calendar-phone-calendar-opening.png"
+            }
+          ]
+        },
+        {
+          "id": "calendar-agenda",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-desktop-calendar-agenda.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Left calendar context and right factual agenda form a continuous Brief relationship. Six current entries precede native later-date disclosure; complete dates wrap without truncation.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/calendar-desktop-calendar-agenda.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-tablet-calendar-agenda.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Left calendar context and right factual agenda form a continuous Brief relationship. Six current entries precede native later-date disclosure; complete dates wrap without truncation.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/calendar-tablet-calendar-agenda.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-phone-calendar-agenda.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Left calendar context and right factual agenda form a continuous Brief relationship. Six current entries precede native later-date disclosure; complete dates wrap without truncation.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/calendar-phone-calendar-agenda.png"
+            }
+          ]
+        },
+        {
+          "id": "calendar-paths",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-desktop-calendar-paths.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet left utility identity and right vertical gathering destinations follow Contact hierarchy; phone stacks in logical order.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/calendar-desktop-calendar-paths.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-tablet-calendar-paths.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet left utility identity and right vertical gathering destinations follow Contact hierarchy; phone stacks in logical order.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/calendar-tablet-calendar-paths.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-phone-calendar-paths.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-phone-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "Quiet left utility identity and right vertical gathering destinations follow Contact hierarchy; phone stacks in logical order.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/calendar-phone-calendar-paths.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "easter",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "easter-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-desktop-easter-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/royal/about/desktop/section-hero.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repaired 50/40/32px heading, broad original event artwork, and factual archive date preserve Royal hero proportions and proof relationship. Expired event is explicitly archived.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/easter-desktop-easter-opening.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-tablet-easter-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/royal/about/tablet/section-hero.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repaired 50/40/32px heading, broad original event artwork, and factual archive date preserve Royal hero proportions and proof relationship. Expired event is explicitly archived.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/easter-tablet-easter-opening.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-phone-easter-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-phone-states.png",
+              "source_evidence": "art-direction/references/deep/royal/about/phone/section-hero.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Repaired 50/40/32px heading, broad original event artwork, and factual archive date preserve Royal hero proportions and proof relationship. Expired event is explicitly archived.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/easter-phone-easter-opening.png"
+            }
+          ]
+        },
+        {
+          "id": "expect",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-desktop-expect.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Complete original questions/answers stay in one right reading column under a small left identity. Longer phone section is necessary content, not spacer padding.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/easter-desktop-expect.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-tablet-expect.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Complete original questions/answers stay in one right reading column under a small left identity. Longer phone section is necessary content, not spacer padding.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/easter-tablet-expect.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-phone-expect.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-phone-states.png",
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Complete original questions/answers stay in one right reading column under a small left identity. Longer phone section is necessary content, not spacer padding.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/easter-phone-expect.png"
+            }
+          ]
+        },
+        {
+          "id": "easter-connect",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-desktop-easter-connect.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-desktop-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Left Holy Week identity/app channels and right stable archive/current-calendar actions form a coherent Contact ending with mobile stacking.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/easter-desktop-easter-connect.png"
+            },
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-tablet-easter-connect.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Left Holy Week identity/app channels and right stable archive/current-calendar actions form a coherent Contact ending with mobile stacking.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/easter-tablet-easter-connect.png"
+            },
+            {
+              "viewport": 390,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-phone-easter-connect.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-phone-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Left Holy Week identity/app channels and right stable archive/current-calendar actions form a coherent Contact ending with mobile stacking.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-2/practical-comparisons/easter-phone-easter-connect.png"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "This section rubric does not replace owner approval or whole-site anti-sameness review.",
+    "External payment/request submission and media playback were not executed. Embedded providers depend on network; stable direct destinations are present.",
+    "Functional content expands some source reading sections. Authentic media and intact essential data take precedence over fabricated filler."
+  ]
+}

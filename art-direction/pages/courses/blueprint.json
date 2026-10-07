@@ -1,9 +1,9 @@
 {
   "route": "courses",
   "reference": {
-    "template": "royal",
-    "route": "/about",
-    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "template": "slab",
+    "route": "/projects/hydra",
+    "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
     "mode": "B",
     "donors": [
       "lou",
@@ -12,7 +12,7 @@
   },
   "visitor_job": "Compare discipleship courses by season, date and registration status.",
   "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
-  "critical_answer": "Preserve the fall overview September 23\u2013December 9, each course range and genuine On Break or Closed states. Log the Finance duration/date inconsistency instead of silently resolving it.",
+  "critical_answer": "Preserve the fall overview September 23–December 9, each course range and genuine On Break or Closed states. Log the Finance duration/date inconsistency instead of silently resolving it.",
   "primary_action": {
     "route": "courses",
     "source": "https://klcc.us/courses",
@@ -29,14 +29,14 @@
   "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
   "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
   "signature": {
-    "id": "courses-carry",
-    "dominant_verb": "Carry",
-    "structural_idea": "Seasonal syllabus with a strong date column and individually bounded course descriptions",
+    "id": "courses-repaired-composition",
+    "dominant_verb": "Present",
+    "structural_idea": "Winter/spring information now uses a left section label and right reading column. Conceptual art physically moved to its own dominant full-width media interval with source-matched portrait-ish aspect; no tiny isolated left illustration remains. Marriage maps the text-only highlight region, not a wrong phone Next Project frame.",
     "axes": {
-      "unit": "content-specific block/image",
-      "vector": "Hold pending observed scene contract",
-      "driver": "native scroll",
-      "frame": "route-owned composition"
+      "unit": "intact editorial unit",
+      "vector": "clarity without translation",
+      "driver": "Scroll-triggered once, native reading",
+      "frame": "native document flow"
     }
   },
   "heading_arrival": {
@@ -83,28 +83,89 @@
     {
       "id": "courses-opening",
       "title": "opening",
+      "selector": "#courses-opening",
       "content_ids": [
+        "img:courses.page-courses",
         "ci:courses.s0.b0",
         "ci:courses.s0.b1",
         "ci:courses.s1.b0",
-        "ci:courses.s1.b1",
-        "img:courses.page-courses"
+        "ci:courses.s1.b1"
       ],
       "reference_section": {
-        "template": "royal",
-        "route": "/about",
-        "landmark": "hero",
-        "state": "section-hero",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "manifest": "art-direction/references/deep/royal/about/manifest.json",
-        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+        "template": "slab",
+        "route": "/projects/hydra",
+        "landmark": "section-0",
+        "state": "opening",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "comparison_scope": "Exact observed visual unit image-and-metadata. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+        "states": {
+          "desktop": "opening",
+          "tablet": "opening",
+          "phone": "opening"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png"
+        },
+        "region": {
+          "selector": "[data-framer-name=\"Hero Image Section\"], [data-framer-name=\"Header Section\"]",
+          "definition": "image-and-metadata",
+          "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+          "viewports": {
+            "desktop": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+              "box": {
+                "x": 0,
+                "top": 0,
+                "width": 1440,
+                "height": 941.78125
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "tablet": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+              "box": {
+                "x": 0,
+                "top": 0,
+                "width": 1024,
+                "height": 891.84375
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "phone": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png",
+              "box": {
+                "x": 0,
+                "top": 0,
+                "width": 390,
+                "height": 824.703125
+              },
+              "fullbleed": true,
+              "sticky": false
+            }
+          }
+        }
       },
       "critical_answer_visible_without_animation": true,
-      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+      "adaptation": "Dominant source image above left title and right course overview.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/courses.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
     },
     {
       "id": "courses-fall",
       "title": "fall",
+      "selector": "#courses-fall",
       "content_ids": [
         "ci:courses.s1.b2",
         "ci:courses.s1.b3",
@@ -121,20 +182,80 @@
         "cta:courses.s1.a1"
       ],
       "reference_section": {
-        "template": "royal",
-        "route": "/about",
-        "landmark": "stry",
-        "state": "section-stry",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "manifest": "art-direction/references/deep/royal/about/manifest.json",
-        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+        "template": "slab",
+        "route": "/projects/hydra",
+        "landmark": "section-1",
+        "state": "forward-002",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "comparison_scope": "Exact observed visual unit brief. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+        "states": {
+          "desktop": "forward-002",
+          "tablet": "forward-002",
+          "phone": "forward-002"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png"
+        },
+        "region": {
+          "selector": "[data-framer-name=\"Brief Section\"]",
+          "definition": "brief",
+          "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+          "viewports": {
+            "desktop": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+              "box": {
+                "x": 0,
+                "top": 941.78125,
+                "width": 1440,
+                "height": 674
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "tablet": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+              "box": {
+                "x": 0,
+                "top": 891.84375,
+                "width": 1024,
+                "height": 737
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "phone": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png",
+              "box": {
+                "x": 0,
+                "top": 824.703125,
+                "width": 390,
+                "height": 705.59375
+              },
+              "fullbleed": true,
+              "sticky": false
+            }
+          }
+        }
       },
       "critical_answer_visible_without_animation": true,
-      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+      "adaptation": "Quiet left section/date label, right ruled descriptions and intact registration destinations. Four actual course descriptions replace Overview/Challenge/Solution labels.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/courses.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
     },
     {
       "id": "courses-seasons",
       "title": "seasons",
+      "selector": "#courses-seasons",
       "content_ids": [
         "ci:courses.s2.b0",
         "ci:courses.s2.b1",
@@ -143,24 +264,161 @@
         "ci:courses.s3.b1",
         "ci:courses.s3.b2",
         "ci:courses.s3.b3",
-        "ci:courses.s3.b4",
+        "ci:courses.s3.b4"
+      ],
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "landmark": "section-1",
+        "state": "forward-002",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "comparison_scope": "Exact observed visual unit brief. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+        "states": {
+          "desktop": "forward-002",
+          "tablet": "forward-002",
+          "phone": "forward-002"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png"
+        },
+        "region": {
+          "selector": "[data-framer-name=\"Brief Section\"]",
+          "definition": "brief",
+          "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+          "viewports": {
+            "desktop": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+              "box": {
+                "x": 0,
+                "top": 941.78125,
+                "width": 1440,
+                "height": 674
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "tablet": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+              "box": {
+                "x": 0,
+                "top": 891.84375,
+                "width": 1024,
+                "height": 737
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "phone": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png",
+              "box": {
+                "x": 0,
+                "top": 824.703125,
+                "width": 390,
+                "height": 705.59375
+              },
+              "fullbleed": true,
+              "sticky": false
+            }
+          }
+        }
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Left season label and right two topic blocks; original winter/spring content preserved. Separate wide media follows as its own measured visual unit.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/courses.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
+    },
+    {
+      "id": "courses-reading",
+      "title": "reading",
+      "selector": "#courses-reading",
+      "content_ids": [
         "img:courses.faith-editorial"
       ],
       "reference_section": {
-        "template": "royal",
-        "route": "/about",
-        "landmark": "ourvalues",
-        "state": "section-ourvalues",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "manifest": "art-direction/references/deep/royal/about/manifest.json",
-        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+        "template": "slab",
+        "route": "/projects/hydra",
+        "landmark": "section-3",
+        "state": "forward-007",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "comparison_scope": "Exact observed visual unit dominant-artwork. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-dominant-artwork.png",
+        "states": {
+          "desktop": "forward-007",
+          "tablet": "forward-007",
+          "phone": "forward-005"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-dominant-artwork.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-dominant-artwork.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-dominant-artwork.png"
+        },
+        "region": {
+          "selector": ".framer-13ygb0k",
+          "definition": "dominant-artwork",
+          "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+          "viewports": {
+            "desktop": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-dominant-artwork.png",
+              "box": {
+                "x": 8,
+                "top": 2977.9375,
+                "width": 1424,
+                "height": 962.15625
+              },
+              "fullbleed": false,
+              "sticky": false
+            },
+            "tablet": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-dominant-artwork.png",
+              "box": {
+                "x": 8,
+                "top": 2617.140625,
+                "width": 1008,
+                "height": 681.078125
+              },
+              "fullbleed": false,
+              "sticky": false
+            },
+            "phone": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-dominant-artwork.png",
+              "box": {
+                "x": 8,
+                "top": 2296.921875,
+                "width": 374,
+                "height": 277.03125
+              },
+              "fullbleed": false,
+              "sticky": false
+            }
+          }
+        }
       },
       "critical_answer_visible_without_animation": true,
-      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+      "adaptation": "Wide dominant conceptual book artwork replaces source device artwork; both are explicitly visual evidence, not portrait photography.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/courses.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
     },
     {
       "id": "courses-marriage",
       "title": "marriage",
+      "selector": "#courses-marriage",
       "content_ids": [
         "ci:courses.s4.b0",
         "ci:courses.s4.b1",
@@ -169,16 +427,75 @@
         "cta:courses.live3"
       ],
       "reference_section": {
-        "template": "royal",
-        "route": "/about",
-        "landmark": "cta",
-        "state": "section-cta",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "manifest": "art-direction/references/deep/royal/about/manifest.json",
-        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+        "template": "slab",
+        "route": "/projects/hydra",
+        "landmark": "section-4",
+        "state": "forward-010",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "comparison_scope": "Exact observed visual unit text-row. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+        "states": {
+          "desktop": "forward-010",
+          "tablet": "forward-010",
+          "phone": "forward-008"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png"
+        },
+        "region": {
+          "selector": "[data-framer-name=\"Highlight Section 2\"]",
+          "definition": "text-row",
+          "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+          "viewports": {
+            "desktop": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+              "box": {
+                "x": 0,
+                "top": 4545.25,
+                "width": 1440,
+                "height": 320
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "tablet": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+              "box": {
+                "x": 0,
+                "top": 3767.0625,
+                "width": 1024,
+                "height": 335
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "phone": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png",
+              "box": {
+                "x": 0,
+                "top": 3226.015625,
+                "width": 390,
+                "height": 409.59375
+              },
+              "fullbleed": true,
+              "sticky": false
+            }
+          }
+        }
       },
       "critical_answer_visible_without_animation": true,
-      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+      "adaptation": "Actual text-only Highlight Section 2 unit: small left label and enlarged right explanatory paragraph. No claim to its separate following media section. Light company ground is an explicit identity adaptation.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/courses.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
     }
   ],
   "content_coverage": {
@@ -187,18 +504,41 @@
     "missing": []
   },
   "deletion_pass": "Correct the source typo throughs to thoughts without changing meaning. Never invent future dates or style On Break as an active booking action.",
-  "implementation_status": "Reconstructed",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
   "unresolved": [
-    "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
-    "Image focal points, type measures and every interaction require review of the rendered result."
+    "Fresh independent reference-fidelity review pending; old review records are unchanged.",
+    "Literal pairwise heading-axis uniqueness is not claimed; static readable headings intentionally remain."
   ],
   "motion_notes": {
-    "evidence": "Royal/about sticky reading topology; Lou/about measured timed first-entry opacity and reversible footer blur only. Durations are reconstructed estimates.",
-    "initial": "All essential content visible without JavaScript.",
-    "trigger": "Native scroll or first intersection",
-    "reverse": "Native reading reverses. Focus / emphasis scenes reverse; first-entry animation does not replay.",
-    "mobile": "Single-column native flow; sticky sidebars disabled below 700px.",
-    "reduced": "No entrance keyframes; no blur; all content visible.",
-    "limitation": "No claim of two unique heading axes: unobserved effects were not fabricated."
+    "initial": "All content visible without JavaScript; enhanced membership stages initialize immediately.",
+    "trigger": "First intersection of intact unit, opacity .8→1; authored reconstruction timing.",
+    "reverse": "Membership paired stage reverses; other first-entry clarity does not replay.",
+    "mobile": "Native document reading, no hidden essential passage or forced pin.",
+    "reduced": "Fully visible, unpinned static content.",
+    "limitation": "No bodySplitText; Lou character-level granularity is not claimed. No new fidelity scores assigned."
+  },
+  "actual_sections": [
+    "courses-opening",
+    "courses-fall",
+    "courses-seasons",
+    "courses-reading",
+    "courses-marriage"
+  ],
+  "motion_contract": {
+    "scene": "courses-first-entry-clarity",
+    "source_observation": "Observed modest enter arrival or Lou held-position timed clarity",
+    "test_states": [
+      "before entry",
+      "after 1500ms",
+      "reverse after entry"
+    ],
+    "essential_text_min_opacity": 0.8,
+    "estimate_notice": "Reconstruction durations are design estimates, not source editor values."
+  },
+  "implementation": {
+    "html": "src/pages/courses.html",
+    "css": "src/pages/courses.css",
+    "motion": "src/motion/scenes/courses.ts",
+    "repair_notes": "art-direction/pages/courses/repair-notes.md"
   }
 }

@@ -1,70 +1,88 @@
 {
   "route": "young-adults",
-  "status": "Blocked",
-  "reviewed_at": "2026-10-07T07:19:10.007926+00:00",
-  "reviewer": "independent v22_inventory_gates (not page author)",
-  "scope": "All three viewport section boards and desktop source/build landmark comparisons inspected; earlier first-entry sequence observations and repaired reversible-focus browser measurements checked. No physical-device claim.",
-  "findings": "Original RED and RISE artwork remains intact and distinct; meeting information grouped alongside each. Shared congregation photograph is accurately labelled wider church, not young adult group. Closing scripture topology repeats other ministry routes.",
+  "status": "Fidelity-reviewed",
+  "accepted": false,
   "sections": [
     {
       "id": "ya-intro",
       "reviews": [
         {
           "viewport": 1440,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/desktop-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/young-adults-0.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/young-adults-desktop-ya-intro.png",
+          "additional_build_evidence": [
+            "art-direction/qa/round-2/ministry-final-evidence/young-adults-desktop-ya-intro-end.png"
+          ],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/opening.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Type-only opening omits the Royal hero photograph relationship; real event art follows in a separate section. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
+          "judgment": "After actual rebuild: original RED Night artwork leads and remains intact; ministry title, actual meeting metadata and explanatory content follow. The Slab image-first factual hierarchy now exists in the DOM and at all widths.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/young-adults-desktop-ya-intro.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/tablet-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/young-adults-1.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/young-adults-tablet-ya-intro.png",
+          "additional_build_evidence": [
+            "art-direction/qa/round-2/ministry-final-evidence/young-adults-tablet-ya-intro-end.png"
+          ],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/opening.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Type-only opening omits the Royal hero photograph relationship; real event art follows in a separate section. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
+          "judgment": "After actual rebuild: original RED Night artwork leads and remains intact; ministry title, actual meeting metadata and explanatory content follow. The Slab image-first factual hierarchy now exists in the DOM and at all widths.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/young-adults-tablet-ya-intro.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/phone-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/young-adults-2.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/young-adults-phone-ya-intro.png",
+          "additional_build_evidence": [
+            "art-direction/qa/round-2/ministry-final-evidence/young-adults-phone-ya-intro-end.png"
+          ],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/opening.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Type-only opening omits the Royal hero photograph relationship; real event art follows in a separate section. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
+          "judgment": "After actual rebuild: original RED Night artwork leads and remains intact; ministry title, actual meeting metadata and explanatory content follow. The Slab image-first factual hierarchy now exists in the DOM and at all widths.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/young-adults-phone-ya-intro.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -73,60 +91,75 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/desktop-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/young-adults-3.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/young-adults-desktop-ya-events.png",
+          "additional_build_evidence": [],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/opening.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 4,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Readable adapted composition, with actual source/build desktop pair and three-width section boards reviewed. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
+          "judgment": "After actual rebuild: RISE artwork leads at broad scale with event identity and factual description below. Alternating half-width rows are removed. Original date lettering remains complete and phone follows image-first order.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/young-adults-desktop-ya-events.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/tablet-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/young-adults-4.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/young-adults-tablet-ya-events.png",
+          "additional_build_evidence": [],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/opening.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 4,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Readable adapted composition, with actual source/build desktop pair and three-width section boards reviewed. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
+          "judgment": "After actual rebuild: RISE artwork leads at broad scale with event identity and factual description below. Alternating half-width rows are removed. Original date lettering remains complete and phone follows image-first order.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/young-adults-tablet-ya-events.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/phone-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/young-adults-5.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/young-adults-phone-ya-events.png",
+          "additional_build_evidence": [],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/opening.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 4,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Readable adapted composition, with actual source/build desktop pair and three-width section boards reviewed. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
+          "judgment": "After actual rebuild: RISE artwork leads at broad scale with event identity and factual description below. Alternating half-width rows are removed. Original date lettering remains complete and phone follows image-first order.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/young-adults-phone-ya-events.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -135,171 +168,95 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/desktop-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/young-adults-6.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/young-adults-desktop-ya-community.png",
+          "additional_build_evidence": [],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-007.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 4,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Readable adapted composition, with actual source/build desktop pair and three-width section boards reviewed. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
+          "judgment": "Authentic congregation image is an explicitly labeled image-only continuation against the observed Slab broad-artwork sequence. Native flow; all media remains intact.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/young-adults-desktop-ya-community.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/tablet-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/young-adults-7.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/young-adults-tablet-ya-community.png",
+          "additional_build_evidence": [],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-007.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 4,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Readable adapted composition, with actual source/build desktop pair and three-width section boards reviewed. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
+          "judgment": "Authentic congregation image is an explicitly labeled image-only continuation against the observed Slab broad-artwork sequence. Native flow; all media remains intact.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/young-adults-tablet-ya-community.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/phone-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/young-adults-8.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/young-adults-phone-ya-community.png",
+          "additional_build_evidence": [],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-007.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 4,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Readable adapted composition, with actual source/build desktop pair and three-width section boards reviewed. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
-        }
-      ]
-    },
-    {
-      "id": "young-adults-scripture",
-      "reviews": [
-        {
-          "viewport": 1440,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/desktop-sections-0.png",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
-          },
-          "notes": "Short scripture strip uses only Lou\u2019s offset idea; its geometry and text hierarchy differ from the observed long reading passage. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
-        },
-        {
-          "viewport": 1024,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/tablet-sections-0.png",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
-          },
-          "notes": "Short scripture strip uses only Lou\u2019s offset idea; its geometry and text hierarchy differ from the observed long reading passage. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
-        },
-        {
-          "viewport": 390,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/young-adults/phone-sections-0.png",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
-          },
-          "notes": "Short scripture strip uses only Lou\u2019s offset idea; its geometry and text hierarchy differ from the observed long reading passage. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/young-adults-source-pairs.jpg"
+          "judgment": "Authentic congregation image is an explicitly labeled image-only continuation against the observed Slab broad-artwork sequence. Native flow; all media remains intact.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/young-adults-phone-ya-community.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     }
   ],
-  "issues": [
-    {
-      "priority": "fidelity",
-      "section": "ya-intro",
-      "issue": "Type-only opening omits the Royal hero photograph relationship; real event art follows in a separate section.",
-      "repair": "Reconstruct the assigned source spatial relationship with truthful material, or record and evaluate a genuinely observed alternative; do not relabel this mismatch a pass."
-    },
-    {
-      "priority": "fidelity",
-      "section": "young-adults-scripture",
-      "issue": "Short scripture strip uses only Lou\u2019s offset idea; its geometry and text hierarchy differ from the observed long reading passage.",
-      "repair": "Reconstruct the assigned source spatial relationship with truthful material, or record and evaluate a genuinely observed alternative; do not relabel this mismatch a pass."
-    }
-  ],
-  "accepted": false,
-  "motion_review": {
-    "authorship": "Reviewer authored the subsequent scene repair, so independent motion verdict is delegated to capture reviewer.",
-    "evidence": "art-direction/qa/reviewer/pool-motion/repaired-focus.json",
-    "result": "Five focus scenes reverse correctly at 1440/1024/390; entrance selectors and essential Hold targets are route-specific. Exact source timings remain estimates."
+  "reviewer": "repair_practical agent, independent of ministry authorship",
+  "reviewed_at": "2026-10-07T09:15:54.842468+00:00",
+  "scope": "Independent follow-up after actual geometry repairs; section rubric cleared. This is not owner acceptance or whole-site anti-sameness/structural approval.",
+  "source_review": "art-direction/qa/round-2/ministry-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/young-adults.json",
+  "source_hashes": {
+    "src/pages/young-adults.html": "a98cedf3ebaeaab5fc0b2ab9d99e852ea3a41bed8836e3733d7bdd47cf5a232d",
+    "src/pages/young-adults.css": "d80ccb91a7ff73fa9565b1a87831c6c11fb30ea9ea964b55dcf48687535ca644",
+    "src/motion/scenes/young-adults.ts": "c3c0523cfc26403e6f3e808cce34ae57429a6a068cfaa81345ef6d3ce87829a6"
   },
-  "independent_motion_review": {
-    "reviewer": "v22_capture_pipeline",
-    "date": "2026-10-07T07:38:22.345545+00:00",
-    "evidence": [
-      "art-direction/qa/motion-evidence/young-adults/desktop-recording-board.png",
-      "art-direction/qa/motion-evidence/young-adults/measured.json"
-    ],
-    "viewports": {
-      "desktop": {
-        "observed_property_changes": 8,
-        "evidence": "art-direction/qa/captures/young-adults/manifest.json"
-      },
-      "tablet": {
-        "observed_property_changes": 11,
-        "evidence": "art-direction/qa/captures/young-adults/manifest.json"
-      },
-      "phone": {
-        "observed_property_changes": 9,
-        "evidence": "art-direction/qa/captures/young-adults/manifest.json"
-      }
-    },
-    "observations": "RED and RISE event information remains stable; later worship imagery and support copy enter separately. Native forward and reverse scroll remain readable.",
-    "verdict": "Observed working motion and stable practical content. Does not clear existing source-geometry fidelity blockers.",
-    "limits": [
-      "One-second filmstrip checkpoints do not establish exact easing or duration. Source editor settings remain inaccessible; public behavior reconstruction is estimated."
-    ]
-  }
+  "limits": [
+    "Headless installed Chrome; no physical phone.",
+    "No real forms submitted.",
+    "Exact Framer editor timing unknown.",
+    "Functional native biography/request links checked without submitting.",
+    "Root retains authority over whole-site gates and owner acceptance."
+  ],
+  "issues": []
 }

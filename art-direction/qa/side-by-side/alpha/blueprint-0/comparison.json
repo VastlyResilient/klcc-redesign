@@ -1,41 +1,73 @@
 {
-  "created": "2026-10-07T07:40:10.826Z",
+  "created": "2026-10-07T09:45:55.037Z",
   "pairs": [
     {
       "viewport": "desktop",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-alpha-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/desktop-section-alpha-opening.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "desktop",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-002",
+      "buildState": "section-alpha-conversation",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/desktop-section-alpha-conversation.png",
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "desktop",
+      "referenceState": "forward-009",
       "buildState": "section-alpha-films",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/desktop-section-alpha-films.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "desktop",
+      "referenceState": "forward-010",
+      "buildState": "section-alpha-scripture",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/desktop-section-alpha-scripture.png",
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-alpha-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/tablet-section-alpha-opening.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-002",
+      "buildState": "section-alpha-conversation",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/tablet-section-alpha-conversation.png",
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "tablet",
+      "referenceState": "forward-009",
       "buildState": "section-alpha-films",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/tablet-section-alpha-films.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "tablet",
+      "referenceState": "forward-010",
+      "buildState": "section-alpha-scripture",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/tablet-section-alpha-scripture.png",
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "phone",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-alpha-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/phone-section-alpha-opening.png",
       "referenceSettled": true,
@@ -43,9 +75,25 @@
     },
     {
       "viewport": "phone",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-002",
+      "buildState": "section-alpha-conversation",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/phone-section-alpha-conversation.png",
+      "referenceSettled": true,
+      "buildSettled": true
+    },
+    {
+      "viewport": "phone",
+      "referenceState": "forward-009",
       "buildState": "section-alpha-films",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/phone-section-alpha-films.png",
+      "referenceSettled": true,
+      "buildSettled": true
+    },
+    {
+      "viewport": "phone",
+      "referenceState": "forward-010",
+      "buildState": "section-alpha-scripture",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/alpha/blueprint-0/phone-section-alpha-scripture.png",
       "referenceSettled": true,
       "buildSettled": true
     }

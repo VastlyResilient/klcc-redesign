@@ -1,0 +1,225 @@
+{
+  "reviewer": "repair_practical agent, independent of mission authorship",
+  "reviewed_at": "2026-10-07T09:27:04.909919+00:00",
+  "route": "mission",
+  "status": "Blocked",
+  "accepted": false,
+  "scope": "Targeted reopened reading geometry plus actual all-three-width opening/middle/footer review. Historical G4 reviewed_at and prior fidelity records unchanged.",
+  "sections": [
+    {
+      "id": "mission-opening",
+      "status": "Fidelity-reviewed",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/desktop/opening-settled.png",
+          "build_evidence": "art-direction/qa/round-2/mission-evidence/1440-opening.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Full viewport company lens artwork carries centered radical-scale identity. Desktop256.32px relative to source270\u2013300px, tablet120px exact, phone70.2px vs64px: all within a defensible company-word adaptation. Native document scroll; no invented source load pixelation."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/tablet/opening-settled.png",
+          "build_evidence": "art-direction/qa/round-2/mission-evidence/1024-opening.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Full viewport company lens artwork carries centered radical-scale identity. Desktop256.32px relative to source270\u2013300px, tablet120px exact, phone70.2px vs64px: all within a defensible company-word adaptation. Native document scroll; no invented source load pixelation."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/phone/opening-settled.png",
+          "build_evidence": "art-direction/qa/round-2/mission-evidence/390-opening.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Full viewport company lens artwork carries centered radical-scale identity. Desktop256.32px relative to source270\u2013300px, tablet120px exact, phone70.2px vs64px: all within a defensible company-word adaptation. Native document scroll; no invented source load pixelation."
+        }
+      ]
+    },
+    {
+      "id": "mission-reading",
+      "status": "Fidelity-reviewed",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/qa/round-2/lou-reader-1440.png",
+          "build_evidence": "art-direction/qa/round-2/mission-evidence/1440-reading-settled.png",
+          "scores": {
+            "text_placement": 5,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
+          },
+          "judgment": "The corrected broad centered field matches measured Lou x280/880 desktop and x104/816 tablet exactly. Phone x22/346 vs x20/350 is immaterial. Statement40px desktop/tablet,24px phone; modest two-column commitments stack in phone. Preserving seven semantic company commitments is an actual substitute for source smaller credentials, not three invented paragraphs. The required no-bodySplitText adaptation retains the observed one-time arrival and reverse hold."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/qa/round-2/lou-reader-1024.png",
+          "build_evidence": "art-direction/qa/round-2/mission-evidence/1024-reading-settled.png",
+          "scores": {
+            "text_placement": 5,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
+          },
+          "judgment": "The corrected broad centered field matches measured Lou x280/880 desktop and x104/816 tablet exactly. Phone x22/346 vs x20/350 is immaterial. Statement40px desktop/tablet,24px phone; modest two-column commitments stack in phone. Preserving seven semantic company commitments is an actual substitute for source smaller credentials, not three invented paragraphs. The required no-bodySplitText adaptation retains the observed one-time arrival and reverse hold."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/qa/round-2/lou-reader-390.png",
+          "build_evidence": "art-direction/qa/round-2/mission-evidence/390-reading-settled.png",
+          "scores": {
+            "text_placement": 5,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
+          },
+          "judgment": "The corrected broad centered field matches measured Lou x280/880 desktop and x104/816 tablet exactly. Phone x22/346 vs x20/350 is immaterial. Statement40px desktop/tablet,24px phone; modest two-column commitments stack in phone. Preserving seven semantic company commitments is an actual substitute for source smaller credentials, not three invented paragraphs. The required no-bodySplitText adaptation retains the observed one-time arrival and reverse hold."
+        }
+      ]
+    },
+    {
+      "id": "mission-scripture",
+      "status": "Blocked",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/desktop/footer.png",
+          "build_evidence": "art-direction/qa/round-2/mission-evidence/1440-scripture.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
+            "alignment": 3,
+            "spacing": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 3
+          },
+          "judgment": "Existing composition remains materially different from its selected Lou footer source: source contact hierarchy and utility groups occupy top, huge identity sits bottom-right; build is a single left-aligned vertical quote/body/action stack. Light surface inversion and bounded reversible focus are faithful mechanisms, but cannot alone justify source composition fidelity. Actual re-layout or integrating complete scripture into the reading section is needed before reassessing this section; a new convenient attribution alone is insufficient."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/tablet/footer.png",
+          "build_evidence": "art-direction/qa/round-2/mission-evidence/1024-scripture.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
+            "alignment": 3,
+            "spacing": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 3
+          },
+          "judgment": "Existing composition remains materially different from its selected Lou footer source: source contact hierarchy and utility groups occupy top, huge identity sits bottom-right; build is a single left-aligned vertical quote/body/action stack. Light surface inversion and bounded reversible focus are faithful mechanisms, but cannot alone justify source composition fidelity. Actual re-layout or integrating complete scripture into the reading section is needed before reassessing this section; a new convenient attribution alone is insufficient."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/phone/footer.png",
+          "build_evidence": "art-direction/qa/round-2/mission-evidence/390-scripture.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
+            "alignment": 3,
+            "spacing": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 3
+          },
+          "judgment": "Existing composition remains materially different from its selected Lou footer source: source contact hierarchy and utility groups occupy top, huge identity sits bottom-right; build is a single left-aligned vertical quote/body/action stack. Light surface inversion and bounded reversible focus are faithful mechanisms, but cannot alone justify source composition fidelity. Actual re-layout or integrating complete scripture into the reading section is needed before reassessing this section; a new convenient attribution alone is insufficient."
+        }
+      ]
+    }
+  ],
+  "observations": "art-direction/qa/round-2/mission-evidence/observations.json",
+  "checks": {
+    "horizontal_overflow": false,
+    "reading_once_arrival": "opacity .62 to 1 / translateY6px to0,1400ms; reverse stays1",
+    "footer_reverse": "~3px at early boundary\u21920 settled\u2192~3px returning",
+    "reduced_motion": "filter none; opacity1 at all3 widths"
+  },
+  "metadata_findings": [
+    "Blueprint visitor_task/layout still says offset rather than centered",
+    "Blueprint mechanism still says54px rather than measured40/24",
+    "All three mobile_rewrite fields refer to unrelated History pin release"
+  ],
+  "limitations": [
+    "Source precise animation timings remain unknown; build estimates not presented as source measurements.",
+    "Fresh lou-reader-measure.json explicitly invalidates its own p-selector probe; use the fresh source screenshots and independently corroborated geometry cited in corrected dossier.",
+    "The current review is not owner acceptance or whole-site structural approval."
+  ]
+}

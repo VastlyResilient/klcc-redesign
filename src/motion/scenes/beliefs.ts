@@ -1,3 +1,6 @@
-import {registerScene} from '../lifecycle.js';
-document.querySelectorAll<HTMLElement>('.beliefs-statement article').forEach((el,i)=>registerScene('beliefs-clause-'+i,el,p=>{el.style.setProperty('--belief-alpha',String(.65+.35*Math.min(1,p*3)));if(p>0&&p<1)document.querySelector('.beliefs-count')!.textContent=String(i+1).padStart(2,'0')+' / 09'},.85,.3));
-if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-reduced')){const media=document.querySelector('.beliefs-opening figure')!;const observer=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting)){media.animate([{opacity:.65},{opacity:1}],{duration:1200,easing:'ease-out'});observer.disconnect()}},{threshold:.15});observer.observe(media)}
+// Observed first-entry clarity, reconstructed timing. Essential copy stays readable.
+const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+if(!reduced.matches&&!document.body.classList.contains('motion-reduced')){
+ const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){if(!reduced.matches&&!document.body.classList.contains('motion-reduced'))entry.target.animate([{opacity:.8},{opacity:1}],{duration:1250,easing:'cubic-bezier(.2,.65,.3,1)'});observer.unobserve(entry.target)}}),{threshold:.15});
+ document.querySelectorAll('.beliefs-paragraph').forEach(el=>observer.observe(el));
+}

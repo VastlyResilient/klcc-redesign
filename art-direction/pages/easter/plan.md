@@ -16,3 +16,8 @@ Deleted: repeated decorative arrows, redundant genericCTAs and panelaround every
 G6 limitation: calm headings deliberatelyHold; do not inventrandom2-axis effects togameallpairuniqueness.
 
 Comparison againsttop3examples pendingrenderedreview.
+
+
+## Fidelity repair — 2026-10-07
+Rebuild ending as Royal Contact utility grouping: left compact heading and app contact channels, right vertically spaced original Holy Week/current calendar destinations. Preserve all destinations and existing anchors. Hold.
+Sources inspected before repair: Royal /contact dossier and desktop contact board; Royal /about invitation dossier; Slab /projects/hydra dossier and desktop section board; Slab /archive three-width dossier. These are repairs for renewed independent review, not approval.

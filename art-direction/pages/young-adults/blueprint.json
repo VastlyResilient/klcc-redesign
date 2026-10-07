@@ -69,39 +69,53 @@
       "visitor_task": "Choose RED Night or RISE Night and know exactly when to attend.",
       "critical_answer_visible_without_animation": true,
       "reference_section": {
-        "template": "royal",
-        "route": "/about",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
         "landmark": "hero",
-        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+        "state": "opening",
+        "composition": "Original artwork first then left identity and right description/metadata; native stacked phone."
       },
       "company_content": {
         "copy": [
           "ci:young-adults.s0.b0",
-          "ci:young-adults.s1.b0"
+          "ci:young-adults.s1.b0",
+          "ci:young-adults.s4.b0",
+          "ci:young-adults.s4.b1",
+          "ci:young-adults.s2.b0",
+          "ci:young-adults.s2.b1"
         ],
-        "media": [],
+        "media": [
+          "img:young-adults.young-adults-red-night"
+        ],
         "cta": [
           "cta:young-adults.s1.a1",
-          "cta:young-adults.s1.a0"
+          "cta:young-adults.s1.a0",
+          "cta:young-adults.s2.a0"
         ]
       },
       "content_ids": [
+        "img:young-adults.young-adults-red-night",
         "ci:young-adults.s0.b0",
         "ci:young-adults.s1.b0",
         "cta:young-adults.s1.a1",
-        "cta:young-adults.s1.a0"
+        "cta:young-adults.s1.a0",
+        "ci:young-adults.s4.b0",
+        "ci:young-adults.s4.b1",
+        "ci:young-adults.s2.b0",
+        "ci:young-adults.s2.b1",
+        "cta:young-adults.s2.a0"
       ],
       "reconstruction": {
-        "layout": "Explicit authored section .ya-intro in src/pages/young-adults.html; final composition is visible in the author-check captures.",
+        "layout": "2026-10-07 repair; inspect src/pages/young-adults.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
         "ground": "ink",
         "motion": {
-          "mechanism": "Scroll-triggered bounded image/block arrival",
-          "source_settings": "unknown; no invented Framer values",
-          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-          "heading": "static readable HTML; no universal rise"
+          "mechanism": "Hold in native document flow",
+          "selectors": [],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "No route-owned motion on this section",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
         },
         "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
         "mobile_rewrite": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row.",
@@ -113,23 +127,20 @@
           "conflict": "The church identity and real content differ from the template.",
           "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
           "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
-        },
-        {
-          "reference": "Modest transform/opacity arrival; no observed split-word heading. Exact source trigger/easing unknown.",
-          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
-          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
-          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
         }
       ],
       "status": {
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
       },
       "comparison": null,
-      "reviewer_findings": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/young-adults.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
       "owner_feedback": null,
       "corrected": null
     },
@@ -142,46 +153,41 @@
         "template": "slab",
         "route": "/projects/hydra",
         "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-        "composition": "Slab project metadata: left project identity, aligned right metadata and ruled information hierarchy. See scoped dossier for source-specific capture limitations.",
-        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-        "landmark": "section-0",
-        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance.",
-        "state": "opening"
+        "landmark": "hero",
+        "state": "opening",
+        "composition": "Wide intact artwork before left identity and right factual metadata; stacks on phone.",
+        "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
       },
       "company_content": {
         "copy": [
-          "ci:young-adults.s2.b0",
-          "ci:young-adults.s2.b1",
           "ci:young-adults.s3.b0",
           "ci:young-adults.s3.b1"
         ],
         "media": [
-          "img:young-adults.young-adults-red-night",
           "img:young-adults.young-adults-rise-night"
         ],
         "cta": [
-          "cta:young-adults.s2.a0",
           "cta:young-adults.s3.a0"
         ]
       },
       "content_ids": [
-        "img:young-adults.young-adults-red-night",
-        "ci:young-adults.s2.b0",
-        "ci:young-adults.s2.b1",
-        "cta:young-adults.s2.a0",
         "img:young-adults.young-adults-rise-night",
         "ci:young-adults.s3.b0",
         "ci:young-adults.s3.b1",
         "cta:young-adults.s3.a0"
       ],
       "reconstruction": {
-        "layout": "Explicit authored section .ya-events.paper in src/pages/young-adults.html; final composition is visible in the author-check captures.",
+        "layout": "2026-10-07 repair; inspect src/pages/young-adults.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
         "ground": "paper",
         "motion": {
-          "mechanism": "Scroll-triggered bounded image/block arrival",
-          "source_settings": "unknown; no invented Framer values",
-          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-          "heading": "static readable HTML; no universal rise"
+          "mechanism": "Scroll-triggered once-entered opacity",
+          "selectors": [
+            "#ya-events article p:not(.eyebrow)"
+          ],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
         },
         "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
         "mobile_rewrite": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row.",
@@ -193,39 +199,35 @@
           "conflict": "The church identity and real content differ from the template.",
           "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
           "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
-        },
-        {
-          "reference": "Small enter arrivals; no long pin observed. Mobile single column.",
-          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
-          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
-          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
         }
       ],
       "status": {
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
       },
       "comparison": null,
-      "reviewer_findings": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/young-adults.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
       "owner_feedback": null,
       "corrected": null
     },
     {
       "id": "ya-community",
-      "title": "Join the young adult community",
-      "visitor_task": "Choose RED Night or RISE Night and know exactly when to attend.",
+      "title": "RED Night",
+      "visitor_task": "Read red night and find its relevant action.",
       "critical_answer_visible_without_animation": true,
       "reference_section": {
-        "template": "royal",
-        "route": "/about",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-        "landmark": "hero",
-        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "section-3",
+        "state": "forward-007",
+        "composition": "Wide image-only artwork sequence, native flow; actual congregation caption retained."
       },
       "company_content": {
         "copy": [],
@@ -238,13 +240,15 @@
         "img:young-adults.worship"
       ],
       "reconstruction": {
-        "layout": "Explicit authored section .ya-community in src/pages/young-adults.html; final composition is visible in the author-check captures.",
-        "ground": "ink",
+        "layout": "2026-10-07 repair; inspect src/pages/young-adults.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
+        "ground": "paper",
         "motion": {
-          "mechanism": "Scroll-triggered bounded image/block arrival",
-          "source_settings": "unknown; no invented Framer values",
-          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-          "heading": "static readable HTML; no universal rise"
+          "mechanism": "Hold in native document flow",
+          "selectors": [],
+          "implementation_values": "No route-owned motion",
+          "source_settings": "Unknown; no timing reconstruction claimed",
+          "heading": "No heading",
+          "reverse": "Native document flow"
         },
         "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
         "mobile_rewrite": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row.",
@@ -256,88 +260,20 @@
           "conflict": "The church identity and real content differ from the template.",
           "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
           "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
-        },
-        {
-          "reference": "Modest transform/opacity arrival; no observed split-word heading. Exact source trigger/easing unknown.",
-          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
-          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
-          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
         }
       ],
       "status": {
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
       },
       "comparison": null,
-      "reviewer_findings": null,
-      "owner_feedback": null,
-      "corrected": null
-    },
-    {
-      "id": "young-adults-scripture",
-      "title": "Young people with purpose",
-      "visitor_task": "Read young people with purpose and find its relevant action.",
-      "critical_answer_visible_without_animation": true,
-      "reference_section": {
-        "template": "lou",
-        "route": "/about",
-        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-        "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-        "landmark": "section-2",
-        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/young-adults.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
       },
-      "company_content": {
-        "copy": [
-          "ci:young-adults.s4.b0",
-          "ci:young-adults.s4.b1"
-        ],
-        "media": [],
-        "cta": []
-      },
-      "content_ids": [
-        "ci:young-adults.s4.b0",
-        "ci:young-adults.s4.b1"
-      ],
-      "reconstruction": {
-        "layout": "Explicit authored section .scripture in src/pages/young-adults.html; final composition is visible in the author-check captures.",
-        "ground": "navy",
-        "motion": {
-          "mechanism": "Hold",
-          "source_settings": "unknown; no invented Framer values",
-          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-          "heading": "static readable HTML; no universal rise"
-        },
-        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
-        "mobile_rewrite": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row.",
-        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
-      },
-      "deviations": [
-        {
-          "reference": "Reference typography/brand and commercial claims",
-          "conflict": "The church identity and real content differ from the template.",
-          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
-          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
-        },
-        {
-          "reference": "Settled source paragraphs stay fully white through reverse scrolling. Hold content; do not claim scroll-brightening.",
-          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
-          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
-          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
-        }
-      ],
-      "status": {
-        "covered": true,
-        "observed": true,
-        "reconstructed": true,
-        "fidelity_reviewed": false,
-        "accepted": false
-      },
-      "comparison": null,
-      "reviewer_findings": null,
       "owner_feedback": null,
       "corrected": null
     }
@@ -348,7 +284,7 @@
     "missing": []
   },
   "deletion_pass": "Remove redundant event badges and ornamental Follow Us labels. Preserve the actual social destinations and both event descriptions.",
-  "implementation_status": "Observed; pre-code plan only",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
   "unresolved": [
     "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
     "Image focal points, type measures and every interaction require review of the rendered result."
@@ -363,7 +299,7 @@
       "Lou /about footer clarity arrival",
       "Slab project image entry"
     ],
-    "values": "Bounded 18px / opacity .75 image entry over 700ms, or 2px clarity entry over 650ms. Reconstruction estimates; source editor values unavailable. Once-entry; normal reverse scroll. No pinning.",
+    "values": "Only listed live selectors receive once-entered opacity .65 to 1 over 1100ms ease-out at threshold .15. Removed obsolete no-op selectors; no sticky chapter exchange or reversible scripture focus.",
     "deviation": "Motion is estimated rather than exact editor reconstruction. No invented pairwise axis distinctions. Every element remains visible before script.",
     "status": "Reconstructed; independent fidelity review pending",
     "actual_sections": [
@@ -372,19 +308,14 @@
         "reference_landmark": "hero"
       },
       {
-        "class": "ya-events paper",
-        "reference_landmark": "project"
-      },
-      {
-        "class": "scripture",
-        "reference_landmark": "reading"
+        "class": "ya-events",
+        "reference_landmark": "section-0"
       }
     ],
     "full_section_order": [
       "ya-intro",
-      "ya-events paper",
-      "ya-community",
-      "scripture"
+      "ya-events",
+      "ya-community"
     ],
     "deleted": [
       "Legacy texture-only source backgrounds omitted where they conflicted with the locked identity; asset files retained.",
@@ -402,22 +333,27 @@
   },
   "motion_contract": {
     "mechanisms": [
-      "Observed Lou first-entry timed opacity",
-      "Observed Lou reversible footer clarity"
+      "Scroll-triggered once-entered opacity"
     ],
     "selectors": [
-      "#ya-events article p:not(.eyebrow)",
-      "#ya-community figure"
+      "#ya-events article p:not(.eyebrow)"
     ],
-    "focus_selector": "#young-adults-scripture h2",
-    "reason": "Event art and dates hold; RED and RISE explanatory passages enter when individually reached, then wider congregation photograph. Later scripture clarity reverses.",
+    "focus_selector": null,
     "estimated_settings": {
       "opacity_start": 0.65,
       "duration_ms": 1100,
-      "focus_blur_max_px": 2
+      "threshold": 0.15
     },
-    "reverse": "Timed first-entry does not replay; declared focus recomputes on scroll and reverses. Native content remains visible.",
-    "mobile": "No mobile pin added; same semantic order in native flow.",
-    "limitations": "These are restrained source-mechanism adaptations, not unique arbitrary heading axes. Exact Framer editor timings unavailable."
+    "reverse": "No replay; no reversed filter. Native flow.",
+    "mobile": "Native document flow; same nonessential entry selectors; essential content holds.",
+    "limitations": "Source editor timings unknown. No pin, chapter exchange or footer-focus reconstruction."
+  },
+  "repair": {
+    "date": "2026-10-07",
+    "status": "Second source reconstruction after independent findings; recapture required",
+    "source_decision": "See plan.md preconstruction repair decision",
+    "removed_false_mechanism": "Short scripture heading no longer receives Lou footer blur",
+    "content": "All original IDs retained. Repeated scripture section deleted; exact scripture now serves contextual proof inside task-specific section, not a separate false Lou donor scene.",
+    "author_capture_directory": "/tmp/klcc-ministry-repair"
   }
 }

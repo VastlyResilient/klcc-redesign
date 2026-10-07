@@ -1,0 +1,50 @@
+[
+  {
+    "route": "beliefs",
+    "name": "desktop",
+    "errors": [],
+    "overflow": false,
+    "sections": [
+      {
+        "id": "beliefs-opening",
+        "y": 0
+      },
+      {
+        "id": "beliefs-statement",
+        "y": 900
+      }
+    ]
+  },
+  {
+    "route": "beliefs",
+    "name": "tablet",
+    "errors": [],
+    "overflow": false,
+    "sections": [
+      {
+        "id": "beliefs-opening",
+        "y": 0
+      },
+      {
+        "id": "beliefs-statement",
+        "y": 768
+      }
+    ]
+  },
+  {
+    "route": "beliefs",
+    "name": "phone",
+    "errors": [],
+    "overflow": false,
+    "sections": [
+      {
+        "id": "beliefs-opening",
+        "y": 0
+      },
+      {
+        "id": "beliefs-statement",
+        "y": 844
+      }
+    ]
+  }
+]

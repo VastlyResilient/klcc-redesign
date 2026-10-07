@@ -15,3 +15,18 @@ Original content and actual actions preserved. Decorative purple membership text
 
 ## Deleted — final reduction pass
 Removed the prior shared inner-page body formula from this route. Kept all required ledger information and destinations; no decorative arrow suffixes or redundant placeholder content added. The independent final review still controls whether the new composition passes.
+
+
+## Repair rationale — 2026-10-07, before implementation
+Observed source: Lou /about opening and reading. Exact source boards and dossier were read before this change.
+Replace numbered doctrine list and counter with one offset continuous essay grouped into three theological reading movements, each preserving all clauses. Full-viewport material image with oversized title precedes it. No reversible word-brightening or bodySplitText; readable once-entered block clarity is an explicit deviation from observed character-level timed arrival.
+Keep all source-ledger content and destinations. Preserve global shell and locked fonts/colors. Do not claim new fidelity approval; old scores remain the baseline.
+Deleted: false reference claims, decorative counters/step labels where they add no information, generic short scripture close, and gratuitous text blur.
+
+
+## Final correction and evidence
+See repair-notes.md and the updated blueprint for actual section topology, exact existing source-state IDs, content adaptations and final scoped captures. Independent scores remain pending. The earlier proposed separate scripture/reflection closers were removed where they falsely implied source topology.
+
+
+## Round-3 independent findings resolved
+See repair-notes.md for the source DOM correction (Lou centered offset reading width), genuinely rebuilt media/brief units, viewport-specific source-region evidence, phone paired motion and retained content. These decisions supersede the prior incorrect narrow Lou column and source-whole-section mappings.

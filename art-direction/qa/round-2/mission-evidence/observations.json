@@ -1,0 +1,236 @@
+[
+  {
+    "width": 1440,
+    "height": 900,
+    "measure": {
+      "h1": "256.32px",
+      "reader": {
+        "x": 280,
+        "y": 1090.796875,
+        "width": 880,
+        "height": 720.3125,
+        "top": 1090.796875,
+        "right": 1160,
+        "bottom": 1811.109375,
+        "left": 280
+      },
+      "statement": "40px",
+      "commitmentColumns": "416px 416px",
+      "overflow": false
+    },
+    "readingInitial": {
+      "opacity": "0.925177",
+      "transform": "matrix(1, 0, 0, 1, 0, 1.18142)"
+    },
+    "focus": [
+      {
+        "q": 0.9,
+        "value": "blur(2.99959px)"
+      },
+      {
+        "q": 0.6,
+        "value": "blur(0px)"
+      },
+      {
+        "q": 0.3,
+        "value": "blur(0px)"
+      },
+      {
+        "q": 0,
+        "value": "blur(0px)"
+      },
+      {
+        "q": 0.6,
+        "value": "blur(0px)"
+      },
+      {
+        "q": 0.9,
+        "value": "blur(2.99959px)"
+      }
+    ],
+    "reverseStatement": {
+      "opacity": "1",
+      "transform": "none"
+    },
+    "animations": [
+      {
+        "class": "mission-statement",
+        "frames": [
+          {
+            "opacity": 0.62,
+            "transform": "translateY(6px)"
+          },
+          {
+            "opacity": 1,
+            "transform": "translateY(0)"
+          }
+        ],
+        "options": {
+          "duration": 1400,
+          "easing": "cubic-bezier(.2,.7,.2,1)"
+        },
+        "scroll": 315
+      }
+    ],
+    "reduced": {
+      "filter": "none",
+      "opacity": "1"
+    }
+  },
+  {
+    "width": 1024,
+    "height": 768,
+    "measure": {
+      "h1": "120px",
+      "reader": {
+        "x": 104,
+        "y": 958.796875,
+        "width": 816,
+        "height": 798.140625,
+        "top": 958.796875,
+        "right": 920,
+        "bottom": 1756.9375,
+        "left": 104
+      },
+      "statement": "40px",
+      "commitmentColumns": "384px 384px",
+      "overflow": false
+    },
+    "readingInitial": {
+      "opacity": "0.92022",
+      "transform": "matrix(1, 0, 0, 1, 0, 1.25968)"
+    },
+    "focus": [
+      {
+        "q": 0.9,
+        "value": "blur(3.02321px)"
+      },
+      {
+        "q": 0.6,
+        "value": "blur(0.107873px)"
+      },
+      {
+        "q": 0.3,
+        "value": "blur(0px)"
+      },
+      {
+        "q": 0,
+        "value": "blur(0px)"
+      },
+      {
+        "q": 0.6,
+        "value": "blur(0.107873px)"
+      },
+      {
+        "q": 0.9,
+        "value": "blur(3.02321px)"
+      }
+    ],
+    "reverseStatement": {
+      "opacity": "1",
+      "transform": "none"
+    },
+    "animations": [
+      {
+        "class": "mission-statement",
+        "frames": [
+          {
+            "opacity": 0.62,
+            "transform": "translateY(6px)"
+          },
+          {
+            "opacity": 1,
+            "transform": "translateY(0)"
+          }
+        ],
+        "options": {
+          "duration": 1400,
+          "easing": "cubic-bezier(.2,.7,.2,1)"
+        },
+        "scroll": 218
+      }
+    ],
+    "reduced": {
+      "filter": "none",
+      "opacity": "1"
+    }
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "measure": {
+      "h1": "70.2px",
+      "reader": {
+        "x": 22,
+        "y": 972.796875,
+        "width": 346,
+        "height": 1058.3125,
+        "top": 972.796875,
+        "right": 368,
+        "bottom": 2031.109375,
+        "left": 22
+      },
+      "statement": "24px",
+      "commitmentColumns": "1fr 1fr",
+      "overflow": false
+    },
+    "readingInitial": {
+      "opacity": "0.920208",
+      "transform": "matrix(1, 0, 0, 1, 0, 1.25987)"
+    },
+    "focus": [
+      {
+        "q": 0.9,
+        "value": "blur(2.96281px)"
+      },
+      {
+        "q": 0.6,
+        "value": "blur(0px)"
+      },
+      {
+        "q": 0.3,
+        "value": "blur(0px)"
+      },
+      {
+        "q": 0,
+        "value": "blur(0px)"
+      },
+      {
+        "q": 0.6,
+        "value": "blur(0px)"
+      },
+      {
+        "q": 0.9,
+        "value": "blur(2.96281px)"
+      }
+    ],
+    "reverseStatement": {
+      "opacity": "1",
+      "transform": "none"
+    },
+    "animations": [
+      {
+        "class": "mission-statement",
+        "frames": [
+          {
+            "opacity": 0.62,
+            "transform": "translateY(6px)"
+          },
+          {
+            "opacity": 1,
+            "transform": "translateY(0)"
+          }
+        ],
+        "options": {
+          "duration": 1400,
+          "easing": "cubic-bezier(.2,.7,.2,1)"
+        },
+        "scroll": 205
+      }
+    ],
+    "reduced": {
+      "filter": "none",
+      "opacity": "1"
+    }
+  }
+]

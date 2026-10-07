@@ -1,5 +1,5 @@
 {
-  "created": "2026-10-07T07:49:44.385Z",
+  "created": "2026-10-07T09:59:56.597Z",
   "boards": [
     {
       "route": "404",
@@ -2827,37 +2827,8 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "state": "forward-007",
           "label": "Assigned source — believe-steps"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "believe",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "believe-alpha",
-      "build": {
-        "manifest": "art-direction/qa/captures/believe/manifest.json",
-        "state": "section-believe-alpha",
-        "label": "believe — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
-          "label": "Assigned source — believe-alpha"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -2884,9 +2855,38 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-010",
           "label": "Assigned source — believe-scripture"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal story — real image and factual hierarchy"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Lou portrait — decisive scale contrast"
+        }
+      ],
+      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
+    },
+    {
+      "route": "believe",
+      "viewport": "desktop",
+      "page_type": "narrative",
+      "section": "believe-materials",
+      "build": {
+        "manifest": "art-direction/qa/captures/believe/manifest.json",
+        "state": "section-believe-materials",
+        "label": "believe — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-009",
+          "label": "Assigned source — believe-materials"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -2963,17 +2963,17 @@
       "route": "believe",
       "viewport": "tablet",
       "page_type": "narrative",
-      "section": "believe-alpha",
+      "section": "believe-scripture",
       "build": {
         "manifest": "art-direction/qa/captures/believe/manifest.json",
-        "state": "section-believe-alpha",
+        "state": "section-believe-scripture",
         "label": "believe — current build"
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
-          "label": "Assigned source — believe-alpha"
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-010",
+          "label": "Assigned source — believe-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -2992,17 +2992,17 @@
       "route": "believe",
       "viewport": "tablet",
       "page_type": "narrative",
-      "section": "believe-scripture",
+      "section": "believe-materials",
       "build": {
         "manifest": "art-direction/qa/captures/believe/manifest.json",
-        "state": "section-believe-scripture",
+        "state": "section-believe-materials",
         "label": "believe — current build"
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
-          "label": "Assigned source — believe-scripture"
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-009",
+          "label": "Assigned source — believe-materials"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -3079,17 +3079,17 @@
       "route": "believe",
       "viewport": "phone",
       "page_type": "narrative",
-      "section": "believe-alpha",
+      "section": "believe-scripture",
       "build": {
         "manifest": "art-direction/qa/captures/believe/manifest.json",
-        "state": "section-believe-alpha",
+        "state": "section-believe-scripture",
         "label": "believe — current build"
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
-          "label": "Assigned source — believe-alpha"
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-008",
+          "label": "Assigned source — believe-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -3108,17 +3108,17 @@
       "route": "believe",
       "viewport": "phone",
       "page_type": "narrative",
-      "section": "believe-scripture",
+      "section": "believe-materials",
       "build": {
         "manifest": "art-direction/qa/captures/believe/manifest.json",
-        "state": "section-believe-scripture",
+        "state": "section-believe-materials",
         "label": "believe — current build"
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
-          "label": "Assigned source — believe-scripture"
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-006",
+          "label": "Assigned source — believe-materials"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -3464,6 +3464,11 @@
       },
       "examples": [
         {
+          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
+          "state": "opening-settled",
+          "label": "Assigned source — easter-connect"
+        },
+        {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "opening",
           "label": "Slab project — image then metadata"
@@ -3472,14 +3477,9 @@
           "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
           "label": "Royal index — featured item before collection"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-team",
-          "label": "Royal people — consistent labeled imagery"
         }
       ],
-      "selection_reason": "No verified section equivalence. Three observed alternatives shown as comparison candidates only; route fidelity record remains Blocked."
+      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
     },
     {
       "route": "easter",
@@ -3551,6 +3551,11 @@
       },
       "examples": [
         {
+          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
+          "state": "opening-settled",
+          "label": "Assigned source — easter-connect"
+        },
+        {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "opening",
           "label": "Slab project — image then metadata"
@@ -3559,14 +3564,9 @@
           "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
           "label": "Royal index — featured item before collection"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-team",
-          "label": "Royal people — consistent labeled imagery"
         }
       ],
-      "selection_reason": "No verified section equivalence. Three observed alternatives shown as comparison candidates only; route fidelity record remains Blocked."
+      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
     },
     {
       "route": "easter",
@@ -3638,6 +3638,11 @@
       },
       "examples": [
         {
+          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
+          "state": "opening-settled",
+          "label": "Assigned source — easter-connect"
+        },
+        {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "opening",
           "label": "Slab project — image then metadata"
@@ -3646,14 +3651,9 @@
           "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
           "label": "Royal index — featured item before collection"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-team",
-          "label": "Royal people — consistent labeled imagery"
         }
       ],
-      "selection_reason": "No verified section equivalence. Three observed alternatives shown as comparison candidates only; route fidelity record remains Blocked."
+      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
     },
     {
       "route": "watch-live",
@@ -3696,8 +3696,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — live-player"
         },
         {
@@ -3725,19 +3725,19 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
-          "label": "Assigned source — watch-live-section-2"
-        },
-        {
           "manifest": "art-direction/references/deep/royal/contact/manifest.json",
           "state": "opening-settled",
-          "label": "Royal contact — immediate task hierarchy"
+          "label": "Assigned source — watch-live-section-2"
         },
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "forward-002",
           "label": "Slab brief — label and bounded explanation"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -3783,8 +3783,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — live-player"
         },
         {
@@ -3812,19 +3812,19 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
-          "label": "Assigned source — watch-live-section-2"
-        },
-        {
           "manifest": "art-direction/references/deep/royal/contact/manifest.json",
           "state": "opening-settled",
-          "label": "Royal contact — immediate task hierarchy"
+          "label": "Assigned source — watch-live-section-2"
         },
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "forward-002",
           "label": "Slab brief — label and bounded explanation"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -3870,8 +3870,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — live-player"
         },
         {
@@ -3899,19 +3899,19 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
-          "label": "Assigned source — watch-live-section-2"
-        },
-        {
           "manifest": "art-direction/references/deep/royal/contact/manifest.json",
           "state": "opening-settled",
-          "label": "Royal contact — immediate task hierarchy"
+          "label": "Assigned source — watch-live-section-2"
         },
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "forward-002",
           "label": "Slab brief — label and bounded explanation"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -3957,8 +3957,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — visit-plan"
         },
         {
@@ -3986,8 +3986,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-007",
           "label": "Assigned source — visit-together"
         },
         {
@@ -4015,8 +4015,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — visit-next"
         },
         {
@@ -4047,35 +4047,6 @@
           "manifest": "art-direction/references/deep/royal/contact/manifest.json",
           "state": "section-section-0",
           "label": "Assigned source — visit-care"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "new",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "new-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/new/manifest.json",
-        "state": "section-new-scripture",
-        "label": "new — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — new-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -4131,8 +4102,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — visit-plan"
         },
         {
@@ -4160,8 +4131,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-007",
           "label": "Assigned source — visit-together"
         },
         {
@@ -4189,8 +4160,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — visit-next"
         },
         {
@@ -4221,35 +4192,6 @@
           "manifest": "art-direction/references/deep/royal/contact/manifest.json",
           "state": "section-section-0",
           "label": "Assigned source — visit-care"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "new",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "new-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/new/manifest.json",
-        "state": "section-new-scripture",
-        "label": "new — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — new-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -4305,8 +4247,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — visit-plan"
         },
         {
@@ -4334,8 +4276,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-007",
           "label": "Assigned source — visit-together"
         },
         {
@@ -4363,8 +4305,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — visit-next"
         },
         {
@@ -4395,35 +4337,6 @@
           "manifest": "art-direction/references/deep/royal/contact/manifest.json",
           "state": "section-section-0",
           "label": "Assigned source — visit-care"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "new",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "new-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/new/manifest.json",
-        "state": "section-new-scripture",
-        "label": "new — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — new-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -4788,35 +4701,6 @@
     },
     {
       "route": "leadership",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "leadership-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/leadership/manifest.json",
-        "state": "section-leadership-scripture",
-        "label": "leadership — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — leadership-scripture"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "leadership",
       "viewport": "tablet",
       "page_type": "narrative",
       "section": "leaders-opening",
@@ -4888,35 +4772,6 @@
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
           "state": "section-team",
           "label": "Assigned source — pastoral-team"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "leadership",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "leadership-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/leadership/manifest.json",
-        "state": "section-leadership-scripture",
-        "label": "leadership — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — leadership-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -5019,35 +4874,6 @@
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
     },
     {
-      "route": "leadership",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "leadership-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/leadership/manifest.json",
-        "state": "section-leadership-scripture",
-        "label": "leadership — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — leadership-scripture"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
       "route": "mission",
       "viewport": "desktop",
       "page_type": "narrative",
@@ -5091,35 +4917,6 @@
           "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
           "state": "section-section-2",
           "label": "Assigned source — mission-reading"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "mission",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "mission-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/mission/manifest.json",
-        "state": "section-mission-scripture",
-        "label": "mission — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
-          "label": "Assigned source — mission-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -5194,35 +4991,6 @@
     },
     {
       "route": "mission",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "mission-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/mission/manifest.json",
-        "state": "section-mission-scripture",
-        "label": "mission — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
-          "label": "Assigned source — mission-scripture"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "mission",
       "viewport": "phone",
       "page_type": "narrative",
       "section": "mission-opening",
@@ -5280,35 +5048,6 @@
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
     },
     {
-      "route": "mission",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "mission-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/mission/manifest.json",
-        "state": "section-mission-scripture",
-        "label": "mission — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
-          "label": "Assigned source — mission-scripture"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
       "route": "beliefs",
       "viewport": "desktop",
       "page_type": "narrative",
@@ -5320,8 +5059,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
           "label": "Assigned source — beliefs-opening"
         },
         {
@@ -5330,9 +5069,9 @@
           "label": "Royal story — real image and factual hierarchy"
         },
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
+          "label": "Royal index — image-led destination"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -5350,37 +5089,8 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "state": "forward-002",
           "label": "Assigned source — beliefs-statement"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "beliefs",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "beliefs-reflection",
-      "build": {
-        "manifest": "art-direction/qa/captures/beliefs/manifest.json",
-        "state": "section-beliefs-reflection",
-        "label": "beliefs — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
-          "label": "Assigned source — beliefs-reflection"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -5407,8 +5117,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
           "label": "Assigned source — beliefs-opening"
         },
         {
@@ -5417,9 +5127,9 @@
           "label": "Royal story — real image and factual hierarchy"
         },
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
+          "label": "Royal index — image-led destination"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -5437,37 +5147,8 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "state": "forward-002",
           "label": "Assigned source — beliefs-statement"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "beliefs",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "beliefs-reflection",
-      "build": {
-        "manifest": "art-direction/qa/captures/beliefs/manifest.json",
-        "state": "section-beliefs-reflection",
-        "label": "beliefs — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
-          "label": "Assigned source — beliefs-reflection"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -5494,8 +5175,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
           "label": "Assigned source — beliefs-opening"
         },
         {
@@ -5504,9 +5185,9 @@
           "label": "Royal story — real image and factual hierarchy"
         },
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
+          "label": "Royal index — image-led destination"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -5524,37 +5205,8 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "state": "forward-002",
           "label": "Assigned source — beliefs-statement"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "beliefs",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "beliefs-reflection",
-      "build": {
-        "manifest": "art-direction/qa/captures/beliefs/manifest.json",
-        "state": "section-beliefs-reflection",
-        "label": "beliefs — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
-          "label": "Assigned source — beliefs-reflection"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -5600,35 +5252,6 @@
     },
     {
       "route": "pastoral-care",
-      "viewport": "desktop",
-      "page_type": "practical",
-      "section": "care-comfort",
-      "build": {
-        "manifest": "art-direction/qa/captures/pastoral-care/manifest.json",
-        "state": "section-care-comfort",
-        "label": "pastoral-care — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — care-comfort"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal contact — immediate task hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "forward-002",
-          "label": "Slab brief — label and bounded explanation"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "pastoral-care",
       "viewport": "tablet",
       "page_type": "practical",
       "section": "care-request",
@@ -5642,35 +5265,6 @@
           "manifest": "art-direction/references/deep/royal/contact/manifest.json",
           "state": "section-section-0",
           "label": "Assigned source — care-request"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal contact — immediate task hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "forward-002",
-          "label": "Slab brief — label and bounded explanation"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "pastoral-care",
-      "viewport": "tablet",
-      "page_type": "practical",
-      "section": "care-comfort",
-      "build": {
-        "manifest": "art-direction/qa/captures/pastoral-care/manifest.json",
-        "state": "section-care-comfort",
-        "label": "pastoral-care — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — care-comfort"
         },
         {
           "manifest": "art-direction/references/deep/royal/contact/manifest.json",
@@ -5715,106 +5309,77 @@
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
     },
     {
-      "route": "pastoral-care",
-      "viewport": "phone",
-      "page_type": "practical",
-      "section": "care-comfort",
+      "route": "life-groups",
+      "viewport": "desktop",
+      "page_type": "narrative",
+      "section": "groups-opening",
       "build": {
-        "manifest": "art-direction/qa/captures/pastoral-care/manifest.json",
-        "state": "section-care-comfort",
-        "label": "pastoral-care — current build"
+        "manifest": "art-direction/qa/captures/life-groups/manifest.json",
+        "state": "section-groups-opening",
+        "label": "life-groups — current build"
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — care-comfort"
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
+          "label": "Assigned source — groups-opening"
         },
         {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
           "state": "opening-settled",
-          "label": "Royal contact — immediate task hierarchy"
+          "label": "Royal story — real image and factual hierarchy"
         },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Lou portrait — decisive scale contrast"
+        }
+      ],
+      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
+    },
+    {
+      "route": "life-groups",
+      "viewport": "desktop",
+      "page_type": "narrative",
+      "section": "groups-introduction",
+      "build": {
+        "manifest": "art-direction/qa/captures/life-groups/manifest.json",
+        "state": "section-groups-introduction",
+        "label": "life-groups — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-004",
+          "label": "Assigned source — groups-introduction"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal story — real image and factual hierarchy"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Lou portrait — decisive scale contrast"
+        }
+      ],
+      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
+    },
+    {
+      "route": "life-groups",
+      "viewport": "desktop",
+      "page_type": "narrative",
+      "section": "groups-directory",
+      "build": {
+        "manifest": "art-direction/qa/captures/life-groups/manifest.json",
+        "state": "section-groups-directory",
+        "label": "life-groups — current build"
+      },
+      "examples": [
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "forward-002",
-          "label": "Slab brief — label and bounded explanation"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "life-groups",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "groups-opening",
-      "build": {
-        "manifest": "art-direction/qa/captures/life-groups/manifest.json",
-        "state": "section-groups-opening",
-        "label": "life-groups — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — groups-opening"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "life-groups",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "groups-introduction",
-      "build": {
-        "manifest": "art-direction/qa/captures/life-groups/manifest.json",
-        "state": "section-groups-introduction",
-        "label": "life-groups — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — groups-introduction"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "life-groups",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "groups-directory",
-      "build": {
-        "manifest": "art-direction/qa/captures/life-groups/manifest.json",
-        "state": "section-groups-directory",
-        "label": "life-groups — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
           "label": "Assigned source — groups-directory"
         },
         {
@@ -5842,38 +5407,9 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-007",
           "label": "Assigned source — groups-photo"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "life-groups",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "life-groups-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/life-groups/manifest.json",
-        "state": "section-life-groups-scripture",
-        "label": "life-groups — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — life-groups-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -5900,8 +5436,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — groups-opening"
         },
         {
@@ -5929,8 +5465,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-004",
           "label": "Assigned source — groups-introduction"
         },
         {
@@ -5958,8 +5494,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — groups-directory"
         },
         {
@@ -5987,38 +5523,9 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-007",
           "label": "Assigned source — groups-photo"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "life-groups",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "life-groups-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/life-groups/manifest.json",
-        "state": "section-life-groups-scripture",
-        "label": "life-groups — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — life-groups-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -6045,8 +5552,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — groups-opening"
         },
         {
@@ -6074,8 +5581,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-004",
           "label": "Assigned source — groups-introduction"
         },
         {
@@ -6103,8 +5610,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — groups-directory"
         },
         {
@@ -6132,38 +5639,9 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-007",
           "label": "Assigned source — groups-photo"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "life-groups",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "life-groups-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/life-groups/manifest.json",
-        "state": "section-life-groups-scripture",
-        "label": "life-groups — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — life-groups-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -6655,37 +6133,8 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "state": "forward-002",
           "label": "Assigned source — serve-purpose"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "serve",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "serve-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/serve/manifest.json",
-        "state": "section-serve-scripture",
-        "label": "serve — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
-          "label": "Assigned source — serve-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -6742,37 +6191,8 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "state": "forward-002",
           "label": "Assigned source — serve-purpose"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "serve",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "serve-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/serve/manifest.json",
-        "state": "section-serve-scripture",
-        "label": "serve — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
-          "label": "Assigned source — serve-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -6829,7 +6249,7 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "state": "forward-002",
           "label": "Assigned source — serve-purpose"
         },
         {
@@ -6846,35 +6266,6 @@
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
     },
     {
-      "route": "serve",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "serve-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/serve/manifest.json",
-        "state": "section-serve-scripture",
-        "label": "serve — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
-          "label": "Assigned source — serve-scripture"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
       "route": "alpha",
       "viewport": "desktop",
       "page_type": "narrative",
@@ -6886,8 +6277,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — alpha-opening"
         },
         {
@@ -6915,8 +6306,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — alpha-conversation"
         },
         {
@@ -6944,8 +6335,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-009",
           "label": "Assigned source — alpha-films"
         },
         {
@@ -6973,8 +6364,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-010",
           "label": "Assigned source — alpha-scripture"
         },
         {
@@ -7002,8 +6393,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — alpha-opening"
         },
         {
@@ -7031,8 +6422,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — alpha-conversation"
         },
         {
@@ -7060,8 +6451,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-009",
           "label": "Assigned source — alpha-films"
         },
         {
@@ -7089,8 +6480,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-010",
           "label": "Assigned source — alpha-scripture"
         },
         {
@@ -7118,8 +6509,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — alpha-opening"
         },
         {
@@ -7147,8 +6538,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — alpha-conversation"
         },
         {
@@ -7176,8 +6567,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-006",
           "label": "Assigned source — alpha-films"
         },
         {
@@ -7205,8 +6596,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-3",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-008",
           "label": "Assigned source — alpha-scripture"
         },
         {
@@ -7234,19 +6625,19 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — courses-opening"
-        },
-        {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "opening",
-          "label": "Slab project — image then metadata"
+          "label": "Assigned source — courses-opening"
         },
         {
           "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
           "label": "Royal index — featured item before collection"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "section-team",
+          "label": "Royal people — consistent labeled imagery"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -7263,8 +6654,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — courses-fall"
         },
         {
@@ -7292,9 +6683,38 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — courses-seasons"
+        },
+        {
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
+          "label": "Slab project — image then metadata"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal index — featured item before collection"
+        }
+      ],
+      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
+    },
+    {
+      "route": "courses",
+      "viewport": "desktop",
+      "page_type": "archive",
+      "section": "courses-reading",
+      "build": {
+        "manifest": "art-direction/qa/captures/courses/manifest.json",
+        "state": "section-courses-reading",
+        "label": "courses — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-007",
+          "label": "Assigned source — courses-reading"
         },
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
@@ -7321,8 +6741,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-010",
           "label": "Assigned source — courses-marriage"
         },
         {
@@ -7350,19 +6770,19 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — courses-opening"
-        },
-        {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "opening",
-          "label": "Slab project — image then metadata"
+          "label": "Assigned source — courses-opening"
         },
         {
           "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
           "label": "Royal index — featured item before collection"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "section-team",
+          "label": "Royal people — consistent labeled imagery"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -7379,8 +6799,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — courses-fall"
         },
         {
@@ -7408,9 +6828,38 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — courses-seasons"
+        },
+        {
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
+          "label": "Slab project — image then metadata"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal index — featured item before collection"
+        }
+      ],
+      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
+    },
+    {
+      "route": "courses",
+      "viewport": "tablet",
+      "page_type": "archive",
+      "section": "courses-reading",
+      "build": {
+        "manifest": "art-direction/qa/captures/courses/manifest.json",
+        "state": "section-courses-reading",
+        "label": "courses — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-007",
+          "label": "Assigned source — courses-reading"
         },
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
@@ -7437,8 +6886,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-010",
           "label": "Assigned source — courses-marriage"
         },
         {
@@ -7466,19 +6915,19 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — courses-opening"
-        },
-        {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "opening",
-          "label": "Slab project — image then metadata"
+          "label": "Assigned source — courses-opening"
         },
         {
           "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
           "label": "Royal index — featured item before collection"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "section-team",
+          "label": "Royal people — consistent labeled imagery"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -7495,8 +6944,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — courses-fall"
         },
         {
@@ -7524,9 +6973,38 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — courses-seasons"
+        },
+        {
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
+          "label": "Slab project — image then metadata"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal index — featured item before collection"
+        }
+      ],
+      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
+    },
+    {
+      "route": "courses",
+      "viewport": "phone",
+      "page_type": "archive",
+      "section": "courses-reading",
+      "build": {
+        "manifest": "art-direction/qa/captures/courses/manifest.json",
+        "state": "section-courses-reading",
+        "label": "courses — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-005",
+          "label": "Assigned source — courses-reading"
         },
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
@@ -7553,8 +7031,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-008",
           "label": "Assigned source — courses-marriage"
         },
         {
@@ -7611,38 +7089,9 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-004",
           "label": "Assigned source — kids-team"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "kids",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "kids-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/kids/manifest.json",
-        "state": "section-kids-scripture",
-        "label": "kids — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — kids-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -7698,38 +7147,9 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-004",
           "label": "Assigned source — kids-team"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "kids",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "kids-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/kids/manifest.json",
-        "state": "section-kids-scripture",
-        "label": "kids — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — kids-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -7785,38 +7205,9 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-cta",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-004",
           "label": "Assigned source — kids-team"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "kids",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "kids-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/kids/manifest.json",
-        "state": "section-kids-scripture",
-        "label": "kids — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — kids-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -7864,35 +7255,6 @@
       "route": "youth",
       "viewport": "desktop",
       "page_type": "narrative",
-      "section": "elevate-service",
-      "build": {
-        "manifest": "art-direction/qa/captures/youth/manifest.json",
-        "state": "section-elevate-service",
-        "label": "youth — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — elevate-service"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "youth",
-      "viewport": "desktop",
-      "page_type": "narrative",
       "section": "age-paths",
       "build": {
         "manifest": "art-direction/qa/captures/youth/manifest.json",
@@ -7901,38 +7263,9 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — age-paths"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "youth",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "youth-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/youth/manifest.json",
-        "state": "section-youth-scripture",
-        "label": "youth — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — youth-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -8009,35 +7342,6 @@
       "route": "youth",
       "viewport": "tablet",
       "page_type": "narrative",
-      "section": "elevate-service",
-      "build": {
-        "manifest": "art-direction/qa/captures/youth/manifest.json",
-        "state": "section-elevate-service",
-        "label": "youth — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — elevate-service"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "youth",
-      "viewport": "tablet",
-      "page_type": "narrative",
       "section": "age-paths",
       "build": {
         "manifest": "art-direction/qa/captures/youth/manifest.json",
@@ -8046,38 +7350,9 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — age-paths"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "youth",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "youth-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/youth/manifest.json",
-        "state": "section-youth-scripture",
-        "label": "youth — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — youth-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -8154,35 +7429,6 @@
       "route": "youth",
       "viewport": "phone",
       "page_type": "narrative",
-      "section": "elevate-service",
-      "build": {
-        "manifest": "art-direction/qa/captures/youth/manifest.json",
-        "state": "section-elevate-service",
-        "label": "youth — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — elevate-service"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "youth",
-      "viewport": "phone",
-      "page_type": "narrative",
       "section": "age-paths",
       "build": {
         "manifest": "art-direction/qa/captures/youth/manifest.json",
@@ -8191,38 +7437,9 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — age-paths"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "youth",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "youth-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/youth/manifest.json",
-        "state": "section-youth-scripture",
-        "label": "youth — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — youth-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -8278,8 +7495,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — ya-intro"
         },
         {
@@ -8336,38 +7553,9 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-007",
           "label": "Assigned source — ya-community"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "young-adults",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "young-adults-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/young-adults/manifest.json",
-        "state": "section-young-adults-scripture",
-        "label": "young-adults — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — young-adults-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -8394,8 +7582,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — ya-intro"
         },
         {
@@ -8452,38 +7640,9 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-007",
           "label": "Assigned source — ya-community"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "young-adults",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "young-adults-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/young-adults/manifest.json",
-        "state": "section-young-adults-scripture",
-        "label": "young-adults — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — young-adults-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -8510,8 +7669,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — ya-intro"
         },
         {
@@ -8568,8 +7727,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-007",
           "label": "Assigned source — ya-community"
         },
         {
@@ -8586,35 +7745,6 @@
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
     },
     {
-      "route": "young-adults",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "young-adults-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/young-adults/manifest.json",
-        "state": "section-young-adults-scripture",
-        "label": "young-adults — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — young-adults-scripture"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
       "route": "women",
       "viewport": "desktop",
       "page_type": "narrative",
@@ -8647,35 +7777,6 @@
       "route": "women",
       "viewport": "desktop",
       "page_type": "narrative",
-      "section": "women-photo",
-      "build": {
-        "manifest": "art-direction/qa/captures/women/manifest.json",
-        "state": "section-women-photo",
-        "label": "women — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — women-photo"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "women",
-      "viewport": "desktop",
-      "page_type": "narrative",
       "section": "women-calendar",
       "build": {
         "manifest": "art-direction/qa/captures/women/manifest.json",
@@ -8685,37 +7786,8 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "opening",
+          "state": "forward-002",
           "label": "Assigned source — women-calendar"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "women",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "women-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/women/manifest.json",
-        "state": "section-women-scripture",
-        "label": "women — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — women-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -8763,35 +7835,6 @@
       "route": "women",
       "viewport": "tablet",
       "page_type": "narrative",
-      "section": "women-photo",
-      "build": {
-        "manifest": "art-direction/qa/captures/women/manifest.json",
-        "state": "section-women-photo",
-        "label": "women — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — women-photo"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "women",
-      "viewport": "tablet",
-      "page_type": "narrative",
       "section": "women-calendar",
       "build": {
         "manifest": "art-direction/qa/captures/women/manifest.json",
@@ -8801,37 +7844,8 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "opening",
+          "state": "forward-002",
           "label": "Assigned source — women-calendar"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "women",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "women-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/women/manifest.json",
-        "state": "section-women-scripture",
-        "label": "women — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — women-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -8879,35 +7893,6 @@
       "route": "women",
       "viewport": "phone",
       "page_type": "narrative",
-      "section": "women-photo",
-      "build": {
-        "manifest": "art-direction/qa/captures/women/manifest.json",
-        "state": "section-women-photo",
-        "label": "women — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — women-photo"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "women",
-      "viewport": "phone",
-      "page_type": "narrative",
       "section": "women-calendar",
       "build": {
         "manifest": "art-direction/qa/captures/women/manifest.json",
@@ -8917,37 +7902,8 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "opening",
+          "state": "forward-002",
           "label": "Assigned source — women-calendar"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "women",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "women-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/women/manifest.json",
-        "state": "section-women-scripture",
-        "label": "women — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — women-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -9003,8 +7959,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-0",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — men-week"
         },
         {
@@ -9032,8 +7988,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-004",
           "label": "Assigned source — men-study"
         },
         {
@@ -9062,66 +8018,8 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "opening",
+          "state": "forward-002",
           "label": "Assigned source — men-calendar"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "men",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "men-photo",
-      "build": {
-        "manifest": "art-direction/qa/captures/men/manifest.json",
-        "state": "section-men-photo",
-        "label": "men — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — men-photo"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "men",
-      "viewport": "desktop",
-      "page_type": "narrative",
-      "section": "men-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/men/manifest.json",
-        "state": "section-men-scripture",
-        "label": "men — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — men-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -9177,8 +8075,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-0",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — men-week"
         },
         {
@@ -9206,8 +8104,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-004",
           "label": "Assigned source — men-study"
         },
         {
@@ -9236,66 +8134,8 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "opening",
+          "state": "forward-002",
           "label": "Assigned source — men-calendar"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "men",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "men-photo",
-      "build": {
-        "manifest": "art-direction/qa/captures/men/manifest.json",
-        "state": "section-men-photo",
-        "label": "men — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — men-photo"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "men",
-      "viewport": "tablet",
-      "page_type": "narrative",
-      "section": "men-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/men/manifest.json",
-        "state": "section-men-scripture",
-        "label": "men — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — men-scripture"
         },
         {
           "manifest": "art-direction/references/deep/royal/about/manifest.json",
@@ -9351,8 +8191,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-0",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — men-week"
         },
         {
@@ -9380,8 +8220,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-004",
           "label": "Assigned source — men-study"
         },
         {
@@ -9410,7 +8250,7 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "opening",
+          "state": "forward-002",
           "label": "Assigned source — men-calendar"
         },
         {
@@ -9427,64 +8267,6 @@
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
     },
     {
-      "route": "men",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "men-photo",
-      "build": {
-        "manifest": "art-direction/qa/captures/men/manifest.json",
-        "state": "section-men-photo",
-        "label": "men — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
-          "label": "Assigned source — men-photo"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
-      "route": "men",
-      "viewport": "phone",
-      "page_type": "narrative",
-      "section": "men-scripture",
-      "build": {
-        "manifest": "art-direction/qa/captures/men/manifest.json",
-        "state": "section-men-scripture",
-        "label": "men — current build"
-      },
-      "examples": [
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
-          "label": "Assigned source — men-scripture"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Royal story — real image and factual hierarchy"
-        },
-        {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "opening-settled",
-          "label": "Lou portrait — decisive scale contrast"
-        }
-      ],
-      "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
-    },
-    {
       "route": "calendar",
       "viewport": "desktop",
       "page_type": "practical",
@@ -9525,8 +8307,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-1",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — calendar-agenda"
         },
         {
@@ -9535,9 +8317,9 @@
           "label": "Royal contact — immediate task hierarchy"
         },
         {
-          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "forward-002",
-          "label": "Slab brief — label and bounded explanation"
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -9555,18 +8337,18 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-1",
-          "label": "Assigned source — calendar-paths"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
           "state": "opening-settled",
-          "label": "Royal contact — immediate task hierarchy"
+          "label": "Assigned source — calendar-paths"
         },
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "forward-002",
           "label": "Slab brief — label and bounded explanation"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -9612,8 +8394,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-1",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — calendar-agenda"
         },
         {
@@ -9622,9 +8404,9 @@
           "label": "Royal contact — immediate task hierarchy"
         },
         {
-          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "forward-002",
-          "label": "Slab brief — label and bounded explanation"
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -9642,18 +8424,18 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-1",
-          "label": "Assigned source — calendar-paths"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
           "state": "opening-settled",
-          "label": "Royal contact — immediate task hierarchy"
+          "label": "Assigned source — calendar-paths"
         },
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "forward-002",
           "label": "Slab brief — label and bounded explanation"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -9699,8 +8481,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-1",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — calendar-agenda"
         },
         {
@@ -9709,9 +8491,9 @@
           "label": "Royal contact — immediate task hierarchy"
         },
         {
-          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "forward-002",
-          "label": "Slab brief — label and bounded explanation"
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -9729,18 +8511,18 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-1",
-          "label": "Assigned source — calendar-paths"
-        },
-        {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
           "state": "opening-settled",
-          "label": "Royal contact — immediate task hierarchy"
+          "label": "Assigned source — calendar-paths"
         },
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "forward-002",
           "label": "Slab brief — label and bounded explanation"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -10076,8 +8858,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — give-generosity"
         },
         {
@@ -10105,8 +8887,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-1",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — give-reading"
         },
         {
@@ -10115,9 +8897,9 @@
           "label": "Royal contact — immediate task hierarchy"
         },
         {
-          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "forward-002",
-          "label": "Slab brief — label and bounded explanation"
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -10192,8 +8974,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — give-generosity"
         },
         {
@@ -10221,8 +9003,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-1",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — give-reading"
         },
         {
@@ -10231,9 +9013,9 @@
           "label": "Royal contact — immediate task hierarchy"
         },
         {
-          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "forward-002",
-          "label": "Slab brief — label and bounded explanation"
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -10308,8 +9090,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — give-generosity"
         },
         {
@@ -10337,8 +9119,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/contact/manifest.json",
-          "state": "section-section-1",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-002",
           "label": "Assigned source — give-reading"
         },
         {
@@ -10347,9 +9129,9 @@
           "label": "Royal contact — immediate task hierarchy"
         },
         {
-          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "forward-002",
-          "label": "Slab brief — label and bounded explanation"
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "footer",
+          "label": "Lou contact — clear channels and calm space"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -10366,8 +9148,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — app-opening"
         },
         {
@@ -10424,8 +9206,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — app-opening"
         },
         {
@@ -10482,8 +9264,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-stry",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — app-opening"
         },
         {
@@ -10540,8 +9322,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — baptism-opening"
         },
         {
@@ -10569,8 +9351,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-001",
           "label": "Assigned source — baptism-dates"
         },
         {
@@ -10598,8 +9380,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-010",
           "label": "Assigned source — baptism-preparation"
         },
         {
@@ -10627,8 +9409,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — baptism-opening"
         },
         {
@@ -10656,8 +9438,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-001",
           "label": "Assigned source — baptism-dates"
         },
         {
@@ -10685,8 +9467,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-010",
           "label": "Assigned source — baptism-preparation"
         },
         {
@@ -10714,8 +9496,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-hero",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "opening",
           "label": "Assigned source — baptism-opening"
         },
         {
@@ -10743,8 +9525,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/royal/about/manifest.json",
-          "state": "section-ourvalues",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-001",
           "label": "Assigned source — baptism-dates"
         },
         {
@@ -10772,8 +9554,8 @@
       },
       "examples": [
         {
-          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-          "state": "section-section-2",
+          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+          "state": "forward-008",
           "label": "Assigned source — baptism-preparation"
         },
         {
@@ -10831,18 +9613,18 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "forward-002",
-          "label": "Assigned source — message-player"
-        },
-        {
-          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "opening",
-          "label": "Slab project — image then metadata"
+          "label": "Assigned source — message-player"
         },
         {
           "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
           "label": "Royal index — featured item before collection"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "section-team",
+          "label": "Royal people — consistent labeled imagery"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -10918,18 +9700,18 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "forward-002",
-          "label": "Assigned source — message-player"
-        },
-        {
-          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "opening",
-          "label": "Slab project — image then metadata"
+          "label": "Assigned source — message-player"
         },
         {
           "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
           "label": "Royal index — featured item before collection"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "section-team",
+          "label": "Royal people — consistent labeled imagery"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."
@@ -11005,18 +9787,18 @@
       "examples": [
         {
           "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
-          "state": "forward-002",
-          "label": "Assigned source — message-player"
-        },
-        {
-          "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
           "state": "opening",
-          "label": "Slab project — image then metadata"
+          "label": "Assigned source — message-player"
         },
         {
           "manifest": "art-direction/references/deep/royal/properties/manifest.json",
           "state": "opening-settled",
           "label": "Royal index — featured item before collection"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "section-team",
+          "label": "Royal people — consistent labeled imagery"
         }
       ],
       "selection_reason": "Assigned section source plus two observed alternatives for comparison; not a claim that all are approved matches."

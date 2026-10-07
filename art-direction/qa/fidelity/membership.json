@@ -1,72 +1,88 @@
 {
   "route": "membership",
-  "status": "Blocked",
-  "reviewer": "independent v22_capture_pipeline",
-  "reviewed_at": "2026-10-07T07:16:03.693Z",
-  "evidence": "art-direction/qa/side-by-side/membership/",
-  "observations": "All three widths: membership invitation, class date and registration above a four-step journey. The single authentic worship image stays beside the desktop list and enters normal flow on phone.",
-  "repairs": [
-    "Source-based H1 scale restored",
-    "Mobile sticky removed to preserve uninterrupted reading",
-    "Single real image retained; extra class scenes not invented"
-  ],
+  "status": "Fidelity-reviewed",
+  "accepted": false,
   "sections": [
     {
       "id": "membership-opening",
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/membership/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/membership-opening-desktop.png",
+          "build_sha256": "fa0b25a65db0b88746082693cc637a98dac30648787075d52f19a80931ee4236",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-hero.png",
+          "source_state": "section-hero",
+          "source_unit": "hero",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Royal compact title, dominant documentary photograph, then bounded supporting copy and class action now read as one coherent invitation. Documentary photograph preserves subject clarity; semantic class details replace source statistics. Phone stacks supporting copy in meaningful order.",
+          "comparison": "review/independent/membership-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/membership-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/membership/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/membership-opening-tablet.png",
+          "build_sha256": "2e62cfdb1778b1c1d2deee812f1f7c1aa6d374fd4cb00e00b8319aed17173e8b",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-hero.png",
+          "source_state": "section-hero",
+          "source_unit": "hero",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Royal compact title, dominant documentary photograph, then bounded supporting copy and class action now read as one coherent invitation. Documentary photograph preserves subject clarity; semantic class details replace source statistics. Phone stacks supporting copy in meaningful order.",
+          "comparison": "review/independent/membership-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/membership-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/membership/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/membership-opening-phone.png",
+          "build_sha256": "1325488f9eb50ba2c229ddfbc0aa66b8b785106dba39146f9beac42dfc5b1130",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-hero.png",
+          "source_state": "section-hero",
+          "source_unit": "hero",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Royal compact title, dominant documentary photograph, then bounded supporting copy and class action now read as one coherent invitation. Documentary photograph preserves subject clarity; semantic class details replace source statistics. Phone stacks supporting copy in meaningful order.",
+          "comparison": "review/independent/membership-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/membership-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -75,72 +91,102 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/membership/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/membership-journey-desktop.png",
+          "build_sha256": "b7dab35c6fb3d8811f7b3e0ff18b09f9c03fe7c667c55d91e1bca7bda0e67002",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-stry.png",
+          "source_state": "section-stry",
+          "source_unit": "stry",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Stable left-copy/right-image scene follows Royal story relation; four KLCC themes exchange actual contextual images together. Phone now places bottom copy over darkened photograph, preserving the observed source recomposition. Forward/reverse paired exchange independently observed at all three widths. Caption top grade rechecked after actual contrast repair.",
+          "comparison": "review/independent/membership-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/membership-journey-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/membership/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/membership-journey-tablet.png",
+          "build_sha256": "4e364f336d6f26aa6013daad80a618c3a2a38c365dbdc1c37041c73f8cbbcd60",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-stry.png",
+          "source_state": "section-stry",
+          "source_unit": "stry",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Stable left-copy/right-image scene follows Royal story relation; four KLCC themes exchange actual contextual images together. Phone now places bottom copy over darkened photograph, preserving the observed source recomposition. Forward/reverse paired exchange independently observed at all three widths. Caption top grade rechecked after actual contrast repair.",
+          "comparison": "review/independent/membership-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/membership-journey-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/membership/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/membership-journey-phone.png",
+          "build_sha256": "1f4715c6e3ac453187361ff40a888275bc0fad64c8efe46cb588cb9ba8be8b3c",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-stry.png",
+          "source_state": "section-stry",
+          "source_unit": "stry",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Stable left-copy/right-image scene follows Royal story relation; four KLCC themes exchange actual contextual images together. Phone now places bottom copy over darkened photograph, preserving the observed source recomposition. Forward/reverse paired exchange independently observed at all three widths. Caption top grade rechecked after actual contrast repair.",
+          "comparison": "review/independent/membership-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/membership-journey-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     }
   ],
-  "blockers": [
-    {
-      "condition": "Exact-reference fidelity gate remains below4/5",
-      "evidence": "Royal story uses large right-side imagery with paired changing left passages. Membership uses one smaller left image and simultaneously readable right steps. This preserves scarce truthful source material but does not reproduce Royal scene topology or choreography.",
-      "attempt": "Compared actual3-width page sections and matching reference boards; requested concrete visual repairs where identified.",
-      "fallback": "Keep legible real-company content and explicitly documented reference adaptations. Do not invent factual imagery or hide schedules to imitate unsupported scenes."
-    }
-  ],
+  "reviewer": "editorial_independent_review; independent of product authorship",
+  "reviewed_at": "2026-10-07T09:51:03.135775+00:00",
+  "scope": "Round 3 exact-unit visual review, actual browser motion and targeted actual-pixel contrast; section rubric only, not owner acceptance or mechanical gate waiver",
+  "source_review": "art-direction/qa/round-2/editorial-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/membership.json",
+  "source_hashes": {
+    "src/pages/membership.html": "926cb9239c51810422421ac6674a9eaf4fd1b3ae1083d632b82b9dd21fcb7caf",
+    "src/pages/membership.css": "cbf3254c24284b603b69ad6a61c839d700d1e5246296cb8d83e7607ad2a70c8d",
+    "src/motion/scenes/membership.ts": "ac5fd42388d52c915aa619ed3d83f16bdcb0b7a505711993243201a7a94fb35b"
+  },
   "limits": [
-    "No claim that public preview reveals exact editor easing/settings.",
-    "Accepted is reserved to owner."
+    "Raw section aspect ratios, full-bleed flags, heading ratios and total section-count assertions remain separate mechanical gate results; these visual scores do not waive them.",
+    "Source copy length, intrinsic company assets and church palette intentionally differ; no pixel similarity percentage claimed.",
+    "Whole-unit build crops exclude fixed browser/header chrome for unobstructed content review; opening and motion screenshots retain actual header.",
+    "No physical phone, exact source editor timing, all-frame contrast proof or owner Accepted status claimed.",
+    "Targeted overlay/hero contrast sampling is not a complete WCAG audit of every text node or every transitional frame.",
+    "Source Lou first-arrival is observed but per-character implementation parity is not claimed; intact-unit clarity avoids hiding essential copy."
   ],
-  "final_evidence": "art-direction/qa/captures/membership/manifest.json"
+  "issues": []
 }

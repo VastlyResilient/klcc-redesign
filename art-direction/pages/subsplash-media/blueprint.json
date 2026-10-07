@@ -9,7 +9,8 @@
   "heading_arrival": {
     "unit": "block",
     "vector": "hold",
-    "driver": "native-scroll"
+    "driver": "native-scroll",
+    "source_reason": "Message media uses native progression; provider controls and category controls Hold. Data-driven results are real task changes, not decorative animations."
   },
   "reference": {
     "template": "slab",
@@ -24,10 +25,10 @@
         "template": "slab",
         "route": "/projects/hydra",
         "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-        "composition": "Date andspeaker align opposite current message title in editorialbrief.",
-        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
         "landmark": "hero",
-        "state": "opening"
+        "state": "opening",
+        "composition": "Wide authentic worship image first, modest message title left and factual speaker/date plus watch action right below.",
+        "sequence": "Hold / native document progression. Message media uses native progression; provider controls and category controls Hold. Data-driven results are real task changes, not decorative animations."
       },
       "company_content": {
         "copy": [
@@ -41,15 +42,15 @@
         ]
       },
       "reconstruction": {
-        "layout": "Date andspeaker align opposite current message title in editorialbrief.",
+        "layout": "Wide authentic worship image first, modest message title left and factual speaker/date plus watch action right below.",
         "motion": {
           "mechanism": "Hold",
           "values": {
-            "reason": "Playback and category controls remain stable. Native content change supports library task; no invented Slab animation."
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
           }
         },
         "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
-        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
         "reduced_motion": "All HTML visible, no pin or focusblur."
       },
       "deviations": [
@@ -64,8 +65,12 @@
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/subsplash-media.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
       }
     },
     {
@@ -76,10 +81,10 @@
         "template": "slab",
         "route": "/projects/hydra",
         "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-        "composition": "Playback holds still on lightground; controls never animated.",
-        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-        "landmark": "brief",
-        "state": "forward-002"
+        "landmark": "hero",
+        "state": "opening",
+        "composition": "Full-width player first; compact message label left and playback context/direct fallback right below.",
+        "sequence": "Hold / native document progression. Message media uses native progression; provider controls and category controls Hold. Data-driven results are real task changes, not decorative animations."
       },
       "company_content": {
         "copy": [
@@ -89,15 +94,15 @@
         "media": []
       },
       "reconstruction": {
-        "layout": "Playback holds still on lightground; controls never animated.",
+        "layout": "Full-width player first; compact message label left and playback context/direct fallback right below.",
         "motion": {
           "mechanism": "Hold",
           "values": {
-            "reason": "Playback and category controls remain stable. Native content change supports library task; no invented Slab animation."
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
           }
         },
         "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
-        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
         "reduced_motion": "All HTML visible, no pin or focusblur."
       },
       "deviations": [
@@ -112,8 +117,12 @@
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/subsplash-media.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
       }
     },
     {
@@ -124,10 +133,10 @@
         "template": "slab",
         "route": "/projects/hydra",
         "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-        "composition": "Library categories become intentional typographic index to real providerviews.",
-        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
         "landmark": "brief",
-        "state": "forward-002"
+        "state": "forward-002",
+        "composition": "Single left library label with one right vertical reading/control column; intro, category index, native selectors, results and live-library fallback.",
+        "sequence": "Hold / native document progression. Message media uses native progression; provider controls and category controls Hold. Data-driven results are real task changes, not decorative animations."
       },
       "company_content": {
         "copy": [
@@ -143,7 +152,7 @@
         "media": []
       },
       "reconstruction": {
-        "layout": "Library categories become intentional typographic index to real providerviews.",
+        "layout": "Single left library label with one right vertical reading/control column; intro, category index, native selectors, results and live-library fallback.",
         "motion": {
           "mechanism": "Hold",
           "values": {
@@ -151,7 +160,7 @@
           }
         },
         "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
-        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
         "reduced_motion": "All HTML visible, no pin or focusblur."
       },
       "deviations": [
@@ -172,9 +181,15 @@
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/subsplash-media.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
       }
     }
-  ]
+  ],
+  "repair_review_note": "Composition repaired 2026-10-07; historical fidelity record unchanged. Requires independent fresh judgment, not author approval.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred"
 }

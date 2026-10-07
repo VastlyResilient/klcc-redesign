@@ -17,7 +17,7 @@ check('G1','All original routes fetched live',truth?truth.sources.every((s:any)=
 // G4 is a historical gate: later success cannot erase building the remaining pages early.
 const pilotRoutes=['our-story','mission'];const pilotFindings:any[]=[];const reviewTimes:number[]=[];
 for(const route of pilotRoutes){
- const file=`art-direction/qa/fidelity/${route}.json`;const f=read(file);
+ const historical=`art-direction/qa/pilot-baseline/${route}.json`;const file=exists(historical)?historical:`art-direction/qa/fidelity/${route}.json`;const f=read(file);
  if(!f){pilotFindings.push({route,issue:'missing Fidelity record',file});continue}
  if(f.status!=='Fidelity-reviewed')pilotFindings.push({route,issue:'status is not Fidelity-reviewed',actual:f.status});
  const when=Date.parse(f.reviewed_at||'');if(!Number.isFinite(when))pilotFindings.push({route,issue:'reviewed_at missing/invalid'});else reviewTimes.push(when);

@@ -24,9 +24,9 @@
             "landmark": "section-0"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Verified source module contains no animated sequence; safety, legal or recovery controls remain immediately readable."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
@@ -43,9 +43,9 @@
             "landmark": "section-1"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Verified source module contains no animated sequence; safety, legal or recovery controls remain immediately readable."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
@@ -56,14 +56,14 @@
     {
       "route": "alpha",
       "signature": {
-        "id": "alpha-hold",
-        "dominant_verb": "Hold",
-        "structural_idea": "Questions-first editorial explanation with stable video and a compact session facts band",
+        "id": "alpha-repaired-composition",
+        "dominant_verb": "Present",
+        "structural_idea": "Program artwork now spans full available width without cropping any embedded lettering. Conversation physically reorganized into three source-grounded paragraphs with questions/conversation/logistics labels, matching the actual Brief structure. Films map the captured paired-tiles subregion, not its preceding dominant photograph. Scripture maps the measured text-only Highlight Section 2, which is a separate section from following media.",
         "axes": {
-          "unit": "content-specific block/image",
-          "vector": "Hold pending observed scene contract",
-          "driver": "native scroll",
-          "frame": "route-owned composition"
+          "unit": "intact editorial unit",
+          "vector": "clarity without translation",
+          "driver": "Scroll-triggered once, native reading",
+          "frame": "native document flow"
         }
       },
       "heading_arrival": {
@@ -76,13 +76,64 @@
         {
           "id": "alpha-opening",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "landmark": "hero",
-            "state": "section-hero",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-0",
+            "state": "opening",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit image-and-metadata. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+            "states": {
+              "desktop": "opening",
+              "tablet": "opening",
+              "phone": "opening"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png"
+            },
+            "region": {
+              "selector": "[data-framer-name=\"Hero Image Section\"], [data-framer-name=\"Header Section\"]",
+              "definition": "image-and-metadata",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 0,
+                    "width": 1440,
+                    "height": 941.78125
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 0,
+                    "width": 1024,
+                    "height": 891.84375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 0,
+                    "width": 390,
+                    "height": 824.703125
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -91,13 +142,64 @@
         {
           "id": "alpha-conversation",
           "reference": {
-            "template": "lou",
-            "route": "/about",
-            "landmark": "section-2",
-            "state": "section-section-2",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-1",
+            "state": "forward-002",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit brief. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+            "states": {
+              "desktop": "forward-002",
+              "tablet": "forward-002",
+              "phone": "forward-002"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png"
+            },
+            "region": {
+              "selector": "[data-framer-name=\"Brief Section\"]",
+              "definition": "brief",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+                  "box": {
+                    "x": 0,
+                    "top": 941.78125,
+                    "width": 1440,
+                    "height": 674
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+                  "box": {
+                    "x": 0,
+                    "top": 891.84375,
+                    "width": 1024,
+                    "height": 737
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png",
+                  "box": {
+                    "x": 0,
+                    "top": 824.703125,
+                    "width": 390,
+                    "height": 705.59375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -106,13 +208,64 @@
         {
           "id": "alpha-films",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "landmark": "ourvalues",
-            "state": "section-ourvalues",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-3",
+            "state": "forward-009",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit paired-tiles. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-paired-tiles.png",
+            "states": {
+              "desktop": "forward-009",
+              "tablet": "forward-009",
+              "phone": "forward-006"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-paired-tiles.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-paired-tiles.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-paired-tiles.png"
+            },
+            "region": {
+              "selector": ".framer-7zt5l3",
+              "definition": "paired-tiles",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-paired-tiles.png",
+                  "box": {
+                    "x": 8,
+                    "top": 3948.09375,
+                    "width": 1424,
+                    "height": 517.15625
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-paired-tiles.png",
+                  "box": {
+                    "x": 8,
+                    "top": 3306.21875,
+                    "width": 1008,
+                    "height": 380.84375
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-paired-tiles.png",
+                  "box": {
+                    "x": 8,
+                    "top": 2581.953125,
+                    "width": 374,
+                    "height": 564.0625
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -121,13 +274,64 @@
         {
           "id": "alpha-scripture",
           "reference": {
-            "template": "lou",
-            "route": "/about",
-            "landmark": "section-3",
-            "state": "section-section-3",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-4",
+            "state": "forward-010",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit text-row. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+            "states": {
+              "desktop": "forward-010",
+              "tablet": "forward-010",
+              "phone": "forward-008"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png"
+            },
+            "region": {
+              "selector": "[data-framer-name=\"Highlight Section 2\"]",
+              "definition": "text-row",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 4545.25,
+                    "width": 1440,
+                    "height": 320
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 3767.0625,
+                    "width": 1024,
+                    "height": 335
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 3226.015625,
+                    "width": 390,
+                    "height": 409.59375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -143,27 +347,29 @@
       "heading_arrival": {
         "unit": "block",
         "vector": "hold",
-        "driver": "native-scroll"
+        "driver": "native-scroll",
+        "source_reason": "Slab Hydra image and metadata use native progression; no exact arrival settings established. Download controls Hold. Removed unsupported Royal chapter exchange."
       },
       "scenes": [
         {
           "id": "app-opening",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Left reading and right image relationship from Royal story; single-image utility adaptation. Does not replicate paired chapter pin.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-            "landmark": "stry"
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "hero",
+            "state": "opening",
+            "composition": "Wide intact company app image first, then modest identity left and description/download actions right. Image first on phone.",
+            "sequence": "Hold / native document progression. Slab Hydra image and metadata use native progression; no exact arrival settings established. Download controls Hold. Removed unsupported Royal chapter exchange."
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "app-use",
@@ -171,33 +377,33 @@
             "template": "slab",
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-            "composition": "Aligned label and supportingreading relationship; enlarged actionlabels are an explicit adaptation to three real destinations.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "brief",
             "state": "forward-002",
-            "landmark": "brief"
+            "composition": "One left community label and one right column of ruled practical destinations. Label stacks first on phone.",
+            "sequence": "Hold / native document progression. Slab Hydra image and metadata use native progression; no exact arrival settings established. Download controls Hold. Removed unsupported Royal chapter exchange."
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         }
       ]
     },
     {
       "route": "baptism",
       "signature": {
-        "id": "baptism-frame",
-        "dominant_verb": "Frame",
-        "structural_idea": "Two linked dates tell the preparation-to-ceremony journey",
+        "id": "baptism-repaired-composition",
+        "dominant_verb": "Present",
+        "structural_idea": "Dates map the actual measured metadata-only region, not the whole image+metadata opening. Preparation maps the actual single text-row region rather than pretending one paragraph is a three-block Brief.",
         "axes": {
-          "unit": "content-specific block/image",
-          "vector": "Hold pending observed scene contract",
-          "driver": "native scroll",
-          "frame": "route-owned composition"
+          "unit": "intact editorial unit",
+          "vector": "clarity without translation",
+          "driver": "Scroll-triggered once, native reading",
+          "frame": "native document flow"
         }
       },
       "heading_arrival": {
@@ -210,13 +416,64 @@
         {
           "id": "baptism-opening",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "landmark": "hero",
-            "state": "section-hero",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-0",
+            "state": "opening",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit image-and-metadata. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+            "states": {
+              "desktop": "opening",
+              "tablet": "opening",
+              "phone": "opening"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png"
+            },
+            "region": {
+              "selector": "[data-framer-name=\"Hero Image Section\"], [data-framer-name=\"Header Section\"]",
+              "definition": "image-and-metadata",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 0,
+                    "width": 1440,
+                    "height": 941.78125
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 0,
+                    "width": 1024,
+                    "height": 891.84375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 0,
+                    "width": 390,
+                    "height": 824.703125
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -225,13 +482,64 @@
         {
           "id": "baptism-dates",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "landmark": "ourvalues",
-            "state": "section-ourvalues",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-0",
+            "state": "forward-001",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit metadata. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-metadata.png",
+            "states": {
+              "desktop": "forward-001",
+              "tablet": "forward-001",
+              "phone": "forward-001"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-metadata.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-metadata.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-metadata.png"
+            },
+            "region": {
+              "selector": "[data-framer-name=\"Header Section\"]",
+              "definition": "metadata",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 540,
+                    "width": 1440,
+                    "height": 401.78125
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 490.0625,
+                    "width": 1024,
+                    "height": 401.78125
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 337.59375,
+                    "width": 390,
+                    "height": 487.109375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -240,13 +548,64 @@
         {
           "id": "baptism-preparation",
           "reference": {
-            "template": "lou",
-            "route": "/about",
-            "landmark": "section-2",
-            "state": "section-section-2",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-4",
+            "state": "forward-010",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit text-row. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+            "states": {
+              "desktop": "forward-010",
+              "tablet": "forward-010",
+              "phone": "forward-008"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png"
+            },
+            "region": {
+              "selector": "[data-framer-name=\"Highlight Section 2\"]",
+              "definition": "text-row",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 4545.25,
+                    "width": 1440,
+                    "height": 320
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 3767.0625,
+                    "width": 1024,
+                    "height": 335
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 3226.015625,
+                    "width": 390,
+                    "height": 409.59375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -257,14 +616,14 @@
     {
       "route": "beliefs",
       "signature": {
-        "id": "beliefs-hold",
-        "dominant_verb": "Hold",
-        "structural_idea": "A nine-part statement with a quiet persistent chapter count and generous reading measure",
+        "id": "beliefs-repaired-composition",
+        "dominant_verb": "Read",
+        "structural_idea": "Full book-image identity opening followed by the correctly measured Lou reading field. Normal paper title and a continuous scene-wide navy grade are the explicit contrast adaptation; no bodySplitText.",
         "axes": {
-          "unit": "content-specific block/image",
-          "vector": "Hold pending observed scene contract",
-          "driver": "native scroll",
-          "frame": "route-owned composition"
+          "unit": "intact editorial unit",
+          "vector": "clarity without translation",
+          "driver": "Scroll-triggered once, native reading",
+          "frame": "native document flow"
         }
       },
       "heading_arrival": {
@@ -277,13 +636,24 @@
         {
           "id": "beliefs-opening",
           "reference": {
-            "template": "royal",
+            "template": "lou",
             "route": "/about",
-            "landmark": "hero",
-            "state": "section-hero",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "landmark": "section-1",
+            "state": "opening-settled",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+            "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/opening-settled.png",
+            "states": {
+              "desktop": "opening-settled",
+              "tablet": "opening-settled",
+              "phone": "opening-settled"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/opening-settled.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/tablet/opening-settled.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/phone/opening-settled.png"
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -295,25 +665,21 @@
             "template": "lou",
             "route": "/about",
             "landmark": "section-2",
-            "state": "section-section-2",
+            "state": "forward-002",
             "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
             "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
-          },
-          "contract": {
-            "mechanism": "Undocumented"
-          }
-        },
-        {
-          "id": "beliefs-reflection",
-          "reference": {
-            "template": "royal",
-            "route": "/about",
-            "landmark": "cta",
-            "state": "section-cta",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/forward-002.png",
+            "states": {
+              "desktop": "forward-002",
+              "tablet": "forward-002",
+              "phone": "forward-002"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/forward-002.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/tablet/forward-002.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/phone/forward-002.png"
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -324,14 +690,14 @@
     {
       "route": "believe",
       "signature": {
-        "id": "believe-unfold",
-        "dominant_verb": "Unfold",
-        "structural_idea": "A personal decision followed by three deliberately separated next-step branches",
+        "id": "believe-repaired-composition",
+        "dominant_verb": "Present",
+        "structural_idea": "Third choice now uses the genuine Alpha USA Intro to Alpha thumbnail as full-height photographic cover. Mandatory KLCC poster moved intact alongside the conceptual book into a new wide paired-media interval. Scripture is physically a text-only label/body section; page-update disclosure uses visitor-facing language while preserving the original notice.",
         "axes": {
-          "unit": "content-specific block/image",
-          "vector": "Hold pending observed scene contract",
-          "driver": "native scroll",
-          "frame": "route-owned composition"
+          "unit": "intact editorial unit",
+          "vector": "clarity without translation",
+          "driver": "Scroll-triggered once, native reading",
+          "frame": "native document flow"
         }
       },
       "heading_arrival": {
@@ -350,7 +716,18 @@
             "state": "section-hero",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-hero.png",
+            "states": {
+              "desktop": "section-hero",
+              "tablet": "section-hero",
+              "phone": "section-hero"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-hero.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-hero.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-hero.png"
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -362,25 +739,21 @@
             "template": "royal",
             "route": "/about",
             "landmark": "ourvalues",
-            "state": "section-ourvalues",
+            "state": "forward-007",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
-          },
-          "contract": {
-            "mechanism": "Undocumented"
-          }
-        },
-        {
-          "id": "believe-alpha",
-          "reference": {
-            "template": "royal",
-            "route": "/about",
-            "landmark": "cta",
-            "state": "section-cta",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/forward-007.png",
+            "states": {
+              "desktop": "forward-007",
+              "tablet": "section-ourvalues",
+              "phone": "section-ourvalues"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/forward-007.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-ourvalues.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-ourvalues.png"
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -389,13 +762,130 @@
         {
           "id": "believe-scripture",
           "reference": {
-            "template": "lou",
-            "route": "/about",
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-4",
+            "state": "forward-010",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit text-row. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+            "states": {
+              "desktop": "forward-010",
+              "tablet": "forward-010",
+              "phone": "forward-008"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png"
+            },
+            "region": {
+              "selector": "[data-framer-name=\"Highlight Section 2\"]",
+              "definition": "text-row",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 4545.25,
+                    "width": 1440,
+                    "height": 320
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 3767.0625,
+                    "width": 1024,
+                    "height": 335
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 3226.015625,
+                    "width": 390,
+                    "height": 409.59375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            }
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "believe-materials",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
             "landmark": "section-3",
-            "state": "section-section-3",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "state": "forward-009",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit paired-tiles. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-paired-tiles.png",
+            "states": {
+              "desktop": "forward-009",
+              "tablet": "forward-009",
+              "phone": "forward-006"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-paired-tiles.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-paired-tiles.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-paired-tiles.png"
+            },
+            "region": {
+              "selector": ".framer-7zt5l3",
+              "definition": "paired-tiles",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-paired-tiles.png",
+                  "box": {
+                    "x": 8,
+                    "top": 3948.09375,
+                    "width": 1424,
+                    "height": 517.15625
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-paired-tiles.png",
+                  "box": {
+                    "x": 8,
+                    "top": 3306.21875,
+                    "width": 1008,
+                    "height": 380.84375
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-paired-tiles.png",
+                  "box": {
+                    "x": 8,
+                    "top": 2581.953125,
+                    "width": 374,
+                    "height": 564.0625
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -411,7 +901,8 @@
       "heading_arrival": {
         "unit": "block",
         "vector": "hold",
-        "driver": "native-scroll"
+        "driver": "native-scroll",
+        "source_reason": "Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently."
       },
       "scenes": [
         {
@@ -421,36 +912,37 @@
             "route": "/contact",
             "dossier": "art-direction/references/deep/royal/contact/dossier.md",
             "composition": "Oversized calendar title balanced by actual abstractsourceart and timezone note.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "sequence": "Hold / native document progression. Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently.",
             "landmark": "section-0"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "calendar-agenda",
           "reference": {
-            "template": "royal",
-            "route": "/contact",
-            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
-            "composition": "Large stable calendar embedded on cream; directproviderfallback aboveframe.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-            "landmark": "section-1"
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "brief",
+            "state": "forward-002",
+            "composition": "One left calendar context label, one right vertical agenda of factual events with high contrast full wrapping dates and native details; provider fallback follows.",
+            "sequence": "Hold / native document progression. Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently."
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "calendar-paths",
@@ -458,32 +950,33 @@
             "template": "royal",
             "route": "/contact",
             "dossier": "art-direction/references/deep/royal/contact/dossier.md",
-            "composition": "Three text-only contextual routes for regular gatherings; no fabricatedevents.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-            "landmark": "section-1"
+            "landmark": "section-0",
+            "state": "opening-settled",
+            "composition": "Left utility label, right sparse vertical destination list. Phone follows source contact stacking.",
+            "sequence": "Hold / native document progression. Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently."
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         }
       ]
     },
     {
       "route": "courses",
       "signature": {
-        "id": "courses-carry",
-        "dominant_verb": "Carry",
-        "structural_idea": "Seasonal syllabus with a strong date column and individually bounded course descriptions",
+        "id": "courses-repaired-composition",
+        "dominant_verb": "Present",
+        "structural_idea": "Winter/spring information now uses a left section label and right reading column. Conceptual art physically moved to its own dominant full-width media interval with source-matched portrait-ish aspect; no tiny isolated left illustration remains. Marriage maps the text-only highlight region, not a wrong phone Next Project frame.",
         "axes": {
-          "unit": "content-specific block/image",
-          "vector": "Hold pending observed scene contract",
-          "driver": "native scroll",
-          "frame": "route-owned composition"
+          "unit": "intact editorial unit",
+          "vector": "clarity without translation",
+          "driver": "Scroll-triggered once, native reading",
+          "frame": "native document flow"
         }
       },
       "heading_arrival": {
@@ -496,13 +989,64 @@
         {
           "id": "courses-opening",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "landmark": "hero",
-            "state": "section-hero",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-0",
+            "state": "opening",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit image-and-metadata. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+            "states": {
+              "desktop": "opening",
+              "tablet": "opening",
+              "phone": "opening"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png"
+            },
+            "region": {
+              "selector": "[data-framer-name=\"Hero Image Section\"], [data-framer-name=\"Header Section\"]",
+              "definition": "image-and-metadata",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 0,
+                    "width": 1440,
+                    "height": 941.78125
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 0,
+                    "width": 1024,
+                    "height": 891.84375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png",
+                  "box": {
+                    "x": 0,
+                    "top": 0,
+                    "width": 390,
+                    "height": 824.703125
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -511,13 +1055,64 @@
         {
           "id": "courses-fall",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "landmark": "stry",
-            "state": "section-stry",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-1",
+            "state": "forward-002",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit brief. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+            "states": {
+              "desktop": "forward-002",
+              "tablet": "forward-002",
+              "phone": "forward-002"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png"
+            },
+            "region": {
+              "selector": "[data-framer-name=\"Brief Section\"]",
+              "definition": "brief",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+                  "box": {
+                    "x": 0,
+                    "top": 941.78125,
+                    "width": 1440,
+                    "height": 674
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+                  "box": {
+                    "x": 0,
+                    "top": 891.84375,
+                    "width": 1024,
+                    "height": 737
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png",
+                  "box": {
+                    "x": 0,
+                    "top": 824.703125,
+                    "width": 390,
+                    "height": 705.59375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -526,13 +1121,130 @@
         {
           "id": "courses-seasons",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "landmark": "ourvalues",
-            "state": "section-ourvalues",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-1",
+            "state": "forward-002",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit brief. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+            "states": {
+              "desktop": "forward-002",
+              "tablet": "forward-002",
+              "phone": "forward-002"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png"
+            },
+            "region": {
+              "selector": "[data-framer-name=\"Brief Section\"]",
+              "definition": "brief",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+                  "box": {
+                    "x": 0,
+                    "top": 941.78125,
+                    "width": 1440,
+                    "height": 674
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+                  "box": {
+                    "x": 0,
+                    "top": 891.84375,
+                    "width": 1024,
+                    "height": 737
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png",
+                  "box": {
+                    "x": 0,
+                    "top": 824.703125,
+                    "width": 390,
+                    "height": 705.59375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            }
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "courses-reading",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-3",
+            "state": "forward-007",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit dominant-artwork. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-dominant-artwork.png",
+            "states": {
+              "desktop": "forward-007",
+              "tablet": "forward-007",
+              "phone": "forward-005"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-dominant-artwork.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-dominant-artwork.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-dominant-artwork.png"
+            },
+            "region": {
+              "selector": ".framer-13ygb0k",
+              "definition": "dominant-artwork",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-dominant-artwork.png",
+                  "box": {
+                    "x": 8,
+                    "top": 2977.9375,
+                    "width": 1424,
+                    "height": 962.15625
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-dominant-artwork.png",
+                  "box": {
+                    "x": 8,
+                    "top": 2617.140625,
+                    "width": 1008,
+                    "height": 681.078125
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-dominant-artwork.png",
+                  "box": {
+                    "x": 8,
+                    "top": 2296.921875,
+                    "width": 374,
+                    "height": 277.03125
+                  },
+                  "fullbleed": false,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -541,13 +1253,64 @@
         {
           "id": "courses-marriage",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "landmark": "cta",
-            "state": "section-cta",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "landmark": "section-4",
+            "state": "forward-010",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "comparison_scope": "Exact observed visual unit text-row. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+            "states": {
+              "desktop": "forward-010",
+              "tablet": "forward-010",
+              "phone": "forward-008"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png"
+            },
+            "region": {
+              "selector": "[data-framer-name=\"Highlight Section 2\"]",
+              "definition": "text-row",
+              "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+              "viewports": {
+                "desktop": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 4545.25,
+                    "width": 1440,
+                    "height": 320
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "tablet": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 3767.0625,
+                    "width": 1024,
+                    "height": 335
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                },
+                "phone": {
+                  "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png",
+                  "box": {
+                    "x": 0,
+                    "top": 3226.015625,
+                    "width": 390,
+                    "height": 409.59375
+                  },
+                  "fullbleed": true,
+                  "sticky": false
+                }
+              }
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -563,7 +1326,8 @@
       "heading_arrival": {
         "unit": "block",
         "vector": "hold",
-        "driver": "native-scroll"
+        "driver": "native-scroll",
+        "source_reason": "Original event artwork and archival details remain stable. Royal contact utility ending Holds; no unsupported 850ms artwork arrival."
       },
       "scenes": [
         {
@@ -573,19 +1337,19 @@
             "route": "/about",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "composition": "Intact original artwork and explicit archived date, not upcoming.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "sequence": "Hold / native document progression. Original event artwork and archival details remain stable. Royal contact utility ending Holds; no unsupported 850ms artwork arrival.",
             "manifest": "art-direction/references/deep/royal/about/manifest.json",
             "landmark": "hero",
             "state": "section-hero"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "expect",
@@ -594,38 +1358,39 @@
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
             "composition": "Structured full questions/answers fromoriginal invitation oncream.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "sequence": "Hold / native document progression. Original event artwork and archival details remain stable. Royal contact utility ending Holds; no unsupported 850ms artwork arrival.",
             "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
             "landmark": "brief",
             "state": "forward-002"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "easter-connect",
           "reference": {
             "template": "royal",
-            "route": "/properties",
-            "dossier": "art-direction/references/deep/royal/properties/dossier.md",
-            "composition": "Original connectedlinks retained with descriptive labels, plus currentvisit link.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-            "verification": "Blocked: utility links were reviewed for usability but no observed source sequence/layout was verified. Generic Royal/properties pointer does not prove a matching section."
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "landmark": "section-0",
+            "state": "opening-settled",
+            "composition": "Left compact Holy Week identity and app channels; right stable sparse vertical archive/current-calendar actions. Phone stacks in the same reading order.",
+            "sequence": "Hold / native document progression. Original event artwork and archival details remain stable. Royal contact utility ending Holds; no unsupported 850ms artwork arrival."
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         }
       ]
     },
@@ -637,7 +1402,8 @@
       "heading_arrival": {
         "unit": "block",
         "vector": "hold",
-        "driver": "native-scroll"
+        "driver": "native-scroll",
+        "source_reason": "Giving controls Hold. Slab proof image is an intact factual asset in document flow; it is not a chapter sequence."
       },
       "scenes": [
         {
@@ -647,17 +1413,17 @@
             "route": "/contact",
             "dossier": "art-direction/references/deep/royal/contact/dossier.md",
             "composition": "Quiet legalentitytitle and immediate secureprovideraction with boundedactualart.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "sequence": "Hold / native document progression. Giving controls Hold. Slab proof image is an intact factual asset in document flow; it is not a chapter sequence.",
             "landmark": "section-0"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "give-methods",
@@ -666,56 +1432,58 @@
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
             "composition": "Left label and one continuous right reading column, matching observed Slab Brief relationship.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "sequence": "Hold / native document progression. Giving controls Hold. Slab proof image is an intact factual asset in document flow; it is not a chapter sequence.",
             "landmark": "brief",
             "state": "forward-002"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "give-generosity",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal story copy-left/image-right relationship, adapted to one actual pantry photograph; does not reproduce the paired sticky chapter sequence.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-            "landmark": "stry"
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "hero",
+            "state": "opening",
+            "composition": "Wide intact pantry artwork first; compact proof title left and bounded explanation right below, stacked on phone.",
+            "sequence": "Hold / native document progression. Giving controls Hold. Slab proof image is an intact factual asset in document flow; it is not a chapter sequence."
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "give-reading",
           "reference": {
-            "template": "royal",
-            "route": "/contact",
-            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
-            "composition": "Bounded longerwhywe give plus small scripture statement.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-            "landmark": "section-1"
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "brief",
+            "state": "forward-002",
+            "composition": "Small left reading label with one right column of generosity explanation and ruled scripture note",
+            "sequence": "Hold / native reading"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         }
       ]
     },
@@ -793,15 +1561,17 @@
             "route": "/about",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
             "landmark": "hero",
             "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information."
@@ -809,39 +1579,25 @@
         {
           "id": "kids-team",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal invitation: wide photographic moment with one centered statement and restrained action; no text backdrop panel.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "cta",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-          },
-          "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
-          },
-          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
-          "mobile": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information."
-        },
-        {
-          "id": "kids-scripture",
-          "reference": {
-            "template": "lou",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
             "landmark": "section-2",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "state": "forward-004",
+            "composition": "Authentic artwork before left label/right enlarged explanation; intact image proportions.",
+            "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
           },
           "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Scroll-triggered once-entered opacity",
+            "selectors": [
+              "#kids-team figure",
+              "#kids-team p:not(.eyebrow)"
+            ],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information."
@@ -875,15 +1631,17 @@
             "route": "/about",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
             "landmark": "hero",
             "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Keep each portrait beside its name and role. Full biographies remain available in place, with stable keyboard focus and no modal detour."
@@ -895,15 +1653,17 @@
             "route": "/about",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
             "landmark": "team",
             "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
           },
           "contract": {
-            "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Keep each portrait beside its name and role. Full biographies remain available in place, with stable keyboard focus and no modal detour."
@@ -915,35 +1675,19 @@
             "route": "/about",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
             "landmark": "team",
             "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
-          },
-          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
-          "mobile": "Keep each portrait beside its name and role. Full biographies remain available in place, with stable keyboard focus and no modal detour."
-        },
-        {
-          "id": "leadership-scripture",
-          "reference": {
-            "template": "lou",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "section-2",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-          },
-          "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Scroll-triggered once-entered opacity",
+            "selectors": [
+              "#pastoral-team article img"
+            ],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Keep each portrait beside its name and role. Full biographies remain available in place, with stable keyboard focus and no modal detour."
@@ -972,9 +1716,9 @@
             "landmark": "section-0"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Verified source module contains no animated sequence; safety, legal or recovery controls remain immediately readable."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
@@ -991,9 +1735,9 @@
             "landmark": "section-1"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Verified source module contains no animated sequence; safety, legal or recovery controls remain immediately readable."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
@@ -1024,19 +1768,21 @@
         {
           "id": "groups-opening",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
             "landmark": "hero",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "state": "opening",
+            "composition": "Wide intact artwork before left identity and right factual metadata; stacks on phone.",
+            "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Treat each category as a named, readable directory entry. Do not introduce a filter if there is no real filterable dataset."
@@ -1044,19 +1790,21 @@
         {
           "id": "groups-introduction",
           "reference": {
-            "template": "lou",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
             "landmark": "section-2",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "state": "forward-004",
+            "composition": "Quiet left label, large right explanation following artwork; 32px right text, phone24px.",
+            "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Treat each category as a named, readable directory entry. Do not introduce a filter if there is no real filterable dataset."
@@ -1064,19 +1812,24 @@
         {
           "id": "groups-directory",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal values: three tall photographs with compact supporting copy; no rounded card boxes.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "ourvalues",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "section-1",
+            "state": "forward-002",
+            "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+            "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Scroll-triggered once-entered opacity",
+            "selectors": [
+              "#groups-directory article p"
+            ],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Treat each category as a named, readable directory entry. Do not introduce a filter if there is no real filterable dataset."
@@ -1084,39 +1837,23 @@
         {
           "id": "groups-photo",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "hero",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "section-3",
+            "state": "forward-007",
+            "composition": "Image-only wide project artwork sequence with clean gutters; native scrolling.",
+            "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
-          },
-          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
-          "mobile": "Treat each category as a named, readable directory entry. Do not introduce a filter if there is no real filterable dataset."
-        },
-        {
-          "id": "life-groups-scripture",
-          "reference": {
-            "template": "lou",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "section-2",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-          },
-          "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Scroll-triggered once-entered opacity",
+            "selectors": [
+              "#groups-photo figure"
+            ],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Treat each category as a named, readable directory entry. Do not introduce a filter if there is no real filterable dataset."
@@ -1126,14 +1863,14 @@
     {
       "route": "membership",
       "signature": {
-        "id": "membership-accumulate",
-        "dominant_verb": "Accumulate",
-        "structural_idea": "Four typographic chapter steps sharing a single actual-community image",
+        "id": "membership-repaired-composition",
+        "dominant_verb": "Exchange",
+        "structural_idea": "Phone now reconstructs the observed sticky photograph/bottom-copy paired exchange at viewports ≥680px tall; short-height and reduced-motion stay static. Source phone scene was visually inspected first.",
         "axes": {
-          "unit": "content-specific block/image",
-          "vector": "Hold pending observed scene contract",
-          "driver": "native scroll",
-          "frame": "route-owned composition"
+          "unit": "paired copy and media",
+          "vector": "crossfade in stable stage",
+          "driver": "Scroll-linked",
+          "frame": "Sticky paired desktop/tablet; bottom-copy-over-image phone; static reduced/short-height fallback"
         }
       },
       "heading_arrival": {
@@ -1152,7 +1889,18 @@
             "state": "section-hero",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-hero.png",
+            "states": {
+              "desktop": "section-hero",
+              "tablet": "section-hero",
+              "phone": "section-hero"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-hero.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-hero.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-hero.png"
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -1167,7 +1915,18 @@
             "state": "section-stry",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-stry.png",
+            "states": {
+              "desktop": "section-stry",
+              "tablet": "section-stry",
+              "phone": "section-stry"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-stry.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-stry.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-stry.png"
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -1202,15 +1961,17 @@
             "route": "/about",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
             "landmark": "hero",
             "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
@@ -1218,19 +1979,22 @@
         {
           "id": "men-week",
           "reference": {
-            "template": "royal",
-            "route": "/contact",
-            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
-            "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "section-0",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "section-1",
+            "state": "forward-002",
+            "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+            "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
           },
           "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
@@ -1238,19 +2002,23 @@
         {
           "id": "men-study",
           "reference": {
-            "template": "lou",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
             "landmark": "section-2",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "state": "forward-004",
+            "composition": "Quiet left label, large right explanation following artwork; 32px right text, phone24px.",
+            "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
           },
           "contract": {
-            "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Scroll-triggered once-entered opacity",
+            "selectors": [
+              "#men-study p:not(.eyebrow)"
+            ],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
@@ -1261,57 +2029,17 @@
             "template": "slab",
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-            "composition": "Slab project metadata: left project identity, aligned right metadata and ruled information hierarchy. See scoped dossier for source-specific capture limitations.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "section-0",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance.",
-            "state": "opening"
+            "landmark": "section-1",
+            "state": "forward-002",
+            "composition": "Quiet left label; narrow right sequential factual entries separated by thin rules. Phone stacks."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
-          },
-          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
-          "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
-        },
-        {
-          "id": "men-photo",
-          "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "hero",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-          },
-          "contract": {
-            "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
-          },
-          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
-          "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
-        },
-        {
-          "id": "men-scripture",
-          "reference": {
-            "template": "lou",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "section-2",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-          },
-          "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
@@ -1347,7 +2075,7 @@
             }
           },
           "reduced_motion": "Unpinned complete text and final media visible.",
-          "mobile": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width."
+          "mobile": "Native document flow; almost-full-width readable type. No mission pin. Footer utility groups stack; focus treatment immediately clears for keyboard focus or reduced motion."
         },
         {
           "id": "mission-reading",
@@ -1356,38 +2084,20 @@
             "route": "/about",
             "landmark": "section-2",
             "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "LouAbout: blackground, leftnegative space32%, rightbold40/44pxparagraph, smallcredentialcolumnsafter.",
+            "composition": "Corrected live Lou reading: centered880px field at1440,816px at1024,almost fullwidth phone; large readable statement followed by modest credential/detail groups.",
             "sequence": "Freshheld900pxprobe establishesonce-entered timedopacity/transformarrival; reverse stayswhite."
           },
           "contract": {
-            "mechanism": "KLCCbounded54pxstatementthen7semanticcommitments; 6pxrise opacity.62→1 in1400mswhenenters. EssentialcopyvisiblebeforeJS.",
-            "values": {
-              "estimated": true,
-              "source_editor_settings": "unknown"
+            "mechanism": "Once-entered readable statement opacity/6px translation; supporting facts Hold",
+            "source_settings": "Lou entry causality observed; exact timing estimated",
+            "implementation_values": {
+              "opacity_from": 0.62,
+              "translate_y_px": 6,
+              "duration_ms": 1400
             }
           },
           "reduced_motion": "Unpinned complete text and final media visible.",
-          "mobile": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width."
-        },
-        {
-          "id": "mission-scripture",
-          "reference": {
-            "template": "lou",
-            "route": "/about",
-            "landmark": "section-3",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "Loufooter: abruptlightground,largeidentitywordmark,compactcontact/navigation.",
-            "sequence": "Observed reversibleblur14.661px→0 asfooterenters; actualcurveunknown."
-          },
-          "contract": {
-            "mechanism": "KLCCscripturelightground, oversizedstatementwith0–4pxfocus overfirstthirdsectionentry; linksandbodyneverblurred.",
-            "values": {
-              "estimated": true,
-              "source_editor_settings": "unknown"
-            }
-          },
-          "reduced_motion": "Unpinned complete text and final media visible.",
-          "mobile": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width."
+          "mobile": "Native document flow; almost-full-width readable type. No mission pin. Footer utility groups stack; focus treatment immediately clears for keyboard focus or reduced motion."
         }
       ]
     },
@@ -1418,15 +2128,17 @@
             "route": "/about",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
             "landmark": "hero",
             "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
@@ -1434,19 +2146,22 @@
         {
           "id": "visit-plan",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal story: shared sticky stage with synchronized chapter copy and image exchange; phone remains sticky in the source.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "stry",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "section-1",
+            "state": "forward-002",
+            "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+            "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
           },
           "contract": {
-            "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
@@ -1454,19 +2169,23 @@
         {
           "id": "visit-together",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "hero",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "section-3",
+            "state": "forward-007",
+            "composition": "Image-only wide project artwork sequence with clean gutters; native scrolling.",
+            "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
           },
           "contract": {
-            "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Scroll-triggered once-entered opacity",
+            "selectors": [
+              "#visit-together figure"
+            ],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
@@ -1474,19 +2193,24 @@
         {
           "id": "visit-next",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal values: three tall photographs with compact supporting copy; no rounded card boxes.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "ourvalues",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "section-1",
+            "state": "forward-002",
+            "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+            "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Scroll-triggered once-entered opacity",
+            "selectors": [
+              "#visit-next article p"
+            ],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
@@ -1498,35 +2222,17 @@
             "route": "/contact",
             "dossier": "art-direction/references/deep/royal/contact/dossier.md",
             "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
             "landmark": "section-0",
             "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
           },
           "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
-          },
-          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
-          "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
-        },
-        {
-          "id": "new-scripture",
-          "reference": {
-            "template": "lou",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "section-2",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-          },
-          "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
@@ -1614,7 +2320,8 @@
       "heading_arrival": {
         "unit": "block",
         "vector": "hold",
-        "driver": "native-scroll"
+        "driver": "native-scroll",
+        "source_reason": "Slab Brief reading geometry supports continuous semantic scripture; stable urgent request. Lou per-character essay mechanism intentionally not claimed."
       },
       "scenes": [
         {
@@ -1624,43 +2331,17 @@
             "route": "/contact",
             "dossier": "art-direction/references/deep/royal/contact/dossier.md",
             "composition": "Left quiet heading and actual source photograph; right complete explanation and stable request action.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "sequence": "Hold / native document progression. Slab Brief reading geometry supports continuous semantic scripture; stable urgent request. Lou per-character essay mechanism intentionally not claimed.",
             "landmark": "section-0"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
-        },
-        {
-          "id": "care-comfort",
-          "reference": {
-            "template": "lou",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "landmark": "section-2",
-            "composition": "Offset large reading passage; small contextual label left and substantial multi-line text right.",
-            "sequence": "Observed scroll-triggered timed text clarity; reverse scroll does not scrub or replay."
-          },
-          "contract": {
-            "mechanism": "Scroll-triggered timed first-entry clarity, whole semantic quote",
-            "values": {
-              "opacity": [
-                0.7,
-                1
-              ],
-              "duration_ms": 1400,
-              "estimated": true,
-              "reverse": "remains readable after entry",
-              "body_split": false
-            }
-          },
-          "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         }
       ]
     },
@@ -1742,7 +2423,8 @@
       "heading_arrival": {
         "unit": "block",
         "vector": "hold",
-        "driver": "native-scroll"
+        "driver": "native-scroll",
+        "source_reason": "Slab archive dossier explicitly distinguishes autonomous tile media from normal outer-grid document progression. No evidence supports timed outer tile entry."
       },
       "scenes": [
         {
@@ -1752,18 +2434,18 @@
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
             "composition": "Compact archive masthead and one dominant original image, no fake latest label.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "sequence": "Hold / native document progression. Slab archive dossier explicitly distinguishes autonomous tile media from normal outer-grid document progression. No evidence supports timed outer tile entry.",
             "state": "opening",
             "landmark": "hero"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "archive-selection",
@@ -1772,19 +2454,19 @@
             "route": "/archive",
             "dossier": "art-direction/references/deep/slab/archive-verified/dossier.md",
             "composition": "Unequal artwork field preserves everycover ratio; associated titles dates speakers stay adjacent.",
-            "sequence": "Native-flow masonry with independently looping tile media; no measured outer grid scrub. Navigation two-span hover roll observed; exact timings unknown.",
+            "sequence": "Hold / native document progression. Slab archive dossier explicitly distinguishes autonomous tile media from normal outer-grid document progression. No evidence supports timed outer tile entry.",
             "state": "opening-settled",
             "landmark": "archive-grid",
             "manifest": "art-direction/references/deep/slab/archive-verified/manifest.json"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "archive-library",
@@ -1793,32 +2475,32 @@
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
             "composition": "Full provider library presented as readable stable destination, quieter information band.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "sequence": "Hold / native document progression. Slab archive dossier explicitly distinguishes autonomous tile media from normal outer-grid document progression. No evidence supports timed outer tile entry.",
             "state": "forward-002",
             "landmark": "brief"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         }
       ]
     },
     {
       "route": "serve",
       "signature": {
-        "id": "serve-reframe",
-        "dominant_verb": "Reframe",
-        "structural_idea": "One authentic act of service as the entire visual argument",
+        "id": "serve-repaired-composition",
+        "dominant_verb": "Read",
+        "structural_idea": "Live DOM correction replaces the false narrow-right dossier assumption: reading field x280/w880 at1440; x104/w816 at1024. Phone remains full-width readable. Scripture remains part of the same essay.",
         "axes": {
-          "unit": "content-specific block/image",
-          "vector": "Hold pending observed scene contract",
-          "driver": "native scroll",
-          "frame": "route-owned composition"
+          "unit": "intact editorial unit",
+          "vector": "clarity without translation",
+          "driver": "Scroll-triggered once, native reading",
+          "frame": "native document flow"
         }
       },
       "heading_arrival": {
@@ -1837,7 +2519,18 @@
             "state": "section-cta",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "manifest": "art-direction/references/deep/royal/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-cta.png",
+            "states": {
+              "desktop": "section-cta",
+              "tablet": "section-cta",
+              "phone": "section-cta"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-cta.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-cta.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-cta.png"
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -1849,25 +2542,21 @@
             "template": "lou",
             "route": "/about",
             "landmark": "section-2",
-            "state": "section-section-2",
+            "state": "forward-002",
             "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
             "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
-          },
-          "contract": {
-            "mechanism": "Undocumented"
-          }
-        },
-        {
-          "id": "serve-scripture",
-          "reference": {
-            "template": "lou",
-            "route": "/about",
-            "landmark": "section-3",
-            "state": "section-section-3",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+            "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+            "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/forward-002.png",
+            "states": {
+              "desktop": "forward-002",
+              "tablet": "forward-002",
+              "phone": "forward-002"
+            },
+            "comparison_images": {
+              "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/forward-002.png",
+              "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/tablet/forward-002.png",
+              "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/phone/forward-002.png"
+            }
           },
           "contract": {
             "mechanism": "Undocumented"
@@ -1883,7 +2572,8 @@
       "heading_arrival": {
         "unit": "block",
         "vector": "hold",
-        "driver": "native-scroll"
+        "driver": "native-scroll",
+        "source_reason": "Message media uses native progression; provider controls and category controls Hold. Data-driven results are real task changes, not decorative animations."
       },
       "scenes": [
         {
@@ -1892,19 +2582,19 @@
             "template": "slab",
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-            "composition": "Date andspeaker align opposite current message title in editorialbrief.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
             "landmark": "hero",
-            "state": "opening"
+            "state": "opening",
+            "composition": "Wide authentic worship image first, modest message title left and factual speaker/date plus watch action right below.",
+            "sequence": "Hold / native document progression. Message media uses native progression; provider controls and category controls Hold. Data-driven results are real task changes, not decorative animations."
           },
           "contract": {
             "mechanism": "Hold",
             "values": {
-              "reason": "Playback and category controls remain stable. Native content change supports library task; no invented Slab animation."
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "message-player",
@@ -1912,19 +2602,19 @@
             "template": "slab",
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-            "composition": "Playback holds still on lightground; controls never animated.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-            "landmark": "brief",
-            "state": "forward-002"
+            "landmark": "hero",
+            "state": "opening",
+            "composition": "Full-width player first; compact message label left and playback context/direct fallback right below.",
+            "sequence": "Hold / native document progression. Message media uses native progression; provider controls and category controls Hold. Data-driven results are real task changes, not decorative animations."
           },
           "contract": {
             "mechanism": "Hold",
             "values": {
-              "reason": "Playback and category controls remain stable. Native content change supports library task; no invented Slab animation."
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "message-categories",
@@ -1932,10 +2622,10 @@
             "template": "slab",
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-            "composition": "Library categories become intentional typographic index to real providerviews.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
             "landmark": "brief",
-            "state": "forward-002"
+            "state": "forward-002",
+            "composition": "Single left library label with one right vertical reading/control column; intro, category index, native selectors, results and live-library fallback.",
+            "sequence": "Hold / native document progression. Message media uses native progression; provider controls and category controls Hold. Data-driven results are real task changes, not decorative animations."
           },
           "contract": {
             "mechanism": "Hold",
@@ -1944,7 +2634,7 @@
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         }
       ]
     },
@@ -1956,7 +2646,8 @@
       "heading_arrival": {
         "unit": "block",
         "vector": "hold",
-        "driver": "native-scroll"
+        "driver": "native-scroll",
+        "source_reason": "Royal photographic invitation observed without pin; centered scene supplies visual event. Exact intro timing unavailable, so no invented 750ms arrival. Player and direct service control Hold."
       },
       "scenes": [
         {
@@ -1966,55 +2657,57 @@
             "route": "/about",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "composition": "Royal photographic CTA relationship: invitation and action over documentary scene. Expands toopeningwithactualKLCCworshipphoto; notRoyalnormalflowhero.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "sequence": "Hold / native document progression. Royal photographic invitation observed without pin; centered scene supplies visual event. Exact intro timing unavailable, so no invented 750ms arrival. Player and direct service control Hold.",
             "landmark": "cta"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "live-player",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Stable widescreen player on cream with direct provider alternative.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-            "landmark": "ourvalues"
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "hero",
+            "state": "opening",
+            "composition": "Broad functional media first; title/direct service fallback left and bounded playback context right below. All controls Hold.",
+            "sequence": "Hold / native document progression. Royal photographic invitation observed without pin; centered scene supplies visual event. Exact intro timing unavailable, so no invented 750ms arrival. Player and direct service control Hold."
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         },
         {
           "id": "watch-live-section-2",
           "reference": {
             "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Stable widescreen player on cream with direct provider alternative.",
-            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-            "landmark": "ourvalues"
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "landmark": "section-0",
+            "state": "opening-settled",
+            "composition": "Compact invitation left with stable alternate contact/navigation channels right; phone stacks.",
+            "sequence": "Hold / native document progression. Royal photographic invitation observed without pin; centered scene supplies visual event. Exact intro timing unavailable, so no invented 750ms arrival. Player and direct service control Hold."
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
-          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+          "mobile": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions."
         }
       ]
     },
@@ -2040,9 +2733,9 @@
             "landmark": "section-0"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Verified source module contains no animated sequence; safety, legal or recovery controls remain immediately readable."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
@@ -2060,9 +2753,9 @@
             "state": "forward-002"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Verified source module contains no animated sequence; safety, legal or recovery controls remain immediately readable."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
@@ -2079,9 +2772,9 @@
             "landmark": "section-1"
           },
           "contract": {
-            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "mechanism": "Hold",
             "values": {
-              "estimated": true
+              "reason": "Verified source module contains no animated sequence; safety, legal or recovery controls remain immediately readable."
             }
           },
           "reduced_motion": "All HTML visible, no pin or focusblur.",
@@ -2116,35 +2809,17 @@
             "route": "/about",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
             "landmark": "hero",
             "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
-          },
-          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
-          "mobile": "Keep each date, event name, time and venue together. Preserve earlier dates in a clearly historical group."
-        },
-        {
-          "id": "women-photo",
-          "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "hero",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-          },
-          "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Keep each date, event name, time and venue together. Preserve earlier dates in a clearly historical group."
@@ -2155,37 +2830,19 @@
             "template": "slab",
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-            "composition": "Slab project metadata: left project identity, aligned right metadata and ruled information hierarchy. See scoped dossier for source-specific capture limitations.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "section-0",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance.",
-            "state": "opening"
+            "landmark": "section-1",
+            "state": "forward-002",
+            "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+            "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
           },
           "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
-          },
-          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
-          "mobile": "Keep each date, event name, time and venue together. Preserve earlier dates in a clearly historical group."
-        },
-        {
-          "id": "women-scripture",
-          "reference": {
-            "template": "lou",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "section-2",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-          },
-          "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Keep each date, event name, time and venue together. Preserve earlier dates in a clearly historical group."
@@ -2215,19 +2872,20 @@
         {
           "id": "ya-intro",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
             "landmark": "hero",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "state": "opening",
+            "composition": "Original artwork first then left identity and right description/metadata; native stacked phone."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row."
@@ -2238,17 +2896,20 @@
             "template": "slab",
             "route": "/projects/hydra",
             "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
-            "composition": "Slab project metadata: left project identity, aligned right metadata and ruled information hierarchy. See scoped dossier for source-specific capture limitations.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "section-0",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance.",
-            "state": "opening"
+            "landmark": "hero",
+            "state": "opening",
+            "composition": "Wide intact artwork before left identity and right factual metadata; stacks on phone.",
+            "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Scroll-triggered once-entered opacity",
+            "selectors": [
+              "#ya-events article p:not(.eyebrow)"
+            ],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row."
@@ -2256,39 +2917,20 @@
         {
           "id": "ya-community",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "hero",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "section-3",
+            "state": "forward-007",
+            "composition": "Wide image-only artwork sequence, native flow; actual congregation caption retained."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
-          },
-          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
-          "mobile": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row."
-        },
-        {
-          "id": "young-adults-scripture",
-          "reference": {
-            "template": "lou",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "section-2",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-          },
-          "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "implementation_values": "No route-owned motion",
+            "source_settings": "Unknown; no timing reconstruction claimed",
+            "heading": "No heading",
+            "reverse": "Native document flow"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row."
@@ -2322,35 +2964,17 @@
             "route": "/about",
             "dossier": "art-direction/references/deep/royal/about/dossier.md",
             "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
             "landmark": "hero",
             "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
-          },
-          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
-          "mobile": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible."
-        },
-        {
-          "id": "elevate-service",
-          "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "hero",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-          },
-          "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible."
@@ -2358,39 +2982,24 @@
         {
           "id": "age-paths",
           "reference": {
-            "template": "royal",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/royal/about/dossier.md",
-            "composition": "Royal values: three tall photographs with compact supporting copy; no rounded card boxes.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "ourvalues",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "landmark": "section-1",
+            "state": "forward-002",
+            "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+            "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
           },
           "contract": {
-            "mechanism": "Scroll-triggered bounded image/block arrival",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
-          },
-          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
-          "mobile": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible."
-        },
-        {
-          "id": "youth-scripture",
-          "reference": {
-            "template": "lou",
-            "route": "/about",
-            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-            "landmark": "section-2",
-            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
-          },
-          "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Scroll-triggered once-entered opacity",
+            "selectors": [
+              "#age-paths article p"
+            ],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible."
@@ -2402,15 +3011,17 @@
             "route": "/contact",
             "dossier": "art-direction/references/deep/royal/contact/dossier.md",
             "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
-            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
             "landmark": "section-0",
             "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
           },
           "contract": {
-            "mechanism": "Hold",
-            "source_settings": "unknown; no invented Framer values",
-            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-            "heading": "static readable HTML; no universal rise"
+            "mechanism": "Hold in native document flow",
+            "selectors": [],
+            "source_settings": "Exact editor settings unknown",
+            "implementation_values": "No route-owned motion on this section",
+            "heading": "Static readable HTML",
+            "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
           },
           "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
           "mobile": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible."

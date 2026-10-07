@@ -1,0 +1,5602 @@
+{
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "dpr": 1,
+  "reducedMotion": "no-preference",
+  "states": [
+    {
+      "id": "opening",
+      "capturedAt": "2026-10-07T08:59:51.239Z",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/repair-editorial/courses/desktop/opening.png",
+      "settled": true,
+      "settleAttempts": 2,
+      "settleMs": 432,
+      "landmark": "opening",
+      "progress": 0,
+      "url": "http://localhost:4201/courses/?motion-inspect=1",
+      "textBoxes": [
+        {
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 28.9375,
+          "height": 21.6875
+        },
+        {
+          "x": 1058.84375,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 55.046875,
+          "height": 21.6875
+        },
+        {
+          "x": 1145.890625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 41.3125,
+          "height": 21.6875
+        },
+        {
+          "x": 1219.203125,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 29.78125,
+          "height": 21.6875
+        },
+        {
+          "x": 1312.984375,
+          "y": 23.15625,
+          "top": 23.15625,
+          "width": 83.828125,
+          "height": 45.6875
+        },
+        {
+          "x": 43.1875,
+          "y": 647,
+          "top": 647,
+          "width": 553.8125,
+          "height": 66.625
+        },
+        {
+          "x": 43.1875,
+          "y": 735.625,
+          "top": 735.625,
+          "width": 615.90625,
+          "height": 102.328125
+        },
+        {
+          "x": 780.90625,
+          "y": 647,
+          "top": 647,
+          "width": 520.796875,
+          "height": 27.5
+        },
+        {
+          "x": 780.90625,
+          "y": 698.5,
+          "top": 698.5,
+          "width": 520.796875,
+          "height": 139.453125
+        }
+      ],
+      "logoBoxes": [
+        {
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48
+        },
+        {
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48
+        }
+      ],
+      "scrollY": 0,
+      "maxScroll": 3367,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "sections": [
+        {
+          "index": 0,
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "landmark": "section-0",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 92
+          },
+          "background": {
+            "color": "rgba(16, 28, 42, 0.96)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 3,
+          "stickyFixed": [
+            {
+              "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+              "position": "fixed",
+              "box": {
+                "x": 0,
+                "y": 0,
+                "top": 0,
+                "width": 1440,
+                "height": 92
+              }
+            }
+          ],
+          "font": {
+            "size": "18px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "27.9px"
+          },
+          "excerpt": "VisitConnectWatchGiveMenu",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 1,
+          "key": "#courses-opening",
+          "landmark": "courses-opening",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 917.953125
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "50px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "700",
+            "letterSpacing": "-1.75px",
+            "lineHeight": "52.5px"
+          },
+          "excerpt": "Wednesday NightDiscipleshipWednesday Nights at KLCC are for Discipleship!Looking for Bible-centered classes to help you grow in your faith and apply God's wisdom to everyday life? Our Wednesday night discipleship courses are a place to learn, connect, and grow in your walk with God. Go deeper. Grow stronger. Take your next step.",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 2,
+          "key": "#courses-fall",
+          "landmark": "courses-fall",
+          "box": {
+            "x": 0,
+            "y": 917.953125,
+            "top": 917.953125,
+            "width": 1440,
+            "height": 1272.796875
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "30px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.05px",
+            "lineHeight": "31.5px"
+          },
+          "excerpt": "Fall CoursesSeptember 23 thru December 9Watch the course introductionAlpha 9/23 thru 12/9Alpha is a place to explore life's big questions: What is my purpose? What happens when I die? Why is there suffering? Over 12 weeks, people come together to share thoughts, hear different perspectives, and have honest conversations in a judgment-free environment.Register for AlphaApologetics 9/23-10/28Why believe in God? Can the Bible be trusted? What do we do with questions about suffering? This course explores some of the biggest questions about Christianity and helps you build confidence in what you be",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 3,
+          "key": "#courses-seasons",
+          "landmark": "courses-seasons",
+          "box": {
+            "x": 0,
+            "y": 2190.75,
+            "top": 2190.75,
+            "width": 1440,
+            "height": 917.0625
+          },
+          "background": {
+            "color": "rgb(245, 243, 237)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "36px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.26px",
+            "lineHeight": "37.8px"
+          },
+          "excerpt": "Winter CoursesBible StudyHow to Study the Bible is an 8-week, hands-on course that helps you understand and apply Scripture in daily life. You’ll learn how to observe, interpret, and live out God’s Word through engaging videos, group discussions, and weekly homework. Whether you're just starting or want to grow deeper, this class will build your confidence in studying the Bible.Spring CoursesPrayer CourseExplore the meaning and power of the Lord’s Prayer in this 8-week course. Through engaging discussion and uplifting teaching, you’ll grow closer to God and strengthen your faith. Whether you'r",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 4,
+          "key": "#courses-marriage",
+          "landmark": "courses-marriage",
+          "box": {
+            "x": 0,
+            "y": 3107.8125,
+            "top": 3107.8125,
+            "width": 1440,
+            "height": 419.75
+          },
+          "background": {
+            "color": "rgb(185, 206, 228)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "46px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "600",
+            "letterSpacing": "-1.61px",
+            "lineHeight": "48.3px"
+          },
+          "excerpt": "Other CoursesMarriageThe Marriage Course is a 7-session series designed to help couples strengthen their relationship—whether you've been married for months or decades, and whether things are going well or you're facing challenges. You'll learn practical skills like better communication, resolving conflict, understanding each other’s needs, and building deeper intimacy.On breakRegistration closed",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 5,
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+          "landmark": "section-5",
+          "box": {
+            "x": 0,
+            "y": 3527.5625,
+            "top": 3527.5625,
+            "width": 1440,
+            "height": 739.640625
+          },
+          "background": {
+            "color": "rgb(16, 28, 42)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "161.28px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "-8.064px",
+            "lineHeight": "161.28px"
+          },
+          "excerpt": "Join us this Sunday10 AMThe Cathedral1455 Naugatuck AvenueMilford, ConnecticutPlan your visitStay connectedWatch livePrevious messagesCalendarGet the appWe’re hereRequest prayerPastoral care203 877 5464info@klcc.usKINGDOM LIFE.Kingdom Life Christian ChurchSite informationReduce motionBack to top",
+          "mediaCount": 0,
+          "fullBleed": true
+        }
+      ],
+      "mergedSections": [
+        {
+          "top": 0,
+          "bottom": 917.953125,
+          "members": [
+            "section-0",
+            "courses-opening"
+          ]
+        },
+        {
+          "top": 917.953125,
+          "bottom": 2190.75,
+          "members": [
+            "courses-fall"
+          ]
+        },
+        {
+          "top": 2190.75,
+          "bottom": 3107.8125,
+          "members": [
+            "courses-seasons"
+          ]
+        },
+        {
+          "top": 3107.8125,
+          "bottom": 3527.5625,
+          "members": [
+            "courses-marriage"
+          ]
+        },
+        {
+          "top": 3527.5625,
+          "bottom": 4267.203125,
+          "members": [
+            "section-5"
+          ]
+        }
+      ],
+      "motion": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "x": 20,
+          "y": -100,
+          "top": -100,
+          "width": 153.96875,
+          "height": 55.890625,
+          "position": "fixed",
+          "stickyTop": "-100px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 92,
+          "position": "fixed",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)",
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)",
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 251.078125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(1)",
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 28.9375,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(2)",
+          "x": 1058.84375,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 55.046875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(3)",
+          "x": 1145.890625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 41.3125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(4)",
+          "x": 1219.203125,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 29.78125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)",
+          "x": 1312.984375,
+          "y": 23.15625,
+          "top": 23.15625,
+          "width": 83.828125,
+          "height": 45.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)>span:nth-child(1)",
+          "x": 1374.8125,
+          "y": 41.5,
+          "top": 41.5,
+          "width": 22,
+          "height": 9,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#main",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 3527.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#courses-opening",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 917.953125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>figure:nth-child(1)",
+          "x": 43.1875,
+          "y": 118,
+          "top": 118,
+          "width": 1353.625,
+          "height": 495,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>figure:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 118,
+          "top": 118,
+          "width": 1353.625,
+          "height": 495,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>p:nth-child(2)",
+          "x": 43.1875,
+          "y": 647,
+          "top": 647,
+          "width": 553.8125,
+          "height": 66.625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>h1:nth-child(3)",
+          "x": 43.1875,
+          "y": 735.625,
+          "top": 735.625,
+          "width": 615.90625,
+          "height": 102.328125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(4)",
+          "x": 780.90625,
+          "y": 647,
+          "top": 647,
+          "width": 520.796875,
+          "height": 190.953125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(4)>h2:nth-child(1)",
+          "x": 780.90625,
+          "y": 647,
+          "top": 647,
+          "width": 520.796875,
+          "height": 27.5,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(4)>p:nth-child(2)",
+          "x": 780.90625,
+          "y": 698.5,
+          "top": 698.5,
+          "width": 520.796875,
+          "height": 139.453125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "#courses-fall",
+          "x": 0,
+          "y": 917.953125,
+          "top": 917.953125,
+          "width": 1440,
+          "height": 1272.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)",
+          "x": 43.1875,
+          "y": 987.953125,
+          "top": 987.953125,
+          "width": 317.015625,
+          "height": 1072.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)>h2:nth-child(1)",
+          "x": 43.1875,
+          "y": 987.953125,
+          "top": 987.953125,
+          "width": 317.015625,
+          "height": 31.5,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)>p:nth-child(2)",
+          "x": 43.1875,
+          "y": 1037.453125,
+          "top": 1037.453125,
+          "width": 317.015625,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)>a:nth-child(3)",
+          "x": 43.1875,
+          "y": 1086.25,
+          "top": 1086.25,
+          "width": 210.4375,
+          "height": 44.25,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)",
+          "x": 716.921875,
+          "y": 987.953125,
+          "top": 987.953125,
+          "width": 679.890625,
+          "height": 1072.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "x": 716.921875,
+          "y": 987.953125,
+          "top": 987.953125,
+          "width": 679.890625,
+          "height": 286.046875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": 987.953125,
+          "top": 987.953125,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
+          "x": 716.921875,
+          "y": 1036.75,
+          "top": 1036.75,
+          "width": 498.15625,
+          "height": 139.453125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>a:nth-child(3)",
+          "x": 716.921875,
+          "y": 1190.203125,
+          "top": 1190.203125,
+          "width": 133.53125,
+          "height": 45.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "x": 716.921875,
+          "y": 1274,
+          "top": 1274,
+          "width": 679.890625,
+          "height": 227.359375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": 1303,
+          "top": 1303,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
+          "x": 716.921875,
+          "y": 1351.796875,
+          "top": 1351.796875,
+          "width": 498.15625,
+          "height": 111.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "x": 716.921875,
+          "y": 1501.359375,
+          "top": 1501.359375,
+          "width": 679.890625,
+          "height": 227.359375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": 1530.359375,
+          "top": 1530.359375,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>p:nth-child(2)",
+          "x": 716.921875,
+          "y": 1579.15625,
+          "top": 1579.15625,
+          "width": 498.15625,
+          "height": 111.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "x": 716.921875,
+          "y": 1728.71875,
+          "top": 1728.71875,
+          "width": 679.890625,
+          "height": 283.140625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": 1757.71875,
+          "top": 1757.71875,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        }
+      ],
+      "header": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 92
+          },
+          "padding": "22px 43.2px"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)",
+          "box": {
+            "x": 43.1875,
+            "y": 987.953125,
+            "top": 987.953125,
+            "width": 317.015625,
+            "height": 1072.796875
+          },
+          "padding": "0px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content",
+          "href": "http://localhost:4201/courses/?motion-inspect=1#main"
+        },
+        {
+          "text": "",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Connect",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Watch",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Give",
+          "href": "http://localhost:4201/give/"
+        },
+        {
+          "text": "Kingdom Life",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Your first Sunday",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Our story",
+          "href": "http://localhost:4201/our-story/"
+        },
+        {
+          "text": "Our leadership",
+          "href": "http://localhost:4201/leadership/"
+        },
+        {
+          "text": "Mission & vision",
+          "href": "http://localhost:4201/mission/"
+        },
+        {
+          "text": "What we believe",
+          "href": "http://localhost:4201/beliefs/"
+        },
+        {
+          "text": "Kids",
+          "href": "http://localhost:4201/kids/"
+        },
+        {
+          "text": "Youth",
+          "href": "http://localhost:4201/youth/"
+        },
+        {
+          "text": "Young adults",
+          "href": "http://localhost:4201/young-adults/"
+        },
+        {
+          "text": "Women",
+          "href": "http://localhost:4201/women/"
+        },
+        {
+          "text": "Men",
+          "href": "http://localhost:4201/men/"
+        },
+        {
+          "text": "Life Groups",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "I believe",
+          "href": "http://localhost:4201/believe/"
+        },
+        {
+          "text": "Baptism",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Courses",
+          "href": "http://localhost:4201/courses/"
+        },
+        {
+          "text": "Membership",
+          "href": "http://localhost:4201/membership/"
+        },
+        {
+          "text": "Serve",
+          "href": "http://localhost:4201/serve/"
+        },
+        {
+          "text": "Prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Media library",
+          "href": "http://localhost:4201/subsplash-media/"
+        },
+        {
+          "text": "Our app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Weather updates",
+          "href": "http://localhost:4201/weather-procedures/"
+        },
+        {
+          "text": "Easter archive",
+          "href": "http://localhost:4201/easter/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "Watch the course introduction",
+          "href": "https://klcc-my.sharepoint.com/:v:/g/personal/bkellum_klcc_us/IQBMaeVSUbP6S6nZVQ95OVZ9AeUIv3ZvdOxBbIF6ZE5VVqQ?e=YM01f3"
+        },
+        {
+          "text": "Register for Alpha",
+          "href": "https://brushfire.com/klcc/alpha/632963/details"
+        },
+        {
+          "text": "Register for discipleship courses",
+          "href": "https://brushfire.com/klcc/discipleship/637020/details"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Watch live",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Previous messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Get the app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Request prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "info@klcc.us",
+          "href": "mailto:info@klcc.us"
+        },
+        {
+          "text": "Site information",
+          "href": "http://localhost:4201/legal/"
+        },
+        {
+          "text": "Back to top",
+          "href": "http://localhost:4201/courses/?motion-inspect=1#main"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "id": "footer",
+      "capturedAt": "2026-10-07T08:59:52.491Z",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/repair-editorial/courses/desktop/footer.png",
+      "settled": true,
+      "settleAttempts": 2,
+      "settleMs": 303,
+      "landmark": "footer",
+      "progress": 1,
+      "url": "http://localhost:4201/courses/?motion-inspect=1",
+      "textBoxes": [
+        {
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 3392.15625,
+          "width": 28.9375,
+          "height": 21.6875
+        },
+        {
+          "x": 1058.84375,
+          "y": 25.15625,
+          "top": 3392.15625,
+          "width": 55.046875,
+          "height": 21.6875
+        },
+        {
+          "x": 1145.890625,
+          "y": 25.15625,
+          "top": 3392.15625,
+          "width": 41.3125,
+          "height": 21.6875
+        },
+        {
+          "x": 1219.203125,
+          "y": 25.15625,
+          "top": 3392.15625,
+          "width": 29.78125,
+          "height": 21.6875
+        },
+        {
+          "x": 1312.984375,
+          "y": 13.15625,
+          "top": 3380.15625,
+          "width": 83.828125,
+          "height": 45.6875
+        },
+        {
+          "x": 716.921875,
+          "y": -169.1875,
+          "top": 3197.8125,
+          "width": 679.890625,
+          "height": 200.0625
+        },
+        {
+          "x": 43.1875,
+          "y": -10.984375,
+          "top": 3356.015625,
+          "width": 634.03125,
+          "height": 41.859375
+        },
+        {
+          "x": 43.1875,
+          "y": 48.875,
+          "top": 3415.875,
+          "width": 634.03125,
+          "height": 21.6875
+        },
+        {
+          "x": 43.1875,
+          "y": 231.5625,
+          "top": 3598.5625,
+          "width": 636.8125,
+          "height": 22.390625
+        },
+        {
+          "x": 43.1875,
+          "y": 313.953125,
+          "top": 3680.953125,
+          "width": 636.8125,
+          "height": 50
+        },
+        {
+          "x": 43.1875,
+          "y": 383.140625,
+          "top": 3750.140625,
+          "width": 636.8125,
+          "height": 74.390625
+        },
+        {
+          "x": 43.1875,
+          "y": 479.53125,
+          "top": 3846.53125,
+          "width": 104.375,
+          "height": 45.796875
+        },
+        {
+          "x": 720,
+          "y": 231.5625,
+          "top": 3598.5625,
+          "width": 318.40625,
+          "height": 22.390625
+        },
+        {
+          "x": 720,
+          "y": 277.953125,
+          "top": 3644.953125,
+          "width": 76.5,
+          "height": 24.796875
+        },
+        {
+          "x": 720,
+          "y": 312.75,
+          "top": 3679.75,
+          "width": 140.65625,
+          "height": 24.796875
+        },
+        {
+          "x": 720,
+          "y": 347.546875,
+          "top": 3714.546875,
+          "width": 66.28125,
+          "height": 24.796875
+        },
+        {
+          "x": 720,
+          "y": 382.34375,
+          "top": 3749.34375,
+          "width": 87.1875,
+          "height": 24.796875
+        },
+        {
+          "x": 1078.40625,
+          "y": 231.5625,
+          "top": 3598.5625,
+          "width": 318.40625,
+          "height": 22.390625
+        },
+        {
+          "x": 1078.40625,
+          "y": 277.953125,
+          "top": 3644.953125,
+          "width": 111,
+          "height": 24.796875
+        },
+        {
+          "x": 1078.40625,
+          "y": 312.75,
+          "top": 3679.75,
+          "width": 94.578125,
+          "height": 24.796875
+        },
+        {
+          "x": 1078.40625,
+          "y": 347.546875,
+          "top": 3714.546875,
+          "width": 106.65625,
+          "height": 24.796875
+        },
+        {
+          "x": 1078.40625,
+          "y": 382.34375,
+          "top": 3749.34375,
+          "width": 92.9375,
+          "height": 24.796875
+        },
+        {
+          "x": 43.1875,
+          "y": 635.328125,
+          "top": 4002.328125,
+          "width": 1353.625,
+          "height": 161.28125
+        },
+        {
+          "x": 43.1875,
+          "y": 853.609375,
+          "top": 4220.609375,
+          "width": 169.390625,
+          "height": 18.59375
+        },
+        {
+          "x": 1093.609375,
+          "y": 853.609375,
+          "top": 4220.609375,
+          "width": 87.609375,
+          "height": 18.59375
+        },
+        {
+          "x": 1207.21875,
+          "y": 845.609375,
+          "top": 4212.609375,
+          "width": 99.84375,
+          "height": 34.59375
+        },
+        {
+          "x": 1333.0625,
+          "y": 853.609375,
+          "top": 4220.609375,
+          "width": 63.75,
+          "height": 18.59375
+        }
+      ],
+      "logoBoxes": [
+        {
+          "x": 43.1875,
+          "y": 12,
+          "top": 3379,
+          "width": 118,
+          "height": 48
+        },
+        {
+          "x": 43.1875,
+          "y": 12,
+          "top": 3379,
+          "width": 118,
+          "height": 48
+        }
+      ],
+      "scrollY": 3367,
+      "maxScroll": 3367,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "sections": [
+        {
+          "index": 0,
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "landmark": "section-0",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 3367,
+            "width": 1440,
+            "height": 72
+          },
+          "background": {
+            "color": "rgba(16, 28, 42, 0.96)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 3,
+          "stickyFixed": [
+            {
+              "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+              "position": "fixed",
+              "box": {
+                "x": 0,
+                "y": 0,
+                "top": 3367,
+                "width": 1440,
+                "height": 72
+              }
+            }
+          ],
+          "font": {
+            "size": "18px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "27.9px"
+          },
+          "excerpt": "VisitConnectWatchGiveMenu",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 1,
+          "key": "#courses-opening",
+          "landmark": "courses-opening",
+          "box": {
+            "x": 0,
+            "y": -3367,
+            "top": 0,
+            "width": 1440,
+            "height": 917.953125
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "50px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "700",
+            "letterSpacing": "-1.75px",
+            "lineHeight": "52.5px"
+          },
+          "excerpt": "Wednesday NightDiscipleshipWednesday Nights at KLCC are for Discipleship!Looking for Bible-centered classes to help you grow in your faith and apply God's wisdom to everyday life? Our Wednesday night discipleship courses are a place to learn, connect, and grow in your walk with God. Go deeper. Grow stronger. Take your next step.",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 2,
+          "key": "#courses-fall",
+          "landmark": "courses-fall",
+          "box": {
+            "x": 0,
+            "y": -2449.046875,
+            "top": 917.953125,
+            "width": 1440,
+            "height": 1272.796875
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "30px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.05px",
+            "lineHeight": "31.5px"
+          },
+          "excerpt": "Fall CoursesSeptember 23 thru December 9Watch the course introductionAlpha 9/23 thru 12/9Alpha is a place to explore life's big questions: What is my purpose? What happens when I die? Why is there suffering? Over 12 weeks, people come together to share thoughts, hear different perspectives, and have honest conversations in a judgment-free environment.Register for AlphaApologetics 9/23-10/28Why believe in God? Can the Bible be trusted? What do we do with questions about suffering? This course explores some of the biggest questions about Christianity and helps you build confidence in what you be",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 3,
+          "key": "#courses-seasons",
+          "landmark": "courses-seasons",
+          "box": {
+            "x": 0,
+            "y": -1176.25,
+            "top": 2190.75,
+            "width": 1440,
+            "height": 917.0625
+          },
+          "background": {
+            "color": "rgb(245, 243, 237)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "36px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.26px",
+            "lineHeight": "37.8px"
+          },
+          "excerpt": "Winter CoursesBible StudyHow to Study the Bible is an 8-week, hands-on course that helps you understand and apply Scripture in daily life. You’ll learn how to observe, interpret, and live out God’s Word through engaging videos, group discussions, and weekly homework. Whether you're just starting or want to grow deeper, this class will build your confidence in studying the Bible.Spring CoursesPrayer CourseExplore the meaning and power of the Lord’s Prayer in this 8-week course. Through engaging discussion and uplifting teaching, you’ll grow closer to God and strengthen your faith. Whether you'r",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 4,
+          "key": "#courses-marriage",
+          "landmark": "courses-marriage",
+          "box": {
+            "x": 0,
+            "y": -259.1875,
+            "top": 3107.8125,
+            "width": 1440,
+            "height": 419.75
+          },
+          "background": {
+            "color": "rgb(185, 206, 228)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "46px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "600",
+            "letterSpacing": "-1.61px",
+            "lineHeight": "48.3px"
+          },
+          "excerpt": "Other CoursesMarriageThe Marriage Course is a 7-session series designed to help couples strengthen their relationship—whether you've been married for months or decades, and whether things are going well or you're facing challenges. You'll learn practical skills like better communication, resolving conflict, understanding each other’s needs, and building deeper intimacy.On breakRegistration closed",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 5,
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+          "landmark": "section-5",
+          "box": {
+            "x": 0,
+            "y": 160.5625,
+            "top": 3527.5625,
+            "width": 1440,
+            "height": 739.640625
+          },
+          "background": {
+            "color": "rgb(16, 28, 42)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "161.28px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "-8.064px",
+            "lineHeight": "161.28px"
+          },
+          "excerpt": "Join us this Sunday10 AMThe Cathedral1455 Naugatuck AvenueMilford, ConnecticutPlan your visitStay connectedWatch livePrevious messagesCalendarGet the appWe’re hereRequest prayerPastoral care203 877 5464info@klcc.usKINGDOM LIFE.Kingdom Life Christian ChurchSite informationReduce motionBack to top",
+          "mediaCount": 0,
+          "fullBleed": true
+        }
+      ],
+      "mergedSections": [
+        {
+          "top": 0,
+          "bottom": 917.953125,
+          "members": [
+            "courses-opening"
+          ]
+        },
+        {
+          "top": 917.953125,
+          "bottom": 2190.75,
+          "members": [
+            "courses-fall"
+          ]
+        },
+        {
+          "top": 2190.75,
+          "bottom": 3107.8125,
+          "members": [
+            "courses-seasons"
+          ]
+        },
+        {
+          "top": 3107.8125,
+          "bottom": 3527.5625,
+          "members": [
+            "courses-marriage",
+            "section-0"
+          ]
+        },
+        {
+          "top": 3527.5625,
+          "bottom": 4267.203125,
+          "members": [
+            "section-5"
+          ]
+        }
+      ],
+      "motion": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "x": 20,
+          "y": -100,
+          "top": 3267,
+          "width": 153.96875,
+          "height": 55.890625,
+          "position": "fixed",
+          "stickyTop": "-100px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "x": 0,
+          "y": 0,
+          "top": 3367,
+          "width": 1440,
+          "height": 72,
+          "position": "fixed",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)",
+          "x": 43.1875,
+          "y": 12,
+          "top": 3379,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 12,
+          "top": 3379,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)",
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 3392.15625,
+          "width": 251.078125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(1)",
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 3392.15625,
+          "width": 28.9375,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(2)",
+          "x": 1058.84375,
+          "y": 25.15625,
+          "top": 3392.15625,
+          "width": 55.046875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(3)",
+          "x": 1145.890625,
+          "y": 25.15625,
+          "top": 3392.15625,
+          "width": 41.3125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(4)",
+          "x": 1219.203125,
+          "y": 25.15625,
+          "top": 3392.15625,
+          "width": 29.78125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)",
+          "x": 1312.984375,
+          "y": 13.15625,
+          "top": 3380.15625,
+          "width": 83.828125,
+          "height": 45.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)>span:nth-child(1)",
+          "x": 1374.8125,
+          "y": 31.5,
+          "top": 3398.5,
+          "width": 22,
+          "height": 9,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#main",
+          "x": 0,
+          "y": -3367,
+          "top": 0,
+          "width": 1440,
+          "height": 3527.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#courses-seasons",
+          "x": 0,
+          "y": -1176.25,
+          "top": 2190.75,
+          "width": 1440,
+          "height": 917.0625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)",
+          "x": 716.921875,
+          "y": -1081.25,
+          "top": 2285.75,
+          "width": 679.890625,
+          "height": 727.0625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)",
+          "x": 716.921875,
+          "y": -1081.25,
+          "top": 2285.75,
+          "width": 679.890625,
+          "height": 299.046875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)>p:nth-child(3)",
+          "x": 716.921875,
+          "y": -986.65625,
+          "top": 2380.34375,
+          "width": 679.890625,
+          "height": 139.453125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)",
+          "x": 716.921875,
+          "y": -782.203125,
+          "top": 2584.796875,
+          "width": 679.890625,
+          "height": 428.015625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)>p:nth-child(1)",
+          "x": 716.921875,
+          "y": -782.203125,
+          "top": 2584.796875,
+          "width": 553.8125,
+          "height": 16.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)>h2:nth-child(2)",
+          "x": 716.921875,
+          "y": -747.40625,
+          "top": 2619.59375,
+          "width": 679.890625,
+          "height": 37.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)>p:nth-child(3)",
+          "x": 716.921875,
+          "y": -687.609375,
+          "top": 2679.390625,
+          "width": 679.890625,
+          "height": 111.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)>h3:nth-child(4)",
+          "x": 716.921875,
+          "y": -544.046875,
+          "top": 2822.953125,
+          "width": 679.890625,
+          "height": 58.296875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)>p:nth-child(5)",
+          "x": 716.921875,
+          "y": -465.75,
+          "top": 2901.25,
+          "width": 679.890625,
+          "height": 111.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(2)",
+          "x": 43.1875,
+          "y": -900.9375,
+          "top": 2466.0625,
+          "width": 506.78125,
+          "height": 366.4375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "0.998123",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(2)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": -900.9375,
+          "top": 2466.0625,
+          "width": 506.78125,
+          "height": 337.84375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(2)>figcaption:nth-child(2)",
+          "x": 43.1875,
+          "y": -553.09375,
+          "top": 2813.90625,
+          "width": 506.78125,
+          "height": 18.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "#courses-marriage",
+          "x": 0,
+          "y": -259.1875,
+          "top": 3107.8125,
+          "width": 1440,
+          "height": 419.75,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>p:nth-child(1)",
+          "x": 43.1875,
+          "y": -169.1875,
+          "top": 3197.8125,
+          "width": 553.8125,
+          "height": 36.953125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(2)",
+          "x": 43.1875,
+          "y": -114.234375,
+          "top": 3252.765625,
+          "width": 649.734375,
+          "height": 68.453125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>p:nth-child(3)",
+          "x": 716.921875,
+          "y": -169.1875,
+          "top": 3197.8125,
+          "width": 679.890625,
+          "height": 200.0625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>p:nth-child(4)",
+          "x": 43.1875,
+          "y": -10.984375,
+          "top": 3356.015625,
+          "width": 634.03125,
+          "height": 41.859375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>p:nth-child(5)",
+          "x": 43.1875,
+          "y": 48.875,
+          "top": 3415.875,
+          "width": 634.03125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+          "x": 0,
+          "y": 160.5625,
+          "top": 3527.5625,
+          "width": 1440,
+          "height": 739.640625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)",
+          "x": 43.1875,
+          "y": 231.5625,
+          "top": 3598.5625,
+          "width": 1353.625,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)",
+          "x": 43.1875,
+          "y": 231.5625,
+          "top": 3598.5625,
+          "width": 636.8125,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>p:nth-child(1)",
+          "x": 43.1875,
+          "y": 231.5625,
+          "top": 3598.5625,
+          "width": 636.8125,
+          "height": 22.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>p:nth-child(2)",
+          "x": 43.1875,
+          "y": 313.953125,
+          "top": 3680.953125,
+          "width": 636.8125,
+          "height": 50,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>p:nth-child(3)",
+          "x": 43.1875,
+          "y": 383.140625,
+          "top": 3750.140625,
+          "width": 636.8125,
+          "height": 74.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>a:nth-child(4)",
+          "x": 43.1875,
+          "y": 479.53125,
+          "top": 3846.53125,
+          "width": 104.375,
+          "height": 45.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)",
+          "x": 720,
+          "y": 231.5625,
+          "top": 3598.5625,
+          "width": 318.40625,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>p:nth-child(1)",
+          "x": 720,
+          "y": 231.5625,
+          "top": 3598.5625,
+          "width": 318.40625,
+          "height": 22.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(2)",
+          "x": 720,
+          "y": 277.953125,
+          "top": 3644.953125,
+          "width": 76.5,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(3)",
+          "x": 720,
+          "y": 312.75,
+          "top": 3679.75,
+          "width": 140.65625,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(4)",
+          "x": 720,
+          "y": 347.546875,
+          "top": 3714.546875,
+          "width": 66.28125,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(5)",
+          "x": 720,
+          "y": 382.34375,
+          "top": 3749.34375,
+          "width": 87.1875,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)",
+          "x": 1078.40625,
+          "y": 231.5625,
+          "top": 3598.5625,
+          "width": 318.40625,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>p:nth-child(1)",
+          "x": 1078.40625,
+          "y": 231.5625,
+          "top": 3598.5625,
+          "width": 318.40625,
+          "height": 22.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(2)",
+          "x": 1078.40625,
+          "y": 277.953125,
+          "top": 3644.953125,
+          "width": 111,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(3)",
+          "x": 1078.40625,
+          "y": 312.75,
+          "top": 3679.75,
+          "width": 94.578125,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(4)",
+          "x": 1078.40625,
+          "y": 347.546875,
+          "top": 3714.546875,
+          "width": 106.65625,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(5)",
+          "x": 1078.40625,
+          "y": 382.34375,
+          "top": 3749.34375,
+          "width": 92.9375,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>p:nth-child(2)",
+          "x": 43.1875,
+          "y": 635.328125,
+          "top": 4002.328125,
+          "width": 1353.625,
+          "height": 161.28125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)",
+          "x": 43.1875,
+          "y": 826.609375,
+          "top": 4193.609375,
+          "width": 1353.625,
+          "height": 53.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>p:nth-child(1)",
+          "x": 43.1875,
+          "y": 853.609375,
+          "top": 4220.609375,
+          "width": 169.390625,
+          "height": 18.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>a:nth-child(2)",
+          "x": 1093.609375,
+          "y": 853.609375,
+          "top": 4220.609375,
+          "width": 87.609375,
+          "height": 18.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>button:nth-child(3)",
+          "x": 1207.21875,
+          "y": 845.609375,
+          "top": 4212.609375,
+          "width": 99.84375,
+          "height": 34.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>a:nth-child(4)",
+          "x": 1333.0625,
+          "y": 853.609375,
+          "top": 4220.609375,
+          "width": 63.75,
+          "height": 18.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        }
+      ],
+      "header": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 3367,
+            "width": 1440,
+            "height": 72
+          },
+          "padding": "12px 43.2px"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)",
+          "box": {
+            "x": 43.1875,
+            "y": -2379.046875,
+            "top": 987.953125,
+            "width": 317.015625,
+            "height": 1072.796875
+          },
+          "padding": "0px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content",
+          "href": "http://localhost:4201/courses/?motion-inspect=1#main"
+        },
+        {
+          "text": "",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Connect",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Watch",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Give",
+          "href": "http://localhost:4201/give/"
+        },
+        {
+          "text": "Kingdom Life",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Your first Sunday",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Our story",
+          "href": "http://localhost:4201/our-story/"
+        },
+        {
+          "text": "Our leadership",
+          "href": "http://localhost:4201/leadership/"
+        },
+        {
+          "text": "Mission & vision",
+          "href": "http://localhost:4201/mission/"
+        },
+        {
+          "text": "What we believe",
+          "href": "http://localhost:4201/beliefs/"
+        },
+        {
+          "text": "Kids",
+          "href": "http://localhost:4201/kids/"
+        },
+        {
+          "text": "Youth",
+          "href": "http://localhost:4201/youth/"
+        },
+        {
+          "text": "Young adults",
+          "href": "http://localhost:4201/young-adults/"
+        },
+        {
+          "text": "Women",
+          "href": "http://localhost:4201/women/"
+        },
+        {
+          "text": "Men",
+          "href": "http://localhost:4201/men/"
+        },
+        {
+          "text": "Life Groups",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "I believe",
+          "href": "http://localhost:4201/believe/"
+        },
+        {
+          "text": "Baptism",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Courses",
+          "href": "http://localhost:4201/courses/"
+        },
+        {
+          "text": "Membership",
+          "href": "http://localhost:4201/membership/"
+        },
+        {
+          "text": "Serve",
+          "href": "http://localhost:4201/serve/"
+        },
+        {
+          "text": "Prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Media library",
+          "href": "http://localhost:4201/subsplash-media/"
+        },
+        {
+          "text": "Our app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Weather updates",
+          "href": "http://localhost:4201/weather-procedures/"
+        },
+        {
+          "text": "Easter archive",
+          "href": "http://localhost:4201/easter/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "Watch the course introduction",
+          "href": "https://klcc-my.sharepoint.com/:v:/g/personal/bkellum_klcc_us/IQBMaeVSUbP6S6nZVQ95OVZ9AeUIv3ZvdOxBbIF6ZE5VVqQ?e=YM01f3"
+        },
+        {
+          "text": "Register for Alpha",
+          "href": "https://brushfire.com/klcc/alpha/632963/details"
+        },
+        {
+          "text": "Register for discipleship courses",
+          "href": "https://brushfire.com/klcc/discipleship/637020/details"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Watch live",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Previous messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Get the app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Request prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "info@klcc.us",
+          "href": "mailto:info@klcc.us"
+        },
+        {
+          "text": "Site information",
+          "href": "http://localhost:4201/legal/"
+        },
+        {
+          "text": "Back to top",
+          "href": "http://localhost:4201/courses/?motion-inspect=1#main"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "id": "opening-settled",
+      "capturedAt": "2026-10-07T08:59:55.671Z",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/repair-editorial/courses/desktop/opening-settled.png",
+      "settled": false,
+      "settleAttempts": 1,
+      "settleMs": 966,
+      "landmark": "opening-after-traversal",
+      "progress": 0,
+      "url": "http://localhost:4201/courses/?motion-inspect=1",
+      "textBoxes": [
+        {
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 28.9375,
+          "height": 21.6875
+        },
+        {
+          "x": 1058.84375,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 55.046875,
+          "height": 21.6875
+        },
+        {
+          "x": 1145.890625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 41.3125,
+          "height": 21.6875
+        },
+        {
+          "x": 1219.203125,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 29.78125,
+          "height": 21.6875
+        },
+        {
+          "x": 1312.984375,
+          "y": 23.15625,
+          "top": 23.15625,
+          "width": 83.828125,
+          "height": 45.6875
+        },
+        {
+          "x": 43.1875,
+          "y": 647,
+          "top": 647,
+          "width": 553.8125,
+          "height": 66.625
+        },
+        {
+          "x": 43.1875,
+          "y": 735.625,
+          "top": 735.625,
+          "width": 615.90625,
+          "height": 102.328125
+        },
+        {
+          "x": 780.90625,
+          "y": 647,
+          "top": 647,
+          "width": 520.796875,
+          "height": 27.5
+        },
+        {
+          "x": 780.90625,
+          "y": 698.5,
+          "top": 698.5,
+          "width": 520.796875,
+          "height": 139.453125
+        }
+      ],
+      "logoBoxes": [
+        {
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48
+        },
+        {
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48
+        }
+      ],
+      "scrollY": 0,
+      "maxScroll": 3367,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "sections": [
+        {
+          "index": 0,
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "landmark": "section-0",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 92
+          },
+          "background": {
+            "color": "rgba(16, 28, 42, 0.96)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 3,
+          "stickyFixed": [
+            {
+              "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+              "position": "fixed",
+              "box": {
+                "x": 0,
+                "y": 0,
+                "top": 0,
+                "width": 1440,
+                "height": 92
+              }
+            }
+          ],
+          "font": {
+            "size": "18px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "27.9px"
+          },
+          "excerpt": "VisitConnectWatchGiveMenu",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 1,
+          "key": "#courses-opening",
+          "landmark": "courses-opening",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 917.953125
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "50px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "700",
+            "letterSpacing": "-1.75px",
+            "lineHeight": "52.5px"
+          },
+          "excerpt": "Wednesday NightDiscipleshipWednesday Nights at KLCC are for Discipleship!Looking for Bible-centered classes to help you grow in your faith and apply God's wisdom to everyday life? Our Wednesday night discipleship courses are a place to learn, connect, and grow in your walk with God. Go deeper. Grow stronger. Take your next step.",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 2,
+          "key": "#courses-fall",
+          "landmark": "courses-fall",
+          "box": {
+            "x": 0,
+            "y": 917.953125,
+            "top": 917.953125,
+            "width": 1440,
+            "height": 1272.796875
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "30px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.05px",
+            "lineHeight": "31.5px"
+          },
+          "excerpt": "Fall CoursesSeptember 23 thru December 9Watch the course introductionAlpha 9/23 thru 12/9Alpha is a place to explore life's big questions: What is my purpose? What happens when I die? Why is there suffering? Over 12 weeks, people come together to share thoughts, hear different perspectives, and have honest conversations in a judgment-free environment.Register for AlphaApologetics 9/23-10/28Why believe in God? Can the Bible be trusted? What do we do with questions about suffering? This course explores some of the biggest questions about Christianity and helps you build confidence in what you be",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 3,
+          "key": "#courses-seasons",
+          "landmark": "courses-seasons",
+          "box": {
+            "x": 0,
+            "y": 2190.75,
+            "top": 2190.75,
+            "width": 1440,
+            "height": 917.0625
+          },
+          "background": {
+            "color": "rgb(245, 243, 237)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "36px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.26px",
+            "lineHeight": "37.8px"
+          },
+          "excerpt": "Winter CoursesBible StudyHow to Study the Bible is an 8-week, hands-on course that helps you understand and apply Scripture in daily life. You’ll learn how to observe, interpret, and live out God’s Word through engaging videos, group discussions, and weekly homework. Whether you're just starting or want to grow deeper, this class will build your confidence in studying the Bible.Spring CoursesPrayer CourseExplore the meaning and power of the Lord’s Prayer in this 8-week course. Through engaging discussion and uplifting teaching, you’ll grow closer to God and strengthen your faith. Whether you'r",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 4,
+          "key": "#courses-marriage",
+          "landmark": "courses-marriage",
+          "box": {
+            "x": 0,
+            "y": 3107.8125,
+            "top": 3107.8125,
+            "width": 1440,
+            "height": 419.75
+          },
+          "background": {
+            "color": "rgb(185, 206, 228)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "46px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "600",
+            "letterSpacing": "-1.61px",
+            "lineHeight": "48.3px"
+          },
+          "excerpt": "Other CoursesMarriageThe Marriage Course is a 7-session series designed to help couples strengthen their relationship—whether you've been married for months or decades, and whether things are going well or you're facing challenges. You'll learn practical skills like better communication, resolving conflict, understanding each other’s needs, and building deeper intimacy.On breakRegistration closed",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 5,
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+          "landmark": "section-5",
+          "box": {
+            "x": 0,
+            "y": 3527.5625,
+            "top": 3527.5625,
+            "width": 1440,
+            "height": 739.640625
+          },
+          "background": {
+            "color": "rgb(16, 28, 42)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "161.28px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "-8.064px",
+            "lineHeight": "161.28px"
+          },
+          "excerpt": "Join us this Sunday10 AMThe Cathedral1455 Naugatuck AvenueMilford, ConnecticutPlan your visitStay connectedWatch livePrevious messagesCalendarGet the appWe’re hereRequest prayerPastoral care203 877 5464info@klcc.usKINGDOM LIFE.Kingdom Life Christian ChurchSite informationReduce motionBack to top",
+          "mediaCount": 0,
+          "fullBleed": true
+        }
+      ],
+      "mergedSections": [
+        {
+          "top": 0,
+          "bottom": 917.953125,
+          "members": [
+            "section-0",
+            "courses-opening"
+          ]
+        },
+        {
+          "top": 917.953125,
+          "bottom": 2190.75,
+          "members": [
+            "courses-fall"
+          ]
+        },
+        {
+          "top": 2190.75,
+          "bottom": 3107.8125,
+          "members": [
+            "courses-seasons"
+          ]
+        },
+        {
+          "top": 3107.8125,
+          "bottom": 3527.5625,
+          "members": [
+            "courses-marriage"
+          ]
+        },
+        {
+          "top": 3527.5625,
+          "bottom": 4267.203125,
+          "members": [
+            "section-5"
+          ]
+        }
+      ],
+      "motion": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "x": 20,
+          "y": -100,
+          "top": -100,
+          "width": 153.96875,
+          "height": 55.890625,
+          "position": "fixed",
+          "stickyTop": "-100px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 92,
+          "position": "fixed",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)",
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)",
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 251.078125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(1)",
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 28.9375,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(2)",
+          "x": 1058.84375,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 55.046875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(3)",
+          "x": 1145.890625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 41.3125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(4)",
+          "x": 1219.203125,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 29.78125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)",
+          "x": 1312.984375,
+          "y": 23.15625,
+          "top": 23.15625,
+          "width": 83.828125,
+          "height": 45.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)>span:nth-child(1)",
+          "x": 1374.8125,
+          "y": 41.5,
+          "top": 41.5,
+          "width": 22,
+          "height": 9,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#main",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 3527.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#courses-opening",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 917.953125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>figure:nth-child(1)",
+          "x": 43.1875,
+          "y": 118,
+          "top": 118,
+          "width": 1353.625,
+          "height": 495,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>figure:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 118,
+          "top": 118,
+          "width": 1353.625,
+          "height": 495,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>p:nth-child(2)",
+          "x": 43.1875,
+          "y": 647,
+          "top": 647,
+          "width": 553.8125,
+          "height": 66.625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>h1:nth-child(3)",
+          "x": 43.1875,
+          "y": 735.625,
+          "top": 735.625,
+          "width": 615.90625,
+          "height": 102.328125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(4)",
+          "x": 780.90625,
+          "y": 647,
+          "top": 647,
+          "width": 520.796875,
+          "height": 190.953125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(4)>h2:nth-child(1)",
+          "x": 780.90625,
+          "y": 647,
+          "top": 647,
+          "width": 520.796875,
+          "height": 27.5,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(4)>p:nth-child(2)",
+          "x": 780.90625,
+          "y": 698.5,
+          "top": 698.5,
+          "width": 520.796875,
+          "height": 139.453125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "#courses-fall",
+          "x": 0,
+          "y": 917.953125,
+          "top": 917.953125,
+          "width": 1440,
+          "height": 1272.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)",
+          "x": 43.1875,
+          "y": 987.953125,
+          "top": 987.953125,
+          "width": 317.015625,
+          "height": 1072.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)>h2:nth-child(1)",
+          "x": 43.1875,
+          "y": 987.953125,
+          "top": 987.953125,
+          "width": 317.015625,
+          "height": 31.5,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)>p:nth-child(2)",
+          "x": 43.1875,
+          "y": 1037.453125,
+          "top": 1037.453125,
+          "width": 317.015625,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)>a:nth-child(3)",
+          "x": 43.1875,
+          "y": 1086.25,
+          "top": 1086.25,
+          "width": 210.4375,
+          "height": 44.25,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)",
+          "x": 716.921875,
+          "y": 987.953125,
+          "top": 987.953125,
+          "width": 679.890625,
+          "height": 1072.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "x": 716.921875,
+          "y": 987.953125,
+          "top": 987.953125,
+          "width": 679.890625,
+          "height": 286.046875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": 987.953125,
+          "top": 987.953125,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
+          "x": 716.921875,
+          "y": 1036.75,
+          "top": 1036.75,
+          "width": 498.15625,
+          "height": 139.453125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>a:nth-child(3)",
+          "x": 716.921875,
+          "y": 1190.203125,
+          "top": 1190.203125,
+          "width": 133.53125,
+          "height": 45.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "x": 716.921875,
+          "y": 1274,
+          "top": 1274,
+          "width": 679.890625,
+          "height": 227.359375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": 1303,
+          "top": 1303,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
+          "x": 716.921875,
+          "y": 1351.796875,
+          "top": 1351.796875,
+          "width": 498.15625,
+          "height": 111.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "x": 716.921875,
+          "y": 1501.359375,
+          "top": 1501.359375,
+          "width": 679.890625,
+          "height": 227.359375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": 1530.359375,
+          "top": 1530.359375,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>p:nth-child(2)",
+          "x": 716.921875,
+          "y": 1579.15625,
+          "top": 1579.15625,
+          "width": 498.15625,
+          "height": 111.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "x": 716.921875,
+          "y": 1728.71875,
+          "top": 1728.71875,
+          "width": 679.890625,
+          "height": 283.140625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": 1757.71875,
+          "top": 1757.71875,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        }
+      ],
+      "header": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 92
+          },
+          "padding": "22px 43.2px"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)",
+          "box": {
+            "x": 43.1875,
+            "y": 987.953125,
+            "top": 987.953125,
+            "width": 317.015625,
+            "height": 1072.796875
+          },
+          "padding": "0px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content",
+          "href": "http://localhost:4201/courses/?motion-inspect=1#main"
+        },
+        {
+          "text": "",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Connect",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Watch",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Give",
+          "href": "http://localhost:4201/give/"
+        },
+        {
+          "text": "Kingdom Life",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Your first Sunday",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Our story",
+          "href": "http://localhost:4201/our-story/"
+        },
+        {
+          "text": "Our leadership",
+          "href": "http://localhost:4201/leadership/"
+        },
+        {
+          "text": "Mission & vision",
+          "href": "http://localhost:4201/mission/"
+        },
+        {
+          "text": "What we believe",
+          "href": "http://localhost:4201/beliefs/"
+        },
+        {
+          "text": "Kids",
+          "href": "http://localhost:4201/kids/"
+        },
+        {
+          "text": "Youth",
+          "href": "http://localhost:4201/youth/"
+        },
+        {
+          "text": "Young adults",
+          "href": "http://localhost:4201/young-adults/"
+        },
+        {
+          "text": "Women",
+          "href": "http://localhost:4201/women/"
+        },
+        {
+          "text": "Men",
+          "href": "http://localhost:4201/men/"
+        },
+        {
+          "text": "Life Groups",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "I believe",
+          "href": "http://localhost:4201/believe/"
+        },
+        {
+          "text": "Baptism",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Courses",
+          "href": "http://localhost:4201/courses/"
+        },
+        {
+          "text": "Membership",
+          "href": "http://localhost:4201/membership/"
+        },
+        {
+          "text": "Serve",
+          "href": "http://localhost:4201/serve/"
+        },
+        {
+          "text": "Prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Media library",
+          "href": "http://localhost:4201/subsplash-media/"
+        },
+        {
+          "text": "Our app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Weather updates",
+          "href": "http://localhost:4201/weather-procedures/"
+        },
+        {
+          "text": "Easter archive",
+          "href": "http://localhost:4201/easter/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "Watch the course introduction",
+          "href": "https://klcc-my.sharepoint.com/:v:/g/personal/bkellum_klcc_us/IQBMaeVSUbP6S6nZVQ95OVZ9AeUIv3ZvdOxBbIF6ZE5VVqQ?e=YM01f3"
+        },
+        {
+          "text": "Register for Alpha",
+          "href": "https://brushfire.com/klcc/alpha/632963/details"
+        },
+        {
+          "text": "Register for discipleship courses",
+          "href": "https://brushfire.com/klcc/discipleship/637020/details"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Watch live",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Previous messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Get the app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Request prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "info@klcc.us",
+          "href": "mailto:info@klcc.us"
+        },
+        {
+          "text": "Site information",
+          "href": "http://localhost:4201/legal/"
+        },
+        {
+          "text": "Back to top",
+          "href": "http://localhost:4201/courses/?motion-inspect=1#main"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "id": "midpoint",
+      "capturedAt": "2026-10-07T08:59:56.875Z",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/repair-editorial/courses/desktop/midpoint.png",
+      "settled": true,
+      "settleAttempts": 2,
+      "settleMs": 287,
+      "landmark": "midpoint",
+      "progress": 0.5,
+      "url": "http://localhost:4201/courses/?motion-inspect=1",
+      "textBoxes": [
+        {
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 1709.15625,
+          "width": 28.9375,
+          "height": 21.6875
+        },
+        {
+          "x": 1058.84375,
+          "y": 25.15625,
+          "top": 1709.15625,
+          "width": 55.046875,
+          "height": 21.6875
+        },
+        {
+          "x": 1145.890625,
+          "y": 25.15625,
+          "top": 1709.15625,
+          "width": 41.3125,
+          "height": 21.6875
+        },
+        {
+          "x": 1219.203125,
+          "y": 25.15625,
+          "top": 1709.15625,
+          "width": 29.78125,
+          "height": 21.6875
+        },
+        {
+          "x": 1312.984375,
+          "y": 13.15625,
+          "top": 1697.15625,
+          "width": 83.828125,
+          "height": 45.6875
+        },
+        {
+          "x": 716.921875,
+          "y": -104.84375,
+          "top": 1579.15625,
+          "width": 498.15625,
+          "height": 111.5625
+        },
+        {
+          "x": 716.921875,
+          "y": 73.71875,
+          "top": 1757.71875,
+          "width": 679.890625,
+          "height": 28.796875
+        },
+        {
+          "x": 716.921875,
+          "y": 122.515625,
+          "top": 1806.515625,
+          "width": 498.15625,
+          "height": 167.34375
+        },
+        {
+          "x": 716.921875,
+          "y": 327.859375,
+          "top": 2011.859375,
+          "width": 271.8125,
+          "height": 48.890625
+        },
+        {
+          "x": 716.921875,
+          "y": 601.75,
+          "top": 2285.75,
+          "width": 553.8125,
+          "height": 16.796875
+        },
+        {
+          "x": 716.921875,
+          "y": 636.546875,
+          "top": 2320.546875,
+          "width": 679.890625,
+          "height": 37.796875
+        },
+        {
+          "x": 716.921875,
+          "y": 696.34375,
+          "top": 2380.34375,
+          "width": 679.890625,
+          "height": 139.453125
+        }
+      ],
+      "logoBoxes": [
+        {
+          "x": 43.1875,
+          "y": 12,
+          "top": 1696,
+          "width": 118,
+          "height": 48
+        },
+        {
+          "x": 43.1875,
+          "y": 12,
+          "top": 1696,
+          "width": 118,
+          "height": 48
+        }
+      ],
+      "scrollY": 1684,
+      "maxScroll": 3367,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "sections": [
+        {
+          "index": 0,
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "landmark": "section-0",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 1684,
+            "width": 1440,
+            "height": 72
+          },
+          "background": {
+            "color": "rgba(16, 28, 42, 0.96)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 3,
+          "stickyFixed": [
+            {
+              "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+              "position": "fixed",
+              "box": {
+                "x": 0,
+                "y": 0,
+                "top": 1684,
+                "width": 1440,
+                "height": 72
+              }
+            }
+          ],
+          "font": {
+            "size": "18px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "27.9px"
+          },
+          "excerpt": "VisitConnectWatchGiveMenu",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 1,
+          "key": "#courses-opening",
+          "landmark": "courses-opening",
+          "box": {
+            "x": 0,
+            "y": -1684,
+            "top": 0,
+            "width": 1440,
+            "height": 917.953125
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "50px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "700",
+            "letterSpacing": "-1.75px",
+            "lineHeight": "52.5px"
+          },
+          "excerpt": "Wednesday NightDiscipleshipWednesday Nights at KLCC are for Discipleship!Looking for Bible-centered classes to help you grow in your faith and apply God's wisdom to everyday life? Our Wednesday night discipleship courses are a place to learn, connect, and grow in your walk with God. Go deeper. Grow stronger. Take your next step.",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 2,
+          "key": "#courses-fall",
+          "landmark": "courses-fall",
+          "box": {
+            "x": 0,
+            "y": -766.046875,
+            "top": 917.953125,
+            "width": 1440,
+            "height": 1272.796875
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "30px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.05px",
+            "lineHeight": "31.5px"
+          },
+          "excerpt": "Fall CoursesSeptember 23 thru December 9Watch the course introductionAlpha 9/23 thru 12/9Alpha is a place to explore life's big questions: What is my purpose? What happens when I die? Why is there suffering? Over 12 weeks, people come together to share thoughts, hear different perspectives, and have honest conversations in a judgment-free environment.Register for AlphaApologetics 9/23-10/28Why believe in God? Can the Bible be trusted? What do we do with questions about suffering? This course explores some of the biggest questions about Christianity and helps you build confidence in what you be",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 3,
+          "key": "#courses-seasons",
+          "landmark": "courses-seasons",
+          "box": {
+            "x": 0,
+            "y": 506.75,
+            "top": 2190.75,
+            "width": 1440,
+            "height": 917.0625
+          },
+          "background": {
+            "color": "rgb(245, 243, 237)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "36px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.26px",
+            "lineHeight": "37.8px"
+          },
+          "excerpt": "Winter CoursesBible StudyHow to Study the Bible is an 8-week, hands-on course that helps you understand and apply Scripture in daily life. You’ll learn how to observe, interpret, and live out God’s Word through engaging videos, group discussions, and weekly homework. Whether you're just starting or want to grow deeper, this class will build your confidence in studying the Bible.Spring CoursesPrayer CourseExplore the meaning and power of the Lord’s Prayer in this 8-week course. Through engaging discussion and uplifting teaching, you’ll grow closer to God and strengthen your faith. Whether you'r",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 4,
+          "key": "#courses-marriage",
+          "landmark": "courses-marriage",
+          "box": {
+            "x": 0,
+            "y": 1423.8125,
+            "top": 3107.8125,
+            "width": 1440,
+            "height": 419.75
+          },
+          "background": {
+            "color": "rgb(185, 206, 228)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "46px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "600",
+            "letterSpacing": "-1.61px",
+            "lineHeight": "48.3px"
+          },
+          "excerpt": "Other CoursesMarriageThe Marriage Course is a 7-session series designed to help couples strengthen their relationship—whether you've been married for months or decades, and whether things are going well or you're facing challenges. You'll learn practical skills like better communication, resolving conflict, understanding each other’s needs, and building deeper intimacy.On breakRegistration closed",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 5,
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+          "landmark": "section-5",
+          "box": {
+            "x": 0,
+            "y": 1843.5625,
+            "top": 3527.5625,
+            "width": 1440,
+            "height": 739.640625
+          },
+          "background": {
+            "color": "rgb(16, 28, 42)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "161.28px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "-8.064px",
+            "lineHeight": "161.28px"
+          },
+          "excerpt": "Join us this Sunday10 AMThe Cathedral1455 Naugatuck AvenueMilford, ConnecticutPlan your visitStay connectedWatch livePrevious messagesCalendarGet the appWe’re hereRequest prayerPastoral care203 877 5464info@klcc.usKINGDOM LIFE.Kingdom Life Christian ChurchSite informationReduce motionBack to top",
+          "mediaCount": 0,
+          "fullBleed": true
+        }
+      ],
+      "mergedSections": [
+        {
+          "top": 0,
+          "bottom": 917.953125,
+          "members": [
+            "courses-opening"
+          ]
+        },
+        {
+          "top": 917.953125,
+          "bottom": 2190.75,
+          "members": [
+            "courses-fall",
+            "section-0"
+          ]
+        },
+        {
+          "top": 2190.75,
+          "bottom": 3107.8125,
+          "members": [
+            "courses-seasons"
+          ]
+        },
+        {
+          "top": 3107.8125,
+          "bottom": 3527.5625,
+          "members": [
+            "courses-marriage"
+          ]
+        },
+        {
+          "top": 3527.5625,
+          "bottom": 4267.203125,
+          "members": [
+            "section-5"
+          ]
+        }
+      ],
+      "motion": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "x": 20,
+          "y": -100,
+          "top": 1584,
+          "width": 153.96875,
+          "height": 55.890625,
+          "position": "fixed",
+          "stickyTop": "-100px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "x": 0,
+          "y": 0,
+          "top": 1684,
+          "width": 1440,
+          "height": 72,
+          "position": "fixed",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)",
+          "x": 43.1875,
+          "y": 12,
+          "top": 1696,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 12,
+          "top": 1696,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)",
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 1709.15625,
+          "width": 251.078125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(1)",
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 1709.15625,
+          "width": 28.9375,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(2)",
+          "x": 1058.84375,
+          "y": 25.15625,
+          "top": 1709.15625,
+          "width": 55.046875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(3)",
+          "x": 1145.890625,
+          "y": 25.15625,
+          "top": 1709.15625,
+          "width": 41.3125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(4)",
+          "x": 1219.203125,
+          "y": 25.15625,
+          "top": 1709.15625,
+          "width": 29.78125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)",
+          "x": 1312.984375,
+          "y": 13.15625,
+          "top": 1697.15625,
+          "width": 83.828125,
+          "height": 45.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)>span:nth-child(1)",
+          "x": 1374.8125,
+          "y": 31.5,
+          "top": 1715.5,
+          "width": 22,
+          "height": 9,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#main",
+          "x": 0,
+          "y": -1684,
+          "top": 0,
+          "width": 1440,
+          "height": 3527.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#courses-opening",
+          "x": 0,
+          "y": -1684,
+          "top": 0,
+          "width": 1440,
+          "height": 917.953125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>h1:nth-child(3)",
+          "x": 43.1875,
+          "y": -948.375,
+          "top": 735.625,
+          "width": 615.90625,
+          "height": 102.328125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(4)",
+          "x": 780.90625,
+          "y": -1037,
+          "top": 647,
+          "width": 520.796875,
+          "height": 190.953125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(4)>p:nth-child(2)",
+          "x": 780.90625,
+          "y": -985.5,
+          "top": 698.5,
+          "width": 520.796875,
+          "height": 139.453125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "#courses-fall",
+          "x": 0,
+          "y": -766.046875,
+          "top": 917.953125,
+          "width": 1440,
+          "height": 1272.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)",
+          "x": 43.1875,
+          "y": -696.046875,
+          "top": 987.953125,
+          "width": 317.015625,
+          "height": 1072.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)>h2:nth-child(1)",
+          "x": 43.1875,
+          "y": -696.046875,
+          "top": 987.953125,
+          "width": 317.015625,
+          "height": 31.5,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)>p:nth-child(2)",
+          "x": 43.1875,
+          "y": -646.546875,
+          "top": 1037.453125,
+          "width": 317.015625,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)>a:nth-child(3)",
+          "x": 43.1875,
+          "y": -597.75,
+          "top": 1086.25,
+          "width": 210.4375,
+          "height": 44.25,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)",
+          "x": 716.921875,
+          "y": -696.046875,
+          "top": 987.953125,
+          "width": 679.890625,
+          "height": 1072.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "x": 716.921875,
+          "y": -696.046875,
+          "top": 987.953125,
+          "width": 679.890625,
+          "height": 286.046875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": -696.046875,
+          "top": 987.953125,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
+          "x": 716.921875,
+          "y": -647.25,
+          "top": 1036.75,
+          "width": 498.15625,
+          "height": 139.453125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>a:nth-child(3)",
+          "x": 716.921875,
+          "y": -493.796875,
+          "top": 1190.203125,
+          "width": 133.53125,
+          "height": 45.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "x": 716.921875,
+          "y": -410,
+          "top": 1274,
+          "width": 679.890625,
+          "height": 227.359375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": -381,
+          "top": 1303,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
+          "x": 716.921875,
+          "y": -332.203125,
+          "top": 1351.796875,
+          "width": 498.15625,
+          "height": 111.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "x": 716.921875,
+          "y": -182.640625,
+          "top": 1501.359375,
+          "width": 679.890625,
+          "height": 227.359375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": -153.640625,
+          "top": 1530.359375,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>p:nth-child(2)",
+          "x": 716.921875,
+          "y": -104.84375,
+          "top": 1579.15625,
+          "width": 498.15625,
+          "height": 111.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "x": 716.921875,
+          "y": 44.71875,
+          "top": 1728.71875,
+          "width": 679.890625,
+          "height": 283.140625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)>h3:nth-child(1)",
+          "x": 716.921875,
+          "y": 73.71875,
+          "top": 1757.71875,
+          "width": 679.890625,
+          "height": 28.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)>p:nth-child(2)",
+          "x": 716.921875,
+          "y": 122.515625,
+          "top": 1806.515625,
+          "width": 498.15625,
+          "height": 167.34375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(214, 220, 226)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>a:nth-child(5)",
+          "x": 716.921875,
+          "y": 327.859375,
+          "top": 2011.859375,
+          "width": 271.8125,
+          "height": 48.890625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#courses-seasons",
+          "x": 0,
+          "y": 506.75,
+          "top": 2190.75,
+          "width": 1440,
+          "height": 917.0625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)",
+          "x": 716.921875,
+          "y": 601.75,
+          "top": 2285.75,
+          "width": 679.890625,
+          "height": 727.0625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)",
+          "x": 716.921875,
+          "y": 601.75,
+          "top": 2285.75,
+          "width": 679.890625,
+          "height": 299.046875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)>p:nth-child(1)",
+          "x": 716.921875,
+          "y": 601.75,
+          "top": 2285.75,
+          "width": 553.8125,
+          "height": 16.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)>h2:nth-child(2)",
+          "x": 716.921875,
+          "y": 636.546875,
+          "top": 2320.546875,
+          "width": 679.890625,
+          "height": 37.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)>p:nth-child(3)",
+          "x": 716.921875,
+          "y": 696.34375,
+          "top": 2380.34375,
+          "width": 679.890625,
+          "height": 139.453125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)",
+          "x": 716.921875,
+          "y": 900.796875,
+          "top": 2584.796875,
+          "width": 679.890625,
+          "height": 428.015625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)>p:nth-child(1)",
+          "x": 716.921875,
+          "y": 900.796875,
+          "top": 2584.796875,
+          "width": 553.8125,
+          "height": 16.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)>h2:nth-child(2)",
+          "x": 716.921875,
+          "y": 935.59375,
+          "top": 2619.59375,
+          "width": 679.890625,
+          "height": 37.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)>p:nth-child(3)",
+          "x": 716.921875,
+          "y": 995.390625,
+          "top": 2679.390625,
+          "width": 679.890625,
+          "height": 111.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)>h3:nth-child(4)",
+          "x": 716.921875,
+          "y": 1138.953125,
+          "top": 2822.953125,
+          "width": 679.890625,
+          "height": 58.296875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)>p:nth-child(5)",
+          "x": 716.921875,
+          "y": 1217.25,
+          "top": 2901.25,
+          "width": 679.890625,
+          "height": 111.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(2)",
+          "x": 43.1875,
+          "y": 782.0625,
+          "top": 2466.0625,
+          "width": 506.78125,
+          "height": 366.4375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(2)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 782.0625,
+          "top": 2466.0625,
+          "width": 506.78125,
+          "height": 337.84375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(2)>figcaption:nth-child(2)",
+          "x": 43.1875,
+          "y": 1129.90625,
+          "top": 2813.90625,
+          "width": 506.78125,
+          "height": 18.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "#courses-marriage",
+          "x": 0,
+          "y": 1423.8125,
+          "top": 3107.8125,
+          "width": 1440,
+          "height": 419.75,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>p:nth-child(1)",
+          "x": 43.1875,
+          "y": 1513.8125,
+          "top": 3197.8125,
+          "width": 553.8125,
+          "height": 36.953125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(2)",
+          "x": 43.1875,
+          "y": 1568.765625,
+          "top": 3252.765625,
+          "width": 649.734375,
+          "height": 68.453125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>p:nth-child(3)",
+          "x": 716.921875,
+          "y": 1513.8125,
+          "top": 3197.8125,
+          "width": 679.890625,
+          "height": 200.0625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>p:nth-child(4)",
+          "x": 43.1875,
+          "y": 1672.015625,
+          "top": 3356.015625,
+          "width": 634.03125,
+          "height": 41.859375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>p:nth-child(5)",
+          "x": 43.1875,
+          "y": 1731.875,
+          "top": 3415.875,
+          "width": 634.03125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        }
+      ],
+      "header": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 1684,
+            "width": 1440,
+            "height": 72
+          },
+          "padding": "12px 43.2px"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>header:nth-child(1)",
+          "box": {
+            "x": 43.1875,
+            "y": -696.046875,
+            "top": 987.953125,
+            "width": 317.015625,
+            "height": 1072.796875
+          },
+          "padding": "0px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content",
+          "href": "http://localhost:4201/courses/?motion-inspect=1#main"
+        },
+        {
+          "text": "",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Connect",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Watch",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Give",
+          "href": "http://localhost:4201/give/"
+        },
+        {
+          "text": "Kingdom Life",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Your first Sunday",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Our story",
+          "href": "http://localhost:4201/our-story/"
+        },
+        {
+          "text": "Our leadership",
+          "href": "http://localhost:4201/leadership/"
+        },
+        {
+          "text": "Mission & vision",
+          "href": "http://localhost:4201/mission/"
+        },
+        {
+          "text": "What we believe",
+          "href": "http://localhost:4201/beliefs/"
+        },
+        {
+          "text": "Kids",
+          "href": "http://localhost:4201/kids/"
+        },
+        {
+          "text": "Youth",
+          "href": "http://localhost:4201/youth/"
+        },
+        {
+          "text": "Young adults",
+          "href": "http://localhost:4201/young-adults/"
+        },
+        {
+          "text": "Women",
+          "href": "http://localhost:4201/women/"
+        },
+        {
+          "text": "Men",
+          "href": "http://localhost:4201/men/"
+        },
+        {
+          "text": "Life Groups",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "I believe",
+          "href": "http://localhost:4201/believe/"
+        },
+        {
+          "text": "Baptism",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Courses",
+          "href": "http://localhost:4201/courses/"
+        },
+        {
+          "text": "Membership",
+          "href": "http://localhost:4201/membership/"
+        },
+        {
+          "text": "Serve",
+          "href": "http://localhost:4201/serve/"
+        },
+        {
+          "text": "Prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Media library",
+          "href": "http://localhost:4201/subsplash-media/"
+        },
+        {
+          "text": "Our app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Weather updates",
+          "href": "http://localhost:4201/weather-procedures/"
+        },
+        {
+          "text": "Easter archive",
+          "href": "http://localhost:4201/easter/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "Watch the course introduction",
+          "href": "https://klcc-my.sharepoint.com/:v:/g/personal/bkellum_klcc_us/IQBMaeVSUbP6S6nZVQ95OVZ9AeUIv3ZvdOxBbIF6ZE5VVqQ?e=YM01f3"
+        },
+        {
+          "text": "Register for Alpha",
+          "href": "https://brushfire.com/klcc/alpha/632963/details"
+        },
+        {
+          "text": "Register for discipleship courses",
+          "href": "https://brushfire.com/klcc/discipleship/637020/details"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Watch live",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Previous messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Get the app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Request prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "info@klcc.us",
+          "href": "mailto:info@klcc.us"
+        },
+        {
+          "text": "Site information",
+          "href": "http://localhost:4201/legal/"
+        },
+        {
+          "text": "Back to top",
+          "href": "http://localhost:4201/courses/?motion-inspect=1#main"
+        }
+      ],
+      "overflow": false
+    }
+  ],
+  "motionDeltas": [
+    {
+      "from": "opening",
+      "to": "footer",
+      "changes": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 0,
+          "toScroll": 3367
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 0,
+          "toScroll": 3367
+        }
+      ]
+    },
+    {
+      "from": "footer",
+      "to": "opening-settled",
+      "changes": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 3367,
+          "toScroll": 0
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 3367,
+          "toScroll": 0
+        }
+      ]
+    },
+    {
+      "from": "opening-settled",
+      "to": "midpoint",
+      "changes": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 0,
+          "toScroll": 1684
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 0,
+          "toScroll": 1684
+        }
+      ]
+    }
+  ],
+  "hover": [],
+  "errors": [],
+  "httpStatus": 200,
+  "resolvedUrl": "http://localhost:4201/courses/?motion-inspect=1",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "http://localhost:4201/courses/?motion-inspect=1#main"
+    },
+    {
+      "text": "",
+      "href": "http://localhost:4201/"
+    },
+    {
+      "text": "Visit",
+      "href": "http://localhost:4201/new/"
+    },
+    {
+      "text": "Connect",
+      "href": "http://localhost:4201/life-groups/"
+    },
+    {
+      "text": "Watch",
+      "href": "http://localhost:4201/watch-live/"
+    },
+    {
+      "text": "Give",
+      "href": "http://localhost:4201/give/"
+    },
+    {
+      "text": "Kingdom Life",
+      "href": "http://localhost:4201/"
+    },
+    {
+      "text": "Your first Sunday",
+      "href": "http://localhost:4201/new/"
+    },
+    {
+      "text": "Our story",
+      "href": "http://localhost:4201/our-story/"
+    },
+    {
+      "text": "Our leadership",
+      "href": "http://localhost:4201/leadership/"
+    },
+    {
+      "text": "Mission & vision",
+      "href": "http://localhost:4201/mission/"
+    },
+    {
+      "text": "What we believe",
+      "href": "http://localhost:4201/beliefs/"
+    },
+    {
+      "text": "Kids",
+      "href": "http://localhost:4201/kids/"
+    },
+    {
+      "text": "Youth",
+      "href": "http://localhost:4201/youth/"
+    },
+    {
+      "text": "Young adults",
+      "href": "http://localhost:4201/young-adults/"
+    },
+    {
+      "text": "Women",
+      "href": "http://localhost:4201/women/"
+    },
+    {
+      "text": "Men",
+      "href": "http://localhost:4201/men/"
+    },
+    {
+      "text": "Life Groups",
+      "href": "http://localhost:4201/life-groups/"
+    },
+    {
+      "text": "I believe",
+      "href": "http://localhost:4201/believe/"
+    },
+    {
+      "text": "Baptism",
+      "href": "http://localhost:4201/baptism/"
+    },
+    {
+      "text": "Alpha",
+      "href": "http://localhost:4201/alpha/"
+    },
+    {
+      "text": "Courses",
+      "href": "http://localhost:4201/courses/"
+    },
+    {
+      "text": "Membership",
+      "href": "http://localhost:4201/membership/"
+    },
+    {
+      "text": "Serve",
+      "href": "http://localhost:4201/serve/"
+    },
+    {
+      "text": "Prayer",
+      "href": "http://localhost:4201/prayer/"
+    },
+    {
+      "text": "Pastoral care",
+      "href": "http://localhost:4201/pastoral-care/"
+    },
+    {
+      "text": "Calendar",
+      "href": "http://localhost:4201/calendar/"
+    },
+    {
+      "text": "Messages",
+      "href": "http://localhost:4201/previous-messages/"
+    },
+    {
+      "text": "Media library",
+      "href": "http://localhost:4201/subsplash-media/"
+    },
+    {
+      "text": "Our app",
+      "href": "http://localhost:4201/app/"
+    },
+    {
+      "text": "Weather updates",
+      "href": "http://localhost:4201/weather-procedures/"
+    },
+    {
+      "text": "Easter archive",
+      "href": "http://localhost:4201/easter/"
+    },
+    {
+      "text": "203 877 5464",
+      "href": "tel:+12038775464"
+    },
+    {
+      "text": "Watch the course introduction",
+      "href": "https://klcc-my.sharepoint.com/:v:/g/personal/bkellum_klcc_us/IQBMaeVSUbP6S6nZVQ95OVZ9AeUIv3ZvdOxBbIF6ZE5VVqQ?e=YM01f3"
+    },
+    {
+      "text": "Register for Alpha",
+      "href": "https://brushfire.com/klcc/alpha/632963/details"
+    },
+    {
+      "text": "Register for discipleship courses",
+      "href": "https://brushfire.com/klcc/discipleship/637020/details"
+    },
+    {
+      "text": "Plan your visit",
+      "href": "http://localhost:4201/new/"
+    },
+    {
+      "text": "Watch live",
+      "href": "http://localhost:4201/watch-live/"
+    },
+    {
+      "text": "Previous messages",
+      "href": "http://localhost:4201/previous-messages/"
+    },
+    {
+      "text": "Calendar",
+      "href": "http://localhost:4201/calendar/"
+    },
+    {
+      "text": "Get the app",
+      "href": "http://localhost:4201/app/"
+    },
+    {
+      "text": "Request prayer",
+      "href": "http://localhost:4201/prayer/"
+    },
+    {
+      "text": "Pastoral care",
+      "href": "http://localhost:4201/pastoral-care/"
+    },
+    {
+      "text": "203 877 5464",
+      "href": "tel:+12038775464"
+    },
+    {
+      "text": "info@klcc.us",
+      "href": "mailto:info@klcc.us"
+    },
+    {
+      "text": "Site information",
+      "href": "http://localhost:4201/legal/"
+    },
+    {
+      "text": "Back to top",
+      "href": "http://localhost:4201/courses/?motion-inspect=1#main"
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+      "landmark": "section-0",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "top": 0,
+        "width": 1440,
+        "height": 92
+      },
+      "background": {
+        "color": "rgba(16, 28, 42, 0.96)",
+        "image": "none",
+        "video": false
+      },
+      "columns": 3,
+      "stickyFixed": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "position": "fixed",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 92
+          }
+        }
+      ],
+      "font": {
+        "size": "18px",
+        "family": "\"Albert Sans\", sans-serif",
+        "weight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "27.9px"
+      },
+      "excerpt": "VisitConnectWatchGiveMenu",
+      "mediaCount": 1,
+      "fullBleed": true
+    },
+    {
+      "index": 1,
+      "key": "#courses-opening",
+      "landmark": "courses-opening",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "top": 0,
+        "width": 1440,
+        "height": 917.953125
+      },
+      "background": {
+        "color": "rgba(0, 0, 0, 0)",
+        "image": "none",
+        "video": false
+      },
+      "columns": 2,
+      "stickyFixed": [],
+      "font": {
+        "size": "50px",
+        "family": "\"Archivo Black\", sans-serif",
+        "weight": "700",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "52.5px"
+      },
+      "excerpt": "Wednesday NightDiscipleshipWednesday Nights at KLCC are for Discipleship!Looking for Bible-centered classes to help you grow in your faith and apply God's wisdom to everyday life? Our Wednesday night discipleship courses are a place to learn, connect, and grow in your walk with God. Go deeper. Grow stronger. Take your next step.",
+      "mediaCount": 1,
+      "fullBleed": true
+    },
+    {
+      "index": 2,
+      "key": "#courses-fall",
+      "landmark": "courses-fall",
+      "box": {
+        "x": 0,
+        "y": 917.953125,
+        "top": 917.953125,
+        "width": 1440,
+        "height": 1272.796875
+      },
+      "background": {
+        "color": "rgba(0, 0, 0, 0)",
+        "image": "none",
+        "video": false
+      },
+      "columns": 2,
+      "stickyFixed": [],
+      "font": {
+        "size": "30px",
+        "family": "\"Albert Sans\", sans-serif",
+        "weight": "500",
+        "letterSpacing": "-1.05px",
+        "lineHeight": "31.5px"
+      },
+      "excerpt": "Fall CoursesSeptember 23 thru December 9Watch the course introductionAlpha 9/23 thru 12/9Alpha is a place to explore life's big questions: What is my purpose? What happens when I die? Why is there suffering? Over 12 weeks, people come together to share thoughts, hear different perspectives, and have honest conversations in a judgment-free environment.Register for AlphaApologetics 9/23-10/28Why believe in God? Can the Bible be trusted? What do we do with questions about suffering? This course explores some of the biggest questions about Christianity and helps you build confidence in what you be",
+      "mediaCount": 0,
+      "fullBleed": true
+    },
+    {
+      "index": 3,
+      "key": "#courses-seasons",
+      "landmark": "courses-seasons",
+      "box": {
+        "x": 0,
+        "y": 2190.75,
+        "top": 2190.75,
+        "width": 1440,
+        "height": 917.0625
+      },
+      "background": {
+        "color": "rgb(245, 243, 237)",
+        "image": "none",
+        "video": false
+      },
+      "columns": 2,
+      "stickyFixed": [],
+      "font": {
+        "size": "36px",
+        "family": "\"Albert Sans\", sans-serif",
+        "weight": "500",
+        "letterSpacing": "-1.26px",
+        "lineHeight": "37.8px"
+      },
+      "excerpt": "Winter CoursesBible StudyHow to Study the Bible is an 8-week, hands-on course that helps you understand and apply Scripture in daily life. You’ll learn how to observe, interpret, and live out God’s Word through engaging videos, group discussions, and weekly homework. Whether you're just starting or want to grow deeper, this class will build your confidence in studying the Bible.Spring CoursesPrayer CourseExplore the meaning and power of the Lord’s Prayer in this 8-week course. Through engaging discussion and uplifting teaching, you’ll grow closer to God and strengthen your faith. Whether you'r",
+      "mediaCount": 1,
+      "fullBleed": true
+    },
+    {
+      "index": 4,
+      "key": "#courses-marriage",
+      "landmark": "courses-marriage",
+      "box": {
+        "x": 0,
+        "y": 3107.8125,
+        "top": 3107.8125,
+        "width": 1440,
+        "height": 419.75
+      },
+      "background": {
+        "color": "rgb(185, 206, 228)",
+        "image": "none",
+        "video": false
+      },
+      "columns": 2,
+      "stickyFixed": [],
+      "font": {
+        "size": "46px",
+        "family": "\"Albert Sans\", sans-serif",
+        "weight": "600",
+        "letterSpacing": "-1.61px",
+        "lineHeight": "48.3px"
+      },
+      "excerpt": "Other CoursesMarriageThe Marriage Course is a 7-session series designed to help couples strengthen their relationship—whether you've been married for months or decades, and whether things are going well or you're facing challenges. You'll learn practical skills like better communication, resolving conflict, understanding each other’s needs, and building deeper intimacy.On breakRegistration closed",
+      "mediaCount": 0,
+      "fullBleed": true
+    },
+    {
+      "index": 5,
+      "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+      "landmark": "section-5",
+      "box": {
+        "x": 0,
+        "y": 3527.5625,
+        "top": 3527.5625,
+        "width": 1440,
+        "height": 739.640625
+      },
+      "background": {
+        "color": "rgb(16, 28, 42)",
+        "image": "none",
+        "video": false
+      },
+      "columns": 1,
+      "stickyFixed": [],
+      "font": {
+        "size": "161.28px",
+        "family": "\"Archivo Black\", sans-serif",
+        "weight": "400",
+        "letterSpacing": "-8.064px",
+        "lineHeight": "161.28px"
+      },
+      "excerpt": "Join us this Sunday10 AMThe Cathedral1455 Naugatuck AvenueMilford, ConnecticutPlan your visitStay connectedWatch livePrevious messagesCalendarGet the appWe’re hereRequest prayerPastoral care203 877 5464info@klcc.usKINGDOM LIFE.Kingdom Life Christian ChurchSite informationReduce motionBack to top",
+      "mediaCount": 0,
+      "fullBleed": true
+    }
+  ],
+  "truncated": false,
+  "layoutFull": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/repair-editorial/courses/desktop/layout-full.png"
+}

@@ -1,1 +1,0 @@
-var e=document.querySelector(".app-opening figure");e&&!matchMedia("(prefers-reduced-motion: reduce)").matches&&!document.body.classList.contains("motion-reduced")&&e.animate([{opacity:.8,transform:"translateY(10px)"},{opacity:1,transform:"translateY(0)"}],{duration:900,easing:"cubic-bezier(.2,.7,.2,1)"});

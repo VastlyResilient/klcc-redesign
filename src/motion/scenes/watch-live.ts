@@ -1,2 +1,3 @@
-// Image-led Royal invitation, with a small load arrival; playback never moves.
-const title=document.querySelector('.live-opening h1');if(title&&!matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-reduced'))title.animate([{opacity:.75,transform:'translateY(9px)'},{opacity:1,transform:'translateY(0)'}],{duration:750,easing:'cubic-bezier(.2,.7,.2,1)'});
+// Practical content, artwork and controls Hold in native document flow.
+// No source evidence supports an additional timed arrival for this adaptation.
+export {};

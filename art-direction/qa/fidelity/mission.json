@@ -1,221 +1,257 @@
 {
   "route": "mission",
   "status": "Fidelity-reviewed",
-  "reviewed_at": "2026-10-07T06:32:18.337981+00:00",
-  "reviewer": "independent v22_inventory_gates agent",
-  "reference": "Lou /about opening, offset reading, inverted focus boundary; Royal world shell",
+  "accepted": false,
   "sections": [
     {
       "id": "mission-opening",
+      "status": "Fidelity-reviewed",
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark",
-          "comparison": "art-direction/qa/side-by-side/mission/aligned-sections/desktop-section-mission-opening.png",
+          "height": 900,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/desktop/opening-settled.png",
+          "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1440-opening.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 5,
+            "alignment": 4,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Reviewed as a source-backed adaptation within the locked Royal/KLCC world, not an exact reproduction of Lou identity or pixel coordinates."
+          "judgment": "Full viewport company lens artwork carries centered radical-scale identity. Desktop256.32px relative to source270–300px, tablet120px exact, phone70.2px vs64px: all within a defensible company-word adaptation. Native document scroll; no invented source load pixelation.",
+          "comparison": "review/independent/mission-0.webp",
+          "original_comparison": "art-direction/qa/round-2/mission-comparisons/mission-opening-1440.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark",
-          "comparison": "art-direction/qa/side-by-side/mission/aligned-sections/tablet-section-mission-opening.png",
+          "height": 768,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/tablet/opening-settled.png",
+          "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1024-opening.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 5,
+            "alignment": 4,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Reviewed as a source-backed adaptation within the locked Royal/KLCC world, not an exact reproduction of Lou identity or pixel coordinates."
+          "judgment": "Full viewport company lens artwork carries centered radical-scale identity. Desktop256.32px relative to source270–300px, tablet120px exact, phone70.2px vs64px: all within a defensible company-word adaptation. Native document scroll; no invented source load pixelation.",
+          "comparison": "review/independent/mission-1.webp",
+          "original_comparison": "art-direction/qa/round-2/mission-comparisons/mission-opening-1024.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark",
-          "comparison": "art-direction/qa/side-by-side/mission/aligned-sections/phone-section-mission-opening.png",
+          "height": 844,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/references/deep/lou-pilot/about/phone/opening-settled.png",
+          "build_evidence": "art-direction/qa/round-2/mission-final-evidence/390-opening.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
+            "readability": 5,
+            "text_image_association": 5,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 5,
+            "alignment": 4,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Reviewed as a source-backed adaptation within the locked Royal/KLCC world, not an exact reproduction of Lou identity or pixel coordinates."
+          "judgment": "Full viewport company lens artwork carries centered radical-scale identity. Desktop256.32px relative to source270–300px, tablet120px exact, phone70.2px vs64px: all within a defensible company-word adaptation. Native document scroll; no invented source load pixelation.",
+          "comparison": "review/independent/mission-2.webp",
+          "original_comparison": "art-direction/qa/round-2/mission-comparisons/mission-opening-390.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
     {
       "id": "mission-reading",
+      "status": "Fidelity-reviewed",
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark",
-          "comparison": "art-direction/qa/side-by-side/mission/aligned-sections/desktop-section-mission-reading.png",
+          "height": 900,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/qa/round-2/lou-reader-1440.png",
+          "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1440-reading-settled.png",
           "scores": {
-            "text_placement": 4,
+            "text_placement": 5,
             "readability": 5,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 5,
-            "spacing": 4,
-            "atmosphere_parity": 4,
-            "sequence_parity": 4,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Reviewed as a source-backed adaptation within the locked Royal/KLCC world, not an exact reproduction of Lou identity or pixel coordinates."
-        },
-        {
-          "viewport": 1024,
-          "state": "settled-landmark",
-          "comparison": "art-direction/qa/side-by-side/mission/aligned-sections/tablet-section-mission-reading.png",
-          "scores": {
-            "text_placement": 4,
-            "readability": 5,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 5,
-            "spacing": 4,
-            "atmosphere_parity": 4,
-            "sequence_parity": 4,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Reviewed as a source-backed adaptation within the locked Royal/KLCC world, not an exact reproduction of Lou identity or pixel coordinates."
-        },
-        {
-          "viewport": 390,
-          "state": "settled-landmark",
-          "comparison": "art-direction/qa/side-by-side/mission/aligned-sections/phone-section-mission-reading.png",
-          "scores": {
-            "text_placement": 4,
-            "readability": 5,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
             "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
             "mobile_recomposition": 5
           },
-          "judgment": "Reviewed as a source-backed adaptation within the locked Royal/KLCC world, not an exact reproduction of Lou identity or pixel coordinates."
-        }
-      ]
-    },
-    {
-      "id": "mission-scripture",
-      "reviews": [
-        {
-          "viewport": 1440,
-          "state": "settled-landmark",
-          "comparison": "art-direction/qa/side-by-side/mission/aligned-sections/desktop-section-mission-scripture.png",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 5,
-            "spacing": 4,
-            "atmosphere_parity": 4,
-            "sequence_parity": 4,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Reviewed as a source-backed adaptation within the locked Royal/KLCC world, not an exact reproduction of Lou identity or pixel coordinates."
+          "judgment": "The corrected broad centered field matches measured Lou x280/880 desktop and x104/816 tablet exactly. Phone x22/346 vs x20/350 is immaterial. Statement40px desktop/tablet,24px phone; modest two-column commitments stack in phone. Preserving seven semantic company commitments is an actual substitute for source smaller credentials, not three invented paragraphs. The required no-bodySplitText adaptation retains the observed one-time arrival and reverse hold. Full original verse and serve action now form contextual content within this same centered reading field, removing the artificial scripture-as-footer scene.",
+          "additional_build_evidence": [
+            "art-direction/qa/round-2/mission-final-evidence/1440-scripture.png"
+          ],
+          "comparison": "review/independent/mission-3.webp",
+          "original_comparison": "art-direction/qa/round-2/mission-comparisons/mission-reading-1440.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark",
-          "comparison": "art-direction/qa/side-by-side/mission/aligned-sections/tablet-section-mission-scripture.png",
+          "height": 768,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/qa/round-2/lou-reader-1024.png",
+          "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1024-reading-settled.png",
           "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
+            "text_placement": 5,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
             "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
-            "mobile_recomposition": 4
+            "mobile_recomposition": 5
           },
-          "judgment": "Reviewed as a source-backed adaptation within the locked Royal/KLCC world, not an exact reproduction of Lou identity or pixel coordinates."
+          "judgment": "The corrected broad centered field matches measured Lou x280/880 desktop and x104/816 tablet exactly. Phone x22/346 vs x20/350 is immaterial. Statement40px desktop/tablet,24px phone; modest two-column commitments stack in phone. Preserving seven semantic company commitments is an actual substitute for source smaller credentials, not three invented paragraphs. The required no-bodySplitText adaptation retains the observed one-time arrival and reverse hold. Full original verse and serve action now form contextual content within this same centered reading field, removing the artificial scripture-as-footer scene.",
+          "additional_build_evidence": [
+            "art-direction/qa/round-2/mission-final-evidence/1024-scripture.png"
+          ],
+          "comparison": "review/independent/mission-4.webp",
+          "original_comparison": "art-direction/qa/round-2/mission-comparisons/mission-reading-1024.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark",
-          "comparison": "art-direction/qa/side-by-side/mission/aligned-sections/phone-section-mission-scripture.png",
+          "height": 844,
+          "state": "Initial, settled, forward/reverse, reduced motion sampled",
+          "source_evidence": "art-direction/qa/round-2/lou-reader-390.png",
+          "build_evidence": "art-direction/qa/round-2/mission-final-evidence/390-reading-settled.png",
           "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
+            "text_placement": 5,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
             "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
-            "mobile_recomposition": 4
+            "mobile_recomposition": 5
           },
-          "judgment": "Reviewed as a source-backed adaptation within the locked Royal/KLCC world, not an exact reproduction of Lou identity or pixel coordinates."
+          "judgment": "The corrected broad centered field matches measured Lou x280/880 desktop and x104/816 tablet exactly. Phone x22/346 vs x20/350 is immaterial. Statement40px desktop/tablet,24px phone; modest two-column commitments stack in phone. Preserving seven semantic company commitments is an actual substitute for source smaller credentials, not three invented paragraphs. The required no-bodySplitText adaptation retains the observed one-time arrival and reverse hold. Full original verse and serve action now form contextual content within this same centered reading field, removing the artificial scripture-as-footer scene.",
+          "additional_build_evidence": [
+            "art-direction/qa/round-2/mission-final-evidence/390-scripture.png"
+          ],
+          "comparison": "review/independent/mission-5.webp",
+          "original_comparison": "art-direction/qa/round-2/mission-comparisons/mission-reading-390.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     }
   ],
-  "owner_feedback": null,
-  "accepted": false,
-  "kept": "Oversized single identity word over full-screen source imagery; dense confident argument separated from quieter facts; later light-ground focus boundary.",
-  "adapted": "The church original lens image replaces portrait. Reading starts farther right to retain the anchor world grid. Actual mission plus seven commitments replace biography and credentials. Cream scripture invitation inherits the observed focus/inversion boundary; shared site contact footer follows. Body text stays intact instead of source per-character animation.",
-  "findings": [
-    {
-      "id": "false-heading-scaling",
-      "resolution": "Removed unsupported claim; heading stays in normal document flow. Blueprint Hold/native-scroll matches runtime."
-    },
-    {
-      "id": "cross-route-plan-copy",
-      "resolution": "Mission plan and records revised for its own reference, content and mobile behavior."
-    },
-    {
-      "id": "inspector-ready",
-      "resolution": "Parent bounded readiness decode after offscreen-lazy image hang was found. Direct scene tests bypassed pending load and confirmed actual reversible property changes; resilience recheck remains G7."
-    }
-  ],
-  "interaction_evidence": [
-    "art-direction/qa/reviewer/pilot-menu-reduced.json",
-    "art-direction/qa/reviewer/pilot-interactions.json",
-    "art-direction/qa/reviewer/pilot-motion-direct.json"
-  ],
-  "motion_observations": {
-    "heading": "static normal flow, no fictitious scale or word reveal",
-    "statement": "single timed block clarity arrival; reverse does not replay, consistent causal adaptation of observed source arrival",
-    "scripture": "actual computed blur 3.99896px at progress0 and0px at.5/1; reverses to3.99896px at0; supporting copy/actions stay sharp"
+  "shared_footer_review": {
+    "id": "site-footer",
+    "status": "Fidelity-reviewed",
+    "reviews": [
+      {
+        "viewport": 1440,
+        "state": "Whole footer settled; forward/reverse entry, keyboard focus, reduced motion and no-JS verified",
+        "source_evidence": "art-direction/references/deep/lou-pilot/about/desktop/footer.png",
+        "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1440-footer-whole.png",
+        "additional_build_evidence": [
+          "art-direction/qa/round-2/mission-final-evidence/1440-footer.png",
+          "art-direction/qa/round-2/mission-final-evidence/1440-nojs-footer.png"
+        ],
+        "scores": {
+          "text_placement": 4,
+          "readability": 5,
+          "text_image_association": 5,
+          "media_position": 5,
+          "media_size_aspect": 5,
+          "alignment": 4,
+          "spacing": 4,
+          "atmosphere_parity": 4,
+          "sequence_parity": 4,
+          "mobile_recomposition": 4
+        },
+        "judgment": "The real shared contact/footer now uses light ground, top practical/contact/navigation group hierarchy and a large bottom-right wordmark. Company service time/address and real destinations replace studio identity facts; phone retains primary service facts above two utility groups and lower wordmark. Source contact hierarchy is materially reproduced. Longer church facts add height (694/660/865px vs source580/556/659); this is acceptable readable content expansion with actual grouping preserved. Bounded whole-footer reversible focus reproduces the observed source mechanism; exact6px curve is estimated. Keyboard focus forces sharp controls."
+      },
+      {
+        "viewport": 1024,
+        "state": "Whole footer settled; forward/reverse entry, keyboard focus, reduced motion and no-JS verified",
+        "source_evidence": "art-direction/references/deep/lou-pilot/about/tablet/footer.png",
+        "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1024-footer-whole.png",
+        "additional_build_evidence": [
+          "art-direction/qa/round-2/mission-final-evidence/1024-footer.png",
+          "art-direction/qa/round-2/mission-final-evidence/1024-nojs-footer.png"
+        ],
+        "scores": {
+          "text_placement": 4,
+          "readability": 5,
+          "text_image_association": 5,
+          "media_position": 5,
+          "media_size_aspect": 5,
+          "alignment": 4,
+          "spacing": 4,
+          "atmosphere_parity": 4,
+          "sequence_parity": 4,
+          "mobile_recomposition": 4
+        },
+        "judgment": "The real shared contact/footer now uses light ground, top practical/contact/navigation group hierarchy and a large bottom-right wordmark. Company service time/address and real destinations replace studio identity facts; phone retains primary service facts above two utility groups and lower wordmark. Source contact hierarchy is materially reproduced. Longer church facts add height (694/660/865px vs source580/556/659); this is acceptable readable content expansion with actual grouping preserved. Bounded whole-footer reversible focus reproduces the observed source mechanism; exact6px curve is estimated. Keyboard focus forces sharp controls."
+      },
+      {
+        "viewport": 390,
+        "state": "Whole footer settled; forward/reverse entry, keyboard focus, reduced motion and no-JS verified",
+        "source_evidence": "art-direction/references/deep/lou-pilot/about/phone/footer.png",
+        "build_evidence": "art-direction/qa/round-2/mission-final-evidence/390-footer-whole.png",
+        "additional_build_evidence": [
+          "art-direction/qa/round-2/mission-final-evidence/390-footer.png",
+          "art-direction/qa/round-2/mission-final-evidence/390-nojs-footer.png"
+        ],
+        "scores": {
+          "text_placement": 4,
+          "readability": 5,
+          "text_image_association": 5,
+          "media_position": 5,
+          "media_size_aspect": 5,
+          "alignment": 4,
+          "spacing": 4,
+          "atmosphere_parity": 4,
+          "sequence_parity": 4,
+          "mobile_recomposition": 4
+        },
+        "judgment": "The real shared contact/footer now uses light ground, top practical/contact/navigation group hierarchy and a large bottom-right wordmark. Company service time/address and real destinations replace studio identity facts; phone retains primary service facts above two utility groups and lower wordmark. Source contact hierarchy is materially reproduced. Longer church facts add height (694/660/865px vs source580/556/659); this is acceptable readable content expansion with actual grouping preserved. Bounded whole-footer reversible focus reproduces the observed source mechanism; exact6px curve is estimated. Keyboard focus forces sharp controls."
+      }
+    ]
   },
-  "review_scope": "Independent visual section review at1440,1024,390 plus actual menu/back/reduced-motion tests and direct forward/reverse scene probe. Full-site technical/structural gates remain separately reported.",
+  "reviewer": "repair_practical agent, independent of mission authorship",
+  "reviewed_at": "2026-10-07T09:31:45.362053+00:00",
+  "scope": "Independent final follow-up after actual mission reading/footer repairs. No owner acceptance or whole-site approval.",
+  "source_review": "art-direction/qa/round-2/mission-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/mission.json",
+  "source_hashes": {
+    "src/pages/mission.html": "8fc6eff6467bb90e7cd50e88ceb5b72f67a7d55cd1a6d055d8722533d6b53736",
+    "src/pages/mission.css": "430181cc0b2dac0db728f78960a84b23358f6b25f0b25192da6b662af1c28dcb",
+    "src/motion/scenes/mission.ts": "deb702973d7f71309805e7c428f6e2dc9fd35d7ef5e08b4797a7ce2cd4bdb944"
+  },
   "limits": [
-    "No physical phone test or owner approval.",
-    "Exact source editor curves/durations unknown.",
-    "This preserves source relationships with documented adaptations, not every Lou effect.",
-    "Source footer-to-scripture comparison is a borrowed focus/ground relationship, not a claim of identical content/function."
-  ]
+    "Footer exact source blur duration/easing is unknown;6px is a bounded implementation estimate.",
+    "The whole-footer screenshot can include fixed header overlay at its top when the viewport is at document end; paired viewport screenshot documents native layout.",
+    "Source fresh Lou p-locator measurement file is invalidated in its own metadata. Corrected source field dimensions independently corroborated against screenshots/dossier are used."
+  ],
+  "issues": []
 }

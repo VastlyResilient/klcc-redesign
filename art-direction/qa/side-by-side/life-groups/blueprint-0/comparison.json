@@ -1,57 +1,73 @@
 {
-  "created": "2026-10-07T07:38:45.485Z",
+  "created": "2026-10-07T09:57:18.248Z",
   "pairs": [
     {
       "viewport": "desktop",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-groups-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/desktop-section-groups-opening.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "desktop",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-004",
+      "buildState": "section-groups-introduction",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/desktop-section-groups-introduction.png",
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "desktop",
+      "referenceState": "forward-002",
       "buildState": "section-groups-directory",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/desktop-section-groups-directory.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "desktop",
-      "referenceState": "section-hero",
+      "referenceState": "forward-007",
       "buildState": "section-groups-photo",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/desktop-section-groups-photo.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-groups-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/tablet-section-groups-opening.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-004",
+      "buildState": "section-groups-introduction",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/tablet-section-groups-introduction.png",
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "tablet",
+      "referenceState": "forward-002",
       "buildState": "section-groups-directory",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/tablet-section-groups-directory.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-hero",
+      "referenceState": "forward-007",
       "buildState": "section-groups-photo",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/tablet-section-groups-photo.png",
-      "referenceSettled": true,
-      "buildSettled": false
+      "referenceSettled": false,
+      "buildSettled": true
     },
     {
       "viewport": "phone",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-groups-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/phone-section-groups-opening.png",
       "referenceSettled": true,
@@ -59,7 +75,15 @@
     },
     {
       "viewport": "phone",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-004",
+      "buildState": "section-groups-introduction",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/phone-section-groups-introduction.png",
+      "referenceSettled": true,
+      "buildSettled": true
+    },
+    {
+      "viewport": "phone",
+      "referenceState": "forward-002",
       "buildState": "section-groups-directory",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/phone-section-groups-directory.png",
       "referenceSettled": true,
@@ -67,7 +91,7 @@
     },
     {
       "viewport": "phone",
-      "referenceState": "section-hero",
+      "referenceState": "forward-007",
       "buildState": "section-groups-photo",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/blueprint-0/phone-section-groups-photo.png",
       "referenceSettled": true,

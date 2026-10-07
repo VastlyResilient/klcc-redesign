@@ -7,90 +7,21 @@
   ],
   "viewports": {
     "desktop": {
-      "measuredVisualChanges": [
-        {
-          "from": "menu-open",
-          "to": "forward-001",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>blockquote:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.992609"
-            }
-          }
-        },
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>blockquote:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.992609",
-              "to": "1"
-            }
-          }
-        }
-      ],
-      "scrollStates": 26,
+      "measuredVisualChanges": [],
+      "scrollStates": 23,
       "errors": [],
-      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/pastoral-care/capture-desktop/desktop/video/page@a1511a80a81aaa967a65477905f23c3e.webm",
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/pastoral-care/capture-desktop/desktop/video/page@da044c3460692c31bdb6dec4929f860c.webm",
       "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/pastoral-care/desktop-recording-board.png"
     },
     "tablet": {
-      "measuredVisualChanges": [
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>blockquote:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.991254"
-            }
-          }
-        },
-        {
-          "from": "forward-002",
-          "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>blockquote:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.991254",
-              "to": "1"
-            }
-          }
-        }
-      ],
-      "scrollStates": 28,
+      "measuredVisualChanges": [],
+      "scrollStates": 25,
       "errors": [],
       "video": null
     },
     "phone": {
-      "measuredVisualChanges": [
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>blockquote:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.988015"
-            }
-          }
-        },
-        {
-          "from": "forward-002",
-          "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>blockquote:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.988015",
-              "to": "1"
-            }
-          }
-        }
-      ],
-      "scrollStates": 24,
+      "measuredVisualChanges": [],
+      "scrollStates": 21,
       "errors": [],
       "video": null
     }

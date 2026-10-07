@@ -1,0 +1,2078 @@
+[
+  {
+    "route": "alpha",
+    "width": 1440,
+    "observer": {
+      "forward": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1188
+        },
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1188
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1188
+        },
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1188
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "alpha",
+    "width": 1440,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "courses",
+    "width": 1440,
+    "observer": {
+      "forward": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1000,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 2330
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1000,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 2330
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "courses",
+    "width": 1440,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "serve",
+    "width": 1440,
+    "observer": {
+      "forward": [
+        {
+          "tag": "P",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1300,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "P",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1300,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "serve",
+    "width": 1440,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "believe",
+    "width": 1440,
+    "observer": {
+      "forward": [
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 463
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 463
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "believe-alpha",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 463
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 463
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 463
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "believe-alpha",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 463
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "believe",
+    "width": 1440,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "baptism",
+    "width": 1440,
+    "observer": {
+      "forward": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 0
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 0
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "baptism",
+    "width": 1440,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "beliefs",
+    "width": 1440,
+    "observer": {
+      "forward": [
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 383
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 490
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 731
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 921
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1112
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1432
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1628
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1864
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 383
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 490
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 731
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 921
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1112
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1432
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1628
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1864
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "beliefs",
+    "width": 1440,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "alpha",
+    "width": 1024,
+    "observer": {
+      "forward": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1130
+        },
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1130
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1130
+        },
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1130
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "alpha",
+    "width": 1024,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "courses",
+    "width": 1024,
+    "observer": {
+      "forward": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1000,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 2531
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1000,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 2531
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "courses",
+    "width": 1024,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "serve",
+    "width": 1024,
+    "observer": {
+      "forward": [
+        {
+          "tag": "P",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1300,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "P",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1300,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "serve",
+    "width": 1024,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "believe",
+    "width": 1024,
+    "observer": {
+      "forward": [
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 512
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 512
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "believe-alpha",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 512
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 512
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 512
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "believe-alpha",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 512
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "believe",
+    "width": 1024,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "baptism",
+    "width": 1024,
+    "observer": {
+      "forward": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 0
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 0
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "baptism",
+    "width": 1024,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "beliefs",
+    "width": 1024,
+    "observer": {
+      "forward": [
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 321
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 428
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 611
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 832
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 921
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1157
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1432
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1583
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 321
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 428
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 611
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 832
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 921
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1157
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1432
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1583
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "beliefs",
+    "width": 1024,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "alpha",
+    "width": 390,
+    "observer": {
+      "forward": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 832
+        },
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1157
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 832
+        },
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1100,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1157
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "alpha",
+    "width": 390,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "courses",
+    "width": 390,
+    "observer": {
+      "forward": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1000,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 2967
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1000,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 2967
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "courses",
+    "width": 390,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "serve",
+    "width": 390,
+    "observer": {
+      "forward": [
+        {
+          "tag": "P",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1300,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "P",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1300,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "serve",
+    "width": 390,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "believe",
+    "width": 390,
+    "observer": {
+      "forward": [
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 321
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 921
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "believe-alpha",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1521
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 321
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 921
+        },
+        {
+          "tag": "ARTICLE",
+          "class": "believe-alpha",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1521
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "believe",
+    "width": 390,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "baptism",
+    "width": 390,
+    "observer": {
+      "forward": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 0
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "FIGURE",
+          "class": "",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 900,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 0
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "baptism",
+    "width": 390,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  },
+  {
+    "route": "beliefs",
+    "width": 390,
+    "observer": {
+      "forward": [
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 321
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 463
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 664
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 921
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1090
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1432
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1663
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 2032
+        }
+      ],
+      "reverse": [
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 232
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 321
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 463
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 664
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 921
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1090
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1432
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 1663
+        },
+        {
+          "tag": "P",
+          "class": "beliefs-paragraph",
+          "keyframes": [
+            {
+              "opacity": 0.8
+            },
+            {
+              "opacity": 1
+            }
+          ],
+          "options": {
+            "duration": 1250,
+            "easing": "cubic-bezier(.2,.65,.3,1)"
+          },
+          "at": 2032
+        }
+      ],
+      "replayCount": 0
+    }
+  },
+  {
+    "route": "beliefs",
+    "width": 390,
+    "reduced": {
+      "animations": [],
+      "overflow": false
+    }
+  }
+]

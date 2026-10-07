@@ -1,0 +1,183 @@
+{
+  "route": "app",
+  "self_check": [
+    {
+      "route": "app",
+      "w": 1440,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "app-opening",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "app-use",
+          "width": 1440,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "app",
+      "w": 1024,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "app-opening",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "app-use",
+          "width": 1024,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "app",
+      "w": 390,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "app-opening",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "app-use",
+          "width": 390,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    }
+  ],
+  "source_comparison_status": "Awaiting independent review",
+  "controls": {
+    "practical_motion": "Hold"
+  },
+  "calendar_source": null,
+  "followup_self_check": [
+    {
+      "route": "app",
+      "w": 1440,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "app-opening",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "app-use",
+          "width": 1440,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "app",
+      "w": 1024,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "app-opening",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "app-use",
+          "width": 1024,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "app",
+      "w": 390,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "app-opening",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "app-use",
+          "width": 390,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    }
+  ],
+  "final_measured_metrics": [
+    {
+      "r": "app",
+      "w": 1440,
+      "h1": "50.4px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Download for iPhone",
+          "top": 788.015625,
+          "bottom": 844.359375
+        },
+        {
+          "text": "Download for Android",
+          "top": 862.359375,
+          "bottom": 911.25
+        }
+      ]
+    },
+    {
+      "r": "app",
+      "w": 1024,
+      "h1": "36px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Download for iPhone",
+          "top": 632.015625,
+          "bottom": 688.359375
+        },
+        {
+          "text": "Download for Android",
+          "top": 706.359375,
+          "bottom": 755.25
+        }
+      ]
+    },
+    {
+      "r": "app",
+      "w": 390,
+      "h1": "36px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Download for iPhone",
+          "top": 640.84375,
+          "bottom": 697.1875
+        },
+        {
+          "text": "Download for Android",
+          "top": 715.1875,
+          "bottom": 762.53125
+        }
+      ]
+    }
+  ],
+  "followup_evidence": "/tmp/klcc-practical-final/"
+}

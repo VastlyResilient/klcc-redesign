@@ -1,2 +1,6 @@
-import {registerScene} from '../lifecycle.js';
-if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-reduced')){const o=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.animate([{opacity:.65,transform:'translateY(6px)'},{opacity:1,transform:'none'}],{duration:1000});o.unobserve(e.target)}}),{threshold:.1});document.querySelectorAll('.courses-fall article,.courses-seasons article').forEach(e=>o.observe(e))}
+// Observed first-entry clarity, reconstructed timing. Essential copy stays readable.
+const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+if(!reduced.matches&&!document.body.classList.contains('motion-reduced')){
+ const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){if(!reduced.matches&&!document.body.classList.contains('motion-reduced'))entry.target.animate([{opacity:.8},{opacity:1}],{duration:1000,easing:'cubic-bezier(.2,.65,.3,1)'});observer.unobserve(entry.target)}}),{threshold:.15});
+ document.querySelectorAll('.courses-reading figure').forEach(el=>observer.observe(el));
+}

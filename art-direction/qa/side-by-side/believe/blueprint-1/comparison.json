@@ -1,27 +1,51 @@
 {
-  "created": "2026-10-07T07:38:42.138Z",
+  "created": "2026-10-07T09:41:22.066Z",
   "pairs": [
     {
       "viewport": "desktop",
-      "referenceState": "section-section-3",
+      "referenceState": "forward-010",
       "buildState": "section-believe-scripture",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/believe/blueprint-1/desktop-section-believe-scripture.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "desktop",
+      "referenceState": "forward-009",
+      "buildState": "section-believe-materials",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/believe/blueprint-1/desktop-section-believe-materials.png",
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-section-3",
+      "referenceState": "forward-010",
       "buildState": "section-believe-scripture",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/believe/blueprint-1/tablet-section-believe-scripture.png",
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "tablet",
+      "referenceState": "forward-009",
+      "buildState": "section-believe-materials",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/believe/blueprint-1/tablet-section-believe-materials.png",
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "phone",
+      "referenceState": "forward-010",
+      "buildState": "section-believe-scripture",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/believe/blueprint-1/phone-section-believe-scripture.png",
       "referenceSettled": true,
       "buildSettled": true
     },
     {
       "viewport": "phone",
-      "referenceState": "section-section-3",
-      "buildState": "section-believe-scripture",
-      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/believe/blueprint-1/phone-section-believe-scripture.png",
+      "referenceState": "forward-009",
+      "buildState": "section-believe-materials",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/believe/blueprint-1/phone-section-believe-materials.png",
       "referenceSettled": true,
       "buildSettled": true
     }

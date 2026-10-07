@@ -49,7 +49,7 @@
           }
         },
         "atmosphere": "KLCC ink, cream, pale blue; documentary neutral photographs",
-        "mobile_rewrite": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width.",
+        "mobile_rewrite": "Native document flow; almost-full-width readable type. No mission pin. Footer utility groups stack; focus treatment immediately clears for keyboard focus or reduced motion.",
         "reduced_motion": "Unpinned complete text and final media visible."
       },
       "deviations": [
@@ -64,23 +64,26 @@
         "covered": true,
         "observed": true,
         "reconstructed": false,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
       },
       "comparison": null,
-      "reviewer_findings": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/mission.json",
+        "reviewed_at": "2026-10-07T09:31:45.362053+00:00"
+      },
       "owner_feedback": null
     },
     {
       "id": "mission-reading",
-      "visitor_task": "Large offset mission reading column becomes seven clear commitments.",
+      "visitor_task": "Read the church purpose and its practical commitments in one centered reading field.",
       "critical_answer_visible_without_animation": true,
       "reference_section": {
         "template": "lou",
         "route": "/about",
         "landmark": "section-2",
         "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-        "composition": "LouAbout: blackground, leftnegative space32%, rightbold40/44pxparagraph, smallcredentialcolumnsafter.",
+        "composition": "Corrected live Lou reading: centered880px field at1440,816px at1024,almost fullwidth phone; large readable statement followed by modest credential/detail groups.",
         "sequence": "Freshheld900pxprobe establishesonce-entered timedopacity/transformarrival; reverse stayswhite."
       },
       "company_content": {
@@ -88,22 +91,26 @@
           "ci:mission.s1.b0",
           "ci:mission.s1.b1",
           "ci:mission.s1.b2",
-          "ci:mission.s1.b3"
+          "ci:mission.s1.b3",
+          "ci:mission.s2.b0",
+          "ci:mission.s2.b1"
         ],
         "media": [],
         "cta": []
       },
       "reconstruction": {
-        "layout": "Large offset mission reading column becomes seven clear commitments.",
+        "layout": "Centered source-measured880px reading field (816px at1024), almost full width phone; modest commitments and original scripture retained in same reading section.",
         "motion": {
-          "mechanism": "KLCCbounded54pxstatementthen7semanticcommitments; 6pxrise opacity.62\u21921 in1400mswhenenters. EssentialcopyvisiblebeforeJS.",
-          "values": {
-            "estimated": true,
-            "source_editor_settings": "unknown"
+          "mechanism": "Once-entered readable statement opacity/6px translation; supporting facts Hold",
+          "source_settings": "Lou entry causality observed; exact timing estimated",
+          "implementation_values": {
+            "opacity_from": 0.62,
+            "translate_y_px": 6,
+            "duration_ms": 1400
           }
         },
         "atmosphere": "KLCC ink, cream, pale blue; documentary neutral photographs",
-        "mobile_rewrite": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width.",
+        "mobile_rewrite": "Native document flow; almost-full-width readable type. No mission pin. Footer utility groups stack; focus treatment immediately clears for keyboard focus or reduced motion.",
         "reduced_motion": "Unpinned complete text and final media visible."
       },
       "deviations": [
@@ -118,64 +125,51 @@
         "covered": true,
         "observed": true,
         "reconstructed": false,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
       },
       "comparison": null,
-      "reviewer_findings": null,
-      "owner_feedback": null
-    },
-    {
-      "id": "mission-scripture",
-      "visitor_task": "Scripture in a light quiet ground with a focus arrival.",
-      "critical_answer_visible_without_animation": true,
-      "reference_section": {
-        "template": "lou",
-        "route": "/about",
-        "landmark": "section-3",
-        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-        "composition": "Loufooter: abruptlightground,largeidentitywordmark,compactcontact/navigation.",
-        "sequence": "Observed reversibleblur14.661px\u21920 asfooterenters; actualcurveunknown."
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/mission.json",
+        "reviewed_at": "2026-10-07T09:31:45.362053+00:00"
       },
-      "company_content": {
-        "copy": [
-          "ci:mission.s2.b0",
-          "ci:mission.s2.b1"
-        ],
-        "media": [],
-        "cta": []
-      },
-      "reconstruction": {
-        "layout": "Scripture in a light quiet ground with a focus arrival.",
-        "motion": {
-          "mechanism": "KLCCscripturelightground, oversizedstatementwith0\u20134pxfocus overfirstthirdsectionentry; linksandbodyneverblurred.",
-          "values": {
-            "estimated": true,
-            "source_editor_settings": "unknown"
-          }
-        },
-        "atmosphere": "KLCC ink, cream, pale blue; documentary neutral photographs",
-        "mobile_rewrite": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width.",
-        "reduced_motion": "Unpinned complete text and final media visible."
-      },
-      "deviations": [
-        {
-          "reference": "Freshobservedreferenceabove",
-          "conflict": "CompanycontentandlockedDNA",
-          "adaptation": "Lowerblurpreservesreadabilityofscripture; sharedfooterinkinsteadLouwhitetoprotectsiteworld.",
-          "test": "Sidebysides,DOMmeasurements,contentledgerandmotionstatecaptures"
-        }
-      ],
-      "status": {
-        "covered": true,
-        "observed": true,
-        "reconstructed": false,
-        "fidelity_reviewed": false,
-        "accepted": false
-      },
-      "comparison": null,
-      "reviewer_findings": null,
-      "owner_feedback": null
+      "owner_feedback": null,
+      "content_ids": [
+        "ci:mission.s1.b0",
+        "ci:mission.s1.b1",
+        "ci:mission.s1.b2",
+        "ci:mission.s1.b3",
+        "ci:mission.s2.b0",
+        "ci:mission.s2.b1"
+      ]
     }
-  ]
+  ],
+  "repair": {
+    "date": "2026-10-07",
+    "reason": "Independent source measurement corrected erroneous right-offset Lou dossier; previous pass reopened for targeted fresh geometry review. Homepage untouched.",
+    "status": "Corrected reading and actual contact footer; independent follow-up in progress"
+  },
+  "implementation": {
+    "source": "src/pages/mission.html",
+    "css": "src/pages/mission.css",
+    "motion": "src/motion/scenes/mission.ts",
+    "actual_sections": [
+      {
+        "id": "mission-opening",
+        "reference_landmark": "section-1"
+      },
+      {
+        "id": "mission-reading",
+        "reference_landmark": "section-2"
+      }
+    ],
+    "status": "Repaired; independent follow-up pending"
+  },
+  "footer_adaptation": {
+    "reference": "Lou/about contact footer",
+    "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+    "composition": "Light ground, real contact and utility groups above large right-aligned church wordmark; source scripture retained in preceding reading, not falsely substituted for contact footer.",
+    "motion": "Whole footer blur6px to0 observed focus mechanism; curve estimated, focus-within and reduced motion force sharp."
+  },
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred"
 }

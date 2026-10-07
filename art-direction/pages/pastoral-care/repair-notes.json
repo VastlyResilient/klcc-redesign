@@ -1,0 +1,168 @@
+{
+  "route": "pastoral-care",
+  "self_check": [
+    {
+      "route": "pastoral-care",
+      "w": 1440,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "care-request",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "care-comfort",
+          "width": 1440,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "pastoral-care",
+      "w": 1024,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "care-request",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "care-comfort",
+          "width": 1024,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "pastoral-care",
+      "w": 390,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "care-request",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "care-comfort",
+          "width": 390,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    }
+  ],
+  "source_comparison_status": "Awaiting independent review",
+  "controls": {
+    "practical_motion": "Hold"
+  },
+  "calendar_source": null,
+  "followup_self_check": [
+    {
+      "route": "pastoral-care",
+      "w": 1440,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "care-request",
+          "width": 1440,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "pastoral-care",
+      "w": 1024,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "care-request",
+          "width": 1024,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "pastoral-care",
+      "w": 390,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "care-request",
+          "width": 390,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    }
+  ],
+  "final_measured_metrics": [
+    {
+      "r": "pastoral-care",
+      "w": 1440,
+      "h1": "50px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Request Pastoral Advising",
+          "top": 373.203125,
+          "bottom": 431.09375
+        },
+        {
+          "text": "You can also ask for prayer",
+          "top": 1009.84375,
+          "bottom": 1057.1875
+        }
+      ]
+    },
+    {
+      "r": "pastoral-care",
+      "w": 1024,
+      "h1": "40px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Request Pastoral Advising",
+          "top": 444.484375,
+          "bottom": 502.375
+        },
+        {
+          "text": "You can also ask for prayer",
+          "top": 1208.3125,
+          "bottom": 1255.65625
+        }
+      ]
+    },
+    {
+      "r": "pastoral-care",
+      "w": 390,
+      "h1": "32px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Request Pastoral Advising",
+          "top": 585.171875,
+          "bottom": 641.515625
+        },
+        {
+          "text": "You can also ask for prayer",
+          "top": 1476.984375,
+          "bottom": 1524.328125
+        }
+      ]
+    }
+  ],
+  "followup_evidence": "/tmp/klcc-practical-final/"
+}

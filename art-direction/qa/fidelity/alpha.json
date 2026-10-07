@@ -1,73 +1,88 @@
 {
   "route": "alpha",
-  "status": "Blocked",
-  "reviewer": "independent v22_capture_pipeline",
-  "reviewed_at": "2026-10-07T07:16:03.694Z",
-  "evidence": "art-direction/qa/side-by-side/alpha/",
-  "observations": "All three widths: original Alpha poster preserves all lettering; question-led reading passage precedes two stable media embeds; scripture and navigation remain separate. Both embeds visibly display provider connection-security restrictions.",
-  "repairs": [
-    "Real Alpha Fall poster replaces blank gradient",
-    "Direct provider video fallback links added",
-    "Discover Alpha heading given separation from embeds",
-    "Source-based H1 scale restored"
-  ],
+  "status": "Fidelity-reviewed",
+  "accepted": false,
   "sections": [
     {
       "id": "alpha-opening",
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-opening-desktop.png",
+          "build_sha256": "af0f10a7c1d8ffe24fa21ac6a82acdae90f883d12d68a748f75747bd045e4411",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+          "source_state": "opening",
+          "source_unit": "image-and-metadata",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Dominant full-width red Alpha artwork leads title and registration metadata. Intrinsic poster aspect keeps all lettering visible; phone avoids destructive cropping. The image-and-metadata unit is the exact declared source scope, not the whole Hydra page.",
+          "comparison": "review/independent/alpha-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-opening-tablet.png",
+          "build_sha256": "504a2dd7a5275c9de5e95be685415290a53a462f09af55dddef882d9c2e1da35",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+          "source_state": "opening",
+          "source_unit": "image-and-metadata",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Dominant full-width red Alpha artwork leads title and registration metadata. Intrinsic poster aspect keeps all lettering visible; phone avoids destructive cropping. The image-and-metadata unit is the exact declared source scope, not the whole Hydra page.",
+          "comparison": "review/independent/alpha-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-opening-phone.png",
+          "build_sha256": "d3427d92681bbeb1712cc45177f4367bd197c824c1488da6d01eb7960c3e018e",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png",
+          "source_state": "opening",
+          "source_unit": "image-and-metadata",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Dominant full-width red Alpha artwork leads title and registration metadata. Intrinsic poster aspect keeps all lettering visible; phone avoids destructive cropping. The image-and-metadata unit is the exact declared source scope, not the whole Hydra page.",
+          "comparison": "review/independent/alpha-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -76,57 +91,81 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-conversation-desktop.png",
+          "build_sha256": "75df3f09161370376eec5329ea7d24bc1ce661a83c8197ffa4313b6f19ba6cbe",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+          "source_state": "forward-002",
+          "source_unit": "brief",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "alignment": 5,
+            "spacing": 5,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Three ruled explanatory blocks now visibly reproduce the brief structure: questions, conversation and meeting details. Label-left/body-right hierarchy becomes one sequential mobile column. No imagery belongs to this defined text unit.",
+          "comparison": "review/independent/alpha-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-conversation-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-conversation-tablet.png",
+          "build_sha256": "87756307687e04e0c01340b3105fc49ebd416a9952c3b004c3027e8bbc8cd800",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+          "source_state": "forward-002",
+          "source_unit": "brief",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "alignment": 5,
+            "spacing": 5,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Three ruled explanatory blocks now visibly reproduce the brief structure: questions, conversation and meeting details. Label-left/body-right hierarchy becomes one sequential mobile column. No imagery belongs to this defined text unit.",
+          "comparison": "review/independent/alpha-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-conversation-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-conversation-phone.png",
+          "build_sha256": "b8f4e147742191d3c6f06e319824861d86184fda92b840b73b5ba8e9ed0a9c53",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png",
+          "source_state": "forward-002",
+          "source_unit": "brief",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "alignment": 5,
+            "spacing": 5,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Three ruled explanatory blocks now visibly reproduce the brief structure: questions, conversation and meeting details. Label-left/body-right hierarchy becomes one sequential mobile column. No imagery belongs to this defined text unit.",
+          "comparison": "review/independent/alpha-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-conversation-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -135,57 +174,81 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-films-desktop.png",
+          "build_sha256": "bdb3988ac502195a81582b28159a16be0f9cc5407610c88a6c458449e9e4759f",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-paired-tiles.png",
+          "source_state": "forward-009",
+          "source_unit": "paired-tiles",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Equal adjacent film previews match the exact paired-tiles source unit and stack in order on phone. Native 16:9 previews preserve embedded lettering; titles, durations and watch links clearly associate with each film.",
+          "comparison": "review/independent/alpha-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-films-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-films-tablet.png",
+          "build_sha256": "ffbb7a3a55cc5be33c38222173e89058d78faed760d085fcd3659d72dc7301d6",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-paired-tiles.png",
+          "source_state": "forward-009",
+          "source_unit": "paired-tiles",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Equal adjacent film previews match the exact paired-tiles source unit and stack in order on phone. Native 16:9 previews preserve embedded lettering; titles, durations and watch links clearly associate with each film.",
+          "comparison": "review/independent/alpha-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-films-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-films-phone.png",
+          "build_sha256": "8dbe7a377d2ac2e920bfe5e83a8ed502b95e5e4a2b41500e188729fc47e13cc8",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-paired-tiles.png",
+          "source_state": "forward-006",
+          "source_unit": "paired-tiles",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Equal adjacent film previews match the exact paired-tiles source unit and stack in order on phone. Native 16:9 previews preserve embedded lettering; titles, durations and watch links clearly associate with each film.",
+          "comparison": "review/independent/alpha-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-films-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -194,73 +257,102 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-scripture-desktop.png",
+          "build_sha256": "a932effdba39b35ffc53da5b377bca1e1dc99d767262dd82d2cb900e9c407da2",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+          "source_state": "forward-010",
+          "source_unit": "text-row",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "The measured source Highlight Section 2 is text-only. Small label and larger right quotation preserve its relationship; the pale church surface is an identity adaptation. Whole quotation remains readable when stacked on phone.",
+          "comparison": "review/independent/alpha-3.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-scripture-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-scripture-tablet.png",
+          "build_sha256": "4facd81e4a4a7fe317b61cf0cd4b1aad0f913720cfccd6a1cf143b42a488fba1",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+          "source_state": "forward-010",
+          "source_unit": "text-row",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "The measured source Highlight Section 2 is text-only. Small label and larger right quotation preserve its relationship; the pale church surface is an identity adaptation. Whole quotation remains readable when stacked on phone.",
+          "comparison": "review/independent/alpha-3.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-scripture-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/alpha/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/alpha-scripture-phone.png",
+          "build_sha256": "15ed159ebfbdc5528587d3f729a297d9a80f78a92fb906ae4f333ab99ad01114",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png",
+          "source_state": "forward-008",
+          "source_unit": "text-row",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "The measured source Highlight Section 2 is text-only. Small label and larger right quotation preserve its relationship; the pale church surface is an identity adaptation. Whole quotation remains readable when stacked on phone.",
+          "comparison": "review/independent/alpha-3.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/alpha-scripture-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     }
   ],
-  "blockers": [
-    {
-      "condition": "Exact-reference fidelity gate remains below4/5",
-      "evidence": "Split-poster invitation and compact cream reading passage differ from Royal full photographic hero and Lou bold black essay. Both thumbnail cards are stable direct provider links; their two-column desktop/one-column phone geometry is a practical adaptation, not exact Royal values topology.",
-      "attempt": "Compared actual3-width page sections and matching reference boards; requested concrete visual repairs where identified.",
-      "fallback": "Keep legible real-company content and explicitly documented reference adaptations. Do not invent factual imagery or hide schedules to imitate unsupported scenes."
-    }
-  ],
+  "reviewer": "editorial_independent_review; independent of product authorship",
+  "reviewed_at": "2026-10-07T09:51:03.135775+00:00",
+  "scope": "Round 3 exact-unit visual review, actual browser motion and targeted actual-pixel contrast; section rubric only, not owner acceptance or mechanical gate waiver",
+  "source_review": "art-direction/qa/round-2/editorial-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/alpha.json",
+  "source_hashes": {
+    "src/pages/alpha.html": "01fdac40aacecb9a80ddeff90cb13de03893518cdfbc1b8b939c402df83da9c8",
+    "src/pages/alpha.css": "db9175c0f08cd7fd6f07c051f874e2cf43e81e35d3d7f841bc270efce282552c",
+    "src/motion/scenes/alpha.ts": "0e743a8ea555736a76ff2d654a4a4e68d849c806967ea8e44817c8acbd738fcb"
+  },
   "limits": [
-    "Provider playback is external; local cards and correct direct links are verified, not external playback in every browser. Public reference timing remains reconstructed."
+    "Raw section aspect ratios, full-bleed flags, heading ratios and total section-count assertions remain separate mechanical gate results; these visual scores do not waive them.",
+    "Source copy length, intrinsic company assets and church palette intentionally differ; no pixel similarity percentage claimed.",
+    "Whole-unit build crops exclude fixed browser/header chrome for unobstructed content review; opening and motion screenshots retain actual header.",
+    "No physical phone, exact source editor timing, all-frame contrast proof or owner Accepted status claimed.",
+    "Targeted overlay/hero contrast sampling is not a complete WCAG audit of every text node or every transitional frame.",
+    "Source Lou first-arrival is observed but per-character implementation parity is not claimed; intact-unit clarity avoids hiding essential copy."
   ],
-  "repairs_verified": [
-    "Final desktop/tablet/phone boards show authentic Alpha Fall artwork and two official Vimeo thumbnail cards with titles/durations and direct provider actions. Black provider error frames are gone."
-  ]
+  "issues": []
 }

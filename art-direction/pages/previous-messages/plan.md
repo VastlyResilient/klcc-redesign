@@ -16,3 +16,8 @@ Deleted: repeated decorative arrows, redundant genericCTAs and panelaround every
 G6 limitation: calm headings deliberatelyHold; do not inventrandom2-axis effects togameallpairuniqueness.
 
 Comparison againsttop3examples pendingrenderedreview.
+
+
+## Fidelity repair — 2026-10-07
+Move the featured image ahead of title and metadata. Replace unequal staggered 2/1 grid with observed Slab archive 3 desktop/tablet and 2 phone compact columns. Preserve necessary factual captions, reduced to subordinate readable labels; keep original covers uncropped.
+Sources inspected before repair: Royal /contact dossier and desktop contact board; Royal /about invitation dossier; Slab /projects/hydra dossier and desktop section board; Slab /archive three-width dossier. These are repairs for renewed independent review, not approval.

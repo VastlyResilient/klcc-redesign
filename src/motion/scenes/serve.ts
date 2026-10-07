@@ -1,2 +1,6 @@
-import {registerScene} from '../lifecycle.js';
-const quote=document.querySelector<HTMLElement>('.serve-scripture')!;registerScene('serve-scripture-focus',quote,p=>quote.style.setProperty('--serve-focus',`${Math.max(0,1-p*3)*3}px`),1,.5);const text=document.querySelector('.serve-purpose>p:last-child')!;if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-reduced')){const o=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting)){text.animate([{opacity:.6,transform:'translateY(6px)'},{opacity:1,transform:'none'}],{duration:1200});o.disconnect()}},{threshold:.2});o.observe(text)}
+// Observed first-entry clarity, reconstructed timing. Essential copy stays readable.
+const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+if(!reduced.matches&&!document.body.classList.contains('motion-reduced')){
+ const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){if(!reduced.matches&&!document.body.classList.contains('motion-reduced'))entry.target.animate([{opacity:.8},{opacity:1}],{duration:1300,easing:'cubic-bezier(.2,.65,.3,1)'});observer.unobserve(entry.target)}}),{threshold:.15});
+ document.querySelectorAll('.serve-purpose>p:not(.eyebrow)').forEach(el=>observer.observe(el));
+}

@@ -1,3 +1,6 @@
-import {registerScene} from '../lifecycle.js';
-const text=document.querySelector('.baptism-preparation>p:last-child')!;if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-reduced')){const o=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting)){text.animate([{opacity:.6},{opacity:1}],{duration:1200});o.disconnect()}},{threshold:.2});o.observe(text)}
-if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-reduced')){const media=document.querySelector('.baptism-intro figure')!;const observer=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting)){media.animate([{opacity:.65},{opacity:1}],{duration:1200,easing:'ease-out'});observer.disconnect()}},{threshold:.15});observer.observe(media)}
+// Observed first-entry clarity, reconstructed timing. Essential copy stays readable.
+const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+if(!reduced.matches&&!document.body.classList.contains('motion-reduced')){
+ const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){if(!reduced.matches&&!document.body.classList.contains('motion-reduced'))entry.target.animate([{opacity:.8},{opacity:1}],{duration:900,easing:'cubic-bezier(.2,.65,.3,1)'});observer.unobserve(entry.target)}}),{threshold:.15});
+ document.querySelectorAll('.baptism-opening>figure').forEach(el=>observer.observe(el));
+}

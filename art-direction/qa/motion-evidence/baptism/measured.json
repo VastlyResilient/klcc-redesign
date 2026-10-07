@@ -7,89 +7,20 @@
   ],
   "viewports": {
     "desktop": {
-      "measuredVisualChanges": [
-        {
-          "from": "forward-002",
-          "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.894409"
-            }
-          }
-        },
-        {
-          "from": "forward-003",
-          "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.894409",
-              "to": "1"
-            }
-          }
-        }
-      ],
-      "scrollStates": 29,
+      "measuredVisualChanges": [],
+      "scrollStates": 27,
       "errors": [],
-      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/baptism/capture-desktop/desktop/video/page@5af5a9bd715bae924380d5725a9c9172.webm",
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/baptism/capture-desktop/desktop/video/page@fc11a331635aca6e52e0d1ba08d92ab4.webm",
       "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/baptism/desktop-recording-board.png"
     },
     "tablet": {
-      "measuredVisualChanges": [
-        {
-          "from": "forward-002",
-          "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.888862"
-            }
-          }
-        },
-        {
-          "from": "forward-003",
-          "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.888862",
-              "to": "1"
-            }
-          }
-        }
-      ],
+      "measuredVisualChanges": [],
       "scrollStates": 29,
       "errors": [],
       "video": null
     },
     "phone": {
-      "measuredVisualChanges": [
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.883326"
-            }
-          }
-        },
-        {
-          "from": "forward-002",
-          "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>p:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.883326",
-              "to": "1"
-            }
-          }
-        }
-      ],
+      "measuredVisualChanges": [],
       "scrollStates": 25,
       "errors": [],
       "video": null

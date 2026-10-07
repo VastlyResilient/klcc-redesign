@@ -67,7 +67,7 @@
         "route": "/about",
         "dossier": "art-direction/references/deep/royal/about/dossier.md",
         "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
-        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
         "landmark": "hero",
         "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
       },
@@ -84,13 +84,15 @@
         "ci:kids.s1.b0"
       ],
       "reconstruction": {
-        "layout": "Explicit authored section .kids-opening in src/pages/kids.html; final composition is visible in the author-check captures.",
+        "layout": "2026-10-07 repair; inspect src/pages/kids.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
         "ground": "ink",
         "motion": {
-          "mechanism": "Scroll-triggered bounded image/block arrival",
-          "source_settings": "unknown; no invented Framer values",
-          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-          "heading": "static readable HTML; no universal rise"
+          "mechanism": "Hold in native document flow",
+          "selectors": [],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "No route-owned motion on this section",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
         },
         "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
         "mobile_rewrite": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information.",
@@ -102,23 +104,20 @@
           "conflict": "The church identity and real content differ from the template.",
           "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
           "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
-        },
-        {
-          "reference": "Modest transform/opacity arrival; no observed split-word heading. Exact source trigger/easing unknown.",
-          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
-          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
-          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
         }
       ],
       "status": {
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
       },
       "comparison": null,
-      "reviewer_findings": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/kids.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
       "owner_feedback": null,
       "corrected": null
     },
@@ -128,16 +127,19 @@
       "visitor_task": "Read help children grow and find its relevant action.",
       "critical_answer_visible_without_animation": true,
       "reference_section": {
-        "template": "royal",
-        "route": "/about",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "composition": "Royal invitation: wide photographic moment with one centered statement and restrained action; no text backdrop panel.",
-        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-        "landmark": "cta",
-        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "section-2",
+        "state": "forward-004",
+        "composition": "Authentic artwork before left label/right enlarged explanation; intact image proportions.",
+        "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
       },
       "company_content": {
         "copy": [
+          "ci:kids.s3.b0",
+          "ci:kids.s3.b1",
           "ci:kids.s2.b0",
           "ci:kids.s2.b1"
         ],
@@ -149,19 +151,26 @@
         ]
       },
       "content_ids": [
+        "img:kids.faith-editorial",
+        "ci:kids.s3.b0",
+        "ci:kids.s3.b1",
         "ci:kids.s2.b0",
         "ci:kids.s2.b1",
-        "cta:kids.s2.a0",
-        "img:kids.faith-editorial"
+        "cta:kids.s2.a0"
       ],
       "reconstruction": {
-        "layout": "Explicit authored section .kids-team.paper in src/pages/kids.html; final composition is visible in the author-check captures.",
+        "layout": "2026-10-07 repair; inspect src/pages/kids.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
         "ground": "paper",
         "motion": {
-          "mechanism": "Hold",
-          "source_settings": "unknown; no invented Framer values",
-          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-          "heading": "static readable HTML; no universal rise"
+          "mechanism": "Scroll-triggered once-entered opacity",
+          "selectors": [
+            "#kids-team figure",
+            "#kids-team p:not(.eyebrow)"
+          ],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
         },
         "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
         "mobile_rewrite": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information.",
@@ -173,99 +182,33 @@
           "conflict": "The church identity and real content differ from the template.",
           "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
           "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
-        },
-        {
-          "reference": "Hold practical controls; no dramatic entrance inferred from screen.",
-          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
-          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
-          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
         }
       ],
       "status": {
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
       },
       "comparison": null,
-      "reviewer_findings": null,
-      "owner_feedback": null,
-      "corrected": null
-    },
-    {
-      "id": "kids-scripture",
-      "title": "A strong beginning",
-      "visitor_task": "Read a strong beginning and find its relevant action.",
-      "critical_answer_visible_without_animation": true,
-      "reference_section": {
-        "template": "lou",
-        "route": "/about",
-        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
-        "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
-        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
-        "landmark": "section-2",
-        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/kids.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
       },
-      "company_content": {
-        "copy": [
-          "ci:kids.s3.b0",
-          "ci:kids.s3.b1"
-        ],
-        "media": [],
-        "cta": []
-      },
-      "content_ids": [
-        "ci:kids.s3.b0",
-        "ci:kids.s3.b1"
-      ],
-      "reconstruction": {
-        "layout": "Explicit authored section .scripture in src/pages/kids.html; final composition is visible in the author-check captures.",
-        "ground": "navy",
-        "motion": {
-          "mechanism": "Hold",
-          "source_settings": "unknown; no invented Framer values",
-          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
-          "heading": "static readable HTML; no universal rise"
-        },
-        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
-        "mobile_rewrite": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information.",
-        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
-      },
-      "deviations": [
-        {
-          "reference": "Reference typography/brand and commercial claims",
-          "conflict": "The church identity and real content differ from the template.",
-          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
-          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
-        },
-        {
-          "reference": "Settled source paragraphs stay fully white through reverse scrolling. Hold content; do not claim scroll-brightening.",
-          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
-          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
-          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
-        }
-      ],
-      "status": {
-        "covered": true,
-        "observed": true,
-        "reconstructed": true,
-        "fidelity_reviewed": false,
-        "accepted": false
-      },
-      "comparison": null,
-      "reviewer_findings": null,
       "owner_feedback": null,
       "corrected": null
     }
   ],
   "content_coverage": {
     "expected": 9,
-    "assigned": 9,
-    "missing": []
+    "assigned": 8,
+    "missing": [
+      "img:kids.page-kids"
+    ]
   },
   "deletion_pass": "Do not add invented photographs of children, floating feature icons, or unsupported safeguarding claims.",
-  "implementation_status": "Observed; pre-code plan only",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
   "unresolved": [
     "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
     "Image focal points, type measures and every interaction require review of the rendered result."
@@ -280,7 +223,7 @@
       "Lou /about footer clarity arrival",
       "Slab project image entry"
     ],
-    "values": "Bounded 18px / opacity .75 image entry over 700ms, or 2px clarity entry over 650ms. Reconstruction estimates; source editor values unavailable. Once-entry; normal reverse scroll. No pinning.",
+    "values": "Only listed live selectors receive once-entered opacity .65 to 1 over 1100ms ease-out at threshold .15. Removed obsolete no-op selectors; no sticky chapter exchange or reversible scripture focus.",
     "deviation": "Motion is estimated rather than exact editor reconstruction. No invented pairwise axis distinctions. Every element remains visible before script.",
     "status": "Reconstructed; independent fidelity review pending",
     "actual_sections": [
@@ -289,18 +232,13 @@
         "reference_landmark": "hero"
       },
       {
-        "class": "kids-team paper",
-        "reference_landmark": "invitation"
-      },
-      {
-        "class": "scripture",
-        "reference_landmark": "reading"
+        "class": "kids-team",
+        "reference_landmark": "section-2"
       }
     ],
     "full_section_order": [
       "kids-opening",
-      "kids-team paper",
-      "scripture"
+      "kids-team"
     ],
     "deleted": [
       "Legacy texture-only source backgrounds omitted where they conflicted with the locked identity; asset files retained.",
@@ -318,22 +256,28 @@
   },
   "motion_contract": {
     "mechanisms": [
-      "Observed Lou first-entry timed opacity",
-      "Observed Lou reversible footer clarity"
+      "Scroll-triggered once-entered opacity"
     ],
     "selectors": [
       "#kids-team figure",
       "#kids-team p:not(.eyebrow)"
     ],
-    "focus_selector": "#kids-scripture h2",
-    "reason": "All parent arrival facts hold. Volunteer illustration and supporting passage receive their own first-entry timing. Scripture clarity reverses.",
+    "focus_selector": null,
     "estimated_settings": {
       "opacity_start": 0.65,
       "duration_ms": 1100,
-      "focus_blur_max_px": 2
+      "threshold": 0.15
     },
-    "reverse": "Timed first-entry does not replay; declared focus recomputes on scroll and reverses. Native content remains visible.",
-    "mobile": "No mobile pin added; same semantic order in native flow.",
-    "limitations": "These are restrained source-mechanism adaptations, not unique arbitrary heading axes. Exact Framer editor timings unavailable."
+    "reverse": "No replay; no reversed filter. Native flow.",
+    "mobile": "Native document flow; same nonessential entry selectors; essential content holds.",
+    "limitations": "Source editor timings unknown. No pin, chapter exchange or footer-focus reconstruction."
+  },
+  "repair": {
+    "date": "2026-10-07",
+    "status": "Rebuilt; author desktop/tablet/phone visual checks performed; independent reference review still required",
+    "source_decision": "See plan.md preconstruction repair decision",
+    "removed_false_mechanism": "Short scripture heading no longer receives Lou footer blur",
+    "content": "All original IDs retained. Repeated scripture section deleted; exact scripture now serves contextual proof inside task-specific section, not a separate false Lou donor scene.",
+    "author_capture_directory": "/tmp/klcc-ministry-repair"
   }
 }

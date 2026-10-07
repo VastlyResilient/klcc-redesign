@@ -1,0 +1,5956 @@
+{
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "dpr": 1,
+  "reducedMotion": "no-preference",
+  "states": [
+    {
+      "id": "opening",
+      "capturedAt": "2026-10-07T09:00:28.016Z",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/repair-editorial/believe/desktop/opening.png",
+      "settled": true,
+      "settleAttempts": 2,
+      "settleMs": 401,
+      "landmark": "opening",
+      "progress": 0,
+      "url": "http://localhost:4201/believe/?motion-inspect=1",
+      "textBoxes": [
+        {
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 28.9375,
+          "height": 21.6875
+        },
+        {
+          "x": 1058.84375,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 55.046875,
+          "height": 21.6875
+        },
+        {
+          "x": 1145.890625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 41.3125,
+          "height": 21.6875
+        },
+        {
+          "x": 1219.203125,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 29.78125,
+          "height": 21.6875
+        },
+        {
+          "x": 1312.984375,
+          "y": 23.15625,
+          "top": 23.15625,
+          "width": 83.828125,
+          "height": 45.6875
+        },
+        {
+          "x": 43.1875,
+          "y": 155,
+          "top": 155,
+          "width": 553.8125,
+          "height": 16.796875
+        },
+        {
+          "x": 43.1875,
+          "y": 201.796875,
+          "top": 201.796875,
+          "width": 400.1875,
+          "height": 202.90625
+        },
+        {
+          "x": 787.671875,
+          "y": 201.796875,
+          "top": 201.796875,
+          "width": 475.515625,
+          "height": 28.34375
+        },
+        {
+          "x": 787.671875,
+          "y": 252.140625,
+          "top": 252.140625,
+          "width": 475.515625,
+          "height": 83.671875
+        },
+        {
+          "x": 787.671875,
+          "y": 355.8125,
+          "top": 355.8125,
+          "width": 98.9375,
+          "height": 48.890625
+        },
+        {
+          "x": 43.1875,
+          "y": 529.703125,
+          "top": 529.703125,
+          "width": 1353.625,
+          "height": 28.34375
+        }
+      ],
+      "logoBoxes": [
+        {
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48
+        },
+        {
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48
+        }
+      ],
+      "scrollY": 0,
+      "maxScroll": 1660,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "sections": [
+        {
+          "index": 0,
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "landmark": "section-0",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 92
+          },
+          "background": {
+            "color": "rgba(16, 28, 42, 0.96)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 3,
+          "stickyFixed": [
+            {
+              "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+              "position": "fixed",
+              "box": {
+                "x": 0,
+                "y": 0,
+                "top": 0,
+                "width": 1440,
+                "height": 92
+              }
+            }
+          ],
+          "font": {
+            "size": "18px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "27.9px"
+          },
+          "excerpt": "VisitConnectWatchGiveMenu",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 1,
+          "key": "#believe-opening",
+          "landmark": "believe-opening",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 499.703125
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "50px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "700",
+            "letterSpacing": "-1.75px",
+            "lineHeight": "52.5px"
+          },
+          "excerpt": "I BelieveI Have DecidedCongratulations!If this is your first-time commitment, or rededication, congratulations on your decision to follow Jesus! We would love to help you grow as a new believer.Let us know",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 2,
+          "key": "#believe-steps",
+          "landmark": "believe-steps",
+          "box": {
+            "x": 0,
+            "y": 499.703125,
+            "top": 499.703125,
+            "width": 1440,
+            "height": 850.34375
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "28px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-0.98px",
+            "lineHeight": "29.4px"
+          },
+          "excerpt": "Your Next StepsFind a group and make friends who celebrate, support, and encourage you as you follow Jesus every day.Find a Life GroupBaptism is a public way in your spiritual journey to declare your decision as a follower of Jesus.Get BaptizedAlphaExplore life, faith, and meaning. This is more than a course—it's the next step to discover your calling, community, and purpose.Start Alpha",
+          "mediaCount": 3,
+          "fullBleed": true
+        },
+        {
+          "index": 3,
+          "key": "#believe-scripture",
+          "landmark": "believe-scripture",
+          "box": {
+            "x": 0,
+            "y": 1350.046875,
+            "top": 1350.046875,
+            "width": 1440,
+            "height": 470.71875
+          },
+          "background": {
+            "color": "rgb(245, 243, 237)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "34px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.19px",
+            "lineHeight": "35.7px"
+          },
+          "excerpt": "I rejoiced with thosewho said to me, “Let us go to the house of the Lord.” // Psalm 122:1Source page status*page under construction*The original page carries this notice; its published next steps are preserved here.",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 4,
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+          "landmark": "section-4",
+          "box": {
+            "x": 0,
+            "y": 1820.765625,
+            "top": 1820.765625,
+            "width": 1440,
+            "height": 739.640625
+          },
+          "background": {
+            "color": "rgb(16, 28, 42)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "161.28px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "-8.064px",
+            "lineHeight": "161.28px"
+          },
+          "excerpt": "Join us this Sunday10 AMThe Cathedral1455 Naugatuck AvenueMilford, ConnecticutPlan your visitStay connectedWatch livePrevious messagesCalendarGet the appWe’re hereRequest prayerPastoral care203 877 5464info@klcc.usKINGDOM LIFE.Kingdom Life Christian ChurchSite informationReduce motionBack to top",
+          "mediaCount": 0,
+          "fullBleed": true
+        }
+      ],
+      "mergedSections": [
+        {
+          "top": 0,
+          "bottom": 499.703125,
+          "members": [
+            "section-0",
+            "believe-opening"
+          ]
+        },
+        {
+          "top": 499.703125,
+          "bottom": 1350.046875,
+          "members": [
+            "believe-steps"
+          ]
+        },
+        {
+          "top": 1350.046875,
+          "bottom": 1820.765625,
+          "members": [
+            "believe-scripture"
+          ]
+        },
+        {
+          "top": 1820.765625,
+          "bottom": 2560.40625,
+          "members": [
+            "section-4"
+          ]
+        }
+      ],
+      "motion": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "x": 20,
+          "y": -100,
+          "top": -100,
+          "width": 153.96875,
+          "height": 55.890625,
+          "position": "fixed",
+          "stickyTop": "-100px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 92,
+          "position": "fixed",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)",
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)",
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 251.078125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(1)",
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 28.9375,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(2)",
+          "x": 1058.84375,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 55.046875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(3)",
+          "x": 1145.890625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 41.3125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(4)",
+          "x": 1219.203125,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 29.78125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)",
+          "x": 1312.984375,
+          "y": 23.15625,
+          "top": 23.15625,
+          "width": 83.828125,
+          "height": 45.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)>span:nth-child(1)",
+          "x": 1374.8125,
+          "y": 41.5,
+          "top": 41.5,
+          "width": 22,
+          "height": 9,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#main",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 1820.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#believe-opening",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 499.703125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>p:nth-child(1)",
+          "x": 43.1875,
+          "y": 155,
+          "top": 155,
+          "width": 553.8125,
+          "height": 16.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>h1:nth-child(2)",
+          "x": 43.1875,
+          "y": 201.796875,
+          "top": 201.796875,
+          "width": 400.1875,
+          "height": 202.90625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)",
+          "x": 787.671875,
+          "y": 201.796875,
+          "top": 201.796875,
+          "width": 475.515625,
+          "height": 202.90625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)>h2:nth-child(1)",
+          "x": 787.671875,
+          "y": 201.796875,
+          "top": 201.796875,
+          "width": 475.515625,
+          "height": 28.34375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)>p:nth-child(2)",
+          "x": 787.671875,
+          "y": 252.140625,
+          "top": 252.140625,
+          "width": 475.515625,
+          "height": 83.671875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)>a:nth-child(3)",
+          "x": 787.671875,
+          "y": 355.8125,
+          "top": 355.8125,
+          "width": 98.9375,
+          "height": 48.890625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#believe-steps",
+          "x": 0,
+          "y": 499.703125,
+          "top": 499.703125,
+          "width": 1440,
+          "height": 850.34375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>h2:nth-child(1)",
+          "x": 43.1875,
+          "y": 529.703125,
+          "top": 529.703125,
+          "width": 1353.625,
+          "height": 28.34375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)",
+          "x": 43.1875,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 1353.625,
+          "height": 650,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "x": 43.1875,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
+          "x": 67.1875,
+          "y": 1056.578125,
+          "top": 1056.578125,
+          "width": 392.53125,
+          "height": 89.671875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>a:nth-child(3)",
+          "x": 67.1875,
+          "y": 1166.25,
+          "top": 1166.25,
+          "width": 127.203125,
+          "height": 45.796875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "x": 499.71875,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.546875,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>img:nth-child(1)",
+          "x": 499.71875,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.546875,
+          "height": 650,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
+          "x": 523.71875,
+          "y": 1056.578125,
+          "top": 1056.578125,
+          "width": 392.546875,
+          "height": 89.671875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>a:nth-child(3)",
+          "x": 523.71875,
+          "y": 1166.25,
+          "top": 1166.25,
+          "width": 96.375,
+          "height": 45.796875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "x": 956.265625,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>figure:nth-child(1)",
+          "x": 956.265625,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 357.5,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>figure:nth-child(1)>img:nth-child(1)",
+          "x": 956.265625,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 357.5,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)",
+          "x": 980.265625,
+          "y": 983.296875,
+          "top": 983.296875,
+          "width": 392.53125,
+          "height": 228.75,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>h2:nth-child(1)",
+          "x": 980.265625,
+          "y": 983.296875,
+          "top": 983.296875,
+          "width": 392.53125,
+          "height": 29.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>p:nth-child(2)",
+          "x": 980.265625,
+          "y": 1026.6875,
+          "top": 1026.6875,
+          "width": 392.53125,
+          "height": 119.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>a:nth-child(3)",
+          "x": 980.265625,
+          "y": 1166.25,
+          "top": 1166.25,
+          "width": 82.125,
+          "height": 45.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#believe-scripture",
+          "x": 0,
+          "y": 1350.046875,
+          "top": 1350.046875,
+          "width": 1440,
+          "height": 470.71875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 1450.046875,
+          "top": 1450.046875,
+          "width": 406.078125,
+          "height": 270.71875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(2)",
+          "x": 625.234375,
+          "y": 1450.046875,
+          "top": 1450.046875,
+          "width": 771.578125,
+          "height": 55.96875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>p:nth-child(3)",
+          "x": 625.234375,
+          "y": 1526.015625,
+          "top": 1526.015625,
+          "width": 534.640625,
+          "height": 97.78125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)",
+          "x": 625.234375,
+          "y": 1678.796875,
+          "top": 1678.796875,
+          "width": 422.6875,
+          "height": 41.96875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>summary:nth-child(1)",
+          "x": 625.234375,
+          "y": 1678.796875,
+          "top": 1678.796875,
+          "width": 422.6875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>p:nth-child(2)",
+          "x": 625.234375,
+          "y": 1715.484375,
+          "top": 1715.484375,
+          "width": 422.6875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>p:nth-child(3)",
+          "x": 625.234375,
+          "y": 1752.171875,
+          "top": 1752.171875,
+          "width": 422.6875,
+          "height": 43.375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        }
+      ],
+      "header": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 92
+          },
+          "padding": "22px 43.2px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content",
+          "href": "http://localhost:4201/believe/?motion-inspect=1#main"
+        },
+        {
+          "text": "",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Connect",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Watch",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Give",
+          "href": "http://localhost:4201/give/"
+        },
+        {
+          "text": "Kingdom Life",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Your first Sunday",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Our story",
+          "href": "http://localhost:4201/our-story/"
+        },
+        {
+          "text": "Our leadership",
+          "href": "http://localhost:4201/leadership/"
+        },
+        {
+          "text": "Mission & vision",
+          "href": "http://localhost:4201/mission/"
+        },
+        {
+          "text": "What we believe",
+          "href": "http://localhost:4201/beliefs/"
+        },
+        {
+          "text": "Kids",
+          "href": "http://localhost:4201/kids/"
+        },
+        {
+          "text": "Youth",
+          "href": "http://localhost:4201/youth/"
+        },
+        {
+          "text": "Young adults",
+          "href": "http://localhost:4201/young-adults/"
+        },
+        {
+          "text": "Women",
+          "href": "http://localhost:4201/women/"
+        },
+        {
+          "text": "Men",
+          "href": "http://localhost:4201/men/"
+        },
+        {
+          "text": "Life Groups",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "I believe",
+          "href": "http://localhost:4201/believe/"
+        },
+        {
+          "text": "Baptism",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Courses",
+          "href": "http://localhost:4201/courses/"
+        },
+        {
+          "text": "Membership",
+          "href": "http://localhost:4201/membership/"
+        },
+        {
+          "text": "Serve",
+          "href": "http://localhost:4201/serve/"
+        },
+        {
+          "text": "Prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Media library",
+          "href": "http://localhost:4201/subsplash-media/"
+        },
+        {
+          "text": "Our app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Weather updates",
+          "href": "http://localhost:4201/weather-procedures/"
+        },
+        {
+          "text": "Easter archive",
+          "href": "http://localhost:4201/easter/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "Let us know",
+          "href": "https://klccus.churchcenter.com/people/forms/139929"
+        },
+        {
+          "text": "Find a Life Group",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Get Baptized",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Start Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Watch live",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Previous messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Get the app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Request prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "info@klcc.us",
+          "href": "mailto:info@klcc.us"
+        },
+        {
+          "text": "Site information",
+          "href": "http://localhost:4201/legal/"
+        },
+        {
+          "text": "Back to top",
+          "href": "http://localhost:4201/believe/?motion-inspect=1#main"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "id": "footer",
+      "capturedAt": "2026-10-07T09:00:28.797Z",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/repair-editorial/believe/desktop/footer.png",
+      "settled": true,
+      "settleAttempts": 2,
+      "settleMs": 286,
+      "landmark": "footer",
+      "progress": 1,
+      "url": "http://localhost:4201/believe/?motion-inspect=1",
+      "textBoxes": [
+        {
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 1685.15625,
+          "width": 28.9375,
+          "height": 21.6875
+        },
+        {
+          "x": 1058.84375,
+          "y": 25.15625,
+          "top": 1685.15625,
+          "width": 55.046875,
+          "height": 21.6875
+        },
+        {
+          "x": 1145.890625,
+          "y": 25.15625,
+          "top": 1685.15625,
+          "width": 41.3125,
+          "height": 21.6875
+        },
+        {
+          "x": 1219.203125,
+          "y": 25.15625,
+          "top": 1685.15625,
+          "width": 29.78125,
+          "height": 21.6875
+        },
+        {
+          "x": 1312.984375,
+          "y": 13.15625,
+          "top": 1673.15625,
+          "width": 83.828125,
+          "height": 45.6875
+        },
+        {
+          "x": 625.234375,
+          "y": 18.796875,
+          "top": 1678.796875,
+          "width": 422.6875,
+          "height": 21.6875
+        },
+        {
+          "x": 625.234375,
+          "y": 55.484375,
+          "top": 1715.484375,
+          "width": 422.6875,
+          "height": 21.6875
+        },
+        {
+          "x": 625.234375,
+          "y": 92.171875,
+          "top": 1752.171875,
+          "width": 422.6875,
+          "height": 43.375
+        },
+        {
+          "x": 43.1875,
+          "y": 231.765625,
+          "top": 1891.765625,
+          "width": 636.8125,
+          "height": 22.390625
+        },
+        {
+          "x": 43.1875,
+          "y": 314.15625,
+          "top": 1974.15625,
+          "width": 636.8125,
+          "height": 50
+        },
+        {
+          "x": 43.1875,
+          "y": 383.34375,
+          "top": 2043.34375,
+          "width": 636.8125,
+          "height": 74.390625
+        },
+        {
+          "x": 43.1875,
+          "y": 479.734375,
+          "top": 2139.734375,
+          "width": 104.375,
+          "height": 45.796875
+        },
+        {
+          "x": 720,
+          "y": 231.765625,
+          "top": 1891.765625,
+          "width": 318.40625,
+          "height": 22.390625
+        },
+        {
+          "x": 720,
+          "y": 278.15625,
+          "top": 1938.15625,
+          "width": 76.5,
+          "height": 24.796875
+        },
+        {
+          "x": 720,
+          "y": 312.953125,
+          "top": 1972.953125,
+          "width": 140.65625,
+          "height": 24.796875
+        },
+        {
+          "x": 720,
+          "y": 347.75,
+          "top": 2007.75,
+          "width": 66.28125,
+          "height": 24.796875
+        },
+        {
+          "x": 720,
+          "y": 382.546875,
+          "top": 2042.546875,
+          "width": 87.1875,
+          "height": 24.796875
+        },
+        {
+          "x": 1078.40625,
+          "y": 231.765625,
+          "top": 1891.765625,
+          "width": 318.40625,
+          "height": 22.390625
+        },
+        {
+          "x": 1078.40625,
+          "y": 278.15625,
+          "top": 1938.15625,
+          "width": 111,
+          "height": 24.796875
+        },
+        {
+          "x": 1078.40625,
+          "y": 312.953125,
+          "top": 1972.953125,
+          "width": 94.578125,
+          "height": 24.796875
+        },
+        {
+          "x": 1078.40625,
+          "y": 347.75,
+          "top": 2007.75,
+          "width": 106.65625,
+          "height": 24.796875
+        },
+        {
+          "x": 1078.40625,
+          "y": 382.546875,
+          "top": 2042.546875,
+          "width": 92.9375,
+          "height": 24.796875
+        },
+        {
+          "x": 43.1875,
+          "y": 635.53125,
+          "top": 2295.53125,
+          "width": 1353.625,
+          "height": 161.28125
+        },
+        {
+          "x": 43.1875,
+          "y": 853.8125,
+          "top": 2513.8125,
+          "width": 169.390625,
+          "height": 18.59375
+        },
+        {
+          "x": 1093.609375,
+          "y": 853.8125,
+          "top": 2513.8125,
+          "width": 87.609375,
+          "height": 18.59375
+        },
+        {
+          "x": 1207.21875,
+          "y": 845.8125,
+          "top": 2505.8125,
+          "width": 99.84375,
+          "height": 34.59375
+        },
+        {
+          "x": 1333.0625,
+          "y": 853.8125,
+          "top": 2513.8125,
+          "width": 63.75,
+          "height": 18.59375
+        }
+      ],
+      "logoBoxes": [
+        {
+          "x": 43.1875,
+          "y": 12,
+          "top": 1672,
+          "width": 118,
+          "height": 48
+        },
+        {
+          "x": 43.1875,
+          "y": 12,
+          "top": 1672,
+          "width": 118,
+          "height": 48
+        }
+      ],
+      "scrollY": 1660,
+      "maxScroll": 1660,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "sections": [
+        {
+          "index": 0,
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "landmark": "section-0",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 1660,
+            "width": 1440,
+            "height": 72
+          },
+          "background": {
+            "color": "rgba(16, 28, 42, 0.96)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 3,
+          "stickyFixed": [
+            {
+              "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+              "position": "fixed",
+              "box": {
+                "x": 0,
+                "y": 0,
+                "top": 1660,
+                "width": 1440,
+                "height": 72
+              }
+            }
+          ],
+          "font": {
+            "size": "18px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "27.9px"
+          },
+          "excerpt": "VisitConnectWatchGiveMenu",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 1,
+          "key": "#believe-opening",
+          "landmark": "believe-opening",
+          "box": {
+            "x": 0,
+            "y": -1660,
+            "top": 0,
+            "width": 1440,
+            "height": 499.703125
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "50px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "700",
+            "letterSpacing": "-1.75px",
+            "lineHeight": "52.5px"
+          },
+          "excerpt": "I BelieveI Have DecidedCongratulations!If this is your first-time commitment, or rededication, congratulations on your decision to follow Jesus! We would love to help you grow as a new believer.Let us know",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 2,
+          "key": "#believe-steps",
+          "landmark": "believe-steps",
+          "box": {
+            "x": 0,
+            "y": -1160.296875,
+            "top": 499.703125,
+            "width": 1440,
+            "height": 850.34375
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "28px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-0.98px",
+            "lineHeight": "29.4px"
+          },
+          "excerpt": "Your Next StepsFind a group and make friends who celebrate, support, and encourage you as you follow Jesus every day.Find a Life GroupBaptism is a public way in your spiritual journey to declare your decision as a follower of Jesus.Get BaptizedAlphaExplore life, faith, and meaning. This is more than a course—it's the next step to discover your calling, community, and purpose.Start Alpha",
+          "mediaCount": 3,
+          "fullBleed": true
+        },
+        {
+          "index": 3,
+          "key": "#believe-scripture",
+          "landmark": "believe-scripture",
+          "box": {
+            "x": 0,
+            "y": -309.953125,
+            "top": 1350.046875,
+            "width": 1440,
+            "height": 470.71875
+          },
+          "background": {
+            "color": "rgb(245, 243, 237)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "34px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.19px",
+            "lineHeight": "35.7px"
+          },
+          "excerpt": "I rejoiced with thosewho said to me, “Let us go to the house of the Lord.” // Psalm 122:1Source page status*page under construction*The original page carries this notice; its published next steps are preserved here.",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 4,
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+          "landmark": "section-4",
+          "box": {
+            "x": 0,
+            "y": 160.765625,
+            "top": 1820.765625,
+            "width": 1440,
+            "height": 739.640625
+          },
+          "background": {
+            "color": "rgb(16, 28, 42)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "161.28px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "-8.064px",
+            "lineHeight": "161.28px"
+          },
+          "excerpt": "Join us this Sunday10 AMThe Cathedral1455 Naugatuck AvenueMilford, ConnecticutPlan your visitStay connectedWatch livePrevious messagesCalendarGet the appWe’re hereRequest prayerPastoral care203 877 5464info@klcc.usKINGDOM LIFE.Kingdom Life Christian ChurchSite informationReduce motionBack to top",
+          "mediaCount": 0,
+          "fullBleed": true
+        }
+      ],
+      "mergedSections": [
+        {
+          "top": 0,
+          "bottom": 499.703125,
+          "members": [
+            "believe-opening"
+          ]
+        },
+        {
+          "top": 499.703125,
+          "bottom": 1350.046875,
+          "members": [
+            "believe-steps"
+          ]
+        },
+        {
+          "top": 1350.046875,
+          "bottom": 1820.765625,
+          "members": [
+            "believe-scripture",
+            "section-0"
+          ]
+        },
+        {
+          "top": 1820.765625,
+          "bottom": 2560.40625,
+          "members": [
+            "section-4"
+          ]
+        }
+      ],
+      "motion": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "x": 20,
+          "y": -100,
+          "top": 1560,
+          "width": 153.96875,
+          "height": 55.890625,
+          "position": "fixed",
+          "stickyTop": "-100px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "x": 0,
+          "y": 0,
+          "top": 1660,
+          "width": 1440,
+          "height": 72,
+          "position": "fixed",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)",
+          "x": 43.1875,
+          "y": 12,
+          "top": 1672,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 12,
+          "top": 1672,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)",
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 1685.15625,
+          "width": 251.078125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(1)",
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 1685.15625,
+          "width": 28.9375,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(2)",
+          "x": 1058.84375,
+          "y": 25.15625,
+          "top": 1685.15625,
+          "width": 55.046875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(3)",
+          "x": 1145.890625,
+          "y": 25.15625,
+          "top": 1685.15625,
+          "width": 41.3125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(4)",
+          "x": 1219.203125,
+          "y": 25.15625,
+          "top": 1685.15625,
+          "width": 29.78125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)",
+          "x": 1312.984375,
+          "y": 13.15625,
+          "top": 1673.15625,
+          "width": 83.828125,
+          "height": 45.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)>span:nth-child(1)",
+          "x": 1374.8125,
+          "y": 31.5,
+          "top": 1691.5,
+          "width": 22,
+          "height": 9,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#main",
+          "x": 0,
+          "y": -1660,
+          "top": 0,
+          "width": 1440,
+          "height": 1820.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#believe-steps",
+          "x": 0,
+          "y": -1160.296875,
+          "top": 499.703125,
+          "width": 1440,
+          "height": 850.34375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)",
+          "x": 43.1875,
+          "y": -1069.953125,
+          "top": 590.046875,
+          "width": 1353.625,
+          "height": 650,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "x": 43.1875,
+          "y": -1069.953125,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": -1069.953125,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
+          "x": 67.1875,
+          "y": -603.421875,
+          "top": 1056.578125,
+          "width": 392.53125,
+          "height": 89.671875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>a:nth-child(3)",
+          "x": 67.1875,
+          "y": -493.75,
+          "top": 1166.25,
+          "width": 127.203125,
+          "height": 45.796875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "x": 499.71875,
+          "y": -1069.953125,
+          "top": 590.046875,
+          "width": 440.546875,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>img:nth-child(1)",
+          "x": 499.71875,
+          "y": -1069.953125,
+          "top": 590.046875,
+          "width": 440.546875,
+          "height": 650,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
+          "x": 523.71875,
+          "y": -603.421875,
+          "top": 1056.578125,
+          "width": 392.546875,
+          "height": 89.671875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>a:nth-child(3)",
+          "x": 523.71875,
+          "y": -493.75,
+          "top": 1166.25,
+          "width": 96.375,
+          "height": 45.796875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "x": 956.265625,
+          "y": -1069.953125,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>figure:nth-child(1)",
+          "x": 956.265625,
+          "y": -1069.953125,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 357.5,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>figure:nth-child(1)>img:nth-child(1)",
+          "x": 956.265625,
+          "y": -1069.953125,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 357.5,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)",
+          "x": 980.265625,
+          "y": -676.703125,
+          "top": 983.296875,
+          "width": 392.53125,
+          "height": 228.75,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>h2:nth-child(1)",
+          "x": 980.265625,
+          "y": -676.703125,
+          "top": 983.296875,
+          "width": 392.53125,
+          "height": 29.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>p:nth-child(2)",
+          "x": 980.265625,
+          "y": -633.3125,
+          "top": 1026.6875,
+          "width": 392.53125,
+          "height": 119.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>a:nth-child(3)",
+          "x": 980.265625,
+          "y": -493.75,
+          "top": 1166.25,
+          "width": 82.125,
+          "height": 45.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#believe-scripture",
+          "x": 0,
+          "y": -309.953125,
+          "top": 1350.046875,
+          "width": 1440,
+          "height": 470.71875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": -209.953125,
+          "top": 1450.046875,
+          "width": 406.078125,
+          "height": 270.71875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(2)",
+          "x": 625.234375,
+          "y": -209.953125,
+          "top": 1450.046875,
+          "width": 771.578125,
+          "height": 55.96875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>p:nth-child(3)",
+          "x": 625.234375,
+          "y": -133.984375,
+          "top": 1526.015625,
+          "width": 534.640625,
+          "height": 97.78125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)",
+          "x": 625.234375,
+          "y": 18.796875,
+          "top": 1678.796875,
+          "width": 422.6875,
+          "height": 41.96875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>summary:nth-child(1)",
+          "x": 625.234375,
+          "y": 18.796875,
+          "top": 1678.796875,
+          "width": 422.6875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>p:nth-child(2)",
+          "x": 625.234375,
+          "y": 55.484375,
+          "top": 1715.484375,
+          "width": 422.6875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>p:nth-child(3)",
+          "x": 625.234375,
+          "y": 92.171875,
+          "top": 1752.171875,
+          "width": 422.6875,
+          "height": 43.375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+          "x": 0,
+          "y": 160.765625,
+          "top": 1820.765625,
+          "width": 1440,
+          "height": 739.640625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)",
+          "x": 43.1875,
+          "y": 231.765625,
+          "top": 1891.765625,
+          "width": 1353.625,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)",
+          "x": 43.1875,
+          "y": 231.765625,
+          "top": 1891.765625,
+          "width": 636.8125,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>p:nth-child(1)",
+          "x": 43.1875,
+          "y": 231.765625,
+          "top": 1891.765625,
+          "width": 636.8125,
+          "height": 22.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>p:nth-child(2)",
+          "x": 43.1875,
+          "y": 314.15625,
+          "top": 1974.15625,
+          "width": 636.8125,
+          "height": 50,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>p:nth-child(3)",
+          "x": 43.1875,
+          "y": 383.34375,
+          "top": 2043.34375,
+          "width": 636.8125,
+          "height": 74.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>a:nth-child(4)",
+          "x": 43.1875,
+          "y": 479.734375,
+          "top": 2139.734375,
+          "width": 104.375,
+          "height": 45.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)",
+          "x": 720,
+          "y": 231.765625,
+          "top": 1891.765625,
+          "width": 318.40625,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>p:nth-child(1)",
+          "x": 720,
+          "y": 231.765625,
+          "top": 1891.765625,
+          "width": 318.40625,
+          "height": 22.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(2)",
+          "x": 720,
+          "y": 278.15625,
+          "top": 1938.15625,
+          "width": 76.5,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(3)",
+          "x": 720,
+          "y": 312.953125,
+          "top": 1972.953125,
+          "width": 140.65625,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(4)",
+          "x": 720,
+          "y": 347.75,
+          "top": 2007.75,
+          "width": 66.28125,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(5)",
+          "x": 720,
+          "y": 382.546875,
+          "top": 2042.546875,
+          "width": 87.1875,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)",
+          "x": 1078.40625,
+          "y": 231.765625,
+          "top": 1891.765625,
+          "width": 318.40625,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>p:nth-child(1)",
+          "x": 1078.40625,
+          "y": 231.765625,
+          "top": 1891.765625,
+          "width": 318.40625,
+          "height": 22.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(2)",
+          "x": 1078.40625,
+          "y": 278.15625,
+          "top": 1938.15625,
+          "width": 111,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(3)",
+          "x": 1078.40625,
+          "y": 312.953125,
+          "top": 1972.953125,
+          "width": 94.578125,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(4)",
+          "x": 1078.40625,
+          "y": 347.75,
+          "top": 2007.75,
+          "width": 106.65625,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(5)",
+          "x": 1078.40625,
+          "y": 382.546875,
+          "top": 2042.546875,
+          "width": 92.9375,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>p:nth-child(2)",
+          "x": 43.1875,
+          "y": 635.53125,
+          "top": 2295.53125,
+          "width": 1353.625,
+          "height": 161.28125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)",
+          "x": 43.1875,
+          "y": 826.8125,
+          "top": 2486.8125,
+          "width": 1353.625,
+          "height": 53.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>p:nth-child(1)",
+          "x": 43.1875,
+          "y": 853.8125,
+          "top": 2513.8125,
+          "width": 169.390625,
+          "height": 18.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>a:nth-child(2)",
+          "x": 1093.609375,
+          "y": 853.8125,
+          "top": 2513.8125,
+          "width": 87.609375,
+          "height": 18.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>button:nth-child(3)",
+          "x": 1207.21875,
+          "y": 845.8125,
+          "top": 2505.8125,
+          "width": 99.84375,
+          "height": 34.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>a:nth-child(4)",
+          "x": 1333.0625,
+          "y": 853.8125,
+          "top": 2513.8125,
+          "width": 63.75,
+          "height": 18.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        }
+      ],
+      "header": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 1660,
+            "width": 1440,
+            "height": 72
+          },
+          "padding": "12px 43.2px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content",
+          "href": "http://localhost:4201/believe/?motion-inspect=1#main"
+        },
+        {
+          "text": "",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Connect",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Watch",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Give",
+          "href": "http://localhost:4201/give/"
+        },
+        {
+          "text": "Kingdom Life",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Your first Sunday",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Our story",
+          "href": "http://localhost:4201/our-story/"
+        },
+        {
+          "text": "Our leadership",
+          "href": "http://localhost:4201/leadership/"
+        },
+        {
+          "text": "Mission & vision",
+          "href": "http://localhost:4201/mission/"
+        },
+        {
+          "text": "What we believe",
+          "href": "http://localhost:4201/beliefs/"
+        },
+        {
+          "text": "Kids",
+          "href": "http://localhost:4201/kids/"
+        },
+        {
+          "text": "Youth",
+          "href": "http://localhost:4201/youth/"
+        },
+        {
+          "text": "Young adults",
+          "href": "http://localhost:4201/young-adults/"
+        },
+        {
+          "text": "Women",
+          "href": "http://localhost:4201/women/"
+        },
+        {
+          "text": "Men",
+          "href": "http://localhost:4201/men/"
+        },
+        {
+          "text": "Life Groups",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "I believe",
+          "href": "http://localhost:4201/believe/"
+        },
+        {
+          "text": "Baptism",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Courses",
+          "href": "http://localhost:4201/courses/"
+        },
+        {
+          "text": "Membership",
+          "href": "http://localhost:4201/membership/"
+        },
+        {
+          "text": "Serve",
+          "href": "http://localhost:4201/serve/"
+        },
+        {
+          "text": "Prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Media library",
+          "href": "http://localhost:4201/subsplash-media/"
+        },
+        {
+          "text": "Our app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Weather updates",
+          "href": "http://localhost:4201/weather-procedures/"
+        },
+        {
+          "text": "Easter archive",
+          "href": "http://localhost:4201/easter/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "Let us know",
+          "href": "https://klccus.churchcenter.com/people/forms/139929"
+        },
+        {
+          "text": "Find a Life Group",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Get Baptized",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Start Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Watch live",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Previous messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Get the app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Request prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "info@klcc.us",
+          "href": "mailto:info@klcc.us"
+        },
+        {
+          "text": "Site information",
+          "href": "http://localhost:4201/legal/"
+        },
+        {
+          "text": "Back to top",
+          "href": "http://localhost:4201/believe/?motion-inspect=1#main"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "id": "opening-settled",
+      "capturedAt": "2026-10-07T09:00:31.091Z",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/repair-editorial/believe/desktop/opening-settled.png",
+      "settled": true,
+      "settleAttempts": 2,
+      "settleMs": 382,
+      "landmark": "opening-after-traversal",
+      "progress": 0,
+      "url": "http://localhost:4201/believe/?motion-inspect=1",
+      "textBoxes": [
+        {
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 28.9375,
+          "height": 21.6875
+        },
+        {
+          "x": 1058.84375,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 55.046875,
+          "height": 21.6875
+        },
+        {
+          "x": 1145.890625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 41.3125,
+          "height": 21.6875
+        },
+        {
+          "x": 1219.203125,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 29.78125,
+          "height": 21.6875
+        },
+        {
+          "x": 1312.984375,
+          "y": 23.15625,
+          "top": 23.15625,
+          "width": 83.828125,
+          "height": 45.6875
+        },
+        {
+          "x": 43.1875,
+          "y": 155,
+          "top": 155,
+          "width": 553.8125,
+          "height": 16.796875
+        },
+        {
+          "x": 43.1875,
+          "y": 201.796875,
+          "top": 201.796875,
+          "width": 400.1875,
+          "height": 202.90625
+        },
+        {
+          "x": 787.671875,
+          "y": 201.796875,
+          "top": 201.796875,
+          "width": 475.515625,
+          "height": 28.34375
+        },
+        {
+          "x": 787.671875,
+          "y": 252.140625,
+          "top": 252.140625,
+          "width": 475.515625,
+          "height": 83.671875
+        },
+        {
+          "x": 787.671875,
+          "y": 355.8125,
+          "top": 355.8125,
+          "width": 98.9375,
+          "height": 48.890625
+        },
+        {
+          "x": 43.1875,
+          "y": 529.703125,
+          "top": 529.703125,
+          "width": 1353.625,
+          "height": 28.34375
+        }
+      ],
+      "logoBoxes": [
+        {
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48
+        },
+        {
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48
+        }
+      ],
+      "scrollY": 0,
+      "maxScroll": 1660,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "sections": [
+        {
+          "index": 0,
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "landmark": "section-0",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 92
+          },
+          "background": {
+            "color": "rgba(16, 28, 42, 0.96)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 3,
+          "stickyFixed": [
+            {
+              "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+              "position": "fixed",
+              "box": {
+                "x": 0,
+                "y": 0,
+                "top": 0,
+                "width": 1440,
+                "height": 92
+              }
+            }
+          ],
+          "font": {
+            "size": "18px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "27.9px"
+          },
+          "excerpt": "VisitConnectWatchGiveMenu",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 1,
+          "key": "#believe-opening",
+          "landmark": "believe-opening",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 499.703125
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "50px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "700",
+            "letterSpacing": "-1.75px",
+            "lineHeight": "52.5px"
+          },
+          "excerpt": "I BelieveI Have DecidedCongratulations!If this is your first-time commitment, or rededication, congratulations on your decision to follow Jesus! We would love to help you grow as a new believer.Let us know",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 2,
+          "key": "#believe-steps",
+          "landmark": "believe-steps",
+          "box": {
+            "x": 0,
+            "y": 499.703125,
+            "top": 499.703125,
+            "width": 1440,
+            "height": 850.34375
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "28px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-0.98px",
+            "lineHeight": "29.4px"
+          },
+          "excerpt": "Your Next StepsFind a group and make friends who celebrate, support, and encourage you as you follow Jesus every day.Find a Life GroupBaptism is a public way in your spiritual journey to declare your decision as a follower of Jesus.Get BaptizedAlphaExplore life, faith, and meaning. This is more than a course—it's the next step to discover your calling, community, and purpose.Start Alpha",
+          "mediaCount": 3,
+          "fullBleed": true
+        },
+        {
+          "index": 3,
+          "key": "#believe-scripture",
+          "landmark": "believe-scripture",
+          "box": {
+            "x": 0,
+            "y": 1350.046875,
+            "top": 1350.046875,
+            "width": 1440,
+            "height": 470.71875
+          },
+          "background": {
+            "color": "rgb(245, 243, 237)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "34px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.19px",
+            "lineHeight": "35.7px"
+          },
+          "excerpt": "I rejoiced with thosewho said to me, “Let us go to the house of the Lord.” // Psalm 122:1Source page status*page under construction*The original page carries this notice; its published next steps are preserved here.",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 4,
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+          "landmark": "section-4",
+          "box": {
+            "x": 0,
+            "y": 1820.765625,
+            "top": 1820.765625,
+            "width": 1440,
+            "height": 739.640625
+          },
+          "background": {
+            "color": "rgb(16, 28, 42)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "161.28px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "-8.064px",
+            "lineHeight": "161.28px"
+          },
+          "excerpt": "Join us this Sunday10 AMThe Cathedral1455 Naugatuck AvenueMilford, ConnecticutPlan your visitStay connectedWatch livePrevious messagesCalendarGet the appWe’re hereRequest prayerPastoral care203 877 5464info@klcc.usKINGDOM LIFE.Kingdom Life Christian ChurchSite informationReduce motionBack to top",
+          "mediaCount": 0,
+          "fullBleed": true
+        }
+      ],
+      "mergedSections": [
+        {
+          "top": 0,
+          "bottom": 499.703125,
+          "members": [
+            "section-0",
+            "believe-opening"
+          ]
+        },
+        {
+          "top": 499.703125,
+          "bottom": 1350.046875,
+          "members": [
+            "believe-steps"
+          ]
+        },
+        {
+          "top": 1350.046875,
+          "bottom": 1820.765625,
+          "members": [
+            "believe-scripture"
+          ]
+        },
+        {
+          "top": 1820.765625,
+          "bottom": 2560.40625,
+          "members": [
+            "section-4"
+          ]
+        }
+      ],
+      "motion": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "x": 20,
+          "y": -100,
+          "top": -100,
+          "width": 153.96875,
+          "height": 55.890625,
+          "position": "fixed",
+          "stickyTop": "-100px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 92,
+          "position": "fixed",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)",
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 22,
+          "top": 22,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)",
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 251.078125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(1)",
+          "x": 997.90625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 28.9375,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(2)",
+          "x": 1058.84375,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 55.046875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(3)",
+          "x": 1145.890625,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 41.3125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(4)",
+          "x": 1219.203125,
+          "y": 35.15625,
+          "top": 35.15625,
+          "width": 29.78125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)",
+          "x": 1312.984375,
+          "y": 23.15625,
+          "top": 23.15625,
+          "width": 83.828125,
+          "height": 45.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)>span:nth-child(1)",
+          "x": 1374.8125,
+          "y": 41.5,
+          "top": 41.5,
+          "width": 22,
+          "height": 9,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#main",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 1820.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#believe-opening",
+          "x": 0,
+          "y": 0,
+          "top": 0,
+          "width": 1440,
+          "height": 499.703125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>p:nth-child(1)",
+          "x": 43.1875,
+          "y": 155,
+          "top": 155,
+          "width": 553.8125,
+          "height": 16.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>h1:nth-child(2)",
+          "x": 43.1875,
+          "y": 201.796875,
+          "top": 201.796875,
+          "width": 400.1875,
+          "height": 202.90625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)",
+          "x": 787.671875,
+          "y": 201.796875,
+          "top": 201.796875,
+          "width": 475.515625,
+          "height": 202.90625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)>h2:nth-child(1)",
+          "x": 787.671875,
+          "y": 201.796875,
+          "top": 201.796875,
+          "width": 475.515625,
+          "height": 28.34375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)>p:nth-child(2)",
+          "x": 787.671875,
+          "y": 252.140625,
+          "top": 252.140625,
+          "width": 475.515625,
+          "height": 83.671875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)>a:nth-child(3)",
+          "x": 787.671875,
+          "y": 355.8125,
+          "top": 355.8125,
+          "width": 98.9375,
+          "height": 48.890625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#believe-steps",
+          "x": 0,
+          "y": 499.703125,
+          "top": 499.703125,
+          "width": 1440,
+          "height": 850.34375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>h2:nth-child(1)",
+          "x": 43.1875,
+          "y": 529.703125,
+          "top": 529.703125,
+          "width": 1353.625,
+          "height": 28.34375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)",
+          "x": 43.1875,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 1353.625,
+          "height": 650,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "x": 43.1875,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
+          "x": 67.1875,
+          "y": 1056.578125,
+          "top": 1056.578125,
+          "width": 392.53125,
+          "height": 89.671875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>a:nth-child(3)",
+          "x": 67.1875,
+          "y": 1166.25,
+          "top": 1166.25,
+          "width": 127.203125,
+          "height": 45.796875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "x": 499.71875,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.546875,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>img:nth-child(1)",
+          "x": 499.71875,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.546875,
+          "height": 650,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
+          "x": 523.71875,
+          "y": 1056.578125,
+          "top": 1056.578125,
+          "width": 392.546875,
+          "height": 89.671875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>a:nth-child(3)",
+          "x": 523.71875,
+          "y": 1166.25,
+          "top": 1166.25,
+          "width": 96.375,
+          "height": 45.796875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "x": 956.265625,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>figure:nth-child(1)",
+          "x": 956.265625,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 357.5,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>figure:nth-child(1)>img:nth-child(1)",
+          "x": 956.265625,
+          "y": 590.046875,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 357.5,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)",
+          "x": 980.265625,
+          "y": 983.296875,
+          "top": 983.296875,
+          "width": 392.53125,
+          "height": 228.75,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>h2:nth-child(1)",
+          "x": 980.265625,
+          "y": 983.296875,
+          "top": 983.296875,
+          "width": 392.53125,
+          "height": 29.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>p:nth-child(2)",
+          "x": 980.265625,
+          "y": 1026.6875,
+          "top": 1026.6875,
+          "width": 392.53125,
+          "height": 119.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>a:nth-child(3)",
+          "x": 980.265625,
+          "y": 1166.25,
+          "top": 1166.25,
+          "width": 82.125,
+          "height": 45.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#believe-scripture",
+          "x": 0,
+          "y": 1350.046875,
+          "top": 1350.046875,
+          "width": 1440,
+          "height": 470.71875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 1450.046875,
+          "top": 1450.046875,
+          "width": 406.078125,
+          "height": 270.71875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(2)",
+          "x": 625.234375,
+          "y": 1450.046875,
+          "top": 1450.046875,
+          "width": 771.578125,
+          "height": 55.96875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>p:nth-child(3)",
+          "x": 625.234375,
+          "y": 1526.015625,
+          "top": 1526.015625,
+          "width": 534.640625,
+          "height": 97.78125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)",
+          "x": 625.234375,
+          "y": 1678.796875,
+          "top": 1678.796875,
+          "width": 422.6875,
+          "height": 41.96875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>summary:nth-child(1)",
+          "x": 625.234375,
+          "y": 1678.796875,
+          "top": 1678.796875,
+          "width": 422.6875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>p:nth-child(2)",
+          "x": 625.234375,
+          "y": 1715.484375,
+          "top": 1715.484375,
+          "width": 422.6875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>p:nth-child(3)",
+          "x": 625.234375,
+          "y": 1752.171875,
+          "top": 1752.171875,
+          "width": 422.6875,
+          "height": 43.375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        }
+      ],
+      "header": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 92
+          },
+          "padding": "22px 43.2px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content",
+          "href": "http://localhost:4201/believe/?motion-inspect=1#main"
+        },
+        {
+          "text": "",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Connect",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Watch",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Give",
+          "href": "http://localhost:4201/give/"
+        },
+        {
+          "text": "Kingdom Life",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Your first Sunday",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Our story",
+          "href": "http://localhost:4201/our-story/"
+        },
+        {
+          "text": "Our leadership",
+          "href": "http://localhost:4201/leadership/"
+        },
+        {
+          "text": "Mission & vision",
+          "href": "http://localhost:4201/mission/"
+        },
+        {
+          "text": "What we believe",
+          "href": "http://localhost:4201/beliefs/"
+        },
+        {
+          "text": "Kids",
+          "href": "http://localhost:4201/kids/"
+        },
+        {
+          "text": "Youth",
+          "href": "http://localhost:4201/youth/"
+        },
+        {
+          "text": "Young adults",
+          "href": "http://localhost:4201/young-adults/"
+        },
+        {
+          "text": "Women",
+          "href": "http://localhost:4201/women/"
+        },
+        {
+          "text": "Men",
+          "href": "http://localhost:4201/men/"
+        },
+        {
+          "text": "Life Groups",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "I believe",
+          "href": "http://localhost:4201/believe/"
+        },
+        {
+          "text": "Baptism",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Courses",
+          "href": "http://localhost:4201/courses/"
+        },
+        {
+          "text": "Membership",
+          "href": "http://localhost:4201/membership/"
+        },
+        {
+          "text": "Serve",
+          "href": "http://localhost:4201/serve/"
+        },
+        {
+          "text": "Prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Media library",
+          "href": "http://localhost:4201/subsplash-media/"
+        },
+        {
+          "text": "Our app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Weather updates",
+          "href": "http://localhost:4201/weather-procedures/"
+        },
+        {
+          "text": "Easter archive",
+          "href": "http://localhost:4201/easter/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "Let us know",
+          "href": "https://klccus.churchcenter.com/people/forms/139929"
+        },
+        {
+          "text": "Find a Life Group",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Get Baptized",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Start Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Watch live",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Previous messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Get the app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Request prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "info@klcc.us",
+          "href": "mailto:info@klcc.us"
+        },
+        {
+          "text": "Site information",
+          "href": "http://localhost:4201/legal/"
+        },
+        {
+          "text": "Back to top",
+          "href": "http://localhost:4201/believe/?motion-inspect=1#main"
+        }
+      ],
+      "overflow": false
+    },
+    {
+      "id": "midpoint",
+      "capturedAt": "2026-10-07T09:00:32.216Z",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/repair-editorial/believe/desktop/midpoint.png",
+      "settled": true,
+      "settleAttempts": 2,
+      "settleMs": 405,
+      "landmark": "midpoint",
+      "progress": 0.5,
+      "url": "http://localhost:4201/believe/?motion-inspect=1",
+      "textBoxes": [
+        {
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 855.15625,
+          "width": 28.9375,
+          "height": 21.6875
+        },
+        {
+          "x": 1058.84375,
+          "y": 25.15625,
+          "top": 855.15625,
+          "width": 55.046875,
+          "height": 21.6875
+        },
+        {
+          "x": 1145.890625,
+          "y": 25.15625,
+          "top": 855.15625,
+          "width": 41.3125,
+          "height": 21.6875
+        },
+        {
+          "x": 1219.203125,
+          "y": 25.15625,
+          "top": 855.15625,
+          "width": 29.78125,
+          "height": 21.6875
+        },
+        {
+          "x": 1312.984375,
+          "y": 13.15625,
+          "top": 843.15625,
+          "width": 83.828125,
+          "height": 45.6875
+        },
+        {
+          "x": 67.1875,
+          "y": 226.578125,
+          "top": 1056.578125,
+          "width": 392.53125,
+          "height": 89.671875
+        },
+        {
+          "x": 67.1875,
+          "y": 336.25,
+          "top": 1166.25,
+          "width": 127.203125,
+          "height": 45.796875
+        },
+        {
+          "x": 523.71875,
+          "y": 226.578125,
+          "top": 1056.578125,
+          "width": 392.546875,
+          "height": 89.671875
+        },
+        {
+          "x": 523.71875,
+          "y": 336.25,
+          "top": 1166.25,
+          "width": 96.375,
+          "height": 45.796875
+        },
+        {
+          "x": 980.265625,
+          "y": 153.296875,
+          "top": 983.296875,
+          "width": 392.53125,
+          "height": 29.390625
+        },
+        {
+          "x": 980.265625,
+          "y": 196.6875,
+          "top": 1026.6875,
+          "width": 392.53125,
+          "height": 119.5625
+        },
+        {
+          "x": 980.265625,
+          "y": 336.25,
+          "top": 1166.25,
+          "width": 82.125,
+          "height": 45.796875
+        },
+        {
+          "x": 625.234375,
+          "y": 620.046875,
+          "top": 1450.046875,
+          "width": 771.578125,
+          "height": 55.96875
+        },
+        {
+          "x": 625.234375,
+          "y": 696.015625,
+          "top": 1526.015625,
+          "width": 534.640625,
+          "height": 97.78125
+        },
+        {
+          "x": 625.234375,
+          "y": 848.796875,
+          "top": 1678.796875,
+          "width": 422.6875,
+          "height": 21.6875
+        },
+        {
+          "x": 625.234375,
+          "y": 885.484375,
+          "top": 1715.484375,
+          "width": 422.6875,
+          "height": 21.6875
+        }
+      ],
+      "logoBoxes": [
+        {
+          "x": 43.1875,
+          "y": 12,
+          "top": 842,
+          "width": 118,
+          "height": 48
+        },
+        {
+          "x": 43.1875,
+          "y": 12,
+          "top": 842,
+          "width": 118,
+          "height": 48
+        }
+      ],
+      "scrollY": 830,
+      "maxScroll": 1660,
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "sections": [
+        {
+          "index": 0,
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "landmark": "section-0",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 830,
+            "width": 1440,
+            "height": 72
+          },
+          "background": {
+            "color": "rgba(16, 28, 42, 0.96)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 3,
+          "stickyFixed": [
+            {
+              "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+              "position": "fixed",
+              "box": {
+                "x": 0,
+                "y": 0,
+                "top": 830,
+                "width": 1440,
+                "height": 72
+              }
+            }
+          ],
+          "font": {
+            "size": "18px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "normal",
+            "lineHeight": "27.9px"
+          },
+          "excerpt": "VisitConnectWatchGiveMenu",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 1,
+          "key": "#believe-opening",
+          "landmark": "believe-opening",
+          "box": {
+            "x": 0,
+            "y": -830,
+            "top": 0,
+            "width": 1440,
+            "height": 499.703125
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "50px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "700",
+            "letterSpacing": "-1.75px",
+            "lineHeight": "52.5px"
+          },
+          "excerpt": "I BelieveI Have DecidedCongratulations!If this is your first-time commitment, or rededication, congratulations on your decision to follow Jesus! We would love to help you grow as a new believer.Let us know",
+          "mediaCount": 0,
+          "fullBleed": true
+        },
+        {
+          "index": 2,
+          "key": "#believe-steps",
+          "landmark": "believe-steps",
+          "box": {
+            "x": 0,
+            "y": -330.296875,
+            "top": 499.703125,
+            "width": 1440,
+            "height": 850.34375
+          },
+          "background": {
+            "color": "rgba(0, 0, 0, 0)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "28px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-0.98px",
+            "lineHeight": "29.4px"
+          },
+          "excerpt": "Your Next StepsFind a group and make friends who celebrate, support, and encourage you as you follow Jesus every day.Find a Life GroupBaptism is a public way in your spiritual journey to declare your decision as a follower of Jesus.Get BaptizedAlphaExplore life, faith, and meaning. This is more than a course—it's the next step to discover your calling, community, and purpose.Start Alpha",
+          "mediaCount": 3,
+          "fullBleed": true
+        },
+        {
+          "index": 3,
+          "key": "#believe-scripture",
+          "landmark": "believe-scripture",
+          "box": {
+            "x": 0,
+            "y": 520.046875,
+            "top": 1350.046875,
+            "width": 1440,
+            "height": 470.71875
+          },
+          "background": {
+            "color": "rgb(245, 243, 237)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 2,
+          "stickyFixed": [],
+          "font": {
+            "size": "34px",
+            "family": "\"Albert Sans\", sans-serif",
+            "weight": "500",
+            "letterSpacing": "-1.19px",
+            "lineHeight": "35.7px"
+          },
+          "excerpt": "I rejoiced with thosewho said to me, “Let us go to the house of the Lord.” // Psalm 122:1Source page status*page under construction*The original page carries this notice; its published next steps are preserved here.",
+          "mediaCount": 1,
+          "fullBleed": true
+        },
+        {
+          "index": 4,
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+          "landmark": "section-4",
+          "box": {
+            "x": 0,
+            "y": 990.765625,
+            "top": 1820.765625,
+            "width": 1440,
+            "height": 739.640625
+          },
+          "background": {
+            "color": "rgb(16, 28, 42)",
+            "image": "none",
+            "video": false
+          },
+          "columns": 1,
+          "stickyFixed": [],
+          "font": {
+            "size": "161.28px",
+            "family": "\"Archivo Black\", sans-serif",
+            "weight": "400",
+            "letterSpacing": "-8.064px",
+            "lineHeight": "161.28px"
+          },
+          "excerpt": "Join us this Sunday10 AMThe Cathedral1455 Naugatuck AvenueMilford, ConnecticutPlan your visitStay connectedWatch livePrevious messagesCalendarGet the appWe’re hereRequest prayerPastoral care203 877 5464info@klcc.usKINGDOM LIFE.Kingdom Life Christian ChurchSite informationReduce motionBack to top",
+          "mediaCount": 0,
+          "fullBleed": true
+        }
+      ],
+      "mergedSections": [
+        {
+          "top": 0,
+          "bottom": 499.703125,
+          "members": [
+            "believe-opening"
+          ]
+        },
+        {
+          "top": 499.703125,
+          "bottom": 1350.046875,
+          "members": [
+            "believe-steps",
+            "section-0"
+          ]
+        },
+        {
+          "top": 1350.046875,
+          "bottom": 1820.765625,
+          "members": [
+            "believe-scripture"
+          ]
+        },
+        {
+          "top": 1820.765625,
+          "bottom": 2560.40625,
+          "members": [
+            "section-4"
+          ]
+        }
+      ],
+      "motion": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "x": 20,
+          "y": -100,
+          "top": 730,
+          "width": 153.96875,
+          "height": 55.890625,
+          "position": "fixed",
+          "stickyTop": "-100px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "x": 0,
+          "y": 0,
+          "top": 830,
+          "width": 1440,
+          "height": 72,
+          "position": "fixed",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)",
+          "x": 43.1875,
+          "y": 12,
+          "top": 842,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>a:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 12,
+          "top": 842,
+          "width": 118,
+          "height": 48,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)",
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 855.15625,
+          "width": 251.078125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(1)",
+          "x": 997.90625,
+          "y": 25.15625,
+          "top": 855.15625,
+          "width": 28.9375,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(2)",
+          "x": 1058.84375,
+          "y": 25.15625,
+          "top": 855.15625,
+          "width": 55.046875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(3)",
+          "x": 1145.890625,
+          "y": 25.15625,
+          "top": 855.15625,
+          "width": 41.3125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>nav:nth-child(2)>a:nth-child(4)",
+          "x": 1219.203125,
+          "y": 25.15625,
+          "top": 855.15625,
+          "width": 29.78125,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)",
+          "x": 1312.984375,
+          "y": 13.15625,
+          "top": 843.15625,
+          "width": 83.828125,
+          "height": 45.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)>button:nth-child(3)>span:nth-child(1)",
+          "x": 1374.8125,
+          "y": 31.5,
+          "top": 861.5,
+          "width": 22,
+          "height": 9,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#main",
+          "x": 0,
+          "y": -830,
+          "top": 0,
+          "width": 1440,
+          "height": 1820.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#believe-opening",
+          "x": 0,
+          "y": -830,
+          "top": 0,
+          "width": 1440,
+          "height": 499.703125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>p:nth-child(1)",
+          "x": 43.1875,
+          "y": -675,
+          "top": 155,
+          "width": 553.8125,
+          "height": 16.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>h1:nth-child(2)",
+          "x": 43.1875,
+          "y": -628.203125,
+          "top": 201.796875,
+          "width": 400.1875,
+          "height": 202.90625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)",
+          "x": 787.671875,
+          "y": -628.203125,
+          "top": 201.796875,
+          "width": 475.515625,
+          "height": 202.90625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)>h2:nth-child(1)",
+          "x": 787.671875,
+          "y": -628.203125,
+          "top": 201.796875,
+          "width": 475.515625,
+          "height": 28.34375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)>p:nth-child(2)",
+          "x": 787.671875,
+          "y": -577.859375,
+          "top": 252.140625,
+          "width": 475.515625,
+          "height": 83.671875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(1)>div:nth-child(3)>a:nth-child(3)",
+          "x": 787.671875,
+          "y": -474.1875,
+          "top": 355.8125,
+          "width": 98.9375,
+          "height": 48.890625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#believe-steps",
+          "x": 0,
+          "y": -330.296875,
+          "top": 499.703125,
+          "width": 1440,
+          "height": 850.34375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>h2:nth-child(1)",
+          "x": 43.1875,
+          "y": -300.296875,
+          "top": 529.703125,
+          "width": 1353.625,
+          "height": 28.34375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)",
+          "x": 43.1875,
+          "y": -239.953125,
+          "top": 590.046875,
+          "width": 1353.625,
+          "height": 650,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "x": 43.1875,
+          "y": -239.953125,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": -239.953125,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>p:nth-child(2)",
+          "x": 67.1875,
+          "y": 226.578125,
+          "top": 1056.578125,
+          "width": 392.53125,
+          "height": 89.671875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)>a:nth-child(3)",
+          "x": 67.1875,
+          "y": 336.25,
+          "top": 1166.25,
+          "width": 127.203125,
+          "height": 45.796875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "x": 499.71875,
+          "y": -239.953125,
+          "top": 590.046875,
+          "width": 440.546875,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>img:nth-child(1)",
+          "x": 499.71875,
+          "y": -239.953125,
+          "top": 590.046875,
+          "width": 440.546875,
+          "height": 650,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>p:nth-child(2)",
+          "x": 523.71875,
+          "y": 226.578125,
+          "top": 1056.578125,
+          "width": 392.546875,
+          "height": 89.671875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)>a:nth-child(3)",
+          "x": 523.71875,
+          "y": 336.25,
+          "top": 1166.25,
+          "width": 96.375,
+          "height": 45.796875,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "x": 956.265625,
+          "y": -239.953125,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 650,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>figure:nth-child(1)",
+          "x": 956.265625,
+          "y": -239.953125,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 357.5,
+          "position": "absolute",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>figure:nth-child(1)>img:nth-child(1)",
+          "x": 956.265625,
+          "y": -239.953125,
+          "top": 590.046875,
+          "width": 440.53125,
+          "height": 357.5,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)",
+          "x": 980.265625,
+          "y": 153.296875,
+          "top": 983.296875,
+          "width": 392.53125,
+          "height": 228.75,
+          "position": "relative",
+          "stickyTop": "0px",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>h2:nth-child(1)",
+          "x": 980.265625,
+          "y": 153.296875,
+          "top": 983.296875,
+          "width": 392.53125,
+          "height": 29.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>p:nth-child(2)",
+          "x": 980.265625,
+          "y": 196.6875,
+          "top": 1026.6875,
+          "width": 392.53125,
+          "height": 119.5625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)>div:nth-child(2)>a:nth-child(3)",
+          "x": 980.265625,
+          "y": 336.25,
+          "top": 1166.25,
+          "width": 82.125,
+          "height": 45.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "#believe-scripture",
+          "x": 0,
+          "y": 520.046875,
+          "top": 1350.046875,
+          "width": 1440,
+          "height": 470.71875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>img:nth-child(1)",
+          "x": 43.1875,
+          "y": 620.046875,
+          "top": 1450.046875,
+          "width": 406.078125,
+          "height": 270.71875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(2)",
+          "x": 625.234375,
+          "y": 620.046875,
+          "top": 1450.046875,
+          "width": 771.578125,
+          "height": 55.96875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>p:nth-child(3)",
+          "x": 625.234375,
+          "y": 696.015625,
+          "top": 1526.015625,
+          "width": 534.640625,
+          "height": 97.78125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)",
+          "x": 625.234375,
+          "y": 848.796875,
+          "top": 1678.796875,
+          "width": 422.6875,
+          "height": 41.96875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>summary:nth-child(1)",
+          "x": 625.234375,
+          "y": 848.796875,
+          "top": 1678.796875,
+          "width": 422.6875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>p:nth-child(2)",
+          "x": 625.234375,
+          "y": 885.484375,
+          "top": 1715.484375,
+          "width": 422.6875,
+          "height": 21.6875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>details:nth-child(4)>p:nth-child(3)",
+          "x": 625.234375,
+          "y": 922.171875,
+          "top": 1752.171875,
+          "width": 422.6875,
+          "height": 43.375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(16, 28, 42)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+          "x": 0,
+          "y": 990.765625,
+          "top": 1820.765625,
+          "width": 1440,
+          "height": 739.640625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)",
+          "x": 43.1875,
+          "y": 1061.765625,
+          "top": 1891.765625,
+          "width": 1353.625,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)",
+          "x": 43.1875,
+          "y": 1061.765625,
+          "top": 1891.765625,
+          "width": 636.8125,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>p:nth-child(1)",
+          "x": 43.1875,
+          "y": 1061.765625,
+          "top": 1891.765625,
+          "width": 636.8125,
+          "height": 22.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>p:nth-child(2)",
+          "x": 43.1875,
+          "y": 1144.15625,
+          "top": 1974.15625,
+          "width": 636.8125,
+          "height": 50,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>p:nth-child(3)",
+          "x": 43.1875,
+          "y": 1213.34375,
+          "top": 2043.34375,
+          "width": 636.8125,
+          "height": 74.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(1)>a:nth-child(4)",
+          "x": 43.1875,
+          "y": 1309.734375,
+          "top": 2139.734375,
+          "width": 104.375,
+          "height": 45.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)",
+          "x": 720,
+          "y": 1061.765625,
+          "top": 1891.765625,
+          "width": 318.40625,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>p:nth-child(1)",
+          "x": 720,
+          "y": 1061.765625,
+          "top": 1891.765625,
+          "width": 318.40625,
+          "height": 22.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(2)",
+          "x": 720,
+          "y": 1108.15625,
+          "top": 1938.15625,
+          "width": 76.5,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(3)",
+          "x": 720,
+          "y": 1142.953125,
+          "top": 1972.953125,
+          "width": 140.65625,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(4)",
+          "x": 720,
+          "y": 1177.75,
+          "top": 2007.75,
+          "width": 66.28125,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(2)>a:nth-child(5)",
+          "x": 720,
+          "y": 1212.546875,
+          "top": 2042.546875,
+          "width": 87.1875,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)",
+          "x": 1078.40625,
+          "y": 1061.765625,
+          "top": 1891.765625,
+          "width": 318.40625,
+          "height": 303.765625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>p:nth-child(1)",
+          "x": 1078.40625,
+          "y": 1061.765625,
+          "top": 1891.765625,
+          "width": 318.40625,
+          "height": 22.390625,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(185, 206, 228)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(2)",
+          "x": 1078.40625,
+          "y": 1108.15625,
+          "top": 1938.15625,
+          "width": 111,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(3)",
+          "x": 1078.40625,
+          "y": 1142.953125,
+          "top": 1972.953125,
+          "width": 94.578125,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(4)",
+          "x": 1078.40625,
+          "y": 1177.75,
+          "top": 2007.75,
+          "width": 106.65625,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(1)>div:nth-child(3)>a:nth-child(5)",
+          "x": 1078.40625,
+          "y": 1212.546875,
+          "top": 2042.546875,
+          "width": 92.9375,
+          "height": 24.796875,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>p:nth-child(2)",
+          "x": 43.1875,
+          "y": 1465.53125,
+          "top": 2295.53125,
+          "width": 1353.625,
+          "height": 161.28125,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)",
+          "x": 43.1875,
+          "y": 1656.8125,
+          "top": 2486.8125,
+          "width": 1353.625,
+          "height": 53.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>p:nth-child(1)",
+          "x": 43.1875,
+          "y": 1683.8125,
+          "top": 2513.8125,
+          "width": 169.390625,
+          "height": 18.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>a:nth-child(2)",
+          "x": 1093.609375,
+          "y": 1683.8125,
+          "top": 2513.8125,
+          "width": 87.609375,
+          "height": 18.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>button:nth-child(3)",
+          "x": 1207.21875,
+          "y": 1675.8125,
+          "top": 2505.8125,
+          "width": 99.84375,
+          "height": 34.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)>div:nth-child(3)>a:nth-child(4)",
+          "x": 1333.0625,
+          "y": 1683.8125,
+          "top": 2513.8125,
+          "width": 63.75,
+          "height": 18.59375,
+          "position": "static",
+          "stickyTop": "auto",
+          "transform": "none",
+          "opacity": "1",
+          "filter": "none",
+          "clipPath": "none",
+          "color": "rgb(245, 243, 237)"
+        }
+      ],
+      "header": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 830,
+            "width": 1440,
+            "height": 72
+          },
+          "padding": "12px 43.2px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content",
+          "href": "http://localhost:4201/believe/?motion-inspect=1#main"
+        },
+        {
+          "text": "",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Connect",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Watch",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Give",
+          "href": "http://localhost:4201/give/"
+        },
+        {
+          "text": "Kingdom Life",
+          "href": "http://localhost:4201/"
+        },
+        {
+          "text": "Your first Sunday",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Our story",
+          "href": "http://localhost:4201/our-story/"
+        },
+        {
+          "text": "Our leadership",
+          "href": "http://localhost:4201/leadership/"
+        },
+        {
+          "text": "Mission & vision",
+          "href": "http://localhost:4201/mission/"
+        },
+        {
+          "text": "What we believe",
+          "href": "http://localhost:4201/beliefs/"
+        },
+        {
+          "text": "Kids",
+          "href": "http://localhost:4201/kids/"
+        },
+        {
+          "text": "Youth",
+          "href": "http://localhost:4201/youth/"
+        },
+        {
+          "text": "Young adults",
+          "href": "http://localhost:4201/young-adults/"
+        },
+        {
+          "text": "Women",
+          "href": "http://localhost:4201/women/"
+        },
+        {
+          "text": "Men",
+          "href": "http://localhost:4201/men/"
+        },
+        {
+          "text": "Life Groups",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "I believe",
+          "href": "http://localhost:4201/believe/"
+        },
+        {
+          "text": "Baptism",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Courses",
+          "href": "http://localhost:4201/courses/"
+        },
+        {
+          "text": "Membership",
+          "href": "http://localhost:4201/membership/"
+        },
+        {
+          "text": "Serve",
+          "href": "http://localhost:4201/serve/"
+        },
+        {
+          "text": "Prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Media library",
+          "href": "http://localhost:4201/subsplash-media/"
+        },
+        {
+          "text": "Our app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Weather updates",
+          "href": "http://localhost:4201/weather-procedures/"
+        },
+        {
+          "text": "Easter archive",
+          "href": "http://localhost:4201/easter/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "Let us know",
+          "href": "https://klccus.churchcenter.com/people/forms/139929"
+        },
+        {
+          "text": "Find a Life Group",
+          "href": "http://localhost:4201/life-groups/"
+        },
+        {
+          "text": "Get Baptized",
+          "href": "http://localhost:4201/baptism/"
+        },
+        {
+          "text": "Start Alpha",
+          "href": "http://localhost:4201/alpha/"
+        },
+        {
+          "text": "Plan your visit",
+          "href": "http://localhost:4201/new/"
+        },
+        {
+          "text": "Watch live",
+          "href": "http://localhost:4201/watch-live/"
+        },
+        {
+          "text": "Previous messages",
+          "href": "http://localhost:4201/previous-messages/"
+        },
+        {
+          "text": "Calendar",
+          "href": "http://localhost:4201/calendar/"
+        },
+        {
+          "text": "Get the app",
+          "href": "http://localhost:4201/app/"
+        },
+        {
+          "text": "Request prayer",
+          "href": "http://localhost:4201/prayer/"
+        },
+        {
+          "text": "Pastoral care",
+          "href": "http://localhost:4201/pastoral-care/"
+        },
+        {
+          "text": "203 877 5464",
+          "href": "tel:+12038775464"
+        },
+        {
+          "text": "info@klcc.us",
+          "href": "mailto:info@klcc.us"
+        },
+        {
+          "text": "Site information",
+          "href": "http://localhost:4201/legal/"
+        },
+        {
+          "text": "Back to top",
+          "href": "http://localhost:4201/believe/?motion-inspect=1#main"
+        }
+      ],
+      "overflow": false
+    }
+  ],
+  "motionDeltas": [
+    {
+      "from": "opening",
+      "to": "footer",
+      "changes": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 0,
+          "toScroll": 1660
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 0,
+          "toScroll": 1660
+        }
+      ]
+    },
+    {
+      "from": "footer",
+      "to": "opening-settled",
+      "changes": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 1660,
+          "toScroll": 0
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 1660,
+          "toScroll": 0
+        }
+      ]
+    },
+    {
+      "from": "opening-settled",
+      "to": "midpoint",
+      "changes": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>a:nth-child(1)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 0,
+          "toScroll": 830
+        },
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "changes": {},
+          "stickyObserved": true,
+          "fromScroll": 0,
+          "toScroll": 830
+        }
+      ]
+    }
+  ],
+  "hover": [],
+  "errors": [],
+  "httpStatus": 200,
+  "resolvedUrl": "http://localhost:4201/believe/?motion-inspect=1",
+  "links": [
+    {
+      "text": "Skip to content",
+      "href": "http://localhost:4201/believe/?motion-inspect=1#main"
+    },
+    {
+      "text": "",
+      "href": "http://localhost:4201/"
+    },
+    {
+      "text": "Visit",
+      "href": "http://localhost:4201/new/"
+    },
+    {
+      "text": "Connect",
+      "href": "http://localhost:4201/life-groups/"
+    },
+    {
+      "text": "Watch",
+      "href": "http://localhost:4201/watch-live/"
+    },
+    {
+      "text": "Give",
+      "href": "http://localhost:4201/give/"
+    },
+    {
+      "text": "Kingdom Life",
+      "href": "http://localhost:4201/"
+    },
+    {
+      "text": "Your first Sunday",
+      "href": "http://localhost:4201/new/"
+    },
+    {
+      "text": "Our story",
+      "href": "http://localhost:4201/our-story/"
+    },
+    {
+      "text": "Our leadership",
+      "href": "http://localhost:4201/leadership/"
+    },
+    {
+      "text": "Mission & vision",
+      "href": "http://localhost:4201/mission/"
+    },
+    {
+      "text": "What we believe",
+      "href": "http://localhost:4201/beliefs/"
+    },
+    {
+      "text": "Kids",
+      "href": "http://localhost:4201/kids/"
+    },
+    {
+      "text": "Youth",
+      "href": "http://localhost:4201/youth/"
+    },
+    {
+      "text": "Young adults",
+      "href": "http://localhost:4201/young-adults/"
+    },
+    {
+      "text": "Women",
+      "href": "http://localhost:4201/women/"
+    },
+    {
+      "text": "Men",
+      "href": "http://localhost:4201/men/"
+    },
+    {
+      "text": "Life Groups",
+      "href": "http://localhost:4201/life-groups/"
+    },
+    {
+      "text": "I believe",
+      "href": "http://localhost:4201/believe/"
+    },
+    {
+      "text": "Baptism",
+      "href": "http://localhost:4201/baptism/"
+    },
+    {
+      "text": "Alpha",
+      "href": "http://localhost:4201/alpha/"
+    },
+    {
+      "text": "Courses",
+      "href": "http://localhost:4201/courses/"
+    },
+    {
+      "text": "Membership",
+      "href": "http://localhost:4201/membership/"
+    },
+    {
+      "text": "Serve",
+      "href": "http://localhost:4201/serve/"
+    },
+    {
+      "text": "Prayer",
+      "href": "http://localhost:4201/prayer/"
+    },
+    {
+      "text": "Pastoral care",
+      "href": "http://localhost:4201/pastoral-care/"
+    },
+    {
+      "text": "Calendar",
+      "href": "http://localhost:4201/calendar/"
+    },
+    {
+      "text": "Messages",
+      "href": "http://localhost:4201/previous-messages/"
+    },
+    {
+      "text": "Media library",
+      "href": "http://localhost:4201/subsplash-media/"
+    },
+    {
+      "text": "Our app",
+      "href": "http://localhost:4201/app/"
+    },
+    {
+      "text": "Weather updates",
+      "href": "http://localhost:4201/weather-procedures/"
+    },
+    {
+      "text": "Easter archive",
+      "href": "http://localhost:4201/easter/"
+    },
+    {
+      "text": "203 877 5464",
+      "href": "tel:+12038775464"
+    },
+    {
+      "text": "Let us know",
+      "href": "https://klccus.churchcenter.com/people/forms/139929"
+    },
+    {
+      "text": "Find a Life Group",
+      "href": "http://localhost:4201/life-groups/"
+    },
+    {
+      "text": "Get Baptized",
+      "href": "http://localhost:4201/baptism/"
+    },
+    {
+      "text": "Start Alpha",
+      "href": "http://localhost:4201/alpha/"
+    },
+    {
+      "text": "Plan your visit",
+      "href": "http://localhost:4201/new/"
+    },
+    {
+      "text": "Watch live",
+      "href": "http://localhost:4201/watch-live/"
+    },
+    {
+      "text": "Previous messages",
+      "href": "http://localhost:4201/previous-messages/"
+    },
+    {
+      "text": "Calendar",
+      "href": "http://localhost:4201/calendar/"
+    },
+    {
+      "text": "Get the app",
+      "href": "http://localhost:4201/app/"
+    },
+    {
+      "text": "Request prayer",
+      "href": "http://localhost:4201/prayer/"
+    },
+    {
+      "text": "Pastoral care",
+      "href": "http://localhost:4201/pastoral-care/"
+    },
+    {
+      "text": "203 877 5464",
+      "href": "tel:+12038775464"
+    },
+    {
+      "text": "info@klcc.us",
+      "href": "mailto:info@klcc.us"
+    },
+    {
+      "text": "Site information",
+      "href": "http://localhost:4201/legal/"
+    },
+    {
+      "text": "Back to top",
+      "href": "http://localhost:4201/believe/?motion-inspect=1#main"
+    }
+  ],
+  "sections": [
+    {
+      "index": 0,
+      "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+      "landmark": "section-0",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "top": 0,
+        "width": 1440,
+        "height": 92
+      },
+      "background": {
+        "color": "rgba(16, 28, 42, 0.96)",
+        "image": "none",
+        "video": false
+      },
+      "columns": 3,
+      "stickyFixed": [
+        {
+          "key": "html:nth-child(1)>body:nth-child(2)>header:nth-child(2)",
+          "position": "fixed",
+          "box": {
+            "x": 0,
+            "y": 0,
+            "top": 0,
+            "width": 1440,
+            "height": 92
+          }
+        }
+      ],
+      "font": {
+        "size": "18px",
+        "family": "\"Albert Sans\", sans-serif",
+        "weight": "400",
+        "letterSpacing": "normal",
+        "lineHeight": "27.9px"
+      },
+      "excerpt": "VisitConnectWatchGiveMenu",
+      "mediaCount": 1,
+      "fullBleed": true
+    },
+    {
+      "index": 1,
+      "key": "#believe-opening",
+      "landmark": "believe-opening",
+      "box": {
+        "x": 0,
+        "y": 0,
+        "top": 0,
+        "width": 1440,
+        "height": 499.703125
+      },
+      "background": {
+        "color": "rgba(0, 0, 0, 0)",
+        "image": "none",
+        "video": false
+      },
+      "columns": 2,
+      "stickyFixed": [],
+      "font": {
+        "size": "50px",
+        "family": "\"Archivo Black\", sans-serif",
+        "weight": "700",
+        "letterSpacing": "-1.75px",
+        "lineHeight": "52.5px"
+      },
+      "excerpt": "I BelieveI Have DecidedCongratulations!If this is your first-time commitment, or rededication, congratulations on your decision to follow Jesus! We would love to help you grow as a new believer.Let us know",
+      "mediaCount": 0,
+      "fullBleed": true
+    },
+    {
+      "index": 2,
+      "key": "#believe-steps",
+      "landmark": "believe-steps",
+      "box": {
+        "x": 0,
+        "y": 499.703125,
+        "top": 499.703125,
+        "width": 1440,
+        "height": 850.34375
+      },
+      "background": {
+        "color": "rgba(0, 0, 0, 0)",
+        "image": "none",
+        "video": false
+      },
+      "columns": 1,
+      "stickyFixed": [],
+      "font": {
+        "size": "28px",
+        "family": "\"Albert Sans\", sans-serif",
+        "weight": "500",
+        "letterSpacing": "-0.98px",
+        "lineHeight": "29.4px"
+      },
+      "excerpt": "Your Next StepsFind a group and make friends who celebrate, support, and encourage you as you follow Jesus every day.Find a Life GroupBaptism is a public way in your spiritual journey to declare your decision as a follower of Jesus.Get BaptizedAlphaExplore life, faith, and meaning. This is more than a course—it's the next step to discover your calling, community, and purpose.Start Alpha",
+      "mediaCount": 3,
+      "fullBleed": true
+    },
+    {
+      "index": 3,
+      "key": "#believe-scripture",
+      "landmark": "believe-scripture",
+      "box": {
+        "x": 0,
+        "y": 1350.046875,
+        "top": 1350.046875,
+        "width": 1440,
+        "height": 470.71875
+      },
+      "background": {
+        "color": "rgb(245, 243, 237)",
+        "image": "none",
+        "video": false
+      },
+      "columns": 2,
+      "stickyFixed": [],
+      "font": {
+        "size": "34px",
+        "family": "\"Albert Sans\", sans-serif",
+        "weight": "500",
+        "letterSpacing": "-1.19px",
+        "lineHeight": "35.7px"
+      },
+      "excerpt": "I rejoiced with thosewho said to me, “Let us go to the house of the Lord.” // Psalm 122:1Source page status*page under construction*The original page carries this notice; its published next steps are preserved here.",
+      "mediaCount": 1,
+      "fullBleed": true
+    },
+    {
+      "index": 4,
+      "key": "html:nth-child(1)>body:nth-child(2)>footer:nth-child(5)",
+      "landmark": "section-4",
+      "box": {
+        "x": 0,
+        "y": 1820.765625,
+        "top": 1820.765625,
+        "width": 1440,
+        "height": 739.640625
+      },
+      "background": {
+        "color": "rgb(16, 28, 42)",
+        "image": "none",
+        "video": false
+      },
+      "columns": 1,
+      "stickyFixed": [],
+      "font": {
+        "size": "161.28px",
+        "family": "\"Archivo Black\", sans-serif",
+        "weight": "400",
+        "letterSpacing": "-8.064px",
+        "lineHeight": "161.28px"
+      },
+      "excerpt": "Join us this Sunday10 AMThe Cathedral1455 Naugatuck AvenueMilford, ConnecticutPlan your visitStay connectedWatch livePrevious messagesCalendarGet the appWe’re hereRequest prayerPastoral care203 877 5464info@klcc.usKINGDOM LIFE.Kingdom Life Christian ChurchSite informationReduce motionBack to top",
+      "mediaCount": 0,
+      "fullBleed": true
+    }
+  ],
+  "truncated": false,
+  "layoutFull": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/repair-editorial/believe/desktop/layout-full.png"
+}

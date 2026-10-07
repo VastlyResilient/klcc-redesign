@@ -1,0 +1,27 @@
+{
+  "status": "Invalid selector probe, excluded from paragraph geometry evidence",
+  "reason": "p locator matched logo/footer rather than split-text reading field. Use editorial independent Lou DOM measurements and screenshot evidence.",
+  "raw": [
+    {
+      "width": 1440,
+      "paragraphs": [
+        {
+          "text": "Lou Perez",
+          "x": 666.015625,
+          "width": 103.96875,
+          "font": "24px",
+          "weight": "600",
+          "top": 726.390625
+        }
+      ]
+    },
+    {
+      "width": 1024,
+      "paragraphs": []
+    },
+    {
+      "width": 390,
+      "paragraphs": []
+    }
+  ]
+}

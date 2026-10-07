@@ -15,3 +15,8 @@ Deleted: repeated decorative arrows, redundant genericCTAs and panelaround every
 G6 limitation: calm headings deliberatelyHold; do not inventrandom2-axis effects togameallpairuniqueness.
 
 Comparison againsttop3examples pendingrenderedreview.
+
+
+## Fidelity repair — 2026-10-07
+Match observed Royal About invitation with centered compact two-line headline/action on continuous darkened photograph. Rebuild player as Slab Hydra full-width media followed by metadata and a direct fallback, not Royal values cards.
+Sources inspected before repair: Royal /contact dossier and desktop contact board; Royal /about invitation dossier; Slab /projects/hydra dossier and desktop section board; Slab /archive three-width dossier. These are repairs for renewed independent review, not approval.

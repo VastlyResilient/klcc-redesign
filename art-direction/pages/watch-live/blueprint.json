@@ -9,7 +9,8 @@
   "heading_arrival": {
     "unit": "block",
     "vector": "hold",
-    "driver": "native-scroll"
+    "driver": "native-scroll",
+    "source_reason": "Royal photographic invitation observed without pin; centered scene supplies visual event. Exact intro timing unavailable, so no invented 750ms arrival. Player and direct service control Hold."
   },
   "reference": {
     "template": "royal",
@@ -25,7 +26,7 @@
         "route": "/about",
         "dossier": "art-direction/references/deep/royal/about/dossier.md",
         "composition": "Royal photographic CTA relationship: invitation and action over documentary scene. Expands toopeningwithactualKLCCworshipphoto; notRoyalnormalflowhero.",
-        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "sequence": "Hold / native document progression. Royal photographic invitation observed without pin; centered scene supplies visual event. Exact intro timing unavailable, so no invented 750ms arrival. Player and direct service control Hold.",
         "landmark": "cta"
       },
       "company_content": {
@@ -38,13 +39,13 @@
       "reconstruction": {
         "layout": "Worship stage fills visual opening; service time and direct access above fold.",
         "motion": {
-          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "mechanism": "Hold",
           "values": {
-            "estimated": true
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
           }
         },
         "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
-        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
         "reduced_motion": "All HTML visible, no pin or focusblur."
       },
       "deviations": [
@@ -59,8 +60,12 @@
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/watch-live.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
       }
     },
     {
@@ -68,12 +73,13 @@
       "visitor_task": "Watch the next service; find the direct provider if embedding fails.",
       "critical_answer_visible_without_animation": true,
       "reference_section": {
-        "template": "royal",
-        "route": "/about",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "composition": "Stable widescreen player on cream with direct provider alternative.",
-        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-        "landmark": "ourvalues"
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "hero",
+        "state": "opening",
+        "composition": "Broad functional media first; title/direct service fallback left and bounded playback context right below. All controls Hold.",
+        "sequence": "Hold / native document progression. Royal photographic invitation observed without pin; centered scene supplies visual event. Exact intro timing unavailable, so no invented 750ms arrival. Player and direct service control Hold."
       },
       "company_content": {
         "copy": [
@@ -84,15 +90,15 @@
         "media": []
       },
       "reconstruction": {
-        "layout": "Stable widescreen player on cream with direct provider alternative.",
+        "layout": "Broad functional media first; title/direct service fallback left and bounded playback context right below. All controls Hold.",
         "motion": {
-          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "mechanism": "Hold",
           "values": {
-            "estimated": true
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
           }
         },
         "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
-        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
         "reduced_motion": "All HTML visible, no pin or focusblur."
       },
       "deviations": [
@@ -107,8 +113,12 @@
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/watch-live.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
       }
     },
     {
@@ -117,11 +127,12 @@
       "critical_answer_visible_without_animation": true,
       "reference_section": {
         "template": "royal",
-        "route": "/about",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "composition": "Stable widescreen player on cream with direct provider alternative.",
-        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
-        "landmark": "ourvalues"
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "landmark": "section-0",
+        "state": "opening-settled",
+        "composition": "Compact invitation left with stable alternate contact/navigation channels right; phone stacks.",
+        "sequence": "Hold / native document progression. Royal photographic invitation observed without pin; centered scene supplies visual event. Exact intro timing unavailable, so no invented 750ms arrival. Player and direct service control Hold."
       },
       "company_content": {
         "copy": [],
@@ -131,15 +142,15 @@
         "media": []
       },
       "reconstruction": {
-        "layout": "Stable widescreen player on cream with direct provider alternative.",
+        "layout": "Compact invitation left with stable alternate contact/navigation channels right; phone stacks.",
         "motion": {
-          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "mechanism": "Hold",
           "values": {
-            "estimated": true
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
           }
         },
         "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
-        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
         "reduced_motion": "All HTML visible, no pin or focusblur."
       },
       "deviations": [
@@ -154,9 +165,15 @@
         "covered": true,
         "observed": true,
         "reconstructed": true,
-        "fidelity_reviewed": false,
+        "fidelity_reviewed": true,
         "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/watch-live.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
       }
     }
-  ]
+  ],
+  "repair_review_note": "Composition repaired 2026-10-07; historical fidelity record unchanged. Requires independent fresh judgment, not author approval.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred"
 }

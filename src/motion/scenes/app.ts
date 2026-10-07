@@ -1,1 +1,3 @@
-const figure=document.querySelector('.app-opening figure');if(figure&&!matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-reduced'))figure.animate([{opacity:.8,transform:'translateY(10px)'},{opacity:1,transform:'translateY(0)'}],{duration:900,easing:'cubic-bezier(.2,.7,.2,1)'});
+// Practical content, artwork and controls Hold in native document flow.
+// No source evidence supports an additional timed arrival for this adaptation.
+export {};

@@ -11,43 +11,32 @@
         {
           "from": "menu-open",
           "to": "forward-001",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
           "properties": {
             "opacity": {
               "from": "1",
-              "to": "0.864563"
+              "to": "0.998049"
             }
           }
         },
         {
           "from": "menu-open",
           "to": "forward-001",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
           "properties": {
             "opacity": {
-              "from": "0.676813",
-              "to": "0.65"
+              "from": "1",
+              "to": "0.998049"
             }
           }
         },
         {
           "from": "forward-001",
           "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
           "properties": {
             "opacity": {
-              "from": "0.864563",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-001",
-          "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
+              "from": "0.998049",
               "to": "1"
             }
           }
@@ -55,21 +44,54 @@
         {
           "from": "forward-001",
           "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.877331"
+              "from": "0.998049",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.99464"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.99464"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.99464"
             }
           }
         },
         {
           "from": "forward-002",
           "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
           "properties": {
             "opacity": {
-              "from": "0.877331",
+              "from": "0.99464",
               "to": "1"
             }
           }
@@ -77,10 +99,10 @@
         {
           "from": "forward-002",
           "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
           "properties": {
             "opacity": {
-              "from": "0.65",
+              "from": "0.99464",
               "to": "1"
             }
           }
@@ -88,21 +110,32 @@
         {
           "from": "forward-002",
           "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.805854"
+              "from": "0.99464",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.994641"
             }
           }
         },
         {
           "from": "forward-003",
           "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
           "properties": {
             "opacity": {
-              "from": "0.805854",
+              "from": "0.994641",
               "to": "1"
             }
           }
@@ -110,10 +143,32 @@
         {
           "from": "forward-003",
           "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
           "properties": {
             "opacity": {
-              "from": "0.65",
+              "from": "1",
+              "to": "0.995184"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.995184"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
+          "properties": {
+            "opacity": {
+              "from": "0.995184",
               "to": "1"
             }
           }
@@ -121,10 +176,10 @@
         {
           "from": "forward-004",
           "to": "forward-005",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
           "properties": {
             "opacity": {
-              "from": "0.65",
+              "from": "0.995184",
               "to": "1"
             }
           }
@@ -132,535 +187,29 @@
         {
           "from": "forward-004",
           "to": "forward-005",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.803057"
+              "from": "1",
+              "to": "0.995188"
             }
           }
         },
         {
           "from": "forward-005",
           "to": "forward-006",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
           "properties": {
             "opacity": {
-              "from": "0.803057",
+              "from": "0.995188",
               "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-005",
-          "to": "forward-006",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(9)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "0.927339"
-            }
-          }
-        },
-        {
-          "from": "forward-006",
-          "to": "forward-007",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(9)",
-          "properties": {
-            "opacity": {
-              "from": "0.927339",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "opening-settled",
-          "to": "midpoint",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "opening-settled",
-          "to": "midpoint",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "opening-settled",
-          "to": "midpoint",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "opening-settled",
-          "to": "midpoint",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "section-section-0",
-          "to": "section-beliefs-opening",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "section-section-0",
-          "to": "section-beliefs-opening",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "section-section-0",
-          "to": "section-beliefs-opening",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "section-section-0",
-          "to": "section-beliefs-opening",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "section-beliefs-opening",
-          "to": "section-beliefs-statement",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "section-beliefs-opening",
-          "to": "section-beliefs-statement",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "section-beliefs-opening",
-          "to": "section-beliefs-statement",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "0.967972"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0",
-          "to": "beliefs-statement-p0.25",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "0.967972",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0",
-          "to": "beliefs-statement-p0.25",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0",
-          "to": "beliefs-statement-p0.25",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "0.899841"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.25",
-          "to": "beliefs-statement-p0.5",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "0.899841",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.25",
-          "to": "beliefs-statement-p0.5",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.25",
-          "to": "beliefs-statement-p0.5",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "0.715341"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.5",
-          "to": "beliefs-statement-p0.75",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "0.715341",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.5",
-          "to": "beliefs-statement-p0.75",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "0.90868"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.75",
-          "to": "beliefs-statement-p1",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
-          "properties": {
-            "opacity": {
-              "from": "0.90868",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.75",
-          "to": "beliefs-statement-p1",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(9)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p1",
-          "to": "beliefs-statement-before",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p1",
-          "to": "beliefs-statement-before",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p1",
-          "to": "beliefs-statement-before",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p1",
-          "to": "beliefs-statement-before",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-before",
-          "to": "beliefs-statement-after",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-before",
-          "to": "beliefs-statement-after",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-before",
-          "to": "beliefs-statement-after",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-before",
-          "to": "beliefs-statement-after",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "reverse-3550",
-          "to": "reverse-3100",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(9)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.865207"
-            }
-          }
-        },
-        {
-          "from": "reverse-3100",
-          "to": "reverse-2650",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.740925"
-            }
-          }
-        },
-        {
-          "from": "reverse-3100",
-          "to": "reverse-2650",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(9)",
-          "properties": {
-            "opacity": {
-              "from": "0.865207",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-2650",
-          "to": "reverse-2200",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.94063"
-            }
-          }
-        },
-        {
-          "from": "reverse-2650",
-          "to": "reverse-2200",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-2650",
-          "to": "reverse-2200",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
-          "properties": {
-            "opacity": {
-              "from": "0.740925",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-2200",
-          "to": "reverse-1750",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.739665"
-            }
-          }
-        },
-        {
-          "from": "reverse-2200",
-          "to": "reverse-1750",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
-          "properties": {
-            "opacity": {
-              "from": "0.94063",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1750",
-          "to": "reverse-1300",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.806519"
-            }
-          }
-        },
-        {
-          "from": "reverse-1750",
-          "to": "reverse-1300",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1750",
-          "to": "reverse-1300",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "0.739665",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1300",
-          "to": "reverse-850",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.79375"
-            }
-          }
-        },
-        {
-          "from": "reverse-1300",
-          "to": "reverse-850",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1300",
-          "to": "reverse-850",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "0.806519",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-850",
-          "to": "reverse-400",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
-          "properties": {
-            "opacity": {
-              "from": "0.79375",
-              "to": "0.65"
             }
           }
         }
       ],
-      "scrollStates": 44,
+      "scrollStates": 34,
       "errors": [],
-      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/beliefs/capture-desktop/desktop/video/page@a0d573b2bc9ceab05275ef9da7adc4b3.webm",
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/beliefs/capture-desktop/desktop/video/page@e63a1520c770dcd077d5e9a8af19b105.webm",
       "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/beliefs/desktop-recording-board.png"
     },
     "tablet": {
@@ -668,21 +217,32 @@
         {
           "from": "menu-open",
           "to": "forward-001",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.681152"
+              "from": "1",
+              "to": "0.997731"
+            }
+          }
+        },
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.997731"
             }
           }
         },
         {
           "from": "forward-001",
           "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
           "properties": {
             "opacity": {
-              "from": "0.681152",
+              "from": "0.997731",
               "to": "1"
             }
           }
@@ -690,32 +250,54 @@
         {
           "from": "forward-001",
           "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.997667"
+              "from": "0.997731",
+              "to": "1"
             }
           }
         },
         {
           "from": "forward-001",
           "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.695435"
+              "from": "1",
+              "to": "0.994642"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.994642"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.994642"
             }
           }
         },
         {
           "from": "forward-002",
           "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
           "properties": {
             "opacity": {
-              "from": "0.997667",
+              "from": "0.994642",
               "to": "1"
             }
           }
@@ -723,10 +305,10 @@
         {
           "from": "forward-002",
           "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
           "properties": {
             "opacity": {
-              "from": "0.695435",
+              "from": "0.994642",
               "to": "1"
             }
           }
@@ -734,21 +316,32 @@
         {
           "from": "forward-002",
           "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.970862"
+              "from": "0.994642",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.99464"
             }
           }
         },
         {
           "from": "forward-003",
           "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
           "properties": {
             "opacity": {
-              "from": "0.970862",
+              "from": "0.99464",
               "to": "1"
             }
           }
@@ -756,32 +349,32 @@
         {
           "from": "forward-003",
           "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "1"
+              "from": "1",
+              "to": "0.995184"
             }
           }
         },
         {
           "from": "forward-003",
           "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.79361"
+              "from": "1",
+              "to": "0.995184"
             }
           }
         },
         {
           "from": "forward-004",
           "to": "forward-005",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
           "properties": {
             "opacity": {
-              "from": "0.79361",
+              "from": "0.995184",
               "to": "1"
             }
           }
@@ -789,478 +382,38 @@
         {
           "from": "forward-004",
           "to": "forward-005",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.941509"
+              "from": "0.995184",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.994642"
             }
           }
         },
         {
           "from": "forward-005",
           "to": "forward-006",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
           "properties": {
             "opacity": {
-              "from": "0.941509",
+              "from": "0.994642",
               "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-005",
-          "to": "forward-006",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-006",
-          "to": "forward-007",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(9)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "opening-settled",
-          "to": "midpoint",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "opening-settled",
-          "to": "midpoint",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "opening-settled",
-          "to": "midpoint",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "section-section-0",
-          "to": "section-beliefs-opening",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "section-section-0",
-          "to": "section-beliefs-opening",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "section-section-0",
-          "to": "section-beliefs-opening",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "section-beliefs-opening",
-          "to": "section-beliefs-statement",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "section-beliefs-opening",
-          "to": "section-beliefs-statement",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "section-beliefs-opening",
-          "to": "section-beliefs-statement",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "0.945648"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0",
-          "to": "beliefs-statement-p0.25",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "0.945648",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0",
-          "to": "beliefs-statement-p0.25",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0",
-          "to": "beliefs-statement-p0.25",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "0.892679"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.25",
-          "to": "beliefs-statement-p0.5",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "0.892679",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.25",
-          "to": "beliefs-statement-p0.5",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.25",
-          "to": "beliefs-statement-p0.5",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "0.732055"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.5",
-          "to": "beliefs-statement-p0.75",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "0.732055",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.5",
-          "to": "beliefs-statement-p0.75",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "0.918856"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.75",
-          "to": "beliefs-statement-p1",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
-          "properties": {
-            "opacity": {
-              "from": "0.918856",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p0.75",
-          "to": "beliefs-statement-p1",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(9)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p1",
-          "to": "beliefs-statement-before",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p1",
-          "to": "beliefs-statement-before",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-p1",
-          "to": "beliefs-statement-before",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-before",
-          "to": "beliefs-statement-after",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-before",
-          "to": "beliefs-statement-after",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "beliefs-statement-before",
-          "to": "beliefs-statement-after",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "reverse-2990",
-          "to": "reverse-2606",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.936262"
-            }
-          }
-        },
-        {
-          "from": "reverse-2990",
-          "to": "reverse-2606",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(9)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-2606",
-          "to": "reverse-2222",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.819699"
-            }
-          }
-        },
-        {
-          "from": "reverse-2606",
-          "to": "reverse-2222",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
-          "properties": {
-            "opacity": {
-              "from": "0.936262",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-2222",
-          "to": "reverse-1838",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.6718"
-            }
-          }
-        },
-        {
-          "from": "reverse-2222",
-          "to": "reverse-1838",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "0.819699",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1838",
-          "to": "reverse-1454",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.841998"
-            }
-          }
-        },
-        {
-          "from": "reverse-1838",
-          "to": "reverse-1454",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1838",
-          "to": "reverse-1454",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
-          "properties": {
-            "opacity": {
-              "from": "0.6718",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1454",
-          "to": "reverse-1070",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.851927"
-            }
-          }
-        },
-        {
-          "from": "reverse-1454",
-          "to": "reverse-1070",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1454",
-          "to": "reverse-1070",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "0.841998",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1070",
-          "to": "reverse-686",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1070",
-          "to": "reverse-686",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.851927",
-              "to": "0.65"
             }
           }
         }
       ],
-      "scrollStates": 46,
+      "scrollStates": 34,
       "errors": [],
       "video": null
     },
@@ -1269,32 +422,32 @@
         {
           "from": "menu-open",
           "to": "forward-001",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
           "properties": {
             "opacity": {
-              "from": "0.656367",
-              "to": "1"
+              "from": "1",
+              "to": "0.99569"
             }
           }
         },
         {
           "from": "menu-open",
           "to": "forward-001",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.955763"
+              "from": "1",
+              "to": "0.99569"
             }
           }
         },
         {
           "from": "forward-001",
           "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
           "properties": {
             "opacity": {
-              "from": "0.955763",
+              "from": "0.99569",
               "to": "1"
             }
           }
@@ -1302,10 +455,10 @@
         {
           "from": "forward-001",
           "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
           "properties": {
             "opacity": {
-              "from": "0.65",
+              "from": "0.99569",
               "to": "1"
             }
           }
@@ -1313,21 +466,32 @@
         {
           "from": "forward-001",
           "to": "forward-002",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.795504"
+              "from": "1",
+              "to": "0.992772"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.992772"
             }
           }
         },
         {
           "from": "forward-002",
           "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
           "properties": {
             "opacity": {
-              "from": "0.795504",
+              "from": "0.992772",
               "to": "1"
             }
           }
@@ -1335,21 +499,43 @@
         {
           "from": "forward-002",
           "to": "forward-003",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.975097"
+              "from": "0.992772",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.993437"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.993437"
             }
           }
         },
         {
           "from": "forward-003",
           "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
           "properties": {
             "opacity": {
-              "from": "0.975097",
+              "from": "0.993437",
               "to": "1"
             }
           }
@@ -1357,10 +543,10 @@
         {
           "from": "forward-003",
           "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
           "properties": {
             "opacity": {
-              "from": "0.65",
+              "from": "0.993437",
               "to": "1"
             }
           }
@@ -1368,21 +554,32 @@
         {
           "from": "forward-003",
           "to": "forward-004",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.655089"
+              "from": "1",
+              "to": "0.993439"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.993439"
             }
           }
         },
         {
           "from": "forward-004",
           "to": "forward-005",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
           "properties": {
             "opacity": {
-              "from": "0.655089",
+              "from": "0.993439",
               "to": "1"
             }
           }
@@ -1390,258 +587,38 @@
         {
           "from": "forward-004",
           "to": "forward-005",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
           "properties": {
             "opacity": {
-              "from": "0.65",
-              "to": "0.728053"
+              "from": "0.993439",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.992772"
             }
           }
         },
         {
           "from": "forward-005",
           "to": "forward-006",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
           "properties": {
             "opacity": {
-              "from": "0.728053",
+              "from": "0.992772",
               "to": "1"
-            }
-          }
-        },
-        {
-          "from": "forward-005",
-          "to": "forward-006",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(9)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "0.725065"
-            }
-          }
-        },
-        {
-          "from": "forward-006",
-          "to": "forward-007",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(9)",
-          "properties": {
-            "opacity": {
-              "from": "0.725065",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "opening-settled",
-          "to": "midpoint",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "opening-settled",
-          "to": "midpoint",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "section-section-0",
-          "to": "section-beliefs-opening",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "section-section-0",
-          "to": "section-beliefs-opening",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "section-beliefs-opening",
-          "to": "section-beliefs-statement",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
-          "properties": {
-            "opacity": {
-              "from": "0.656367",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "section-beliefs-opening",
-          "to": "section-beliefs-statement",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "1"
-            }
-          }
-        },
-        {
-          "from": "section-beliefs-opening",
-          "to": "section-beliefs-statement",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "0.65",
-              "to": "0.862884"
-            }
-          }
-        },
-        {
-          "from": "reverse-3298",
-          "to": "reverse-2876",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(9)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-2876",
-          "to": "reverse-2454",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(8)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-2454",
-          "to": "reverse-2032",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(7)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-2032",
-          "to": "reverse-1610",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.866873"
-            }
-          }
-        },
-        {
-          "from": "reverse-2032",
-          "to": "reverse-1610",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(6)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1610",
-          "to": "reverse-1188",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.68728"
-            }
-          }
-        },
-        {
-          "from": "reverse-1610",
-          "to": "reverse-1188",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(5)",
-          "properties": {
-            "opacity": {
-              "from": "0.866873",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1188",
-          "to": "reverse-766",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.836994"
-            }
-          }
-        },
-        {
-          "from": "reverse-1188",
-          "to": "reverse-766",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-1188",
-          "to": "reverse-766",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
-          "properties": {
-            "opacity": {
-              "from": "0.68728",
-              "to": "0.65"
-            }
-          }
-        },
-        {
-          "from": "reverse-766",
-          "to": "reverse-344",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
-          "properties": {
-            "opacity": {
-              "from": "1",
-              "to": "0.656367"
-            }
-          }
-        },
-        {
-          "from": "reverse-766",
-          "to": "reverse-344",
-          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
-          "properties": {
-            "opacity": {
-              "from": "0.836994",
-              "to": "0.65"
             }
           }
         }
       ],
-      "scrollStates": 35,
+      "scrollStates": 32,
       "errors": [],
       "video": null
     }

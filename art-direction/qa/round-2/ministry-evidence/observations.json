@@ -1,0 +1,3086 @@
+[
+  {
+    "route": "new",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "sections": [
+      {
+        "id": "visit-opening",
+        "top": 140,
+        "height": 1684,
+        "images": [
+          {
+            "src": "../assets/story.webp",
+            "width": 1353.625,
+            "height": 761.40625,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "visit-plan",
+        "top": 1824,
+        "height": 1779,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "visit-together",
+        "top": 3603,
+        "height": 871,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 1353.625,
+            "height": 761.40625,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "visit-next",
+        "top": 4475,
+        "height": 932,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "visit-care",
+        "top": 5407,
+        "height": 473,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "visit-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-desktop-visit-opening.png"
+      },
+      {
+        "section": "visit-plan",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-desktop-visit-plan.png"
+      },
+      {
+        "section": "visit-together",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-desktop-visit-together.png"
+      },
+      {
+        "section": "visit-next",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-desktop-visit-next.png"
+      },
+      {
+        "section": "visit-care",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-desktop-visit-care.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "FIGURE",
+        "selector": "",
+        "section": "visit-together",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 2916
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "visit-next",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 3758
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "visit-next",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 4013
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "visit-next",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 4284
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "life-groups",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "sections": [
+      {
+        "id": "groups-opening",
+        "top": 140,
+        "height": 538,
+        "images": [
+          {
+            "src": "../assets/klcc-life-groups-original.webp",
+            "width": 619.21875,
+            "height": 348.296875,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "groups-introduction",
+        "top": 678,
+        "height": 518,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "groups-directory",
+        "top": 1197,
+        "height": 1297,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "groups-photo",
+        "top": 2493,
+        "height": 801,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 1353.625,
+            "height": 761.40625,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "groups-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-desktop-groups-opening.png"
+      },
+      {
+        "section": "groups-introduction",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-desktop-groups-introduction.png"
+      },
+      {
+        "section": "groups-directory",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-desktop-groups-directory.png"
+      },
+      {
+        "section": "groups-photo",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-desktop-groups-photo.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 487
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 624
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 873
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 972
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1135
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1298
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1521
+      },
+      {
+        "tag": "FIGURE",
+        "selector": "",
+        "section": "groups-photo",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1744
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "kids",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "sections": [
+      {
+        "id": "kids-opening",
+        "top": 130,
+        "height": 1259,
+        "images": [
+          {
+            "src": "../assets/story.webp",
+            "width": 1353.625,
+            "height": 660.296875,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "kids-team",
+        "top": 1389,
+        "height": 1185,
+        "images": [
+          {
+            "src": "../assets/faith-editorial.webp",
+            "width": 1353.625,
+            "height": 650,
+            "fit": "contain"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "kids-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/kids-desktop-kids-opening.png"
+      },
+      {
+        "section": "kids-team",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/kids-desktop-kids-team.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "FIGURE",
+        "selector": "",
+        "section": "kids-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 676
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "kids-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1421
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "kids-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1521
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "youth",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "sections": [
+      {
+        "id": "elevate-opening",
+        "top": 130,
+        "height": 1436,
+        "images": [
+          {
+            "src": "../assets/worship-stage.webp",
+            "width": 1353.625,
+            "height": 670,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "age-paths",
+        "top": 1566,
+        "height": 677,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "elevate-connect",
+        "top": 2243,
+        "height": 220,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "elevate-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/youth-desktop-elevate-opening.png"
+      },
+      {
+        "section": "age-paths",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/youth-desktop-age-paths.png"
+      },
+      {
+        "section": "elevate-connect",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/youth-desktop-elevate-connect.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "age-paths",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 873
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "age-paths",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1096
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "young-adults",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "sections": [
+      {
+        "id": "ya-intro",
+        "top": 130,
+        "height": 1264,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 1353.625,
+            "height": 670,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "ya-events",
+        "top": 1394,
+        "height": 1085,
+        "images": [
+          {
+            "src": "../assets/young-adults-red-night.webp",
+            "width": 662.40625,
+            "height": 372.59375,
+            "fit": "fill"
+          },
+          {
+            "src": "../assets/young-adults-rise-night.webp",
+            "width": 662.40625,
+            "height": 372.59375,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "ya-intro",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/young-adults-desktop-ya-intro.png"
+      },
+      {
+        "section": "ya-events",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/young-adults-desktop-ya-events.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "ya-events",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 873
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "ya-events",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1295
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "women",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "sections": [
+      {
+        "id": "women-opening",
+        "top": 130,
+        "height": 1241,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 1353.625,
+            "height": 670,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "women-calendar",
+        "top": 1371,
+        "height": 641,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "women-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/women-desktop-women-opening.png"
+      },
+      {
+        "section": "women-calendar",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/women-desktop-women-calendar.png"
+      }
+    ],
+    "motion": [],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "men",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "sections": [
+      {
+        "id": "men-opening",
+        "top": 130,
+        "height": 1131,
+        "images": [
+          {
+            "src": "../assets/leadership.webp",
+            "width": 1353.625,
+            "height": 670,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "men-week",
+        "top": 1261,
+        "height": 873,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "men-study",
+        "top": 2134,
+        "height": 416,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "men-calendar",
+        "top": 2550,
+        "height": 540,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "men-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-desktop-men-opening.png"
+      },
+      {
+        "section": "men-week",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-desktop-men-week.png"
+      },
+      {
+        "section": "men-study",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-desktop-men-study.png"
+      },
+      {
+        "section": "men-calendar",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-desktop-men-calendar.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "men-study",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1421
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "men-study",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1521
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "leadership",
+    "viewport": "desktop",
+    "width": 1440,
+    "height": 900,
+    "sections": [
+      {
+        "id": "leaders-opening",
+        "top": 140,
+        "height": 1226,
+        "images": [
+          {
+            "src": "../assets/leadership.webp",
+            "width": 1353.625,
+            "height": 761.40625,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "founding-leaders",
+        "top": 1366,
+        "height": 781,
+        "images": [
+          {
+            "src": "../assets/people/founding-pastors.webp",
+            "width": 253.484375,
+            "height": 253.484375,
+            "fit": "fill"
+          },
+          {
+            "src": "../assets/founders-portrait.webp",
+            "width": 253.5,
+            "height": 253.5,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "pastoral-team",
+        "top": 2147,
+        "height": 1327,
+        "images": [
+          {
+            "src": "../assets/people/tj-niglio.webp",
+            "width": 320,
+            "height": 320,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/manny-cintron.webp",
+            "width": 320,
+            "height": 320,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/jason-thomas.webp",
+            "width": 320,
+            "height": 320,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/sandy-vargas.webp",
+            "width": 320,
+            "height": 320,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/brandon-kellum.webp",
+            "width": 320,
+            "height": 320,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/lori-burgos.webp",
+            "width": 320,
+            "height": 320,
+            "fit": "contain"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "leaders-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/leadership-desktop-leaders-opening.png"
+      },
+      {
+        "section": "founding-leaders",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/leadership-desktop-founding-leaders.png"
+      },
+      {
+        "section": "pastoral-team",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/leadership-desktop-pastoral-team.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1521
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1521
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1521
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 2069
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 2069
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 2069
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "new",
+    "viewport": "tablet",
+    "width": 1024,
+    "height": 768,
+    "sections": [
+      {
+        "id": "visit-opening",
+        "top": 140,
+        "height": 1488,
+        "images": [
+          {
+            "src": "../assets/story.webp",
+            "width": 962.5625,
+            "height": 541.4375,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "visit-plan",
+        "top": 1628,
+        "height": 1970,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "visit-together",
+        "top": 3598,
+        "height": 651,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 962.5625,
+            "height": 541.4375,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "visit-next",
+        "top": 4249,
+        "height": 932,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "visit-care",
+        "top": 5181,
+        "height": 529,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "visit-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-tablet-visit-opening.png"
+      },
+      {
+        "section": "visit-plan",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-tablet-visit-plan.png"
+      },
+      {
+        "section": "visit-together",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-tablet-visit-together.png"
+      },
+      {
+        "section": "visit-next",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-tablet-visit-next.png"
+      },
+      {
+        "section": "visit-care",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-tablet-visit-care.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "FIGURE",
+        "selector": "",
+        "section": "visit-together",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 3002
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "visit-next",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 3686
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "visit-next",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 3882
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "visit-next",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 4185
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "life-groups",
+    "viewport": "tablet",
+    "width": 1024,
+    "height": 768,
+    "sections": [
+      {
+        "id": "groups-opening",
+        "top": 140,
+        "height": 438,
+        "images": [
+          {
+            "src": "../assets/klcc-life-groups-original.webp",
+            "width": 440.328125,
+            "height": 247.671875,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "groups-introduction",
+        "top": 578,
+        "height": 590,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "groups-directory",
+        "top": 1168,
+        "height": 1351,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "groups-photo",
+        "top": 2519,
+        "height": 581,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 962.5625,
+            "height": 541.4375,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "groups-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-tablet-groups-opening.png"
+      },
+      {
+        "section": "groups-introduction",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-tablet-groups-introduction.png"
+      },
+      {
+        "section": "groups-directory",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-tablet-groups-directory.png"
+      },
+      {
+        "section": "groups-photo",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-tablet-groups-photo.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 583
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 790
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 921
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1104
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1343
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1474
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1615
+      },
+      {
+        "tag": "FIGURE",
+        "selector": "",
+        "section": "groups-photo",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1896
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "kids",
+    "viewport": "tablet",
+    "width": 1024,
+    "height": 768,
+    "sections": [
+      {
+        "id": "kids-opening",
+        "top": 130,
+        "height": 1025,
+        "images": [
+          {
+            "src": "../assets/story.webp",
+            "width": 962.5625,
+            "height": 469.53125,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "kids-team",
+        "top": 1155,
+        "height": 1204,
+        "images": [
+          {
+            "src": "../assets/faith-editorial.webp",
+            "width": 962.5625,
+            "height": 641.703125,
+            "fit": "contain"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "kids-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/kids-tablet-kids-opening.png"
+      },
+      {
+        "section": "kids-team",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/kids-tablet-kids-team.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "FIGURE",
+        "selector": "",
+        "section": "kids-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 583
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "kids-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1343
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "kids-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1420
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "youth",
+    "viewport": "tablet",
+    "width": 1024,
+    "height": 768,
+    "sections": [
+      {
+        "id": "elevate-opening",
+        "top": 130,
+        "height": 1291,
+        "images": [
+          {
+            "src": "../assets/worship-stage.webp",
+            "width": 962.5625,
+            "height": 540.765625,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "age-paths",
+        "top": 1421,
+        "height": 677,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "elevate-connect",
+        "top": 2098,
+        "height": 216,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "elevate-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/youth-tablet-elevate-opening.png"
+      },
+      {
+        "section": "age-paths",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/youth-tablet-age-paths.png"
+      },
+      {
+        "section": "elevate-connect",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/youth-tablet-elevate-connect.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "age-paths",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 867
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "age-paths",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1081
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "young-adults",
+    "viewport": "tablet",
+    "width": 1024,
+    "height": 768,
+    "sections": [
+      {
+        "id": "ya-intro",
+        "top": 130,
+        "height": 1132,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 962.5625,
+            "height": 541.4375,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "ya-events",
+        "top": 1262,
+        "height": 896,
+        "images": [
+          {
+            "src": "../assets/young-adults-red-night.webp",
+            "width": 471.046875,
+            "height": 264.953125,
+            "fit": "fill"
+          },
+          {
+            "src": "../assets/young-adults-rise-night.webp",
+            "width": 471.046875,
+            "height": 264.953125,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "ya-intro",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/young-adults-tablet-ya-intro.png"
+      },
+      {
+        "section": "ya-events",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/young-adults-tablet-ya-events.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "ya-events",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 790
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "ya-events",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1136
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "women",
+    "viewport": "tablet",
+    "width": 1024,
+    "height": 768,
+    "sections": [
+      {
+        "id": "women-opening",
+        "top": 130,
+        "height": 1109,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 962.5625,
+            "height": 541.4375,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "women-calendar",
+        "top": 1239,
+        "height": 641,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "women-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/women-tablet-women-opening.png"
+      },
+      {
+        "section": "women-calendar",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/women-tablet-women-calendar.png"
+      }
+    ],
+    "motion": [],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "men",
+    "viewport": "tablet",
+    "width": 1024,
+    "height": 768,
+    "sections": [
+      {
+        "id": "men-opening",
+        "top": 130,
+        "height": 986,
+        "images": [
+          {
+            "src": "../assets/leadership.webp",
+            "width": 962.5625,
+            "height": 541.4375,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "men-week",
+        "top": 1116,
+        "height": 927,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "men-study",
+        "top": 2044,
+        "height": 426,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "men-calendar",
+        "top": 2470,
+        "height": 540,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "men-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-tablet-men-opening.png"
+      },
+      {
+        "section": "men-week",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-tablet-men-week.png"
+      },
+      {
+        "section": "men-study",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-tablet-men-study.png"
+      },
+      {
+        "section": "men-calendar",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-tablet-men-calendar.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "men-study",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1474
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "men-study",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1514
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "leadership",
+    "viewport": "tablet",
+    "width": 1024,
+    "height": 768,
+    "sections": [
+      {
+        "id": "leaders-opening",
+        "top": 140,
+        "height": 955,
+        "images": [
+          {
+            "src": "../assets/leadership.webp",
+            "width": 962.5625,
+            "height": 541.4375,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "founding-leaders",
+        "top": 1095,
+        "height": 746,
+        "images": [
+          {
+            "src": "../assets/people/founding-pastors.webp",
+            "width": 177.359375,
+            "height": 177.359375,
+            "fit": "fill"
+          },
+          {
+            "src": "../assets/founders-portrait.webp",
+            "width": 177.375,
+            "height": 177.375,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "pastoral-team",
+        "top": 1841,
+        "height": 1257,
+        "images": [
+          {
+            "src": "../assets/people/tj-niglio.webp",
+            "width": 293.546875,
+            "height": 293.546875,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/manny-cintron.webp",
+            "width": 293.546875,
+            "height": 293.546875,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/jason-thomas.webp",
+            "width": 293.5625,
+            "height": 293.5625,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/sandy-vargas.webp",
+            "width": 293.546875,
+            "height": 293.546875,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/brandon-kellum.webp",
+            "width": 293.546875,
+            "height": 293.546875,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/lori-burgos.webp",
+            "width": 293.5625,
+            "height": 293.5625,
+            "fit": "contain"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "leaders-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/leadership-tablet-leaders-opening.png"
+      },
+      {
+        "section": "founding-leaders",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/leadership-tablet-founding-leaders.png"
+      },
+      {
+        "section": "pastoral-team",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/leadership-tablet-pastoral-team.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1343
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1343
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1343
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1896
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1896
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1896
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "new",
+    "viewport": "phone",
+    "width": 390,
+    "height": 844,
+    "sections": [
+      {
+        "id": "visit-opening",
+        "top": 110,
+        "height": 1410,
+        "images": [
+          {
+            "src": "../assets/story.webp",
+            "width": 346,
+            "height": 194.625,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "visit-plan",
+        "top": 1520,
+        "height": 2692,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "visit-together",
+        "top": 4212,
+        "height": 280,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 346,
+            "height": 194.625,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "visit-next",
+        "top": 4492,
+        "height": 1059,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "visit-care",
+        "top": 5551,
+        "height": 914,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "visit-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-phone-visit-opening.png"
+      },
+      {
+        "section": "visit-plan",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-phone-visit-plan.png"
+      },
+      {
+        "section": "visit-together",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-phone-visit-together.png"
+      },
+      {
+        "section": "visit-next",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-phone-visit-next.png"
+      },
+      {
+        "section": "visit-care",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/new-phone-visit-care.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "FIGURE",
+        "selector": "",
+        "section": "visit-together",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 3470
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "visit-next",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 3877
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "visit-next",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 4141
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "visit-next",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 4485
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "life-groups",
+    "viewport": "phone",
+    "width": 390,
+    "height": 844,
+    "sections": [
+      {
+        "id": "groups-opening",
+        "top": 110,
+        "height": 554,
+        "images": [
+          {
+            "src": "../assets/klcc-life-groups-original.webp",
+            "width": 346,
+            "height": 194.625,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "groups-introduction",
+        "top": 664,
+        "height": 930,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "groups-directory",
+        "top": 1595,
+        "height": 1565,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "groups-photo",
+        "top": 3159,
+        "height": 235,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 346,
+            "height": 194.625,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "groups-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-phone-groups-opening.png"
+      },
+      {
+        "section": "groups-introduction",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-phone-groups-introduction.png"
+      },
+      {
+        "section": "groups-directory",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-phone-groups-directory.png"
+      },
+      {
+        "section": "groups-photo",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/life-groups-phone-groups-photo.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 993
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1171
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1446
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1600
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1778
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 2054
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "groups-directory",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 2208
+      },
+      {
+        "tag": "FIGURE",
+        "selector": "",
+        "section": "groups-photo",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 2374
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "kids",
+    "viewport": "phone",
+    "width": 390,
+    "height": 844,
+    "sections": [
+      {
+        "id": "kids-opening",
+        "top": 130,
+        "height": 902,
+        "images": [
+          {
+            "src": "../assets/story.webp",
+            "width": 346,
+            "height": 230,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "kids-team",
+        "top": 1032,
+        "height": 920,
+        "images": [
+          {
+            "src": "../assets/faith-editorial.webp",
+            "width": 346,
+            "height": 230.65625,
+            "fit": "contain"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "kids-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/kids-phone-kids-opening.png"
+      },
+      {
+        "section": "kids-team",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/kids-phone-kids-team.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "FIGURE",
+        "selector": "",
+        "section": "kids-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 321
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "kids-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 637
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "kids-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 839
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "youth",
+    "viewport": "phone",
+    "width": 390,
+    "height": 844,
+    "sections": [
+      {
+        "id": "elevate-opening",
+        "top": 130,
+        "height": 1171,
+        "images": [
+          {
+            "src": "../assets/worship-stage.webp",
+            "width": 346,
+            "height": 230,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "age-paths",
+        "top": 1301,
+        "height": 949,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "elevate-connect",
+        "top": 2250,
+        "height": 231,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "elevate-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/youth-phone-elevate-opening.png"
+      },
+      {
+        "section": "age-paths",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/youth-phone-age-paths.png"
+      },
+      {
+        "section": "elevate-connect",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/youth-phone-elevate-connect.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "age-paths",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 929
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "age-paths",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1158
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "young-adults",
+    "viewport": "phone",
+    "width": 390,
+    "height": 844,
+    "sections": [
+      {
+        "id": "ya-intro",
+        "top": 130,
+        "height": 1003,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 346,
+            "height": 230,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "ya-events",
+        "top": 1133,
+        "height": 1233,
+        "images": [
+          {
+            "src": "../assets/young-adults-red-night.webp",
+            "width": 346,
+            "height": 194.625,
+            "fit": "fill"
+          },
+          {
+            "src": "../assets/young-adults-rise-night.webp",
+            "width": 346,
+            "height": 194.625,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "ya-intro",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/young-adults-phone-ya-intro.png"
+      },
+      {
+        "section": "ya-events",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/young-adults-phone-ya-events.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "ya-events",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 738
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "ya-events",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1345
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "women",
+    "viewport": "phone",
+    "width": 390,
+    "height": 844,
+    "sections": [
+      {
+        "id": "women-opening",
+        "top": 130,
+        "height": 916,
+        "images": [
+          {
+            "src": "../assets/worship.webp",
+            "width": 346,
+            "height": 230,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "women-calendar",
+        "top": 1046,
+        "height": 709,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "women-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/women-phone-women-opening.png"
+      },
+      {
+        "section": "women-calendar",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/women-phone-women-calendar.png"
+      }
+    ],
+    "motion": [],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "men",
+    "viewport": "phone",
+    "width": 390,
+    "height": 844,
+    "sections": [
+      {
+        "id": "men-opening",
+        "top": 130,
+        "height": 707,
+        "images": [
+          {
+            "src": "../assets/leadership.webp",
+            "width": 346,
+            "height": 194.625,
+            "fit": "cover"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "men-week",
+        "top": 837,
+        "height": 1020,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "men-study",
+        "top": 1857,
+        "height": 675,
+        "images": [],
+        "sticky": []
+      },
+      {
+        "id": "men-calendar",
+        "top": 2532,
+        "height": 848,
+        "images": [],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "men-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-phone-men-opening.png"
+      },
+      {
+        "section": "men-week",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-phone-men-week.png"
+      },
+      {
+        "section": "men-study",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-phone-men-study.png"
+      },
+      {
+        "section": "men-calendar",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/men-phone-men-calendar.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "men-study",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1207
+      },
+      {
+        "tag": "P",
+        "selector": "",
+        "section": "men-study",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1446
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  },
+  {
+    "route": "leadership",
+    "viewport": "phone",
+    "width": 390,
+    "height": 844,
+    "sections": [
+      {
+        "id": "leaders-opening",
+        "top": 110,
+        "height": 631,
+        "images": [
+          {
+            "src": "../assets/leadership.webp",
+            "width": 346,
+            "height": 194.625,
+            "fit": "fill"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "founding-leaders",
+        "top": 741,
+        "height": 1632,
+        "images": [
+          {
+            "src": "../assets/people/founding-pastors.webp",
+            "width": 346,
+            "height": 346,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/founders-portrait.webp",
+            "width": 346,
+            "height": 346,
+            "fit": "contain"
+          }
+        ],
+        "sticky": []
+      },
+      {
+        "id": "pastoral-team",
+        "top": 2373,
+        "height": 3244,
+        "images": [
+          {
+            "src": "../assets/people/tj-niglio.webp",
+            "width": 290,
+            "height": 290,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/manny-cintron.webp",
+            "width": 290,
+            "height": 290,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/jason-thomas.webp",
+            "width": 290,
+            "height": 290,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/sandy-vargas.webp",
+            "width": 290,
+            "height": 290,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/brandon-kellum.webp",
+            "width": 290,
+            "height": 290,
+            "fit": "contain"
+          },
+          {
+            "src": "../assets/people/lori-burgos.webp",
+            "width": 290,
+            "height": 290,
+            "fit": "contain"
+          }
+        ],
+        "sticky": []
+      }
+    ],
+    "states": [
+      {
+        "section": "leaders-opening",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/leadership-phone-leaders-opening.png"
+      },
+      {
+        "section": "founding-leaders",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/leadership-phone-founding-leaders.png"
+      },
+      {
+        "section": "pastoral-team",
+        "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/round-2/ministry-evidence/leadership-phone-pastoral-team.png"
+      }
+    ],
+    "motion": [
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 1732
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 2255
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 2752
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 3269
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 3877
+      },
+      {
+        "tag": "IMG",
+        "selector": "",
+        "section": "pastoral-team",
+        "frames": [
+          {
+            "opacity": 0.65
+          },
+          {
+            "opacity": 1
+          }
+        ],
+        "options": {
+          "duration": 1100,
+          "easing": "ease-out"
+        },
+        "scroll": 4318
+      }
+    ],
+    "reverse": {
+      "overflow": false,
+      "invisible": 0
+    }
+  }
+]

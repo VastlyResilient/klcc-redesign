@@ -1,71 +1,88 @@
 {
   "route": "beliefs",
-  "status": "Blocked",
-  "reviewer": "independent v22_capture_pipeline",
-  "reviewed_at": "2026-10-07T07:16:03.692Z",
-  "evidence": "art-direction/qa/side-by-side/beliefs/",
-  "observations": "All three widths: original Bible photograph, nine separated statements with a restrained index, conceptual reflection artwork, and stable next-step action. Mobile statement paragraphs remain readable with thin dividers.",
-  "repairs": [
-    "Source-based H1 scale restored",
-    "Numbered source belief statements retained rather than fabricating narrative paragraphs"
-  ],
+  "status": "Fidelity-reviewed",
+  "accepted": false,
   "sections": [
     {
       "id": "beliefs-opening",
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/beliefs/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/beliefs-opening-desktop.png",
+          "build_sha256": "4abc08e16a388717d9a7598a5b5d238b706b1f6fb5c95b11b3e144af4a0e65cb",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/opening-settled.png",
+          "source_state": "opening-settled",
+          "source_unit": "section-1",
           "scores": {
             "text_placement": 4,
             "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Full-scene truthful book image and dominant centered title retain Lou opening relation. After a failed measured contrast test, continuous scene grade with solid paper title provides 5.89/5.91/5.71 glyph contrast; image-sensitive coloring is intentionally not claimed. Phone two-line title preserves natural lettering.",
+          "comparison": "review/independent/beliefs-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/beliefs-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/beliefs/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/beliefs-opening-tablet.png",
+          "build_sha256": "f9966ac3bbca76b39bc884a2f495c295af8125799b99fa48b3e2fee415175d52",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/tablet/opening-settled.png",
+          "source_state": "opening-settled",
+          "source_unit": "section-1",
           "scores": {
             "text_placement": 4,
             "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Full-scene truthful book image and dominant centered title retain Lou opening relation. After a failed measured contrast test, continuous scene grade with solid paper title provides 5.89/5.91/5.71 glyph contrast; image-sensitive coloring is intentionally not claimed. Phone two-line title preserves natural lettering.",
+          "comparison": "review/independent/beliefs-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/beliefs-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/beliefs/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/beliefs-opening-phone.png",
+          "build_sha256": "afe8e91f004b72bfe9ff34cdb93012be2a82ee39af0f2950f3cb7c7145850ba0",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/phone/opening-settled.png",
+          "source_state": "opening-settled",
+          "source_unit": "section-1",
           "scores": {
             "text_placement": 4,
             "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
+            "text_image_association": 5,
+            "media_position": 5,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Full-scene truthful book image and dominant centered title retain Lou opening relation. After a failed measured contrast test, continuous scene grade with solid paper title provides 5.89/5.91/5.71 glyph contrast; image-sensitive coloring is intentionally not claimed. Phone two-line title preserves natural lettering.",
+          "comparison": "review/independent/beliefs-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/beliefs-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -74,131 +91,102 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/beliefs/",
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/beliefs-statement-desktop.png",
+          "build_sha256": "40333ab6175e91cd7e7996dc0be653fa8eff4beb90885393bc9fca746e743221",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/forward-002.png",
+          "source_state": "forward-002",
+          "source_unit": "section-2",
           "scores": {
-            "text_placement": 4,
-            "readability": 4,
+            "text_placement": 5,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Measured Lou reading field is now correctly centered/offset at 880px desktop and 816px tablet. Longer actual doctrine stays in large intact paragraphs with deliberate group gaps; terminal artwork/link is subordinate. Phone retains complete passage and a clear ending without cramped columns.",
+          "comparison": "review/independent/beliefs-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/beliefs-statement-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/beliefs/",
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/beliefs-statement-tablet.png",
+          "build_sha256": "1b5e8df1d9590e15b7d54c68a82833780daeff7786ee51570975f10bc9d37f98",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/tablet/forward-002.png",
+          "source_state": "forward-002",
+          "source_unit": "section-2",
           "scores": {
-            "text_placement": 4,
-            "readability": 4,
+            "text_placement": 5,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Measured Lou reading field is now correctly centered/offset at 880px desktop and 816px tablet. Longer actual doctrine stays in large intact paragraphs with deliberate group gaps; terminal artwork/link is subordinate. Phone retains complete passage and a clear ending without cramped columns.",
+          "comparison": "review/independent/beliefs-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/beliefs-statement-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/beliefs/",
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/beliefs-statement-phone.png",
+          "build_sha256": "2a47b1a979664725f174ad9aac8722eda9e65306484cf2ec2d36e9ec5cc1fe3d",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/phone/forward-002.png",
+          "source_state": "forward-002",
+          "source_unit": "section-2",
           "scores": {
-            "text_placement": 4,
-            "readability": 4,
+            "text_placement": 5,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
           },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
-        }
-      ]
-    },
-    {
-      "id": "beliefs-reflection",
-      "reviews": [
-        {
-          "viewport": 1440,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/beliefs/",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
-        },
-        {
-          "viewport": 1024,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/beliefs/",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
-        },
-        {
-          "viewport": 390,
-          "state": "settled-landmark-and-section-board",
-          "comparison": "art-direction/qa/side-by-side/beliefs/",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "alignment": 4,
-            "spacing": 4,
-            "atmosphere_parity": 3,
-            "sequence_parity": 3,
-            "mobile_recomposition": 4
-          },
-          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+          "judgment": "Measured Lou reading field is now correctly centered/offset at 880px desktop and 816px tablet. Longer actual doctrine stays in large intact paragraphs with deliberate group gaps; terminal artwork/link is subordinate. Phone retains complete passage and a clear ending without cramped columns.",
+          "comparison": "review/independent/beliefs-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/beliefs-statement-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     }
   ],
-  "blockers": [
-    {
-      "condition": "Exact-reference fidelity gate remains below4/5",
-      "evidence": "Lou reading is a continuous bold offset essay with time-triggered character brightening. KLCC is a numbered ruled doctrinal list with native-scroll emphasis; its text grouping and reversible emphasis are not the same observed sequence.",
-      "attempt": "Compared actual3-width page sections and matching reference boards; requested concrete visual repairs where identified.",
-      "fallback": "Keep legible real-company content and explicitly documented reference adaptations. Do not invent factual imagery or hide schedules to imitate unsupported scenes."
-    }
-  ],
+  "reviewer": "editorial_independent_review; independent of product authorship",
+  "reviewed_at": "2026-10-07T09:51:03.135775+00:00",
+  "scope": "Round 3 exact-unit visual review, actual browser motion and targeted actual-pixel contrast; section rubric only, not owner acceptance or mechanical gate waiver",
+  "source_review": "art-direction/qa/round-2/editorial-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/beliefs.json",
+  "source_hashes": {
+    "src/pages/beliefs.html": "9dca5b97402c48b608bc54bf9465aee277b6216919abaeec78797ca602e8e2f8",
+    "src/pages/beliefs.css": "37eb2664fb6792c438c4dbad007f360bcd06e895e1393e95e2b5c3876ee8fdf6",
+    "src/motion/scenes/beliefs.ts": "d0d4dacdda065a241f2f30ba74ee7b7f94de7215e517f27f6f131637f59f92e9"
+  },
   "limits": [
-    "No claim that public preview reveals exact editor easing/settings.",
-    "Accepted is reserved to owner."
+    "Raw section aspect ratios, full-bleed flags, heading ratios and total section-count assertions remain separate mechanical gate results; these visual scores do not waive them.",
+    "Source copy length, intrinsic company assets and church palette intentionally differ; no pixel similarity percentage claimed.",
+    "Whole-unit build crops exclude fixed browser/header chrome for unobstructed content review; opening and motion screenshots retain actual header.",
+    "No physical phone, exact source editor timing, all-frame contrast proof or owner Accepted status claimed.",
+    "Targeted overlay/hero contrast sampling is not a complete WCAG audit of every text node or every transitional frame.",
+    "Source Lou first-arrival is observed but per-character implementation parity is not claimed; intact-unit clarity avoids hiding essential copy."
   ],
-  "final_evidence": "art-direction/qa/captures/beliefs/manifest.json"
+  "issues": []
 }

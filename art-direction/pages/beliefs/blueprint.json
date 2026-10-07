@@ -1,16 +1,16 @@
 {
   "route": "beliefs",
   "reference": {
-    "template": "royal",
+    "template": "lou",
     "route": "/about",
-    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
     "mode": "B",
     "donors": [
       "lou",
       "slab"
     ]
   },
-  "visitor_job": "Read KLCC\u2019s actual nine statements of belief without distraction.",
+  "visitor_job": "Read KLCC’s actual nine statements of belief without distraction.",
   "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
   "critical_answer": "Preserve all nine clauses of the source creed. Paragraph boundaries and punctuation may be clarified without changing theological meaning.",
   "primary_action": null,
@@ -18,14 +18,14 @@
   "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
   "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
   "signature": {
-    "id": "beliefs-hold",
-    "dominant_verb": "Hold",
-    "structural_idea": "A nine-part statement with a quiet persistent chapter count and generous reading measure",
+    "id": "beliefs-repaired-composition",
+    "dominant_verb": "Read",
+    "structural_idea": "Full book-image identity opening followed by the correctly measured Lou reading field. Normal paper title and a continuous scene-wide navy grade are the explicit contrast adaptation; no bodySplitText.",
     "axes": {
-      "unit": "content-specific block/image",
-      "vector": "Hold pending observed scene contract",
-      "driver": "native scroll",
-      "frame": "route-owned composition"
+      "unit": "intact editorial unit",
+      "vector": "clarity without translation",
+      "driver": "Scroll-triggered once, native reading",
+      "frame": "native document flow"
     }
   },
   "heading_arrival": {
@@ -45,58 +45,81 @@
     {
       "id": "beliefs-opening",
       "title": "opening",
+      "selector": "#beliefs-opening",
       "content_ids": [
         "ci:beliefs.s0.b0",
         "img:beliefs.page-beliefs"
       ],
       "reference_section": {
-        "template": "royal",
+        "template": "lou",
         "route": "/about",
-        "landmark": "hero",
-        "state": "section-hero",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "manifest": "art-direction/references/deep/royal/about/manifest.json",
-        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+        "landmark": "section-1",
+        "state": "opening-settled",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+        "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/opening-settled.png",
+        "states": {
+          "desktop": "opening-settled",
+          "tablet": "opening-settled",
+          "phone": "opening-settled"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/opening-settled.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/tablet/opening-settled.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/phone/opening-settled.png"
+        }
       },
       "critical_answer_visible_without_animation": true,
-      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+      "adaptation": "Full-viewport original Bible material image and oversized one-line desktop/tablet title preserve Lou opening hierarchy; phone retains readable two-line title. Source image-sensitive ink is deliberately replaced by paper text on a continuous navy photographic grade because independent actual-glyph sampling found contrast below 3:1. No rectangular text backdrop or baked title.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/beliefs.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
     },
     {
       "id": "beliefs-statement",
       "title": "statement",
+      "selector": "#beliefs-statement",
       "content_ids": [
         "ci:beliefs.s1.b0",
-        "ci:beliefs.s1.b1"
+        "ci:beliefs.s1.b1",
+        "img:beliefs.faith-editorial"
       ],
       "reference_section": {
         "template": "lou",
         "route": "/about",
         "landmark": "section-2",
-        "state": "section-section-2",
+        "state": "forward-002",
         "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
         "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
-        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+        "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/forward-002.png",
+        "states": {
+          "desktop": "forward-002",
+          "tablet": "forward-002",
+          "phone": "forward-002"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/desktop/forward-002.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/tablet/forward-002.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/lou-pilot/about/phone/forward-002.png"
+        }
       },
       "critical_answer_visible_without_animation": true,
-      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
-    },
-    {
-      "id": "beliefs-reflection",
-      "title": "reflection",
-      "content_ids": [
-        "img:beliefs.faith-editorial"
-      ],
-      "reference_section": {
-        "template": "royal",
-        "route": "/about",
-        "landmark": "cta",
-        "state": "section-cta",
-        "dossier": "art-direction/references/deep/royal/about/dossier.md",
-        "manifest": "art-direction/references/deep/royal/about/manifest.json",
-        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+      "adaptation": "Lou offset continuous large essay; nine original clauses form three reading groups. Small conceptual image and next-step link are supporting material within this same reading chapter, not an independently claimed Lou footer.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
       },
-      "critical_answer_visible_without_animation": true,
-      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/beliefs.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
     }
   ],
   "content_coverage": {
@@ -105,18 +128,38 @@
     "missing": []
   },
   "deletion_pass": "Do not invent theological summaries or attribute a word-brightening effect to Lou when the fresh source observation did not show it.",
-  "implementation_status": "Reconstructed",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
   "unresolved": [
-    "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
-    "Image focal points, type measures and every interaction require review of the rendered result."
+    "Fresh independent reference-fidelity review pending; old review records are unchanged.",
+    "Literal pairwise heading-axis uniqueness is not claimed; static readable headings intentionally remain."
   ],
   "motion_notes": {
-    "evidence": "Royal/about sticky reading topology; Lou/about measured timed first-entry opacity and reversible footer blur only. Durations are reconstructed estimates.",
-    "initial": "All essential content visible without JavaScript.",
-    "trigger": "Native scroll or first intersection",
-    "reverse": "Native reading reverses. Focus / emphasis scenes reverse; first-entry animation does not replay.",
-    "mobile": "Single-column native flow; sticky sidebars disabled below 700px.",
-    "reduced": "No entrance keyframes; no blur; all content visible.",
-    "limitation": "No claim of two unique heading axes: unobserved effects were not fabricated."
+    "initial": "All content visible without JavaScript; enhanced membership stages initialize immediately.",
+    "trigger": "First intersection of intact unit, opacity .8→1; authored reconstruction timing.",
+    "reverse": "Membership paired stage reverses; other first-entry clarity does not replay.",
+    "mobile": "Native document reading, no hidden essential passage or forced pin.",
+    "reduced": "Fully visible, unpinned static content.",
+    "limitation": "No bodySplitText; Lou character-level granularity is not claimed. No new fidelity scores assigned."
+  },
+  "actual_sections": [
+    "beliefs-opening",
+    "beliefs-statement"
+  ],
+  "motion_contract": {
+    "scene": "beliefs-first-entry-clarity",
+    "source_observation": "Observed modest enter arrival or Lou held-position timed clarity",
+    "test_states": [
+      "before entry",
+      "after 1500ms",
+      "reverse after entry"
+    ],
+    "essential_text_min_opacity": 0.8,
+    "estimate_notice": "Reconstruction durations are design estimates, not source editor values."
+  },
+  "implementation": {
+    "html": "src/pages/beliefs.html",
+    "css": "src/pages/beliefs.css",
+    "motion": "src/motion/scenes/beliefs.ts",
+    "repair_notes": "art-direction/pages/beliefs/repair-notes.md"
   }
 }

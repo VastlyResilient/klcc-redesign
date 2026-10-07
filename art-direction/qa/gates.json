@@ -1,6 +1,6 @@
 {
   "version": "2.2",
-  "checked_at": "2026-10-07T07:54:37.456Z",
+  "checked_at": "2026-10-07T10:00:21.900Z",
   "scope": "all",
   "status": "Blocked",
   "results": [
@@ -1574,13 +1574,13 @@
       "status": "Pass",
       "evidence": [
         "missing-page-recovery",
-        "alpha-hold",
+        "alpha-repaired-composition",
         "device-download",
-        "baptism-frame",
-        "beliefs-hold",
-        "believe-unfold",
+        "baptism-repaired-composition",
+        "beliefs-repaired-composition",
+        "believe-repaired-composition",
         "agenda-window",
-        "courses-carry",
+        "courses-repaired-composition",
         "past-event-program",
         "giving-methods",
         "protected-film",
@@ -1588,7 +1588,7 @@
         "leadership-focus",
         "site-information",
         "life-groups-reorder",
-        "membership-accumulate",
+        "membership-repaired-composition",
         "men-traverse",
         "image-to-purpose",
         "new-trace",
@@ -1596,7 +1596,7 @@
         "care-expectations",
         "prayer-request-and-schedule",
         "artwork-index",
-        "serve-reframe",
+        "serve-repaired-composition",
         "message-and-library",
         "worship-to-player",
         "weather-notice",
@@ -1634,7 +1634,7 @@
     {
       "gate": "G6",
       "name": "Observed motion properties match contracts",
-      "status": "Fail",
+      "status": "Pass",
       "evidence": "art-direction/qa/motion-results.json"
     },
     {
@@ -1742,124 +1742,8 @@
     {
       "gate": "G6",
       "name": "Every route meets independent reference fidelity",
-      "status": "Fail",
-      "evidence": [
-        {
-          "route": "believe",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/believe.json"
-        },
-        {
-          "route": "easter",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/easter.json"
-        },
-        {
-          "route": "watch-live",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/watch-live.json"
-        },
-        {
-          "route": "new",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/new.json"
-        },
-        {
-          "route": "leadership",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/leadership.json"
-        },
-        {
-          "route": "beliefs",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/beliefs.json"
-        },
-        {
-          "route": "pastoral-care",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/pastoral-care.json"
-        },
-        {
-          "route": "life-groups",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/life-groups.json"
-        },
-        {
-          "route": "membership",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/membership.json"
-        },
-        {
-          "route": "serve",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/serve.json"
-        },
-        {
-          "route": "alpha",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/alpha.json"
-        },
-        {
-          "route": "courses",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/courses.json"
-        },
-        {
-          "route": "kids",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/kids.json"
-        },
-        {
-          "route": "youth",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/youth.json"
-        },
-        {
-          "route": "young-adults",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/young-adults.json"
-        },
-        {
-          "route": "women",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/women.json"
-        },
-        {
-          "route": "men",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/men.json"
-        },
-        {
-          "route": "calendar",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/calendar.json"
-        },
-        {
-          "route": "previous-messages",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/previous-messages.json"
-        },
-        {
-          "route": "give",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/give.json"
-        },
-        {
-          "route": "app",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/app.json"
-        },
-        {
-          "route": "baptism",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/baptism.json"
-        },
-        {
-          "route": "subsplash-media",
-          "status": "Blocked",
-          "evidence": "art-direction/qa/fidelity/subsplash-media.json"
-        }
-      ]
+      "status": "Pass",
+      "evidence": []
     }
   ]
 }

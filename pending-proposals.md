@@ -50,3 +50,20 @@ Proposed text (verbatim, ready to paste):
 > Separate the cause of motion from its final appearance. Hold scroll stationary to test time-driven changes, reverse to test scrubbing, and compare the same scene landmarks at matching viewport sizes. Exclude ordinary scroll displacement and header hover color changes from evidence of section animation. Never claim a video exists because a pinned photograph and text move together.
 Risk if adopted / not adopted: More frames are useful only when they answer a causal question. Without this distinction, a motion ledger can describe animations the visitor never experiences.
 Status: AWAITING OWNER APPROVAL — DO NOT APPLY
+
+## P-007 — Repair the reference measurement, not just the page
+
+Proposed only; protected skills remain unchanged. A reference dossier is a fallible observation. In this repair, live Lou measurements contradicted the recorded column position, and identical Slab forward-frame numbers described different content on different screen sizes. Recheck the source DOM and settled pixels when the report and frame disagree. Store per-viewport landmark states and exact visual-unit bounds (e.g. image plus metadata, text row, paired media). Keep unsuccessful probes explicitly excluded. Never require a neighboring source section merely because it appears in the same viewport screenshot.
+
+## P-008 — Independent review must drive actual repair loops
+
+Proposed only. Preserve the initial failed rubric; assign reviewers to routes they did not author; send concrete layout, legibility and interaction defects back for repair. Import a pass only when every current section has all ten dimensions reviewed at all three widths, linked comparison evidence exists, and the source hash corresponds to the reviewed implementation. A pleasant image or a source citation cannot supply missing evidence.
+
+## P-009 — Honor meaningful stillness without disguising missing motion
+
+Proposed only. A declared Hold sequence on a safety, recovery, legal, giving or media-control surface should be tested for stable visible content. It should not be failed simply because no CSS property changed. Conversely, a synchronized image/copy scene must be tested on its actual parent layers with stable DOM identities, forward and backward, at each breakpoint. Matching only child opacity can miss a parent transition. Exact editor timing remains unknown unless obtained from the editor.
+
+
+## P-010 — Separate route fidelity from sitewide repetition and exact metric parity
+
+Proposed only; no skill changes applied. A page can pass a ten-dimension visual rubric while the site repeats opening silhouettes or misses specified source geometry. Keep independent section scores, actual measured deviations and global anti-sameness as separate gates. Never summarize a local pass as whole-site readiness. Test contrast against the actual changing photo crop, including small captions, at every relevant viewport; large-title contrast alone does not protect supporting copy. Prefer continuous source-appropriate photographic grading over prohibited rectangular hero text panels.

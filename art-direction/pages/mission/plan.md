@@ -11,3 +11,7 @@ Mobile keeps the large single word, crops the landscape around its lens, and mak
 Deleted: unsupported title scaling, invented reversible word-brightening attribution, paragraph cards, repeated decorative arrows. No ledger meaning removed. The source extraction's “R estoration” was normalized to “restoration”; the seven commitments were separated without adding claims.
 
 Review: compare the opening, reading hierarchy and light-ground transition with the three-width Lou captures. Compare the page against the top-example board for manifesto/reading. Do not claim the adapted block arrival exactly reproduces Lou's per-character implementation; the contract prohibits body SplitText.
+
+
+## Follow-up correction
+Fresh independent source measurements corrected the inaccurate old Lou right-column description. Reading now centered; scripture retained within reading. The actual contact footer, not a small verse block, uses the observed inverted utility/wordmark composition and reversible focus. Mandatory copy/action IDs retained. Independent follow-up controls the verdict.

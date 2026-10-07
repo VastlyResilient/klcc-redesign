@@ -1,41 +1,57 @@
 {
-  "created": "2026-10-07T07:38:51.577Z",
+  "created": "2026-10-07T09:48:07.195Z",
   "pairs": [
     {
       "viewport": "desktop",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-baptism-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/baptism/blueprint-0/desktop-section-baptism-opening.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "desktop",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-001",
       "buildState": "section-baptism-dates",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/baptism/blueprint-0/desktop-section-baptism-dates.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "desktop",
+      "referenceState": "forward-010",
+      "buildState": "section-baptism-preparation",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/baptism/blueprint-0/desktop-section-baptism-preparation.png",
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-baptism-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/baptism/blueprint-0/tablet-section-baptism-opening.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "tablet",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-001",
       "buildState": "section-baptism-dates",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/baptism/blueprint-0/tablet-section-baptism-dates.png",
-      "referenceSettled": true,
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "tablet",
+      "referenceState": "forward-010",
+      "buildState": "section-baptism-preparation",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/baptism/blueprint-0/tablet-section-baptism-preparation.png",
+      "referenceSettled": false,
       "buildSettled": true
     },
     {
       "viewport": "phone",
-      "referenceState": "section-hero",
+      "referenceState": "opening",
       "buildState": "section-baptism-opening",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/baptism/blueprint-0/phone-section-baptism-opening.png",
       "referenceSettled": true,
@@ -43,9 +59,17 @@
     },
     {
       "viewport": "phone",
-      "referenceState": "section-ourvalues",
+      "referenceState": "forward-001",
       "buildState": "section-baptism-dates",
       "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/baptism/blueprint-0/phone-section-baptism-dates.png",
+      "referenceSettled": true,
+      "buildSettled": true
+    },
+    {
+      "viewport": "phone",
+      "referenceState": "forward-010",
+      "buildState": "section-baptism-preparation",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/baptism/blueprint-0/phone-section-baptism-preparation.png",
       "referenceSettled": true,
       "buildSettled": true
     }

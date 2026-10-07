@@ -1,8 +1,6 @@
 {
   "route": "easter",
-  "reviewed_at": "2026-10-07T07:11:22.726342+00:00",
-  "reviewer": "independent v22_pool_screening agent; not the page author",
-  "status": "Blocked",
+  "status": "Fidelity-reviewed",
   "accepted": false,
   "sections": [
     {
@@ -10,63 +8,75 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled section landmark",
-          "comparison": "art-direction/qa/side-by-side/easter/exact-section-easter-opening.jpg",
-          "build_evidence": "art-direction/qa/side-by-side/easter/desktop-sections-0.png",
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-desktop-easter-opening.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-desktop-states.png",
+          "source_evidence": "art-direction/references/deep/royal/about/desktop/section-hero.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Original art displayed intact below title and archived date. The passed event is unmistakably identified; source image-led normal-flow relationship retained.",
-          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+          "judgment": "Repaired 50/40/32px heading, broad original event artwork, and factual archive date preserve Royal hero proportions and proof relationship. Expired event is explicitly archived.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/easter-0.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/easter-desktop-easter-opening.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled section landmark",
-          "comparison": "art-direction/qa/side-by-side/easter/exact-section-easter-opening.jpg",
-          "build_evidence": "art-direction/qa/side-by-side/easter/tablet-sections-0.png",
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-tablet-easter-opening.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-tablet-states.png",
+          "source_evidence": "art-direction/references/deep/royal/about/tablet/section-hero.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Original art displayed intact below title and archived date. The passed event is unmistakably identified; source image-led normal-flow relationship retained.",
-          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+          "judgment": "Repaired 50/40/32px heading, broad original event artwork, and factual archive date preserve Royal hero proportions and proof relationship. Expired event is explicitly archived.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/easter-1.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/easter-tablet-easter-opening.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled section landmark",
-          "comparison": "art-direction/qa/side-by-side/easter/exact-section-easter-opening.jpg",
-          "build_evidence": "art-direction/qa/side-by-side/easter/phone-sections-0.png",
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-phone-easter-opening.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-phone-states.png",
+          "source_evidence": "art-direction/references/deep/royal/about/phone/section-hero.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Original art displayed intact below title and archived date. The passed event is unmistakably identified; source image-led normal-flow relationship retained.",
-          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+          "judgment": "Repaired 50/40/32px heading, broad original event artwork, and factual archive date preserve Royal hero proportions and proof relationship. Expired event is explicitly archived.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/easter-2.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/easter-phone-easter-opening.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -75,63 +85,75 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled section landmark",
-          "comparison": "art-direction/qa/side-by-side/easter/exact-section-expect.jpg",
-          "build_evidence": "art-direction/qa/side-by-side/easter/desktop-sections-0.png",
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-desktop-expect.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-desktop-states.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Left contextual heading and stable right question/answer stack preserve Slab brief hierarchy. Phone questions are readable and ordered.",
-          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+          "judgment": "Complete original questions/answers stay in one right reading column under a small left identity. Longer phone section is necessary content, not spacer padding.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/easter-3.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/easter-desktop-expect.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled section landmark",
-          "comparison": "art-direction/qa/side-by-side/easter/exact-section-expect.jpg",
-          "build_evidence": "art-direction/qa/side-by-side/easter/tablet-sections-0.png",
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-tablet-expect.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-tablet-states.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Left contextual heading and stable right question/answer stack preserve Slab brief hierarchy. Phone questions are readable and ordered.",
-          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+          "judgment": "Complete original questions/answers stay in one right reading column under a small left identity. Longer phone section is necessary content, not spacer padding.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/easter-4.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/easter-tablet-expect.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled section landmark",
-          "comparison": "art-direction/qa/side-by-side/easter/exact-section-expect.jpg",
-          "build_evidence": "art-direction/qa/side-by-side/easter/phone-sections-0.png",
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-phone-expect.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-phone-states.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
             "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Left contextual heading and stable right question/answer stack preserve Slab brief hierarchy. Phone questions are readable and ordered.",
-          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+          "judgment": "Complete original questions/answers stay in one right reading column under a small left identity. Longer phone section is necessary content, not spacer padding.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/easter-5.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/easter-phone-expect.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -140,82 +162,93 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "settled section landmark",
-          "comparison": null,
-          "build_evidence": "art-direction/qa/side-by-side/easter/desktop-sections-0.png",
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-desktop-easter-connect.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-desktop-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
           "scores": {
-            "text_placement": 3,
-            "readability": 4,
+            "text_placement": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
-            "sequence_parity": 3,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Readable and practical, but no reference equivalence established. Usability alone cannot pass strict reference fidelity.",
-          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+          "judgment": "Left Holy Week identity/app channels and right stable archive/current-calendar actions form a coherent Contact ending with mobile stacking.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/easter-6.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/easter-desktop-easter-connect.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "settled section landmark",
-          "comparison": null,
-          "build_evidence": "art-direction/qa/side-by-side/easter/tablet-sections-0.png",
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-tablet-easter-connect.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-tablet-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
           "scores": {
-            "text_placement": 3,
-            "readability": 4,
+            "text_placement": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
-            "sequence_parity": 3,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Readable and practical, but no reference equivalence established. Usability alone cannot pass strict reference fidelity.",
-          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+          "judgment": "Left Holy Week identity/app channels and right stable archive/current-calendar actions form a coherent Contact ending with mobile stacking.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/easter-7.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/easter-tablet-easter-connect.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "settled section landmark",
-          "comparison": null,
-          "build_evidence": "art-direction/qa/side-by-side/easter/phone-sections-0.png",
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/easter-phone-easter-connect.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/easter-phone-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
           "scores": {
-            "text_placement": 3,
-            "readability": 4,
+            "text_placement": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
-            "alignment": 4,
+            "alignment": 5,
             "spacing": 4,
             "atmosphere_parity": 4,
-            "sequence_parity": 3,
+            "sequence_parity": 4,
             "mobile_recomposition": 4
           },
-          "judgment": "Readable and practical, but no reference equivalence established. Usability alone cannot pass strict reference fidelity.",
-          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+          "judgment": "Left Holy Week identity/app channels and right stable archive/current-calendar actions form a coherent Contact ending with mobile stacking.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/easter-8.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/easter-phone-easter-connect.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     }
   ],
-  "blockers": [
-    {
-      "section": "easter-connect",
-      "gap": "The Holy Week/app utility continuation is readable but no observed Royal/properties layout or sequence was established for it. The former pass confused functional quality with reference fidelity.",
-      "attempts": "All three build views inspected. Rechecked actual prior comparison mappings: opening was Royal/about hero, questions were Slab Hydra Brief, while utility section had no mapped comparison. Corrected first two blueprint pointers; refused to fabricate third.",
-      "next_action": "Observe and reconstruct a suitable utility composition, or retain formal Blocked fidelity."
-    }
-  ],
-  "functional_evidence": "art-direction/qa/functional-prayer-pastoral-care-watch-live-previous-messages-subsplash-media-calendar-give-app-weather-procedures-easter-legal-404.json",
-  "review_scope": "Three viewport whole-page and per-section visual review, actual source/build comparisons, common functional browser run. No owner approval or physical phone test.",
+  "reviewer": "repair_ministry agent; independent of practical page authorship",
+  "reviewed_at": "2026-10-07T09:23:28.298Z",
+  "scope": "Independent initial official evidence review and author-repair follow-up. Section rubric only; owner acceptance and cross-site anti-sameness remain separate.",
+  "source_review": "art-direction/qa/round-2/practical-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/easter.json",
+  "source_hashes": {
+    "src/pages/easter.html": "bbd0fa04b7a5bf4ea60915c4d7189c1e6bb8fe7921c19e73d842def0125bdc5a",
+    "src/pages/easter.css": "0a7ba36e190655d4e0e4fe519909952a87a7c8a4defaf94428284d21d151c0ef",
+    "src/motion/scenes/easter.ts": "13d9dc4d01d9b79c4ac2a4425b04c6e0b42e6c9c31f597f743f6d2ede3c6a142"
+  },
   "limits": [
-    "Brand typography/color adaptations are intentionally retained.",
-    "Source editor timing curves unavailable.",
-    "A settled geometry comparison does not establish every intermediate animation state.",
-    "The initial observed-role map used generic source role aliases. Final blueprint comparison may supersede those source mappings; do not treat a mismatched mapping as proof that authored design is wrong."
+    "This section rubric does not replace owner approval or whole-site anti-sameness review.",
+    "External payment/request submission and media playback were not executed. Embedded providers depend on network; stable direct destinations are present.",
+    "Functional content expands some source reading sections. Authentic media and intact essential data take precedence over fabricated filler."
   ],
-  "review_round": "Evidence reconciliation: prior Fidelity-reviewed status withdrawn; generic role comparisons supported two adaptations but not third utility section."
+  "issues": []
 }

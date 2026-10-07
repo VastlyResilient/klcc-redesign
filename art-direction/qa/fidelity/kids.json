@@ -1,70 +1,82 @@
 {
   "route": "kids",
-  "status": "Blocked",
-  "reviewed_at": "2026-10-07T07:19:10.009524+00:00",
-  "reviewer": "independent v22_inventory_gates (not page author)",
-  "scope": "All three viewport section boards and desktop source/build landmark comparisons inspected; earlier first-entry sequence observations and repaired reversible-focus browser measurements checked. No physical-device claim.",
-  "findings": "Immediate age range and Sunday opening time are readable. Conceptual book is labelled as illustration, not program evidence. Type-led opening is a content-gap fallback and differs substantially from Royal photographic hero; cannot call exact fidelity.",
+  "status": "Fidelity-reviewed",
+  "accepted": false,
   "sections": [
     {
       "id": "kids-opening",
       "reviews": [
         {
           "viewport": 1440,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/kids/desktop-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/kids-0.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-desktop-kids-opening.png",
+          "additional_build_evidence": [],
+          "source_evidence": "art-direction/references/deep/royal/about/desktop/section-hero.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Type-only opening does not reproduce Royal image-led hero composition. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/kids-source-pairs.jpg"
+          "judgment": "Compact50/55 desktop title, broad actual campus photo and distinct below-photo facts match Royal opening hierarchy. Phone uses intact documentary framing and stacks age/check-in information readably.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/kids-desktop-kids-opening.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/kids/tablet-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/kids-1.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-tablet-kids-opening.png",
+          "additional_build_evidence": [],
+          "source_evidence": "art-direction/references/deep/royal/about/tablet/section-hero.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Type-only opening does not reproduce Royal image-led hero composition. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/kids-source-pairs.jpg"
+          "judgment": "Compact50/55 desktop title, broad actual campus photo and distinct below-photo facts match Royal opening hierarchy. Phone uses intact documentary framing and stacks age/check-in information readably.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/kids-tablet-kids-opening.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/kids/phone-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/kids-2.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-phone-kids-opening.png",
+          "additional_build_evidence": [],
+          "source_evidence": "art-direction/references/deep/royal/about/phone/section-hero.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Type-only opening does not reproduce Royal image-led hero composition. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/kids-source-pairs.jpg"
+          "judgment": "Compact50/55 desktop title, broad actual campus photo and distinct below-photo facts match Royal opening hierarchy. Phone uses intact documentary framing and stacks age/check-in information readably.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/kids-phone-kids-opening.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     },
@@ -73,177 +85,97 @@
       "reviews": [
         {
           "viewport": 1440,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/kids/desktop-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/kids-3.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-desktop-kids-team.png",
+          "additional_build_evidence": [],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-005.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Split illustration and explanatory copy differs from the assigned full-image Royal CTA. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/kids-source-pairs.jpg"
+          "judgment": "Actual conceptual artwork is labeled and precedes asymmetric scripture/recruitment copy, transferring Slab artwork→explanation order. Media contains no fabricated documentary claim; intact image and readable action survive all widths.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/kids-desktop-kids-team.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 1024,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/kids/tablet-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/kids-4.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-tablet-kids-team.png",
+          "additional_build_evidence": [
+            "art-direction/qa/round-2/ministry-evidence/kids-tablet-kids-team-end.png"
+          ],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-005.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Split illustration and explanatory copy differs from the assigned full-image Royal CTA. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/kids-source-pairs.jpg"
+          "judgment": "Actual conceptual artwork is labeled and precedes asymmetric scripture/recruitment copy, transferring Slab artwork→explanation order. Media contains no fabricated documentary claim; intact image and readable action survive all widths.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/kids-tablet-kids-team.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         },
         {
           "viewport": 390,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/kids/phone-sections-0.png",
+          "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+          "comparison": "review/independent/kids-5.webp",
+          "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-phone-kids-team.png",
+          "additional_build_evidence": [],
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-004.png",
           "scores": {
             "text_placement": 4,
-            "readability": 4,
+            "readability": 5,
             "text_image_association": 4,
             "media_position": 4,
             "media_size_aspect": 4,
+            "alignment": 5,
             "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
           },
-          "notes": "Split illustration and explanatory copy differs from the assigned full-image Royal CTA. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/kids-source-pairs.jpg"
-        }
-      ]
-    },
-    {
-      "id": "kids-scripture",
-      "reviews": [
-        {
-          "viewport": 1440,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/kids/desktop-sections-0.png",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
-          },
-          "notes": "Short scripture strip differs from Lou\u2019s substantial offset reading composition. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/kids-source-pairs.jpg"
-        },
-        {
-          "viewport": 1024,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/kids/tablet-sections-0.png",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
-          },
-          "notes": "Short scripture strip differs from Lou\u2019s substantial offset reading composition. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/kids-source-pairs.jpg"
-        },
-        {
-          "viewport": 390,
-          "state": "section-contact-sheet",
-          "comparison": "art-direction/qa/side-by-side/kids/phone-sections-0.png",
-          "scores": {
-            "text_placement": 4,
-            "readability": 4,
-            "text_image_association": 4,
-            "media_position": 4,
-            "media_size_aspect": 4,
-            "spacing": 4,
-            "alignment": 4,
-            "brand_consistency": 4,
-            "reference_topology": 3,
-            "motion_fidelity": null
-          },
-          "notes": "Short scripture strip differs from Lou\u2019s substantial offset reading composition. Motion review is separated because this reviewer implemented the repair.",
-          "source_comparison": "art-direction/qa/reviewer/kids-source-pairs.jpg"
+          "judgment": "Actual conceptual artwork is labeled and precedes asymmetric scripture/recruitment copy, transferring Slab artwork→explanation order. Media contains no fabricated documentary claim; intact image and readable action survive all widths.",
+          "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+          "original_comparison": "art-direction/qa/round-2/ministry-comparisons/kids-phone-kids-team.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
         }
       ]
     }
   ],
-  "issues": [
-    {
-      "priority": "fidelity",
-      "section": "kids-opening",
-      "issue": "Type-only opening does not reproduce Royal image-led hero composition.",
-      "repair": "Reconstruct the assigned source spatial relationship with truthful material, or record and evaluate a genuinely observed alternative; do not relabel this mismatch a pass."
-    },
-    {
-      "priority": "fidelity",
-      "section": "kids-team",
-      "issue": "Split illustration and explanatory copy differs from the assigned full-image Royal CTA.",
-      "repair": "Reconstruct the assigned source spatial relationship with truthful material, or record and evaluate a genuinely observed alternative; do not relabel this mismatch a pass."
-    },
-    {
-      "priority": "fidelity",
-      "section": "kids-scripture",
-      "issue": "Short scripture strip differs from Lou\u2019s substantial offset reading composition.",
-      "repair": "Reconstruct the assigned source spatial relationship with truthful material, or record and evaluate a genuinely observed alternative; do not relabel this mismatch a pass."
-    }
-  ],
-  "accepted": false,
-  "motion_review": {
-    "authorship": "Reviewer authored the subsequent scene repair, so independent motion verdict is delegated to capture reviewer.",
-    "evidence": "art-direction/qa/reviewer/pool-motion/repaired-focus.json",
-    "result": "Five focus scenes reverse correctly at 1440/1024/390; entrance selectors and essential Hold targets are route-specific. Exact source timings remain estimates."
+  "reviewer": "repair_practical agent, independent of ministry authorship",
+  "reviewed_at": "2026-10-07T09:15:54.842468+00:00",
+  "scope": "Independent follow-up after actual geometry repairs; section rubric cleared. This is not owner acceptance or whole-site anti-sameness/structural approval.",
+  "source_review": "art-direction/qa/round-2/ministry-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/kids.json",
+  "source_hashes": {
+    "src/pages/kids.html": "6e07e21aed839c91178a259074be2e61edbd7bc98ad993e65d2dd418c474e6b4",
+    "src/pages/kids.css": "a0c4b8932f2e91e9103caab95f731a089d3c0e97b0b3b86e99197eb8c47ae640",
+    "src/motion/scenes/kids.ts": "26ab7efe78a82a88115ae7e21c9b302f1f5cb663fccc57e8959ec7946ccaf844"
   },
-  "independent_motion_review": {
-    "reviewer": "v22_capture_pipeline",
-    "date": "2026-10-07T07:38:22.347528+00:00",
-    "evidence": [
-      "art-direction/qa/motion-evidence/kids/desktop-recording-board.png",
-      "art-direction/qa/motion-evidence/kids/measured.json"
-    ],
-    "viewports": {
-      "desktop": {
-        "observed_property_changes": 9,
-        "evidence": "art-direction/qa/captures/kids/manifest.json"
-      },
-      "tablet": {
-        "observed_property_changes": 12,
-        "evidence": "art-direction/qa/captures/kids/manifest.json"
-      },
-      "phone": {
-        "observed_property_changes": 9,
-        "evidence": "art-direction/qa/captures/kids/manifest.json"
-      }
-    },
-    "observations": "Age/check-in information remains stable. Later scripture heading changes from blur 2px through intermediate values to sharp and resets on reverse.",
-    "verdict": "Observed working motion and stable practical content. Does not clear existing source-geometry fidelity blockers.",
-    "limits": [
-      "One-second filmstrip checkpoints do not establish exact easing or duration. Source editor settings remain inaccessible; public behavior reconstruction is estimated."
-    ]
-  }
+  "limits": [
+    "Headless installed Chrome; no physical phone.",
+    "No real forms submitted.",
+    "Exact Framer editor timing unknown.",
+    "Functional native biography/request links checked without submitting.",
+    "Root retains authority over whole-site gates and owner acceptance."
+  ],
+  "issues": []
 }

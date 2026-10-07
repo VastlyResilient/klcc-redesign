@@ -1,0 +1,290 @@
+{
+  "reviewer": "repair_practical independent follow-up",
+  "reviewed_at": "2026-10-07T09:52:53.527835+00:00",
+  "scope": "Only corrected1024px h1 scale/line-break/opening review; does not clear all structural or anti-sameness assertions",
+  "routes": [
+    {
+      "route": "new",
+      "sections": [
+        {
+          "id": "visit-opening",
+          "reviews": [
+            {
+              "viewport": 1024,
+              "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+              "comparison": "art-direction/qa/round-3/tablet-heading-followup/new-comparison.jpg",
+              "build_evidence": "art-direction/qa/round-3/tablet-heading-followup/new-whole-opening.png",
+              "additional_build_evidence": [
+                "art-direction/qa/round-2/ministry-final-evidence/new-tablet-visit-opening-end.png"
+              ],
+              "source_evidence": "art-direction/references/deep/royal/about/tablet/section-hero.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Targeted tablet correction: h1 now40px, matching chosen source. Whole opening visually inspected: no clipped/awkward heading words, facts and imagery retain prior hierarchy, zero overflow. Desktop and phone h1 sizes remain unchanged. This does not clear other structural or global anti-sameness failures.",
+              "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+              "reviewer": "repair_practical independent follow-up",
+              "reviewed_at": "2026-10-07T09:52:53.527835+00:00",
+              "followup_measurements": "art-direction/qa/round-3/tablet-heading-followup/measurements.json"
+            }
+          ]
+        }
+      ],
+      "prior_tablet_review": {
+        "viewport": 1024,
+        "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+        "comparison": "art-direction/qa/round-2/ministry-comparisons/new-tablet-visit-opening.jpg",
+        "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/new-tablet-visit-opening.png",
+        "additional_build_evidence": [
+          "art-direction/qa/round-2/ministry-final-evidence/new-tablet-visit-opening-end.png"
+        ],
+        "source_evidence": "art-direction/references/deep/royal/about/tablet/section-hero.png",
+        "scores": {
+          "text_placement": 4,
+          "readability": 5,
+          "text_image_association": 4,
+          "media_position": 4,
+          "media_size_aspect": 4,
+          "alignment": 5,
+          "spacing": 4,
+          "atmosphere_parity": 4,
+          "sequence_parity": 4,
+          "mobile_recomposition": 4
+        },
+        "judgment": "After measured repair: 50/40/32px title restores Royal scale. Actual broad campus photo, welcome and service facts remain intact; longer factual copy expands the source proof area without changing its hierarchy.",
+        "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections."
+      }
+    },
+    {
+      "route": "leadership",
+      "sections": [
+        {
+          "id": "leaders-opening",
+          "reviews": [
+            {
+              "viewport": 1024,
+              "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+              "comparison": "art-direction/qa/round-3/tablet-heading-followup/leadership-comparison.jpg",
+              "build_evidence": "art-direction/qa/round-3/tablet-heading-followup/leadership-whole-opening.png",
+              "additional_build_evidence": [],
+              "source_evidence": "art-direction/references/deep/royal/about/tablet/section-hero.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Targeted tablet correction: h1 now40px, matching chosen source. Whole opening visually inspected: no clipped/awkward heading words, facts and imagery retain prior hierarchy, zero overflow. Desktop and phone h1 sizes remain unchanged. This does not clear other structural or global anti-sameness failures.",
+              "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+              "reviewer": "repair_practical independent follow-up",
+              "reviewed_at": "2026-10-07T09:52:53.527835+00:00",
+              "followup_measurements": "art-direction/qa/round-3/tablet-heading-followup/measurements.json"
+            }
+          ]
+        }
+      ],
+      "prior_tablet_review": {
+        "viewport": 1024,
+        "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+        "comparison": "art-direction/qa/round-2/ministry-comparisons/leadership-tablet-leaders-opening.jpg",
+        "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/leadership-tablet-leaders-opening.png",
+        "additional_build_evidence": [],
+        "source_evidence": "art-direction/references/deep/royal/about/tablet/section-hero.png",
+        "scores": {
+          "text_placement": 4,
+          "readability": 5,
+          "text_image_association": 4,
+          "media_position": 4,
+          "media_size_aspect": 4,
+          "alignment": 5,
+          "spacing": 4,
+          "atmosphere_parity": 4,
+          "sequence_parity": 4,
+          "mobile_recomposition": 4
+        },
+        "judgment": "After measured repair:50/40/32px heading restores Royal scale above real documentary leadership image. Header/context relationship remains legible and photograph has no distortion.",
+        "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections."
+      }
+    },
+    {
+      "route": "life-groups",
+      "sections": [
+        {
+          "id": "groups-opening",
+          "reviews": [
+            {
+              "viewport": 1024,
+              "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+              "comparison": "art-direction/qa/round-3/tablet-heading-followup/life-groups-comparison.jpg",
+              "build_evidence": "art-direction/qa/round-3/tablet-heading-followup/life-groups-whole-opening.png",
+              "additional_build_evidence": [],
+              "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Targeted tablet correction: h1 now38.4px, matching chosen source. Whole opening visually inspected: no clipped/awkward heading words, facts and imagery retain prior hierarchy, zero overflow. Desktop and phone h1 sizes remain unchanged. This does not clear other structural or global anti-sameness failures.",
+              "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections.",
+              "reviewer": "repair_practical independent follow-up",
+              "reviewed_at": "2026-10-07T09:52:53.527835+00:00",
+              "followup_measurements": "art-direction/qa/round-3/tablet-heading-followup/measurements.json"
+            }
+          ]
+        }
+      ],
+      "prior_tablet_review": {
+        "viewport": 1024,
+        "state": "settled landmark plus end continuation where long; initial/scroll/reverse sampled",
+        "comparison": "art-direction/qa/round-2/ministry-comparisons/life-groups-tablet-groups-opening.jpg",
+        "build_evidence": "art-direction/qa/round-2/ministry-final-evidence/life-groups-tablet-groups-opening.png",
+        "additional_build_evidence": [],
+        "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/opening.png",
+        "scores": {
+          "text_placement": 4,
+          "readability": 5,
+          "text_image_association": 5,
+          "media_position": 4,
+          "media_size_aspect": 4,
+          "alignment": 5,
+          "spacing": 4,
+          "atmosphere_parity": 4,
+          "sequence_parity": 4,
+          "mobile_recomposition": 4
+        },
+        "judgment": "After actual rebuild: full-width original campaign artwork leads, followed by modest title and factual metadata. This now reconstructs Slab Hydra image-first metadata sequence; phone keeps baked lettering intact.",
+        "sequence_scope": "Observed actual bounded opacity entries and native reverse. Timings are implementation estimates; no Royal chapter exchange or Lou character mechanism is claimed for these sections."
+      }
+    },
+    {
+      "route": "calendar",
+      "sections": [
+        {
+          "id": "calendar-opening",
+          "reviews": [
+            {
+              "viewport": 1024,
+              "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+              "build_evidence": "art-direction/qa/round-3/tablet-heading-followup/calendar-whole-opening.png",
+              "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-tablet-states.png",
+              "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Targeted tablet correction: h1 now40px, matching chosen source. Whole opening visually inspected: no clipped/awkward heading words, facts and imagery retain prior hierarchy, zero overflow. Desktop and phone h1 sizes remain unchanged. This does not clear other structural or global anti-sameness failures.",
+              "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+              "comparison": "art-direction/qa/round-3/tablet-heading-followup/calendar-comparison.jpg",
+              "reviewer": "repair_practical independent follow-up",
+              "reviewed_at": "2026-10-07T09:52:53.527835+00:00",
+              "followup_measurements": "art-direction/qa/round-3/tablet-heading-followup/measurements.json"
+            }
+          ]
+        }
+      ],
+      "prior_tablet_review": {
+        "viewport": 1024,
+        "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+        "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-tablet-calendar-opening.png",
+        "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-tablet-states.png",
+        "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+        "scores": {
+          "text_placement": 4,
+          "readability": 5,
+          "text_image_association": 4,
+          "media_position": 4,
+          "media_size_aspect": 4,
+          "alignment": 5,
+          "spacing": 4,
+          "atmosphere_parity": 4,
+          "sequence_parity": 4,
+          "mobile_recomposition": 4
+        },
+        "judgment": "Compact Contact-scale title and right calendar context keep practical date information immediate. Source artwork remains supplemental.",
+        "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+        "comparison": "art-direction/qa/round-2/practical-comparisons/calendar-tablet-calendar-opening.png"
+      }
+    },
+    {
+      "route": "our-story",
+      "sections": [
+        {
+          "id": "story-opening",
+          "reviews": [
+            {
+              "viewport": 1024,
+              "state": "section",
+              "comparison": "art-direction/qa/round-3/tablet-heading-followup/our-story-comparison.jpg",
+              "scores": {
+                "text_placement": 4,
+                "readability": 4,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Targeted tablet correction: h1 now40px, matching chosen source. Whole opening visually inspected: no clipped/awkward heading words, facts and imagery retain prior hierarchy, zero overflow. Desktop and phone h1 sizes remain unchanged. This does not clear other structural or global anti-sameness failures.",
+              "build_evidence": "art-direction/qa/round-3/tablet-heading-followup/our-story-whole-opening.png",
+              "reviewer": "repair_practical independent follow-up",
+              "reviewed_at": "2026-10-07T09:52:53.527835+00:00",
+              "source_evidence": "art-direction/references/deep/royal/about/tablet/section-hero.png",
+              "followup_measurements": "art-direction/qa/round-3/tablet-heading-followup/measurements.json"
+            }
+          ]
+        }
+      ],
+      "prior_tablet_review": {
+        "viewport": 1024,
+        "state": "section",
+        "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-section-story-opening.png",
+        "scores": {
+          "text_placement": 4,
+          "readability": 4,
+          "text_image_association": 5,
+          "media_position": 4,
+          "media_size_aspect": 4,
+          "alignment": 5,
+          "spacing": 4,
+          "atmosphere_parity": 4,
+          "sequence_parity": 4,
+          "mobile_recomposition": 4
+        },
+        "judgment": "Pass with documented company-content adaptation; not pixel identity."
+      }
+    }
+  ]
+}
