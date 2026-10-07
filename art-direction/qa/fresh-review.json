@@ -1027,7 +1027,7 @@
     }
   ],
   "anti_sameness_addendum": {
-    "reviewed_at": "2026-10-07T03:44:29.053844-04:00",
+    "reviewed_at": "2026-10-07T04:01:54.952675-04:00",
     "scope": "Visually inspected all nine grayscale contact sheets: 30 routes, opening-settled and midpoint, desktop/tablet/phone (180 route-state tiles).",
     "judgment": "Anti-sameness gate remains a concern; unrelated page compositions are interchangeable in the observed clusters. This is an actual visual judgment of the sheets, not a claim based on file existence.",
     "findings": [
@@ -1108,43 +1108,43 @@
         ]
       }
     ],
-    "method_limit": "Supplied sheets are grayscale with partially blurred text, but KLCC header logos, embedded campaign logos and image text remain visibly recognizable. They do not fully implement the requested logo-removed / copy-obscured test. Judgments above focus on spatial massing; exact blind-recognition validation is not certified.",
+    "method_limit": "All nine regenerated sheets were visually re-reviewed with header/logo bands masked and substantially stronger text obfuscation. The same spatial-interchangeability findings remain. A few baked-in campaign words/image graphics remain recognizable (for example Alpha question mark and some date lettering), so this is a strong composition-isolation review rather than perfectly blind content identification.",
     "evidence": [
       {
         "path": "art-direction/qa/contact-sheets/desktop-grayscale-0.png",
-        "mtime": "2026-10-07T03:41:26.422722-04:00"
+        "mtime": "2026-10-07T03:48:19.712337-04:00"
       },
       {
         "path": "art-direction/qa/contact-sheets/desktop-grayscale-1.png",
-        "mtime": "2026-10-07T03:41:27.155507-04:00"
+        "mtime": "2026-10-07T03:48:21.210134-04:00"
       },
       {
         "path": "art-direction/qa/contact-sheets/desktop-grayscale-2.png",
-        "mtime": "2026-10-07T03:41:27.655561-04:00"
+        "mtime": "2026-10-07T03:48:22.144484-04:00"
       },
       {
         "path": "art-direction/qa/contact-sheets/tablet-grayscale-0.png",
-        "mtime": "2026-10-07T03:41:28.679163-04:00"
+        "mtime": "2026-10-07T03:48:23.992076-04:00"
       },
       {
         "path": "art-direction/qa/contact-sheets/tablet-grayscale-1.png",
-        "mtime": "2026-10-07T03:41:29.301529-04:00"
+        "mtime": "2026-10-07T03:48:25.611891-04:00"
       },
       {
         "path": "art-direction/qa/contact-sheets/tablet-grayscale-2.png",
-        "mtime": "2026-10-07T03:41:29.734625-04:00"
+        "mtime": "2026-10-07T03:48:26.413782-04:00"
       },
       {
         "path": "art-direction/qa/contact-sheets/phone-grayscale-0.png",
-        "mtime": "2026-10-07T03:41:30.766857-04:00"
+        "mtime": "2026-10-07T03:48:28.167333-04:00"
       },
       {
         "path": "art-direction/qa/contact-sheets/phone-grayscale-1.png",
-        "mtime": "2026-10-07T03:41:31.422587-04:00"
+        "mtime": "2026-10-07T03:48:29.679522-04:00"
       },
       {
         "path": "art-direction/qa/contact-sheets/phone-grayscale-2.png",
-        "mtime": "2026-10-07T03:41:31.861249-04:00"
+        "mtime": "2026-10-07T03:48:30.496905-04:00"
       }
     ]
   },

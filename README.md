@@ -2,7 +2,7 @@
 
 **Production release is blocked by reference-fidelity checks.** Start with [COMPLETION.md](COMPLETION.md), [BLOCKED.md](BLOCKED.md), and the [visual review packet](review/index.html). Do not interpret authored routes or passing functional checks as accepted design.
 
-The current build has30 routes: the protected homepage,27 inner pages, legal and404. Explicit page compositions live in `src/pages/`; route motion lives in `src/motion/scenes/`. The selected reference world is Royal with Lou and Slab donors. No paid generation and no skill writes occurred.
+The current build has 30 routes: the protected homepage, 27 inner pages, legal and 404. Explicit page compositions live in `src/pages/`; route motion lives in `src/motion/scenes/`. The selected reference world is Royal with Lou and Slab donors. No paid generation and no skill writes occurred.
 
 ## Run this version
 

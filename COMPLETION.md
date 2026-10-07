@@ -17,9 +17,9 @@ The existing GitHub Pages production site has not been overwritten with a build 
 
 ## What changed
 
-Explicit route-owned HTML, CSS, and motion modules replace the shared inner-page body formula across 27 inner pages. Header/menu/footer, legal and404 are implemented. The reference world is Royal with Lou and Slab donors, inside the locked KLCC typography/palette. Source images, event dates, service details, content, destinations and provider integrations are retained or explicitly adapted.
+Explicit route-owned HTML, CSS, and motion modules replace the shared inner-page body formula across 27 inner pages. Header/menu/footer, legal and 404 are implemented. The reference world is Royal with Lou and Slab donors, inside the locked KLCC typography/palette. Source images, event dates, service details, content, destinations and provider integrations are retained or explicitly adapted.
 
-The media library has29 verified categories and158 distinct messages with exact membership, filtering, load-more and error fallback. Alpha uses real provider thumbnails and links after its embeds returned security errors. Image dimensions and responsive variants reserve geometry before paint. The approved homepage body/mechanics are unchanged; only metadata was added.
+The media library has 29 verified categories and 158 distinct messages with exact membership, filtering, load-more and error fallback. Alpha uses real provider thumbnails and links after its embeds returned security errors. Image dimensions and responsive variants reserve geometry before paint. The approved homepage body/mechanics are unchanged; only metadata was added.
 
 **Homepage limitation:** the protected baseline contains a pinned photograph with staged HTML, not an active MP4. No existing movie was claimed, generated or tested as playback.
 
@@ -105,9 +105,9 @@ Runtime property changes do not establish equivalent source timing, choreography
 
 ## Resilience, accessibility, performance
 
-All30 routes were checked at390×844 under a4×CPU local Chrome lab setup and with JavaScript disabled. Final observed maximum LCP proxy: 616ms; maximum CLS: 0. These are bounded local lab observations, not field Core Web Vitals. INP was not measured as a field metric. Initial CLS failures and fixes are preserved.
+All 30 routes were checked at 390×844 under a 4×CPU local Chrome lab setup and with JavaScript disabled. Final observed maximum LCP proxy: 616ms; maximum CLS: 0. These are bounded local lab observations, not field Core Web Vitals. INP was not measured as a field metric. Initial CLS failures and fixes are preserved.
 
-Menu/Escape, reduced-motion visibility, internal anchors, back navigation, category filters, JSON-failure fallback, story reverse ordering and mobile pin release were exercised. WebKit phone-sized smoke checks covered home, story, mission, media and404. **Physical phones were not tested.** Provider playback/consent, actual-pixel contrast across every frame, and exhaustive assistive-technology testing remain limits. No WCAG conformance certification is claimed. [Resilience evidence](art-direction/qa/resilience.json).
+Menu/Escape, reduced-motion visibility, internal anchors, back navigation, category filters, JSON-failure fallback, story reverse ordering and mobile pin release were exercised. WebKit phone-sized smoke checks covered home, story, mission, media and 404. **Physical phones were not tested.** Provider playback/consent, actual-pixel contrast across every frame, and exhaustive assistive-technology testing remain limits. No WCAG conformance certification is claimed. [Resilience evidence](art-direction/qa/resilience.json).
 
 Structural assertions: 697 pass, 353 fail, 36 unavailable in the current measurement run. See [measured structural results](art-direction/qa/structural-results.json); failures are not converted into visual passes. Reference dimensions can conflict with different content volume; that is recorded, not silently waived.
 
@@ -115,9 +115,9 @@ TrackC accepted-image regression baselines were not created because owner accept
 
 ## Uniqueness and protection
 
-All21 supplied live previews were screened this run; selected source routes were deeply captured. This is not a claim that every interaction on every preview was exhaustively inspected. Grayscale review still finds interchangeable practical openings and repeated reading layouts. Cross-site uniqueness is not verified because the required registry is absent. Frozen benchmark was unavailable and untouched.
+All 21 supplied live previews were screened this run; selected source routes were deeply captured. This is not a claim that every interaction on every preview was exhaustively inspected. Grayscale review still finds interchangeable practical openings and repeated reading layouts. Cross-site uniqueness is not verified because the required registry is absent. Frozen benchmark was unavailable and untouched.
 
-Protected files at start:1644; at end:1644; changed:0; missing:0. [Start hashes](art-direction/protected-skills.json), [end comparison](art-direction/protected-skills-end.json). No skill edits applied.
+Protected files at start: 1644; at end:1644; changed:0; missing:0. [Start hashes](art-direction/protected-skills.json), [end comparison](art-direction/protected-skills-end.json). No skill edits applied.
 
 ## Gates and remaining work
 
