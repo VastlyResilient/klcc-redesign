@@ -1,0 +1,1 @@
+var e=document.querySelector(".live-opening h1");e&&!matchMedia("(prefers-reduced-motion: reduce)").matches&&!document.body.classList.contains("motion-reduced")&&e.animate([{opacity:.75,transform:"translateY(9px)"},{opacity:1,transform:"translateY(0)"}],{duration:750,easing:"cubic-bezier(.2,.7,.2,1)"});

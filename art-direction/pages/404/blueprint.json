@@ -1,0 +1,110 @@
+{
+  "route": "404",
+  "title": "Page not found | Kingdom Life",
+  "description": "Recover from a missing address.",
+  "visitor_job": "Recover from a missing address.",
+  "signature": {
+    "id": "missing-page-recovery"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll"
+  },
+  "reference": {
+    "template": "royal",
+    "route": "/contact"
+  },
+  "sections": [
+    {
+      "id": "missing-route",
+      "visitor_task": "Recover from a missing address.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Large404 with compactnavigation recovery; no delay orfake search.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "section-0"
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Large404 with compactnavigation recovery; no delay orfake search.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "missing-help",
+      "visitor_task": "Recover from a missing address.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Smallhelp band with realcontact andvisit routes.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "section-1"
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Smallhelp band with realcontact andvisit routes.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,4542 @@
+{
+  "generated_at": "2026-10-07T07:40:19.146Z",
+  "checks": [
+    {
+      "route": "home",
+      "test": "content-preservation",
+      "status": "Protected-homepage-hash-exception",
+      "pass": null,
+      "note": "Parent verifies hash preservation; do not demand new ledger attributes on locked homepage."
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s1.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "cta:believe.s1.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "cta:believe.s1.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://klccus.churchcenter.com/people/forms/139929",
+      "actual": "https://klccus.churchcenter.com/people/forms/139929",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s2.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "cta:believe.s2.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "cta:believe.s2.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/life-groups/",
+      "actual": "http://127.0.0.1:4201/life-groups/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "believe",
+      "id": "cta:believe.s2.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "cta:believe.s2.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/baptism/",
+      "actual": "http://127.0.0.1:4201/baptism/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "cta:believe.s3.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "cta:believe.s3.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/alpha/",
+      "actual": "http://127.0.0.1:4201/alpha/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s4.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "ci:believe.s4.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "img:believe.faith-editorial",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "img:believe.worship",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "id": "img:believe.klcc-alpha-original",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "ci:weather-procedures.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "ci:weather-procedures.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "ci:weather-procedures.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "ci:weather-procedures.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "ci:weather-procedures.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "ci:weather-procedures.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "cta:weather-procedures.s2.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "cta:weather-procedures.s2.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/app/",
+      "actual": "http://127.0.0.1:4201/app/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "weather-procedures",
+      "id": "cta:weather-procedures.s2.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "cta:weather-procedures.s2.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://www.facebook.com/klcc.us/",
+      "actual": "https://www.facebook.com/klcc.us/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "weather-procedures",
+      "id": "cta:weather-procedures.s2.a2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "cta:weather-procedures.s2.a2",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://www.instagram.com/klcc.us",
+      "actual": "https://www.instagram.com/klcc.us",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "weather-procedures",
+      "id": "ci:weather-procedures.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "ci:weather-procedures.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "cta:weather-procedures.s3.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "id": "cta:weather-procedures.s3.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://klccus.churchcenter.com/people/forms/495482",
+      "actual": "https://klccus.churchcenter.com/people/forms/495482",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "weather-procedures",
+      "id": "img:weather-procedures.page-weather-procedures",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "ci:easter.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "ci:easter.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "ci:easter.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "ci:easter.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "ci:easter.s1.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "ci:easter.s1.b4",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.s1.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.s1.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://www.google.com/maps/place/41%C2%B013'12.7%22N+73%C2%B005'02.3%22W/41.2201944,-73.0861609,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x520f796c0c90028d!8m2!3d41.220203!4d-73.08397",
+      "actual": "https://www.google.com/maps/place/41%C2%B013'12.7%22N+73%C2%B005'02.3%22W/41.2201944,-73.0861609,17z/data=!3m1!4b1!4m5!3m4!1s0x0:0x520f796c0c90028d!8m2!3d41.220203!4d-73.08397",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.s1.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.s1.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "#expect",
+      "actual": "http://127.0.0.1:4201/easter/#expect",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.s1.a2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.s1.a2",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://online.brushfire.com/klcc/online",
+      "actual": "https://online.brushfire.com/klcc/online",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.s1.a3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.s1.a3",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "#klcc-app",
+      "actual": "http://127.0.0.1:4201/easter/#klcc-app",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "easter",
+      "id": "ci:easter.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "ci:easter.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.s2.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.s2.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://klccus.churchcenter.com/people/forms/137610",
+      "actual": "https://klccus.churchcenter.com/people/forms/137610",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "easter",
+      "id": "ci:easter.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live4",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live4",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/calendar",
+      "actual": "http://127.0.0.1:4201/calendar",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live5",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live5",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subspla.sh/hbwdpmt",
+      "actual": "https://subspla.sh/hbwdpmt",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live6",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live6",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subspla.sh/5zd78pk",
+      "actual": "https://subspla.sh/5zd78pk",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live7",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live7",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subspla.sh/nyg2kr8",
+      "actual": "https://subspla.sh/nyg2kr8",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live9",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live9",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://apps.apple.com/us/app/kingdom-life-christian-church/id1518667445",
+      "actual": "https://apps.apple.com/us/app/kingdom-life-christian-church/id1518667445",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live10",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "id": "cta:easter.live10",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://play.google.com/store/apps/details?id=com.subsplashconsulting.s_TPGJTK&hl=en_US&gl=US",
+      "actual": "https://play.google.com/store/apps/details?id=com.subsplashconsulting.s_TPGJTK&hl=en_US&gl=US",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "easter",
+      "id": "img:easter.page-easter",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "watch-live",
+      "id": "cta:watch-live.live0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "watch-live",
+      "id": "cta:watch-live.live0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://klcc.us",
+      "actual": "http://127.0.0.1:4201/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "watch-live",
+      "id": "ci:watch-live.integration0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "watch-live",
+      "id": "ci:watch-live.integration1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "watch-live",
+      "id": "img:watch-live.worship-stage",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s2.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s2.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subsplash.com/u/-TPGJTK/forms/d/b9468f67-5ae7-4dcc-99ab-4fdcff423a95",
+      "actual": "https://subsplash.com/u/-TPGJTK/forms/d/b9468f67-5ae7-4dcc-99ab-4fdcff423a95",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s3.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s3.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subsplash.com/u/-TPGJTK/forms/d/31a33292-3a94-4eaa-a904-73e1de5c9dc0",
+      "actual": "https://subsplash.com/u/-TPGJTK/forms/d/31a33292-3a94-4eaa-a904-73e1de5c9dc0",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s4.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s4.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s4.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s4.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subsplash.com/u/-TPGJTK/forms/d/013d03df-b0cd-41ae-b837-ba486b13df01",
+      "actual": "https://subsplash.com/u/-TPGJTK/forms/d/013d03df-b0cd-41ae-b837-ba486b13df01",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b4",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b5",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b6",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b7",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b8",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b9",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b10",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s5.b11",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s5.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s5.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subsplash.com/u/-TPGJTK/forms/d/e6a8c836-a0c1-4ea8-bc7f-92dca5dd58a5",
+      "actual": "https://subsplash.com/u/-TPGJTK/forms/d/e6a8c836-a0c1-4ea8-bc7f-92dca5dd58a5",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s6.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s6.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s6.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s6.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subsplash.com/u/-TPGJTK/forms/d/12603ad2-a817-49ca-a1ea-b0b3801d8340",
+      "actual": "https://subsplash.com/u/-TPGJTK/forms/d/12603ad2-a817-49ca-a1ea-b0b3801d8340",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s7.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s7.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s7.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "cta:new.s7.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://klccus.churchcenter.com/people/forms/204309",
+      "actual": "https://klccus.churchcenter.com/people/forms/204309",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s8.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "ci:new.s8.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "img:new.worship",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "new",
+      "id": "img:new.story",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s4.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s4.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s4.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "ci:our-story.s4.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "cta:our-story.s4.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "cta:our-story.s4.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/leadership/",
+      "actual": "http://127.0.0.1:4201/leadership/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "our-story",
+      "id": "img:our-story.founding-1991",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "id": "img:our-story.worship-stage",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s2.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s2.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s2.b4",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "cta:leadership.s2.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "cta:leadership.s2.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/our-story/",
+      "actual": "http://127.0.0.1:4201/our-story/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s4.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s4.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s4.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s4.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s4.b4",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s4.b5",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s4.b6",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s4.b7",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s4.b8",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s4.b9",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s5.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s5.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s5.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s5.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s5.b4",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s5.b5",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s5.b6",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s5.b7",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "ci:leadership.s5.b8",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "img:leadership.leadership",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "id": "img:leadership.founders-portrait",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "id": "ci:mission.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "id": "ci:mission.s0.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "id": "ci:mission.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "id": "ci:mission.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "id": "ci:mission.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "id": "ci:mission.s1.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "id": "ci:mission.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "id": "ci:mission.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "id": "img:mission.page-mission",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "id": "ci:beliefs.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "id": "ci:beliefs.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "id": "ci:beliefs.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "id": "img:beliefs.faith-editorial",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "id": "img:beliefs.page-beliefs",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "id": "ci:pastoral-care.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "id": "ci:pastoral-care.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "id": "ci:pastoral-care.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "id": "ci:pastoral-care.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "id": "cta:pastoral-care.s1.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "id": "cta:pastoral-care.s1.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://klccus.churchcenter.com/people/forms/204309",
+      "actual": "https://klccus.churchcenter.com/people/forms/204309",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "pastoral-care",
+      "id": "ci:pastoral-care.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "id": "ci:pastoral-care.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "id": "img:pastoral-care.faith-editorial",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "cta:life-groups.s2.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "cta:life-groups.s2.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://brushfire.com/klcc/lifegroups/627322/details",
+      "actual": "https://brushfire.com/klcc/lifegroups/627322/details",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b4",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b5",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b6",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b7",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b8",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b9",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b10",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b11",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b12",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b13",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s3.b14",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s4.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "ci:life-groups.s4.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "img:life-groups.worship",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "id": "img:life-groups.klcc-life-groups-original",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "cta:membership.s1.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "cta:membership.s1.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://brushfire.com/klcc/membership/630017/details",
+      "actual": "https://brushfire.com/klcc/membership/630017/details",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b4",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b5",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b6",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b7",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b8",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b9",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b10",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "ci:membership.s2.b11",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "id": "img:membership.worship",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "ci:prayer.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "ci:prayer.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "ci:prayer.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "ci:prayer.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "ci:prayer.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "ci:prayer.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "ci:prayer.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "ci:prayer.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "ci:prayer.s3.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "ci:prayer.s3.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "cta:prayer.s3.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "cta:prayer.s3.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subsplash.com/u/-TPGJTK/forms/d/12603ad2-a817-49ca-a1ea-b0b3801d8340",
+      "actual": "https://subsplash.com/u/-TPGJTK/forms/d/12603ad2-a817-49ca-a1ea-b0b3801d8340",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "prayer",
+      "id": "cta:prayer.s3.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "id": "cta:prayer.s3.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subsplash.com/u/-TPGJTK/forms/d/55b9c24a-099d-4bd7-baf3-9f5fb3bb53ad",
+      "actual": "https://subsplash.com/u/-TPGJTK/forms/d/55b9c24a-099d-4bd7-baf3-9f5fb3bb53ad",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "prayer",
+      "id": "img:prayer.worship",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "id": "ci:serve.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "id": "ci:serve.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "id": "ci:serve.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "id": "cta:serve.s1.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "id": "cta:serve.s1.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subsplash.com/u/-TPGJTK/forms/d/929a8dc1-746e-49f3-b6af-3cba94b108bc",
+      "actual": "https://subsplash.com/u/-TPGJTK/forms/d/929a8dc1-746e-49f3-b6af-3cba94b108bc",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "serve",
+      "id": "ci:serve.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "id": "ci:serve.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "id": "img:serve.community-pantry",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "id": "ci:alpha.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "id": "ci:alpha.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "id": "ci:alpha.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "id": "ci:alpha.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "id": "cta:alpha.s1.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "id": "cta:alpha.s1.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://brushfire.com/klcc/alpha/632963/details",
+      "actual": "https://brushfire.com/klcc/alpha/632963/details",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "alpha",
+      "id": "cta:alpha.s1.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "id": "cta:alpha.s1.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://alphausa.org/about",
+      "actual": "https://alphausa.org/about",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "alpha",
+      "id": "ci:alpha.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "id": "ci:alpha.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "id": "ci:alpha.integration0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "id": "ci:alpha.integration1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "id": "img:alpha.klcc-alpha-original",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s0.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b4",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b5",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b6",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b7",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b8",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b9",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b10",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s1.b11",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "cta:courses.s1.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "cta:courses.s1.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://brushfire.com/klcc/alpha/632963/details",
+      "actual": "https://brushfire.com/klcc/alpha/632963/details",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "courses",
+      "id": "cta:courses.s1.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "cta:courses.s1.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://brushfire.com/klcc/discipleship/637020/details",
+      "actual": "https://brushfire.com/klcc/discipleship/637020/details",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s2.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s3.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s3.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s3.b4",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s4.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s4.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "ci:courses.s4.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "cta:courses.s4.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "cta:courses.s4.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/courses/",
+      "actual": null,
+      "disabledSourceStatus": true
+    },
+    {
+      "route": "courses",
+      "id": "cta:courses.live1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "cta:courses.live1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://klcc-my.sharepoint.com/:v:/g/personal/bkellum_klcc_us/IQBMaeVSUbP6S6nZVQ95OVZ9AeUIv3ZvdOxBbIF6ZE5VVqQ?e=YM01f3",
+      "actual": "https://klcc-my.sharepoint.com/:v:/g/personal/bkellum_klcc_us/IQBMaeVSUbP6S6nZVQ95OVZ9AeUIv3ZvdOxBbIF6ZE5VVqQ?e=YM01f3",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "courses",
+      "id": "cta:courses.live3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "cta:courses.live3",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "",
+      "actual": null,
+      "disabledSourceStatus": true
+    },
+    {
+      "route": "courses",
+      "id": "img:courses.page-courses",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "id": "img:courses.faith-editorial",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "id": "ci:kids.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "id": "ci:kids.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "id": "ci:kids.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "id": "ci:kids.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "id": "cta:kids.s2.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "id": "cta:kids.s2.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://klccus.churchcenter.com/people/forms/595671",
+      "actual": "https://klccus.churchcenter.com/people/forms/595671",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "kids",
+      "id": "ci:kids.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "id": "ci:kids.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "id": "img:kids.faith-editorial",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s3.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s3.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "cta:youth.s3.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "cta:youth.s3.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "mailto:bmcdowell@klcc.us?subject=Elevate%207-9th%20Grades",
+      "actual": "mailto:bmcdowell@klcc.us?subject=Elevate%207-9th%20Grades",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "youth",
+      "id": "cta:youth.s3.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "cta:youth.s3.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "mailto:bmcdowell@klcc.us?subject=Elevate%2010-12th%20Grades",
+      "actual": "mailto:bmcdowell@klcc.us?subject=Elevate%2010-12th%20Grades",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s4.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "ci:youth.s4.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "id": "img:youth.worship-stage",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "ci:young-adults.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "ci:young-adults.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "cta:young-adults.s1.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "cta:young-adults.s1.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://www.instagram.com/redklcc/",
+      "actual": "https://www.instagram.com/redklcc/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "young-adults",
+      "id": "cta:young-adults.s1.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "cta:young-adults.s1.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subsplash.com/u/-TPGJTK/forms/d/b9468f67-5ae7-4dcc-99ab-4fdcff423a95",
+      "actual": "https://subsplash.com/u/-TPGJTK/forms/d/b9468f67-5ae7-4dcc-99ab-4fdcff423a95",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "young-adults",
+      "id": "ci:young-adults.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "ci:young-adults.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "cta:young-adults.s2.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "cta:young-adults.s2.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://www.instagram.com/redklcc/",
+      "actual": "https://www.instagram.com/redklcc/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "young-adults",
+      "id": "ci:young-adults.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "ci:young-adults.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "cta:young-adults.s3.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "cta:young-adults.s3.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "mailto:sperez@klcc.us?subject=Rise%20Community",
+      "actual": "mailto:sperez@klcc.us?subject=Rise%20Community",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "young-adults",
+      "id": "ci:young-adults.s4.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "ci:young-adults.s4.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "img:young-adults.worship",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "img:young-adults.young-adults-red-night",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "id": "img:young-adults.young-adults-rise-night",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "women",
+      "id": "ci:women.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "women",
+      "id": "ci:women.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "women",
+      "id": "ci:women.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "women",
+      "id": "ci:women.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "women",
+      "id": "ci:women.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "women",
+      "id": "ci:women.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "women",
+      "id": "img:women.worship",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "ci:men.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "ci:men.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "ci:men.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "ci:men.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "ci:men.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "cta:men.s3.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "cta:men.s3.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "mailto:ecalderon@klcc.us?subject=More%20about%20Men's%20Ministry%20programs%20and%20special%20events&cc=jlivramento@optonline.net",
+      "actual": "mailto:ecalderon@klcc.us?subject=More%20about%20Men%27s%20Ministry%20programs%20and%20special%20events&cc=jlivramento@optonline.net",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "men",
+      "id": "ci:men.s4.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "ci:men.s4.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "cta:men.s4.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "cta:men.s4.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "mailto:ecalderon@klcc.us?subject=Sign%20Up%20for%20EMAW&cc=jlivramento@optonline.net",
+      "actual": "mailto:ecalderon@klcc.us?subject=Sign%20Up%20for%20EMAW&cc=jlivramento@optonline.net",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "men",
+      "id": "cta:men.s4.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "cta:men.s4.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://everymanawarrior.com",
+      "actual": "https://everymanawarrior.com/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "men",
+      "id": "ci:men.s5.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "ci:men.s5.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "ci:men.s6.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "ci:men.s6.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "cta:men.s6.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "men",
+      "id": "cta:men.s6.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "mailto:ecalderon@klcc.us?subject=More%20about%20Men's%20Advance&cc=jlivramento@optonline.net",
+      "actual": "mailto:ecalderon@klcc.us?subject=More%20about%20Men%27s%20Advance&cc=jlivramento@optonline.net",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "men",
+      "id": "img:men.leadership",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "calendar",
+      "id": "ci:calendar.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "previous-messages",
+      "id": "ci:previous-messages.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s0.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s1.b3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "cta:give.s1.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "cta:give.s1.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/app/",
+      "actual": "http://127.0.0.1:4201/app/",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s3.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s3.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s4.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.s4.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "ci:give.integration0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "give",
+      "id": "img:give.community-pantry",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "app",
+      "id": "ci:app.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "app",
+      "id": "ci:app.s0.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "app",
+      "id": "cta:app.s0.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "app",
+      "id": "cta:app.s0.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://apps.apple.com/us/app/kingdom-life-christian-church/id1518667445",
+      "actual": "https://apps.apple.com/us/app/kingdom-life-christian-church/id1518667445",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "app",
+      "id": "cta:app.s0.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "app",
+      "id": "cta:app.s0.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://play.google.com/store/apps/details?id=com.subsplashconsulting.s_TPGJTK",
+      "actual": "https://play.google.com/store/apps/details?id=com.subsplashconsulting.s_TPGJTK",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "app",
+      "id": "cta:app.live1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "app",
+      "id": "cta:app.live1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://play.google.com/store/apps/details?id=com.subsplashconsulting.s_TPGJTK&hl=en_US&gl=US",
+      "actual": "https://play.google.com/store/apps/details?id=com.subsplashconsulting.s_TPGJTK",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "app",
+      "id": "img:app.page-app",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "id": "ci:baptism.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "id": "ci:baptism.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "id": "ci:baptism.s1.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "id": "ci:baptism.s1.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "id": "ci:baptism.s2.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "id": "ci:baptism.s2.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "id": "cta:baptism.s2.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "id": "cta:baptism.s2.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subsplash.com/u/-TPGJTK/forms/d/013d03df-b0cd-41ae-b837-ba486b13df01",
+      "actual": "https://subsplash.com/u/-TPGJTK/forms/d/013d03df-b0cd-41ae-b837-ba486b13df01",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "baptism",
+      "id": "cta:baptism.s2.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "id": "cta:baptism.s2.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "mailto:bkellum@klcc.us?subject=Baptism",
+      "actual": "mailto:bkellum@klcc.us?subject=Baptism",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "baptism",
+      "id": "img:baptism.page-baptism",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "id": "ci:subsplash-media.s0.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "id": "ci:subsplash-media.s0.b1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "id": "ci:subsplash-media.s0.b2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "id": "ci:subsplash-media.s1.b0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "id": "cta:subsplash-media.s1.a0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "id": "cta:subsplash-media.s1.a0",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/subsplash-media/#series",
+      "actual": "http://127.0.0.1:4201/subsplash-media/#series",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "subsplash-media",
+      "id": "cta:subsplash-media.s1.a1",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "id": "cta:subsplash-media.s1.a1",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/subsplash-media/#topics",
+      "actual": "http://127.0.0.1:4201/subsplash-media/#topics",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "subsplash-media",
+      "id": "cta:subsplash-media.s1.a2",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "id": "cta:subsplash-media.s1.a2",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/subsplash-media/#speakers",
+      "actual": "http://127.0.0.1:4201/subsplash-media/#speakers",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "subsplash-media",
+      "id": "cta:subsplash-media.s1.a3",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "id": "cta:subsplash-media.s1.a3",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "/subsplash-media/#scripture",
+      "actual": "http://127.0.0.1:4201/subsplash-media/#scripture",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "subsplash-media",
+      "id": "cta:subsplash-media.s1.a4",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "id": "cta:subsplash-media.s1.a4",
+      "test": "cta-destination",
+      "pass": true,
+      "expected": "https://subsplash.com/+7664/lb/ms/+jgg3xt5",
+      "actual": "https://subsplash.com/+7664/lb/ms/+jgg3xt5",
+      "disabledSourceStatus": false
+    },
+    {
+      "route": "subsplash-media",
+      "id": "ci:subsplash-media.integration0",
+      "test": "required-content-node-present",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "id": "img:subsplash-media.worship-stage",
+      "test": "required-content-node-present",
+      "pass": true
+    }
+  ],
+  "h1": [
+    {
+      "route": "believe",
+      "width": 1440,
+      "actual": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "I Have Decided",
+        "ratio": 0.034722222222222224
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "width": 1024,
+      "actual": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "I Have Decided",
+        "ratio": 0.0390625
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "width": 390,
+      "actual": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "I Have Decided",
+        "ratio": 0.08205128205128205
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "width": 1440,
+      "actual": {
+        "fontSize": 79.2,
+        "width": 1440,
+        "text": "Stay informed.",
+        "ratio": 0.055
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Speak with Our Experts",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "weather-procedures",
+      "width": 1024,
+      "actual": {
+        "fontSize": 56.32,
+        "width": 1024,
+        "text": "Stay informed.",
+        "ratio": 0.055
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Speak with Our Experts",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "weather-procedures",
+      "width": 390,
+      "actual": {
+        "fontSize": 46,
+        "width": 390,
+        "text": "Stay informed.",
+        "ratio": 0.11794871794871795
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Speak with Our Experts",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "easter",
+      "width": 1440,
+      "actual": {
+        "fontSize": 122.4,
+        "width": 1440,
+        "text": "EasterSunday.",
+        "ratio": 0.085
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Explore Our Finest Residences",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/properties"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/properties",
+      "pass": false
+    },
+    {
+      "route": "easter",
+      "width": 1024,
+      "actual": {
+        "fontSize": 87.04,
+        "width": 1024,
+        "text": "EasterSunday.",
+        "ratio": 0.085
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Explore Our Finest Residences",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/properties"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/properties",
+      "pass": false
+    },
+    {
+      "route": "easter",
+      "width": 390,
+      "actual": {
+        "fontSize": 67,
+        "width": 390,
+        "text": "EasterSunday.",
+        "ratio": 0.1717948717948718
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Explore Our Finest Residences",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/properties"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/properties",
+      "pass": false
+    },
+    {
+      "route": "watch-live",
+      "width": 1440,
+      "actual": {
+        "fontSize": 123.84,
+        "width": 1440,
+        "text": "Worship.Where you are.",
+        "ratio": 0.08600000000000001
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "watch-live",
+      "width": 1024,
+      "actual": {
+        "fontSize": 88.064,
+        "width": 1024,
+        "text": "Worship.Where you are.",
+        "ratio": 0.086
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "watch-live",
+      "width": 390,
+      "actual": {
+        "fontSize": 57,
+        "width": 390,
+        "text": "Worship.Where you are.",
+        "ratio": 0.14615384615384616
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "new",
+      "width": 1440,
+      "actual": {
+        "fontSize": 94,
+        "width": 1440,
+        "text": "Your first Sunday.",
+        "ratio": 0.06527777777777778
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "new",
+      "width": 1024,
+      "actual": {
+        "fontSize": 67.584,
+        "width": 1024,
+        "text": "Your first Sunday.",
+        "ratio": 0.066
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "new",
+      "width": 390,
+      "actual": {
+        "fontSize": 44,
+        "width": 390,
+        "text": "Your first Sunday.",
+        "ratio": 0.11282051282051282
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "our-story",
+      "width": 1440,
+      "actual": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "One vision.Generations of faith.",
+        "ratio": 0.034722222222222224
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "width": 1024,
+      "actual": {
+        "fontSize": 50,
+        "width": 1024,
+        "text": "One vision.Generations of faith.",
+        "ratio": 0.048828125
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "our-story",
+      "width": 390,
+      "actual": {
+        "fontSize": 40,
+        "width": 390,
+        "text": "One vision.Generations of faith.",
+        "ratio": 0.10256410256410256
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "leadership",
+      "width": 1440,
+      "actual": {
+        "fontSize": 94,
+        "width": 1440,
+        "text": "Called to care.Here to serve.",
+        "ratio": 0.06527777777777778
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "leadership",
+      "width": 1024,
+      "actual": {
+        "fontSize": 67.584,
+        "width": 1024,
+        "text": "Called to care.Here to serve.",
+        "ratio": 0.066
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "leadership",
+      "width": 390,
+      "actual": {
+        "fontSize": 44,
+        "width": 390,
+        "text": "Called to care.Here to serve.",
+        "ratio": 0.11282051282051282
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "mission",
+      "width": 1440,
+      "actual": {
+        "fontSize": 256.32,
+        "width": 1440,
+        "text": "MISSION.",
+        "ratio": 0.178
+      },
+      "reference": {
+        "fontSize": 300,
+        "width": 1440,
+        "text": "Soy Lou",
+        "ratio": 0.20833333333333334,
+        "url": "https://louperez.framer.website/about"
+      },
+      "sourceTemplate": "lou",
+      "sourceUrl": "https://louperez.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "width": 1024,
+      "actual": {
+        "fontSize": 182.272,
+        "width": 1024,
+        "text": "MISSION.",
+        "ratio": 0.178
+      },
+      "reference": {
+        "fontSize": 120,
+        "width": 1024,
+        "text": "Soy Lou",
+        "ratio": 0.1171875,
+        "url": "https://louperez.framer.website/about"
+      },
+      "sourceTemplate": "lou",
+      "sourceUrl": "https://louperez.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "mission",
+      "width": 390,
+      "actual": {
+        "fontSize": 70.2,
+        "width": 390,
+        "text": "MISSION.",
+        "ratio": 0.18000000000000002
+      },
+      "reference": {
+        "fontSize": 64,
+        "width": 390,
+        "text": "Soy Lou",
+        "ratio": 0.1641025641025641,
+        "url": "https://louperez.framer.website/about"
+      },
+      "sourceTemplate": "lou",
+      "sourceUrl": "https://louperez.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "width": 1440,
+      "actual": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "What We Believe",
+        "ratio": 0.034722222222222224
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "width": 1024,
+      "actual": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "What We Believe",
+        "ratio": 0.0390625
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "width": 390,
+      "actual": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "What We Believe",
+        "ratio": 0.08205128205128205
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "width": 1440,
+      "actual": {
+        "fontSize": 95.04,
+        "width": 1440,
+        "text": "Pastoralcare.",
+        "ratio": 0.066
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Speak with Our Experts",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "pastoral-care",
+      "width": 1024,
+      "actual": {
+        "fontSize": 67.584,
+        "width": 1024,
+        "text": "Pastoralcare.",
+        "ratio": 0.066
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Speak with Our Experts",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "pastoral-care",
+      "width": 390,
+      "actual": {
+        "fontSize": 58,
+        "width": 390,
+        "text": "Pastoralcare.",
+        "ratio": 0.14871794871794872
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Speak with Our Experts",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "life-groups",
+      "width": 1440,
+      "actual": {
+        "fontSize": 86,
+        "width": 1440,
+        "text": "Life is better together!",
+        "ratio": 0.059722222222222225
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "life-groups",
+      "width": 1024,
+      "actual": {
+        "fontSize": 61.44,
+        "width": 1024,
+        "text": "Life is better together!",
+        "ratio": 0.06
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "life-groups",
+      "width": 390,
+      "actual": {
+        "fontSize": 48,
+        "width": 390,
+        "text": "Life is better together!",
+        "ratio": 0.12307692307692308
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "membership",
+      "width": 1440,
+      "actual": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Join Community, Discover Purpose!",
+        "ratio": 0.034722222222222224
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "width": 1024,
+      "actual": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Join Community, Discover Purpose!",
+        "ratio": 0.0390625
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "width": 390,
+      "actual": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Join Community, Discover Purpose!",
+        "ratio": 0.08205128205128205
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "width": 1440,
+      "actual": {
+        "fontSize": 115.2,
+        "width": 1440,
+        "text": "Prayer.",
+        "ratio": 0.08
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Speak with Our Experts",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "prayer",
+      "width": 1024,
+      "actual": {
+        "fontSize": 81.92,
+        "width": 1024,
+        "text": "Prayer.",
+        "ratio": 0.08
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Speak with Our Experts",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "prayer",
+      "width": 390,
+      "actual": {
+        "fontSize": 64,
+        "width": 390,
+        "text": "Prayer.",
+        "ratio": 0.1641025641025641
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Speak with Our Experts",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "serve",
+      "width": 1440,
+      "actual": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Join Our Team",
+        "ratio": 0.034722222222222224
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "width": 1024,
+      "actual": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Join Our Team",
+        "ratio": 0.0390625
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "width": 390,
+      "actual": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Join Our Team",
+        "ratio": 0.08205128205128205
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "width": 1440,
+      "actual": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Explore life, faith, and meaning.",
+        "ratio": 0.034722222222222224
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "width": 1024,
+      "actual": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Explore life, faith, and meaning.",
+        "ratio": 0.0390625
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "width": 390,
+      "actual": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Explore life, faith, and meaning.",
+        "ratio": 0.08205128205128205
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "width": 1440,
+      "actual": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Discipleship",
+        "ratio": 0.034722222222222224
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "width": 1024,
+      "actual": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Discipleship",
+        "ratio": 0.0390625
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "width": 390,
+      "actual": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Discipleship",
+        "ratio": 0.08205128205128205
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "width": 1440,
+      "actual": {
+        "fontSize": 94,
+        "width": 1440,
+        "text": "A place to learn.A place to belong.",
+        "ratio": 0.06527777777777778
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "kids",
+      "width": 1024,
+      "actual": {
+        "fontSize": 67.584,
+        "width": 1024,
+        "text": "A place to learn.A place to belong.",
+        "ratio": 0.066
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "kids",
+      "width": 390,
+      "actual": {
+        "fontSize": 44,
+        "width": 390,
+        "text": "A place to learn.A place to belong.",
+        "ratio": 0.11282051282051282
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "youth",
+      "width": 1440,
+      "actual": {
+        "fontSize": 185,
+        "width": 1440,
+        "text": "ELEVATE",
+        "ratio": 0.1284722222222222
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "youth",
+      "width": 1024,
+      "actual": {
+        "fontSize": 133.12,
+        "width": 1024,
+        "text": "ELEVATE",
+        "ratio": 0.13
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "youth",
+      "width": 390,
+      "actual": {
+        "fontSize": 70.2,
+        "width": 390,
+        "text": "ELEVATE",
+        "ratio": 0.18000000000000002
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "young-adults",
+      "width": 1440,
+      "actual": {
+        "fontSize": 94,
+        "width": 1440,
+        "text": "Grow together.Go deeper.",
+        "ratio": 0.06527777777777778
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "young-adults",
+      "width": 1024,
+      "actual": {
+        "fontSize": 67.584,
+        "width": 1024,
+        "text": "Grow together.Go deeper.",
+        "ratio": 0.066
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "young-adults",
+      "width": 390,
+      "actual": {
+        "fontSize": 44,
+        "width": 390,
+        "text": "Grow together.Go deeper.",
+        "ratio": 0.11282051282051282
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "women",
+      "width": 1440,
+      "actual": {
+        "fontSize": 94,
+        "width": 1440,
+        "text": "Grow intoyour purpose.",
+        "ratio": 0.06527777777777778
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "women",
+      "width": 1024,
+      "actual": {
+        "fontSize": 67.584,
+        "width": 1024,
+        "text": "Grow intoyour purpose.",
+        "ratio": 0.066
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "women",
+      "width": 390,
+      "actual": {
+        "fontSize": 44,
+        "width": 390,
+        "text": "Grow intoyour purpose.",
+        "ratio": 0.11282051282051282
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "men",
+      "width": 1440,
+      "actual": {
+        "fontSize": 94,
+        "width": 1440,
+        "text": "Faith.Brotherhood.Purpose.",
+        "ratio": 0.06527777777777778
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "men",
+      "width": 1024,
+      "actual": {
+        "fontSize": 67.584,
+        "width": 1024,
+        "text": "Faith.Brotherhood.Purpose.",
+        "ratio": 0.066
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "men",
+      "width": 390,
+      "actual": {
+        "fontSize": 44,
+        "width": 390,
+        "text": "Faith.Brotherhood.Purpose.",
+        "ratio": 0.11282051282051282
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "calendar",
+      "width": 1440,
+      "actual": {
+        "fontSize": 172.8,
+        "width": 1440,
+        "text": "Calendar.",
+        "ratio": 0.12000000000000001
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Speak with Our Experts",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "calendar",
+      "width": 1024,
+      "actual": {
+        "fontSize": 122.88,
+        "width": 1024,
+        "text": "Calendar.",
+        "ratio": 0.12
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Speak with Our Experts",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "calendar",
+      "width": 390,
+      "actual": {
+        "fontSize": 62.4,
+        "width": 390,
+        "text": "Calendar.",
+        "ratio": 0.16
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Speak with Our Experts",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "previous-messages",
+      "width": 1440,
+      "actual": {
+        "fontSize": 66.24,
+        "width": 1440,
+        "text": "Previous messages.",
+        "ratio": 0.046
+      },
+      "reference": {
+        "fontSize": 48,
+        "width": 1440,
+        "text": "Hydra",
+        "ratio": 0.03333333333333333,
+        "url": "https://slabtemplate.framer.website/projects/hydra"
+      },
+      "sourceTemplate": "slab",
+      "sourceUrl": "https://slabtemplate.framer.website/projects/hydra",
+      "pass": false
+    },
+    {
+      "route": "previous-messages",
+      "width": 1024,
+      "actual": {
+        "fontSize": 47.104,
+        "width": 1024,
+        "text": "Previous messages.",
+        "ratio": 0.046
+      },
+      "reference": {
+        "fontSize": 38.4,
+        "width": 1024,
+        "text": "Hydra",
+        "ratio": 0.0375,
+        "url": "https://slabtemplate.framer.website/projects/hydra"
+      },
+      "sourceTemplate": "slab",
+      "sourceUrl": "https://slabtemplate.framer.website/projects/hydra",
+      "pass": false
+    },
+    {
+      "route": "previous-messages",
+      "width": 390,
+      "actual": {
+        "fontSize": 45,
+        "width": 390,
+        "text": "Previous messages.",
+        "ratio": 0.11538461538461539
+      },
+      "reference": {
+        "fontSize": 30.72,
+        "width": 390,
+        "text": "Hydra",
+        "ratio": 0.07876923076923077,
+        "url": "https://slabtemplate.framer.website/projects/hydra"
+      },
+      "sourceTemplate": "slab",
+      "sourceUrl": "https://slabtemplate.framer.website/projects/hydra",
+      "pass": false
+    },
+    {
+      "route": "give",
+      "width": 1440,
+      "actual": {
+        "fontSize": 129.6,
+        "width": 1440,
+        "text": "Giving.",
+        "ratio": 0.09
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Speak with Our Experts",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "give",
+      "width": 1024,
+      "actual": {
+        "fontSize": 92.16,
+        "width": 1024,
+        "text": "Giving.",
+        "ratio": 0.09
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Speak with Our Experts",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "give",
+      "width": 390,
+      "actual": {
+        "fontSize": 72,
+        "width": 390,
+        "text": "Giving.",
+        "ratio": 0.18461538461538463
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Speak with Our Experts",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "app",
+      "width": 1440,
+      "actual": {
+        "fontSize": 100.8,
+        "width": 1440,
+        "text": "Downloadour app.",
+        "ratio": 0.06999999999999999
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "app",
+      "width": 1024,
+      "actual": {
+        "fontSize": 71.68,
+        "width": 1024,
+        "text": "Downloadour app.",
+        "ratio": 0.07
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "app",
+      "width": 390,
+      "actual": {
+        "fontSize": 62,
+        "width": 390,
+        "text": "Downloadour app.",
+        "ratio": 0.15897435897435896
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": false
+    },
+    {
+      "route": "baptism",
+      "width": 1440,
+      "actual": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "The next step.",
+        "ratio": 0.034722222222222224
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "width": 1024,
+      "actual": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "The next step.",
+        "ratio": 0.0390625
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "width": 390,
+      "actual": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "The next step.",
+        "ratio": 0.08205128205128205
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Crafting Luxury with Intent",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/about"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/about",
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "width": 1440,
+      "actual": {
+        "fontSize": 100,
+        "width": 1440,
+        "text": "Obedience",
+        "ratio": 0.06944444444444445
+      },
+      "reference": {
+        "fontSize": 48,
+        "width": 1440,
+        "text": "Hydra",
+        "ratio": 0.03333333333333333,
+        "url": "https://slabtemplate.framer.website/projects/hydra"
+      },
+      "sourceTemplate": "slab",
+      "sourceUrl": "https://slabtemplate.framer.website/projects/hydra",
+      "pass": false
+    },
+    {
+      "route": "subsplash-media",
+      "width": 1024,
+      "actual": {
+        "fontSize": 71.68,
+        "width": 1024,
+        "text": "Obedience",
+        "ratio": 0.07
+      },
+      "reference": {
+        "fontSize": 38.4,
+        "width": 1024,
+        "text": "Hydra",
+        "ratio": 0.0375,
+        "url": "https://slabtemplate.framer.website/projects/hydra"
+      },
+      "sourceTemplate": "slab",
+      "sourceUrl": "https://slabtemplate.framer.website/projects/hydra",
+      "pass": false
+    },
+    {
+      "route": "subsplash-media",
+      "width": 390,
+      "actual": {
+        "fontSize": 55,
+        "width": 390,
+        "text": "Obedience",
+        "ratio": 0.14102564102564102
+      },
+      "reference": {
+        "fontSize": 30.72,
+        "width": 390,
+        "text": "Hydra",
+        "ratio": 0.07876923076923077,
+        "url": "https://slabtemplate.framer.website/projects/hydra"
+      },
+      "sourceTemplate": "slab",
+      "sourceUrl": "https://slabtemplate.framer.website/projects/hydra",
+      "pass": false
+    },
+    {
+      "route": "legal",
+      "width": 1440,
+      "actual": {
+        "fontSize": 76,
+        "width": 1440,
+        "text": "About this site.",
+        "ratio": 0.05277777777777778
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Speak with Our Experts",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "legal",
+      "width": 1024,
+      "actual": {
+        "fontSize": 54.272,
+        "width": 1024,
+        "text": "About this site.",
+        "ratio": 0.053
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Speak with Our Experts",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "legal",
+      "width": 390,
+      "actual": {
+        "fontSize": 50,
+        "width": 390,
+        "text": "About this site.",
+        "ratio": 0.1282051282051282
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Speak with Our Experts",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "404",
+      "width": 1440,
+      "actual": {
+        "fontSize": 360,
+        "width": 1440,
+        "text": "404.",
+        "ratio": 0.25
+      },
+      "reference": {
+        "fontSize": 50,
+        "width": 1440,
+        "text": "Speak with Our Experts",
+        "ratio": 0.034722222222222224,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "404",
+      "width": 1024,
+      "actual": {
+        "fontSize": 256,
+        "width": 1024,
+        "text": "404.",
+        "ratio": 0.25
+      },
+      "reference": {
+        "fontSize": 40,
+        "width": 1024,
+        "text": "Speak with Our Experts",
+        "ratio": 0.0390625,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    },
+    {
+      "route": "404",
+      "width": 390,
+      "actual": {
+        "fontSize": 167.7,
+        "width": 390,
+        "text": "404.",
+        "ratio": 0.43
+      },
+      "reference": {
+        "fontSize": 32,
+        "width": 390,
+        "text": "Speak with Our Experts",
+        "ratio": 0.08205128205128205,
+        "url": "https://royaltemplate.framer.website/contact"
+      },
+      "sourceTemplate": "royal",
+      "sourceUrl": "https://royaltemplate.framer.website/contact",
+      "pass": false
+    }
+  ],
+  "limitations": "Semantic H1 comparisons use the exact opening reference route, not generic template H1. Brand-font substitutions still affect optical size. Presence and destination checks, not semantic equivalence of rewritten prose. Home uses separate protected-hash verification. External CTA resolution compares declared URL, not submission."
+}

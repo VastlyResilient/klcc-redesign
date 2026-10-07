@@ -1,0 +1,1158 @@
+{
+  "reviewer": "Independent delegated fresh visual reviewer",
+  "created_at": "2026-10-07T03:39:26.744247-04:00",
+  "contract": "/Users/bobby/Downloads/Cinematic Site Handoff v2.md v2.2",
+  "status": "Reviewed observed scope; owner acceptance not assigned",
+  "scope": "30 route contact sheets at 3 widths; 8 source-pair boards; 8 timed-frame boards; 8 desktop route recordings sampled at 6 positions; live Alpha, Courses and Subsplash desktop inspection. No implementation or skill changes.",
+  "findings": [
+    {
+      "id": "FR-01",
+      "severity": "material-fidelity-gap",
+      "routes": [
+        "new",
+        "men",
+        "kids",
+        "youth",
+        "young-adults",
+        "life-groups"
+      ],
+      "finding": "Royal source section topology is materially adapted: image-bearing heroes removed or rearranged, photographic values blocks converted to text rows/columns, and full-bleed CTA/contact structures shortened. These cannot be called strict source parity without an explicit mapped exception.",
+      "evidence": [
+        "art-direction/qa/reviewer/new-source-pairs.jpg",
+        "art-direction/qa/reviewer/men-source-pairs.jpg",
+        "art-direction/qa/reviewer/kids-source-pairs.jpg",
+        "art-direction/qa/reviewer/youth-source-pairs.jpg",
+        "art-direction/qa/reviewer/young-adults-source-pairs.jpg",
+        "art-direction/qa/reviewer/life-groups-source-pairs.jpg"
+      ]
+    },
+    {
+      "id": "FR-02",
+      "severity": "material-fidelity-gap",
+      "routes": [
+        "new",
+        "men",
+        "women",
+        "kids",
+        "youth",
+        "young-adults",
+        "leadership",
+        "life-groups"
+      ],
+      "finding": "Lou long reading source is repeatedly reduced to a short scripture band, changing density, occupied area, duration and section rhythm. Current screenshot comparison cannot substantiate strict section equivalence.",
+      "evidence": [
+        "art-direction/qa/reviewer/new-source-pairs.jpg",
+        "art-direction/qa/reviewer/men-source-pairs.jpg",
+        "art-direction/qa/reviewer/women-source-pairs.jpg",
+        "art-direction/qa/reviewer/kids-source-pairs.jpg",
+        "art-direction/qa/reviewer/youth-source-pairs.jpg",
+        "art-direction/qa/reviewer/young-adults-source-pairs.jpg",
+        "art-direction/qa/reviewer/leadership-source-pairs.jpg",
+        "art-direction/qa/reviewer/life-groups-source-pairs.jpg"
+      ]
+    },
+    {
+      "id": "FR-03",
+      "severity": "visual-quality-concern",
+      "routes": [
+        "new",
+        "women",
+        "young-adults",
+        "life-groups",
+        "membership",
+        "believe",
+        "kids",
+        "courses",
+        "pastoral-care",
+        "app"
+      ],
+      "finding": "Repeated congregation photography, repeated conceptual book artwork, dark bold-text openings and short scripture endings create substantial sameness. Captions generally preserve provenance, but ministry-specific visual identity is weak; app photo provides no actual app UI.",
+      "evidence": [
+        "art-direction/qa/side-by-side/women/desktop-sections-0.png",
+        "art-direction/qa/side-by-side/young-adults/desktop-sections-0.png",
+        "art-direction/qa/side-by-side/kids/desktop-sections-0.png",
+        "art-direction/qa/side-by-side/app/desktop-sections-0.png"
+      ]
+    },
+    {
+      "id": "FR-04",
+      "severity": "evidence-limitation",
+      "routes": [
+        "leadership"
+      ],
+      "finding": "Leadership old source-pair roster differs from current capture. Alpha desktop stale-capture note is closed. Our-story and mission pilot captures were reused after documented intrinsic-dimension/srcset-only changes, with no visual CSS change reported; this is provenance of reused evidence, not a reproduced visual defect.",
+      "evidence": [
+        "art-direction/qa/reviewer/fresh-alpha-desktop.png",
+        "art-direction/qa/reviewer/leadership-source-pairs.jpg"
+      ]
+    }
+  ],
+  "resolved": [
+    {
+      "issue": "Alpha blocked Vimeo display",
+      "verification": "Live desktop screenshot and final refreshed desktop/tablet/phone sheets show thumbnail links; no in-page black security panels."
+    },
+    {
+      "issue": "Courses Prayer Course/Habits collision",
+      "verification": "Live desktop and refreshed all-width sheets show spacing and divider."
+    },
+    {
+      "issue": "Leadership tiny two-column portraits",
+      "verification": "Current all-width sheets and desktop recording show larger three-column desktop portrait grid; stale pair not used as current defect."
+    }
+  ],
+  "motion": {
+    "verified": "Repaired-focus.json records five routes x three widths with 0,.5,1,.5,0 scroll progress and reversible filter blur approximately 2px to 0 and back. Timed screenshots visibly show blur resolving on those five routes; men/groups images settle. Six-position desktop recording samples of all pool8 show normal forward/reverse route content without a reproduced blank-state failure.",
+    "not_verified": "No claim of full source motion equality, exact easing/velocity or every intermediate readability state. Repaired-focus omits new, men, life-groups. Desktop recording samples are not continuous playback inspection. Phone/tablet recording continuity was not independently viewed. Old new timed-board blank region was not reproduced in newer recording samples and is not classified as a current defect.",
+    "evidence": [
+      "art-direction/qa/reviewer/pool-motion/repaired-focus.json",
+      "art-direction/qa/reviewer/pool-motion/fresh-new-frame-board.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-men-frame-board.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-women-frame-board.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-kids-frame-board.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-youth-frame-board.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-young-adults-frame-board.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-leadership-frame-board.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-life-groups-frame-board.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-new-recording-samples.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-men-recording-samples.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-women-recording-samples.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-kids-recording-samples.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-youth-recording-samples.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-young-adults-recording-samples.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-leadership-recording-samples.jpg",
+      "art-direction/qa/reviewer/pool-motion/fresh-life-groups-recording-samples.jpg"
+    ]
+  },
+  "limits": [
+    "Screenshots are observed evidence, not proof of all interactions, contrast ratios, performance, reduced motion, physical phone behavior or continuous film correctness.",
+    "Fixed header at capture-start crops some section headings. This is not reported as a user journey defect because actual anchor alignment was separately checked by the main agent; strict matched-state reference comparison remains limited.",
+    "No numerical >=4 per-section certification is assigned where source states, final-generation captures or continuous motion parity are absent.",
+    "No new confirmed blocking visual journey defect remains after observed repairs. This does not establish award-level quality or acceptance."
+  ],
+  "routes": [
+    {
+      "route": "/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening / cinematic introduction",
+        "content continuation",
+        "footer"
+      ],
+      "judgment": "Preserved homepage observed. Atmospheric media, clear major hierarchy, and readable content in supplied settled frames. Continuous playback and source-frame parity not independently certified.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/home/desktop-sections-0.png",
+          "mtime": "2026-10-07T02:38:44.644398-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/home/tablet-sections-0.png",
+          "mtime": "2026-10-07T02:38:44.823707-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/home/phone-sections-0.png",
+          "mtime": "2026-10-07T02:38:45.034818-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/new/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "visit plan",
+        "congregation image",
+        "values",
+        "care",
+        "scripture"
+      ],
+      "judgment": "Visit information reads clearly with useful numbered rows. Royal photo hero relationship broadly retained; Royal image-led story and values blocks become text-heavy columns. Lou substantial reading becomes a short centered quote. Repeated congregation photograph reduces route specificity.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/new/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:19:14.730392-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/new/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:19:14.861696-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/new/phone-sections-0.png",
+          "mtime": "2026-10-07T03:19:14.978415-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/life-groups/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "introduction",
+        "directory",
+        "congregation image",
+        "scripture"
+      ],
+      "judgment": "Original campaign art remains readable. Directory rows are clear and phone stacking works. Royal wide-image hero becomes side artwork; photographic values cards become text rows. Shared congregation image and short quote produce sameness.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/life-groups/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:23:03.801372-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/life-groups/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:23:03.880098-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/life-groups/phone-sections-0.png",
+          "mtime": "2026-10-07T03:23:03.973450-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/men/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "weekly rhythm",
+        "study",
+        "dates",
+        "leadership image",
+        "scripture"
+      ],
+      "judgment": "Schedule hierarchy and date rows are readable. Royal photographic hero is replaced by text; leadership archive photograph appears later and is labeled. It does not visually establish the actual ministry gathering. Lou reading topology is substantially shortened.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/men/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:30:55.317895-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/men/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:30:55.442454-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/men/phone-sections-0.png",
+          "mtime": "2026-10-07T03:30:55.536364-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/women/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening and congregation image",
+        "annual schedule",
+        "scripture"
+      ],
+      "judgment": "Calendar dates and past-date styling are readable. Hero retains broad title/image sequence, but uses shared wider-congregation image rather than ministry-specific material. Short scripture block differs materially in height and density from Lou source.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/women/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:30:34.403893-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/women/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:30:34.515019-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/women/phone-sections-0.png",
+          "mtime": "2026-10-07T03:30:34.587332-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/young-adults/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "RED Night",
+        "RISE Night",
+        "congregation image",
+        "scripture"
+      ],
+      "judgment": "Campaign artwork and alternating event blocks differentiate the body. Text-only opening departs from Royal photographic hero. Shared worship photo and repeated scripture strip weaken distinctiveness.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/young-adults/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:28:50.919379-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/young-adults/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:28:51.081223-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/young-adults/phone-sections-0.png",
+          "mtime": "2026-10-07T03:28:51.231148-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/youth/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "youth service",
+        "grade groups",
+        "scripture",
+        "connect"
+      ],
+      "judgment": "ELEVATE display and time data are legible; service photo is labeled worship stage. Royal photographic hero removed, Royal three photographic values cards become two text columns, and contact layout becomes a shallow strip.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/youth/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:28:30.177231-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/youth/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:28:30.305668-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/youth/phone-sections-0.png",
+          "mtime": "2026-10-07T03:28:30.392423-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/kids/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "volunteer CTA",
+        "scripture"
+      ],
+      "judgment": "Age range, time, and CTA are readable. Conceptual book artwork is labeled and undistorted but weakly identifies a children\u2019s ministry. Royal hero photograph removed and photographic full-bleed CTA replaced by pale text/image split.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/kids/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:26:49.377493-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/kids/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:26:49.442134-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/kids/phone-sections-0.png",
+          "mtime": "2026-10-07T03:26:49.515772-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/leadership/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "founders",
+        "team",
+        "scripture"
+      ],
+      "judgment": "Current large three-column portrait grid is readable and materially better than stale two-column source-pair image. Portrait proportions look natural. Founders and team have useful differentiation. Three-column roster and short quote depart from Royal four-column / Lou reading topology.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/leadership/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:19:10.750711-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/leadership/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:19:10.854908-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/leadership/phone-sections-0.png",
+          "mtime": "2026-10-07T03:19:10.957580-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/alpha/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "conversation",
+        "films",
+        "scripture"
+      ],
+      "judgment": "Campaign artwork and discussion text are legible. Final desktop/tablet/phone boards now all show two real thumbnail/title/duration links. Black security panels and stale desktop evidence are resolved.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/alpha/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:40:11.788601-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/alpha/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:40:11.892697-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/alpha/phone-sections-0.png",
+          "mtime": "2026-10-07T03:40:12.000575-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/baptism/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "explanation",
+        "next step",
+        "scripture"
+      ],
+      "judgment": "Observed title/body hierarchy, image treatment, CTA separation, and phone stacking are clear. No concrete visible defect isolated in supplied frames.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/baptism/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:32:32.511122-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/baptism/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:32:32.591508-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/baptism/phone-sections-0.png",
+          "mtime": "2026-10-07T03:32:32.659086-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/believe/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "faith explanation",
+        "next step",
+        "scripture"
+      ],
+      "judgment": "Reading structure is clear in supplied widths. Reused congregation/book material is less specific than route content. No distortion or concrete spacing defect isolated.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/believe/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:16:30.088727-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/believe/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:16:30.174130-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/believe/phone-sections-0.png",
+          "mtime": "2026-10-07T03:16:30.251944-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/courses/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "fall list",
+        "seasonal courses",
+        "marriage"
+      ],
+      "judgment": "Dense course copy remains ordered. All refreshed widths now separate Prayer Course and Habits with rule and spacing; desktop live screenshot confirms repair. Book artwork repeats other routes.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/courses/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:27:07.453082-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/courses/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:27:07.561065-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/courses/phone-sections-0.png",
+          "mtime": "2026-10-07T03:27:07.658577-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/membership/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "introduction",
+        "next step",
+        "scripture"
+      ],
+      "judgment": "Readable hierarchy and clear content grouping. Shared congregation image and closing scripture pattern repeat nearby routes.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/membership/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:25:09.267811-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/membership/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:25:09.383705-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/membership/phone-sections-0.png",
+          "mtime": "2026-10-07T03:25:09.501910-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/serve/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "opportunities",
+        "next step",
+        "scripture"
+      ],
+      "judgment": "Body hierarchy and CTA separation are readable in supplied widths. No concrete visible defect isolated; standard opening/closing pattern contributes to site-wide sameness.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/serve/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:26:07.068828-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/serve/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:26:07.156470-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/serve/phone-sections-0.png",
+          "mtime": "2026-10-07T03:26:07.262198-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/prayer/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "request content",
+        "action",
+        "scripture"
+      ],
+      "judgment": "Quiet readable composition and clear action separation. No concrete visible spacing or image defect isolated in supplied frames.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/prayer/desktop-sections-0.png",
+          "mtime": "2026-10-07T02:44:42.733231-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/prayer/tablet-sections-0.png",
+          "mtime": "2026-10-07T02:44:42.874631-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/prayer/phone-sections-0.png",
+          "mtime": "2026-10-07T02:44:42.990036-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/pastoral-care/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "care explanation",
+        "action",
+        "scripture"
+      ],
+      "judgment": "Reading content and action are clearly grouped. Conceptual book image repeats other routes rather than identifying pastoral care specifically.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/pastoral-care/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:38:40.132427-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/pastoral-care/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:38:40.210288-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/pastoral-care/phone-sections-0.png",
+          "mtime": "2026-10-07T03:38:40.262153-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/watch-live/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "player",
+        "fallback",
+        "continuation"
+      ],
+      "judgment": "Player/countdown and direct fallback are visible. No black provider failure observed. Runtime streaming and all playback states are outside this visual review.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/watch-live/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:16:28.334273-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/watch-live/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:16:28.431846-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/watch-live/phone-sections-0.png",
+          "mtime": "2026-10-07T03:16:28.514243-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/previous-messages/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "archive gallery",
+        "continuation"
+      ],
+      "judgment": "Asymmetric archive gallery meaningfully differentiates this route. Historical material is labeled. No image stretch or concrete alignment defect isolated.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/previous-messages/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:09:29.258680-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/previous-messages/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:09:29.426800-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/previous-messages/phone-sections-0.png",
+          "mtime": "2026-10-07T03:09:29.531251-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/calendar/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "embedded listing",
+        "fallback"
+      ],
+      "judgment": "Embedded calendar has visible content and direct alternative. Narrow provider date strings truncate within rows, limiting scanability; no demonstrated missing event access. Provider interactions were not independently exercised.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/calendar/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:07:54.277756-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/calendar/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:07:54.384204-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/calendar/phone-sections-0.png",
+          "mtime": "2026-10-07T03:07:54.475938-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/give/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "giving content",
+        "action"
+      ],
+      "judgment": "Clear readable action-led composition in supplied widths. Payment workflow not exercised.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/give/desktop-sections-0.png",
+          "mtime": "2026-10-07T02:50:32.960755-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/give/tablet-sections-0.png",
+          "mtime": "2026-10-07T02:50:33.051329-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/give/phone-sections-0.png",
+          "mtime": "2026-10-07T02:50:33.182427-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/app/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "phone image",
+        "download actions"
+      ],
+      "judgment": "Image proportions and action grouping are clean. Generic phone photograph does not show actual KLCC app UI, weakening product-specific evidence.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/app/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:09:45.454176-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/app/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:09:45.575214-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/app/phone-sections-0.png",
+          "mtime": "2026-10-07T03:09:45.692575-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/easter/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "archive content",
+        "next step"
+      ],
+      "judgment": "Archive framing is visible and separates historical material from current next steps. No concrete visible layout defect isolated.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/easter/desktop-sections-0.png",
+          "mtime": "2026-10-07T02:54:09.687524-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/easter/tablet-sections-0.png",
+          "mtime": "2026-10-07T02:54:09.808143-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/easter/phone-sections-0.png",
+          "mtime": "2026-10-07T02:54:09.891269-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/weather-procedures/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "procedure text",
+        "contact"
+      ],
+      "judgment": "Procedure hierarchy is readable with adequate separation. No concrete visible defect isolated; current operational correctness not independently verified.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/weather-procedures/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:38:25.109826-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/weather-procedures/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:38:25.210471-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/weather-procedures/phone-sections-0.png",
+          "mtime": "2026-10-07T03:38:25.297872-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/legal/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "legal text",
+        "footer"
+      ],
+      "judgment": "Text-focused structure is readable in supplied widths. No concrete layout defect isolated; legal adequacy not assessed.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/legal/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:11:24.403261-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/legal/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:11:24.469563-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/legal/phone-sections-0.png",
+          "mtime": "2026-10-07T03:11:24.543347-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/404/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Error opening",
+        "recovery actions",
+        "footer"
+      ],
+      "judgment": "Error status and recovery actions are visually clear. No concrete spacing or icon proportion defect isolated.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/404/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:12:47.380743-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/404/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:12:47.444306-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/404/phone-sections-0.png",
+          "mtime": "2026-10-07T03:12:47.501827-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/beliefs/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "doctrinal reading",
+        "scripture"
+      ],
+      "judgment": "Reading hierarchy is clear. Conceptual book image is labeled but reused. No concrete visible layout defect isolated.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/beliefs/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:21:34.317386-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/beliefs/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:21:34.400862-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/beliefs/phone-sections-0.png",
+          "mtime": "2026-10-07T03:21:34.486058-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/our-story/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "history",
+        "archive photographs",
+        "continuation"
+      ],
+      "judgment": "Distinct archive photography supports the history and creates useful route variation. Supplied pilot boards were reused after documented intrinsic-dimension/srcset-only changes; main agent reports settled composition unchanged.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/our-story/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:37:48.878076-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/our-story/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:37:49.001234-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/our-story/phone-sections-0.png",
+          "mtime": "2026-10-07T03:37:49.158968-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/mission/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Opening",
+        "mission reading",
+        "continuation"
+      ],
+      "judgment": "Large title and editorial reading structure are clear. Lens photograph is original KLCC source artwork (img:mission.page-mission), used conceptually rather than as a depiction of the church. Supplied pilot boards were reused after documented intrinsic-dimension/srcset-only changes; main agent reports settled composition unchanged.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/mission/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:37:49.255876-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/mission/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:37:49.323897-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/mission/phone-sections-0.png",
+          "mtime": "2026-10-07T03:37:49.399345-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    },
+    {
+      "route": "/subsplash-media/",
+      "viewports_observed": [
+        "desktop",
+        "tablet",
+        "phone"
+      ],
+      "sections_observed": [
+        "Message opening",
+        "player",
+        "media categories",
+        "footer"
+      ],
+      "judgment": "All three latest sheets show readable title/date, real player thumbnail, and stacked phone filters. Stage image is correctly captioned wider worship rather than the particular sermon. Desktop player loaded during independent live inspection. Playback and filter outcomes not exercised.",
+      "evidence": [
+        {
+          "path": "art-direction/qa/side-by-side/subsplash-media/desktop-sections-0.png",
+          "mtime": "2026-10-07T03:32:54.320000-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/subsplash-media/tablet-sections-0.png",
+          "mtime": "2026-10-07T03:32:54.422652-04:00"
+        },
+        {
+          "path": "art-direction/qa/side-by-side/subsplash-media/phone-sections-0.png",
+          "mtime": "2026-10-07T03:32:54.487282-04:00"
+        }
+      ],
+      "status": "observed-scope-only; not accepted"
+    }
+  ],
+  "anti_sameness_addendum": {
+    "reviewed_at": "2026-10-07T03:44:29.053844-04:00",
+    "scope": "Visually inspected all nine grayscale contact sheets: 30 routes, opening-settled and midpoint, desktop/tablet/phone (180 route-state tiles).",
+    "judgment": "Anti-sameness gate remains a concern; unrelated page compositions are interchangeable in the observed clusters. This is an actual visual judgment of the sheets, not a claim based on file existence.",
+    "findings": [
+      {
+        "id": "AS-01",
+        "routes": [
+          "prayer",
+          "legal",
+          "pastoral-care"
+        ],
+        "finding": "Desktop prayer and legal openings share almost identical dark left-title/right-copy/action massing. On phone, pastoral-care, prayer and legal become closely similar dark, left-aligned long text stacks. Removing readable topic words leaves little structural identity.",
+        "evidence": [
+          "desktop-grayscale-1.png",
+          "desktop-grayscale-2.png",
+          "phone-grayscale-0.png",
+          "phone-grayscale-1.png",
+          "phone-grayscale-2.png"
+        ]
+      },
+      {
+        "id": "AS-02",
+        "routes": [
+          "weather-procedures",
+          "easter",
+          "beliefs",
+          "courses",
+          "legal"
+        ],
+        "finding": "Midpoints repeatedly present pale full-width sections with a narrow left label and broad right reading column. Rule position and paragraph density vary, but the major massing is interchangeable across unrelated informational journeys. Phone collapses these into similarly spaced pale reading stacks.",
+        "evidence": [
+          "desktop-grayscale-0.png",
+          "desktop-grayscale-1.png",
+          "desktop-grayscale-2.png",
+          "tablet-grayscale-0.png",
+          "tablet-grayscale-1.png",
+          "tablet-grayscale-2.png"
+        ]
+      },
+      {
+        "id": "AS-03",
+        "routes": [
+          "men",
+          "young-adults",
+          "women",
+          "new",
+          "leadership",
+          "subsplash-media"
+        ],
+        "finding": "Men and young-adults have near-identical dark two-column title/copy openings. New, women, leadership and media use a recurring dark title/copy band above a wide photograph. Actual imagery differentiates some pages, especially the aerial and leadership archive, but the base spatial pattern repeats.",
+        "evidence": [
+          "desktop-grayscale-0.png",
+          "desktop-grayscale-1.png",
+          "desktop-grayscale-2.png",
+          "tablet-grayscale-0.png",
+          "tablet-grayscale-1.png",
+          "tablet-grayscale-2.png"
+        ]
+      },
+      {
+        "id": "AS-04",
+        "routes": [
+          "home",
+          "mission",
+          "watch-live",
+          "previous-messages",
+          "leadership",
+          "calendar",
+          "alpha"
+        ],
+        "finding": "These retain visible differentiation: home atmospheric film; mission lens-backed giant title; watch-live full-bleed performance/player; previous-messages irregular archive cards; leadership portrait roster; calendar compact listing; Alpha paired provider thumbnails. Site-wide sameness is therefore clustered, not universal.",
+        "evidence": [
+          "desktop-grayscale-0.png",
+          "desktop-grayscale-1.png",
+          "desktop-grayscale-2.png",
+          "phone-grayscale-0.png",
+          "phone-grayscale-1.png",
+          "phone-grayscale-2.png"
+        ]
+      }
+    ],
+    "method_limit": "Supplied sheets are grayscale with partially blurred text, but KLCC header logos, embedded campaign logos and image text remain visibly recognizable. They do not fully implement the requested logo-removed / copy-obscured test. Judgments above focus on spatial massing; exact blind-recognition validation is not certified.",
+    "evidence": [
+      {
+        "path": "art-direction/qa/contact-sheets/desktop-grayscale-0.png",
+        "mtime": "2026-10-07T03:41:26.422722-04:00"
+      },
+      {
+        "path": "art-direction/qa/contact-sheets/desktop-grayscale-1.png",
+        "mtime": "2026-10-07T03:41:27.155507-04:00"
+      },
+      {
+        "path": "art-direction/qa/contact-sheets/desktop-grayscale-2.png",
+        "mtime": "2026-10-07T03:41:27.655561-04:00"
+      },
+      {
+        "path": "art-direction/qa/contact-sheets/tablet-grayscale-0.png",
+        "mtime": "2026-10-07T03:41:28.679163-04:00"
+      },
+      {
+        "path": "art-direction/qa/contact-sheets/tablet-grayscale-1.png",
+        "mtime": "2026-10-07T03:41:29.301529-04:00"
+      },
+      {
+        "path": "art-direction/qa/contact-sheets/tablet-grayscale-2.png",
+        "mtime": "2026-10-07T03:41:29.734625-04:00"
+      },
+      {
+        "path": "art-direction/qa/contact-sheets/phone-grayscale-0.png",
+        "mtime": "2026-10-07T03:41:30.766857-04:00"
+      },
+      {
+        "path": "art-direction/qa/contact-sheets/phone-grayscale-1.png",
+        "mtime": "2026-10-07T03:41:31.422587-04:00"
+      },
+      {
+        "path": "art-direction/qa/contact-sheets/phone-grayscale-2.png",
+        "mtime": "2026-10-07T03:41:31.861249-04:00"
+      }
+    ]
+  },
+  "final_alpha_recheck": {
+    "at": "2026-10-07T03:44:29.053844-04:00",
+    "evidence": "art-direction/qa/side-by-side/alpha/desktop-sections-0.png",
+    "mtime": "2026-10-07T03:40:11.788601-04:00",
+    "result": "Final desktop board now shows both provider thumbnails with titles/durations and links. Stale Alpha capture limitation closed; all three current width boards show repaired product."
+  },
+  "source_clarification": "Mission lens image is original KLCC source artwork, not invented stock substitution. Source role: conceptual company artwork; no assertion it depicts a KLCC place."
+}

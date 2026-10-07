@@ -1,0 +1,181 @@
+{
+  "route": "mission",
+  "title": "Mission & Vision | Kingdom Life",
+  "description": "The mission and vision of Kingdom Life Christian Church in Milford, Connecticut.",
+  "visitor_job": "Understand what Kingdom Life believes its community is called to do.",
+  "reference": {
+    "template": "lou",
+    "route": "/about",
+    "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md"
+  },
+  "signature": {
+    "id": "image-to-purpose"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll"
+  },
+  "sections": [
+    {
+      "id": "mission-opening",
+      "visitor_task": "Company lens artwork frames the word Mission; no invented church activity.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "landmark": "section-1",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "composition": "LouAbout: fullviewportportraitandhugecenteredname300/270pxdesktop,120tablet,64phone.",
+        "sequence": "Normaldocumentscrollcarriesphotoandname together; loadpixelationnotcopied."
+      },
+      "company_content": {
+        "copy": [
+          "ci:mission.s0.b0",
+          "ci:mission.s0.b1"
+        ],
+        "media": [
+          "img:mission.page-mission"
+        ],
+        "cta": []
+      },
+      "reconstruction": {
+        "layout": "Company lens artwork frames the word Mission; no invented church activity.",
+        "motion": {
+          "mechanism": "Fullheighttruthfulsourcemissionlensartwork,hugeMISSIONword; titleHold, no inventedzoom.",
+          "values": {
+            "estimated": true,
+            "source_editor_settings": "unknown"
+          }
+        },
+        "atmosphere": "KLCC ink, cream, pale blue; documentary neutral photographs",
+        "mobile_rewrite": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width.",
+        "reduced_motion": "Unpinned complete text and final media visible."
+      },
+      "deviations": [
+        {
+          "reference": "Freshobservedreferenceabove",
+          "conflict": "CompanycontentandlockedDNA",
+          "adaptation": "Replacepersonportraitwithcompanyownconceptuallensart, notclaimchurchlocation. Longmissionnamebecomeswordplusrealeyebrow.",
+          "test": "Sidebysides,DOMmeasurements,contentledgerandmotionstatecaptures"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": false,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null
+    },
+    {
+      "id": "mission-reading",
+      "visitor_task": "Large offset mission reading column becomes seven clear commitments.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "landmark": "section-2",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "composition": "LouAbout: blackground, leftnegative space32%, rightbold40/44pxparagraph, smallcredentialcolumnsafter.",
+        "sequence": "Freshheld900pxprobe establishesonce-entered timedopacity/transformarrival; reverse stayswhite."
+      },
+      "company_content": {
+        "copy": [
+          "ci:mission.s1.b0",
+          "ci:mission.s1.b1",
+          "ci:mission.s1.b2",
+          "ci:mission.s1.b3"
+        ],
+        "media": [],
+        "cta": []
+      },
+      "reconstruction": {
+        "layout": "Large offset mission reading column becomes seven clear commitments.",
+        "motion": {
+          "mechanism": "KLCCbounded54pxstatementthen7semanticcommitments; 6pxrise opacity.62\u21921 in1400mswhenenters. EssentialcopyvisiblebeforeJS.",
+          "values": {
+            "estimated": true,
+            "source_editor_settings": "unknown"
+          }
+        },
+        "atmosphere": "KLCC ink, cream, pale blue; documentary neutral photographs",
+        "mobile_rewrite": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width.",
+        "reduced_motion": "Unpinned complete text and final media visible."
+      },
+      "deviations": [
+        {
+          "reference": "Freshobservedreferenceabove",
+          "conflict": "CompanycontentandlockedDNA",
+          "adaptation": "BodySplitTextprohibitedbycontract sooneblockclarityratherthanpercharacter;7visionitemsreplacestudiocredentialsandmustnotbeomitted.",
+          "test": "Sidebysides,DOMmeasurements,contentledgerandmotionstatecaptures"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": false,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null
+    },
+    {
+      "id": "mission-scripture",
+      "visitor_task": "Scripture in a light quiet ground with a focus arrival.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "landmark": "section-3",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "composition": "Loufooter: abruptlightground,largeidentitywordmark,compactcontact/navigation.",
+        "sequence": "Observed reversibleblur14.661px\u21920 asfooterenters; actualcurveunknown."
+      },
+      "company_content": {
+        "copy": [
+          "ci:mission.s2.b0",
+          "ci:mission.s2.b1"
+        ],
+        "media": [],
+        "cta": []
+      },
+      "reconstruction": {
+        "layout": "Scripture in a light quiet ground with a focus arrival.",
+        "motion": {
+          "mechanism": "KLCCscripturelightground, oversizedstatementwith0\u20134pxfocus overfirstthirdsectionentry; linksandbodyneverblurred.",
+          "values": {
+            "estimated": true,
+            "source_editor_settings": "unknown"
+          }
+        },
+        "atmosphere": "KLCC ink, cream, pale blue; documentary neutral photographs",
+        "mobile_rewrite": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width.",
+        "reduced_motion": "Unpinned complete text and final media visible."
+      },
+      "deviations": [
+        {
+          "reference": "Freshobservedreferenceabove",
+          "conflict": "CompanycontentandlockedDNA",
+          "adaptation": "Lowerblurpreservesreadabilityofscripture; sharedfooterinkinsteadLouwhitetoprotectsiteworld.",
+          "test": "Sidebysides,DOMmeasurements,contentledgerandmotionstatecaptures"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": false,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null
+    }
+  ]
+}

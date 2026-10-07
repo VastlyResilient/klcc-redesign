@@ -1,0 +1,340 @@
+{
+  "route": "young-adults",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.997721"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.997721",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.9987"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "0.9987",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0.205001px)"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.205001px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-ya-community",
+          "to": "section-young-adults-scripture",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.80545px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-2279",
+          "to": "reverse-1829",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(2px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 34,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/young-adults/capture-desktop/desktop/video/page@718516fbdfb3a6a9cec242fcee5b8d6a.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/young-adults/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(1)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.981699"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(1)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.981699",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.98442"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.98442",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.98928"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "0.98928",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0.0371809px)"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.0371809px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-ya-events",
+          "to": "section-ya-community",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0.529139px)"
+            }
+          }
+        },
+        {
+          "from": "section-ya-community",
+          "to": "section-young-adults-scripture",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.529139px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-2018",
+          "to": "reverse-1634",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(2px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 34,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(1)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.975729"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(1)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.975729",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.978797"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.978797",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.981695"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "0.981695",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0.503557px)"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.503557px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-2319",
+          "to": "reverse-1897",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(2px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 30,
+      "errors": [],
+      "video": null
+    }
+  }
+}

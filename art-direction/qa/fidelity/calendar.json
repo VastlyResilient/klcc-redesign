@@ -1,0 +1,221 @@
+{
+  "route": "calendar",
+  "reviewed_at": "2026-10-07T07:38:32.661459+00:00",
+  "reviewer": "independent v22_pool_screening agent; not the page author",
+  "status": "Blocked",
+  "accepted": false,
+  "sections": [
+    {
+      "id": "calendar-opening",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/calendar/exact-section-calendar-opening.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/calendar/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Clear identity, brief purpose and immediate full-calendar route; larger horizontal headline differs from Royal contact, without obstructing task.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/calendar/exact-section-calendar-opening.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/calendar/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Clear identity, brief purpose and immediate full-calendar route; larger horizontal headline differs from Royal contact, without obstructing task.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/calendar/exact-section-calendar-opening.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/calendar/phone-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Clear identity, brief purpose and immediate full-calendar route; larger horizontal headline differs from Royal contact, without obstructing task.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        }
+      ]
+    },
+    {
+      "id": "calendar-agenda",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/calendar/exact-section-calendar-agenda.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/calendar/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Actual provider agenda loads at all widths. It is intentionally provider-owned, not a Slab reconstruction. Mobile date text is low contrast and some long end dates truncate within provider rows; direct full-calendar fallback exists.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/calendar/exact-section-calendar-agenda.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/calendar/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Actual provider agenda loads at all widths. It is intentionally provider-owned, not a Slab reconstruction. Mobile date text is low contrast and some long end dates truncate within provider rows; direct full-calendar fallback exists.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/calendar/exact-section-calendar-agenda.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/calendar/phone-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 3,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Actual provider agenda loads at all widths. It is intentionally provider-owned, not a Slab reconstruction. Mobile date text is low contrast and some long end dates truncate within provider rows; direct full-calendar fallback exists.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        }
+      ]
+    },
+    {
+      "id": "calendar-paths",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/calendar/exact-section-calendar-paths.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/calendar/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Three ruled internal destinations with concise explanations remain visible and aligned. Exact reference section not mapped. This is a utility continuation within the locked shared navigation language, not an independent template animation reconstruction; lack of a photographic source is not itself a visual defect.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/calendar/exact-section-calendar-paths.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/calendar/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Three ruled internal destinations with concise explanations remain visible and aligned. Exact reference section not mapped. This is a utility continuation within the locked shared navigation language, not an independent template animation reconstruction; lack of a photographic source is not itself a visual defect.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/calendar/exact-section-calendar-paths.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/calendar/phone-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Three ruled internal destinations with concise explanations remain visible and aligned. Exact reference section not mapped. This is a utility continuation within the locked shared navigation language, not an independent template animation reconstruction; lack of a photographic source is not itself a visual defect.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        }
+      ]
+    }
+  ],
+  "blockers": [
+    {
+      "section": "calendar-agenda",
+      "gap": "Actual provider agenda loads at all widths. It is intentionally provider-owned, not a Slab reconstruction. Mobile date text is low contrast and some long end dates truncate within provider rows; direct full-calendar fallback exists.",
+      "attempts": "Inspected all three viewport build boards and mapped source/build pairs where available. Concrete crop fix requested; provider limitations distinguished from authored code.",
+      "next_action": "Repair mismatch or retain documented Blocked fallback; do not claim exact reference reconstruction."
+    }
+  ],
+  "functional_evidence": "art-direction/qa/functional-prayer-pastoral-care-watch-live-previous-messages-subsplash-media-calendar-give-app-weather-procedures-easter-legal-404.json",
+  "review_scope": "Three viewport whole-page and per-section visual review, actual source/build comparisons, common functional browser run. No owner approval or physical phone test.",
+  "limits": [
+    "Brand typography/color adaptations are intentionally retained.",
+    "Source editor timing curves unavailable.",
+    "A settled geometry comparison does not establish every intermediate animation state.",
+    "The initial observed-role map used generic source role aliases. Final blueprint comparison may supersede those source mappings; do not treat a mismatched mapping as proof that authored design is wrong."
+  ],
+  "review_round": "Final exact-blueprint comparison review; captures and measured motion probe independently inspected"
+}

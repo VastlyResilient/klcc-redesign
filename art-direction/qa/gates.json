@@ -1,0 +1,1865 @@
+{
+  "version": "2.2",
+  "checked_at": "2026-10-07T07:54:37.456Z",
+  "scope": "all",
+  "status": "Blocked",
+  "results": [
+    {
+      "gate": "G0",
+      "name": "Inventory exists",
+      "status": "Pass",
+      "evidence": "art-direction/content-ledger.json"
+    },
+    {
+      "gate": "G0",
+      "name": "Original content unchanged",
+      "status": "Pass",
+      "evidence": "content.json"
+    },
+    {
+      "gate": "G0",
+      "name": "Protected skill baseline exists",
+      "status": "Pass",
+      "evidence": "art-direction/protected-skills.json"
+    },
+    {
+      "gate": "G1",
+      "name": "Company truth with source dates",
+      "status": "Pass",
+      "evidence": "art-direction/company-truth.json"
+    },
+    {
+      "gate": "G1",
+      "name": "All original routes fetched live",
+      "status": "Pass",
+      "evidence": [
+        {
+          "route": "/",
+          "url": "https://klcc.us/",
+          "status": 200,
+          "snapshot": "art-direction/source/home.html"
+        },
+        {
+          "route": "/believe",
+          "url": "https://klcc.us/believe",
+          "status": 200,
+          "snapshot": "art-direction/source/believe.html"
+        },
+        {
+          "route": "/weather-procedures",
+          "url": "https://klcc.us/weather-procedures",
+          "status": 200,
+          "snapshot": "art-direction/source/weather-procedures.html"
+        },
+        {
+          "route": "/easter",
+          "url": "https://klcc.us/easter",
+          "status": 200,
+          "snapshot": "art-direction/source/easter.html"
+        },
+        {
+          "route": "/watch-live",
+          "url": "https://klcc.us/watch-live",
+          "status": 200,
+          "snapshot": "art-direction/source/watch-live.html"
+        },
+        {
+          "route": "/new",
+          "url": "https://klcc.us/new",
+          "status": 200,
+          "snapshot": "art-direction/source/new.html"
+        },
+        {
+          "route": "/our-story",
+          "url": "https://klcc.us/our-story",
+          "status": 200,
+          "snapshot": "art-direction/source/our-story.html"
+        },
+        {
+          "route": "/leadership",
+          "url": "https://klcc.us/leadership",
+          "status": 200,
+          "snapshot": "art-direction/source/leadership.html"
+        },
+        {
+          "route": "/mission",
+          "url": "https://klcc.us/mission",
+          "status": 200,
+          "snapshot": "art-direction/source/mission.html"
+        },
+        {
+          "route": "/beliefs",
+          "url": "https://klcc.us/beliefs",
+          "status": 200,
+          "snapshot": "art-direction/source/beliefs.html"
+        },
+        {
+          "route": "/pastoral-care",
+          "url": "https://klcc.us/pastoral-care",
+          "status": 200,
+          "snapshot": "art-direction/source/pastoral-care.html"
+        },
+        {
+          "route": "/life-groups",
+          "url": "https://klcc.us/life-groups",
+          "status": 200,
+          "snapshot": "art-direction/source/life-groups.html"
+        },
+        {
+          "route": "/membership",
+          "url": "https://klcc.us/membership",
+          "status": 200,
+          "snapshot": "art-direction/source/membership.html"
+        },
+        {
+          "route": "/prayer",
+          "url": "https://klcc.us/prayer",
+          "status": 200,
+          "snapshot": "art-direction/source/prayer.html"
+        },
+        {
+          "route": "/serve",
+          "url": "https://klcc.us/serve",
+          "status": 200,
+          "snapshot": "art-direction/source/serve.html"
+        },
+        {
+          "route": "/alpha",
+          "url": "https://klcc.us/alpha",
+          "status": 200,
+          "snapshot": "art-direction/source/alpha.html"
+        },
+        {
+          "route": "/courses",
+          "url": "https://klcc.us/courses",
+          "status": 200,
+          "snapshot": "art-direction/source/courses.html"
+        },
+        {
+          "route": "/kids",
+          "url": "https://klcc.us/kids",
+          "status": 200,
+          "snapshot": "art-direction/source/kids.html"
+        },
+        {
+          "route": "/youth",
+          "url": "https://klcc.us/youth",
+          "status": 200,
+          "snapshot": "art-direction/source/youth.html"
+        },
+        {
+          "route": "/young-adults",
+          "url": "https://klcc.us/young-adults",
+          "status": 200,
+          "snapshot": "art-direction/source/young-adults.html"
+        },
+        {
+          "route": "/women",
+          "url": "https://klcc.us/women",
+          "status": 200,
+          "snapshot": "art-direction/source/women.html"
+        },
+        {
+          "route": "/men",
+          "url": "https://klcc.us/men",
+          "status": 200,
+          "snapshot": "art-direction/source/men.html"
+        },
+        {
+          "route": "/calendar",
+          "url": "https://klcc.us/calendar",
+          "status": 200,
+          "snapshot": "art-direction/source/calendar.html"
+        },
+        {
+          "route": "/previous-messages",
+          "url": "https://klcc.us/previous-messages",
+          "status": 200,
+          "snapshot": "art-direction/source/previous-messages.html"
+        },
+        {
+          "route": "/give",
+          "url": "https://klcc.us/give",
+          "status": 200,
+          "snapshot": "art-direction/source/give.html"
+        },
+        {
+          "route": "/app",
+          "url": "https://klcc.us/app",
+          "status": 200,
+          "snapshot": "art-direction/source/app.html"
+        },
+        {
+          "route": "/baptism",
+          "url": "https://klcc.us/baptism",
+          "status": 200,
+          "snapshot": "art-direction/source/baptism.html"
+        },
+        {
+          "route": "/subsplash-media",
+          "url": "https://klcc.us/subsplash-media",
+          "status": 200,
+          "snapshot": "art-direction/source/subsplash-media.html"
+        }
+      ]
+    },
+    {
+      "gate": "G4",
+      "name": "Both hardest pilots Fidelity-reviewed with section evidence",
+      "status": "Pass",
+      "evidence": []
+    },
+    {
+      "gate": "G4",
+      "name": "Pilot review preceded remaining authored page builds",
+      "status": "Pass",
+      "evidence": {
+        "events": "art-direction/build-events.jsonl",
+        "premature": [],
+        "note": "Legacy pre-run pages excluded; only this run timestamped build events establish chronology."
+      }
+    },
+    {
+      "gate": "G5",
+      "name": "Content ledger mapped to sections",
+      "status": "Pass",
+      "evidence": {
+        "missing": [],
+        "unknown": [],
+        "blueprints": [
+          "art-direction/pages/404/blueprint.json",
+          "art-direction/pages/alpha/blueprint.json",
+          "art-direction/pages/app/blueprint.json",
+          "art-direction/pages/baptism/blueprint.json",
+          "art-direction/pages/beliefs/blueprint.json",
+          "art-direction/pages/believe/blueprint.json",
+          "art-direction/pages/calendar/blueprint.json",
+          "art-direction/pages/courses/blueprint.json",
+          "art-direction/pages/easter/blueprint.json",
+          "art-direction/pages/give/blueprint.json",
+          "art-direction/pages/home/blueprint.json",
+          "art-direction/pages/kids/blueprint.json",
+          "art-direction/pages/leadership/blueprint.json",
+          "art-direction/pages/legal/blueprint.json",
+          "art-direction/pages/life-groups/blueprint.json",
+          "art-direction/pages/membership/blueprint.json",
+          "art-direction/pages/men/blueprint.json",
+          "art-direction/pages/mission/blueprint.json",
+          "art-direction/pages/new/blueprint.json",
+          "art-direction/pages/our-story/blueprint.json",
+          "art-direction/pages/pastoral-care/blueprint.json",
+          "art-direction/pages/prayer/blueprint.json",
+          "art-direction/pages/previous-messages/blueprint.json",
+          "art-direction/pages/serve/blueprint.json",
+          "art-direction/pages/subsplash-media/blueprint.json",
+          "art-direction/pages/watch-live/blueprint.json",
+          "art-direction/pages/weather-procedures/blueprint.json",
+          "art-direction/pages/women/blueprint.json",
+          "art-direction/pages/young-adults/blueprint.json",
+          "art-direction/pages/youth/blueprint.json"
+        ]
+      }
+    },
+    {
+      "gate": "G5",
+      "name": "All route blueprints exist",
+      "status": "Pass",
+      "evidence": {
+        "missing": []
+      }
+    },
+    {
+      "gate": "G6",
+      "name": "Heading arrival differs on two axes",
+      "status": "Fail",
+      "evidence": {
+        "collisions": [
+          {
+            "routes": [
+              "404",
+              "app"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "404",
+              "calendar"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "404",
+              "easter"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "404",
+              "give"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "404",
+              "legal"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "404",
+              "mission"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "404",
+              "pastoral-care"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "404",
+              "prayer"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "404",
+              "previous-messages"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "404",
+              "subsplash-media"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "404",
+              "watch-live"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "404",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "baptism"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "beliefs"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "believe"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "courses"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "kids"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "leadership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "life-groups"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "membership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "men"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "new"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "serve"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "alpha",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "app",
+              "calendar"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "app",
+              "easter"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "app",
+              "give"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "app",
+              "legal"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "app",
+              "mission"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "app",
+              "pastoral-care"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "app",
+              "prayer"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "app",
+              "previous-messages"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "app",
+              "subsplash-media"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "app",
+              "watch-live"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "app",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "beliefs"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "believe"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "courses"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "kids"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "leadership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "life-groups"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "membership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "men"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "new"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "serve"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "baptism",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "believe"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "courses"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "kids"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "leadership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "life-groups"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "membership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "men"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "new"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "serve"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "beliefs",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "believe",
+              "courses"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "believe",
+              "kids"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "believe",
+              "leadership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "believe",
+              "life-groups"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "believe",
+              "membership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "believe",
+              "men"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "believe",
+              "new"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "believe",
+              "serve"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "believe",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "believe",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "believe",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "calendar",
+              "easter"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "calendar",
+              "give"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "calendar",
+              "legal"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "calendar",
+              "mission"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "calendar",
+              "pastoral-care"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "calendar",
+              "prayer"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "calendar",
+              "previous-messages"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "calendar",
+              "subsplash-media"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "calendar",
+              "watch-live"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "calendar",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "courses",
+              "kids"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "courses",
+              "leadership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "courses",
+              "life-groups"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "courses",
+              "membership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "courses",
+              "men"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "courses",
+              "new"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "courses",
+              "serve"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "courses",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "courses",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "courses",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "easter",
+              "give"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "easter",
+              "legal"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "easter",
+              "mission"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "easter",
+              "pastoral-care"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "easter",
+              "prayer"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "easter",
+              "previous-messages"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "easter",
+              "subsplash-media"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "easter",
+              "watch-live"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "easter",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "give",
+              "legal"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "give",
+              "mission"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "give",
+              "pastoral-care"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "give",
+              "prayer"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "give",
+              "previous-messages"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "give",
+              "subsplash-media"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "give",
+              "watch-live"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "give",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "kids",
+              "leadership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "kids",
+              "life-groups"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "kids",
+              "membership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "kids",
+              "men"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "kids",
+              "new"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "kids",
+              "serve"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "kids",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "kids",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "kids",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "leadership",
+              "life-groups"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "leadership",
+              "membership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "leadership",
+              "men"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "leadership",
+              "new"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "leadership",
+              "serve"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "leadership",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "leadership",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "leadership",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "legal",
+              "mission"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "legal",
+              "pastoral-care"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "legal",
+              "prayer"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "legal",
+              "previous-messages"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "legal",
+              "subsplash-media"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "legal",
+              "watch-live"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "legal",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "life-groups",
+              "membership"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "life-groups",
+              "men"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "life-groups",
+              "new"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "life-groups",
+              "serve"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "life-groups",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "life-groups",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "life-groups",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "membership",
+              "men"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "membership",
+              "new"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "membership",
+              "serve"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "membership",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "membership",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "membership",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "men",
+              "new"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "men",
+              "serve"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "men",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "men",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "men",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "mission",
+              "pastoral-care"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "mission",
+              "prayer"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "mission",
+              "previous-messages"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "mission",
+              "subsplash-media"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "mission",
+              "watch-live"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "mission",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "new",
+              "serve"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "new",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "new",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "new",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "pastoral-care",
+              "prayer"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "pastoral-care",
+              "previous-messages"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "pastoral-care",
+              "subsplash-media"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "pastoral-care",
+              "watch-live"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "pastoral-care",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "prayer",
+              "previous-messages"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "prayer",
+              "subsplash-media"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "prayer",
+              "watch-live"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "prayer",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "previous-messages",
+              "subsplash-media"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "previous-messages",
+              "watch-live"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "previous-messages",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "serve",
+              "women"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "serve",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "serve",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "subsplash-media",
+              "watch-live"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "subsplash-media",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "watch-live",
+              "weather-procedures"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "women",
+              "young-adults"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "women",
+              "youth"
+            ],
+            "differences": []
+          },
+          {
+            "routes": [
+              "young-adults",
+              "youth"
+            ],
+            "differences": []
+          }
+        ],
+        "note": "No random axes may be assigned to pass; DOM evidence is separately required."
+      }
+    },
+    {
+      "gate": "G6",
+      "name": "At most one third split headings",
+      "status": "Pass",
+      "evidence": {
+        "split": [],
+        "total": 30
+      }
+    },
+    {
+      "gate": "G6",
+      "name": "Unique page signatures",
+      "status": "Pass",
+      "evidence": [
+        "missing-page-recovery",
+        "alpha-hold",
+        "device-download",
+        "baptism-frame",
+        "beliefs-hold",
+        "believe-unfold",
+        "agenda-window",
+        "courses-carry",
+        "past-event-program",
+        "giving-methods",
+        "protected-film",
+        "kids-frame",
+        "leadership-focus",
+        "site-information",
+        "life-groups-reorder",
+        "membership-accumulate",
+        "men-traverse",
+        "image-to-purpose",
+        "new-trace",
+        "paired-history",
+        "care-expectations",
+        "prayer-request-and-schedule",
+        "artwork-index",
+        "serve-reframe",
+        "message-and-library",
+        "worship-to-player",
+        "weather-notice",
+        "women-unfold",
+        "young-adults-assemble",
+        "youth-exchange"
+      ]
+    },
+    {
+      "gate": "G6",
+      "name": "Anti-slop source assertions",
+      "status": "Pass",
+      "evidence": {
+        "files": 62,
+        "findings": []
+      }
+    },
+    {
+      "gate": "G6",
+      "name": "Measured structural assertions",
+      "status": "Fail",
+      "evidence": {
+        "path": "art-direction/qa/structural-results.json",
+        "required": [
+          "section count ±1",
+          "section aspect ±15%",
+          "full bleed",
+          "sticky/pin",
+          "h1 viewport ratio ±20%",
+          "ground alternation"
+        ],
+        "note": "Must compare reference and build DOM section measurements, not declarations."
+      }
+    },
+    {
+      "gate": "G6",
+      "name": "Observed motion properties match contracts",
+      "status": "Fail",
+      "evidence": "art-direction/qa/motion-results.json"
+    },
+    {
+      "gate": "G7",
+      "name": "Ship metadata/routes/alt",
+      "status": "Pass",
+      "evidence": []
+    },
+    {
+      "gate": "G7",
+      "name": "Optimized asset variants available",
+      "status": "Pass",
+      "evidence": {
+        "need_variants": []
+      }
+    },
+    {
+      "gate": "G2",
+      "name": "Artifact art-direction/references/pool-screening.md",
+      "status": "Pass",
+      "evidence": "art-direction/references/pool-screening.md"
+    },
+    {
+      "gate": "G2",
+      "name": "Artifact art-direction/directions.md",
+      "status": "Pass",
+      "evidence": "art-direction/directions.md"
+    },
+    {
+      "gate": "G2",
+      "name": "Artifact art-direction/site-dna.json",
+      "status": "Pass",
+      "evidence": "art-direction/site-dna.json"
+    },
+    {
+      "gate": "G2",
+      "name": "Artifact art-direction/uniqueness.json",
+      "status": "Pass",
+      "evidence": "art-direction/uniqueness.json"
+    },
+    {
+      "gate": "G3",
+      "name": "Artifact art-direction/references",
+      "status": "Pass",
+      "evidence": "art-direction/references"
+    },
+    {
+      "gate": "G8",
+      "name": "Artifact COMPLETION.md",
+      "status": "Pass",
+      "evidence": "COMPLETION.md"
+    },
+    {
+      "gate": "G8",
+      "name": "Artifact pending-proposals.md",
+      "status": "Pass",
+      "evidence": "pending-proposals.md"
+    },
+    {
+      "gate": "G8",
+      "name": "Artifact art-direction/qa/self-review.md",
+      "status": "Pass",
+      "evidence": "art-direction/qa/self-review.md"
+    },
+    {
+      "gate": "G6",
+      "name": "Per-route reviewed evidence exists",
+      "status": "Pass",
+      "evidence": {
+        "files": [
+          "art-direction/qa/fidelity/404.json",
+          "art-direction/qa/fidelity/alpha.json",
+          "art-direction/qa/fidelity/app.json",
+          "art-direction/qa/fidelity/baptism.json",
+          "art-direction/qa/fidelity/beliefs.json",
+          "art-direction/qa/fidelity/believe.json",
+          "art-direction/qa/fidelity/calendar.json",
+          "art-direction/qa/fidelity/courses.json",
+          "art-direction/qa/fidelity/easter.json",
+          "art-direction/qa/fidelity/give.json",
+          "art-direction/qa/fidelity/home.json",
+          "art-direction/qa/fidelity/kids.json",
+          "art-direction/qa/fidelity/leadership.json",
+          "art-direction/qa/fidelity/legal.json",
+          "art-direction/qa/fidelity/life-groups.json",
+          "art-direction/qa/fidelity/membership.json",
+          "art-direction/qa/fidelity/men.json",
+          "art-direction/qa/fidelity/mission.json",
+          "art-direction/qa/fidelity/new.json",
+          "art-direction/qa/fidelity/our-story.json",
+          "art-direction/qa/fidelity/pastoral-care.json",
+          "art-direction/qa/fidelity/prayer.json",
+          "art-direction/qa/fidelity/previous-messages.json",
+          "art-direction/qa/fidelity/serve.json",
+          "art-direction/qa/fidelity/subsplash-media.json",
+          "art-direction/qa/fidelity/watch-live.json",
+          "art-direction/qa/fidelity/weather-procedures.json",
+          "art-direction/qa/fidelity/women.json",
+          "art-direction/qa/fidelity/young-adults.json",
+          "art-direction/qa/fidelity/youth.json"
+        ],
+        "note": "Existence does not approve rubric scores; reviewer must inspect actual captures."
+      }
+    },
+    {
+      "gate": "G6",
+      "name": "Every route meets independent reference fidelity",
+      "status": "Fail",
+      "evidence": [
+        {
+          "route": "believe",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/believe.json"
+        },
+        {
+          "route": "easter",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/easter.json"
+        },
+        {
+          "route": "watch-live",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/watch-live.json"
+        },
+        {
+          "route": "new",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/new.json"
+        },
+        {
+          "route": "leadership",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/leadership.json"
+        },
+        {
+          "route": "beliefs",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/beliefs.json"
+        },
+        {
+          "route": "pastoral-care",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/pastoral-care.json"
+        },
+        {
+          "route": "life-groups",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/life-groups.json"
+        },
+        {
+          "route": "membership",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/membership.json"
+        },
+        {
+          "route": "serve",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/serve.json"
+        },
+        {
+          "route": "alpha",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/alpha.json"
+        },
+        {
+          "route": "courses",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/courses.json"
+        },
+        {
+          "route": "kids",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/kids.json"
+        },
+        {
+          "route": "youth",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/youth.json"
+        },
+        {
+          "route": "young-adults",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/young-adults.json"
+        },
+        {
+          "route": "women",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/women.json"
+        },
+        {
+          "route": "men",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/men.json"
+        },
+        {
+          "route": "calendar",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/calendar.json"
+        },
+        {
+          "route": "previous-messages",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/previous-messages.json"
+        },
+        {
+          "route": "give",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/give.json"
+        },
+        {
+          "route": "app",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/app.json"
+        },
+        {
+          "route": "baptism",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/baptism.json"
+        },
+        {
+          "route": "subsplash-media",
+          "status": "Blocked",
+          "evidence": "art-direction/qa/fidelity/subsplash-media.json"
+        }
+      ]
+    }
+  ]
+}

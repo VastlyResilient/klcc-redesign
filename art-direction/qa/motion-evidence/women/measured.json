@@ -1,0 +1,219 @@
+{
+  "route": "women",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(1.29497px)"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(1.29497px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-women-photo",
+          "to": "section-women-calendar",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0.888784px)"
+            }
+          }
+        },
+        {
+          "from": "section-women-calendar",
+          "to": "section-women-scripture",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.888784px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-2346",
+          "to": "reverse-1896",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(0.447278px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1896",
+          "to": "reverse-1446",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.447278px)",
+              "to": "blur(2px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 32,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/women/capture-desktop/desktop/video/page@1befb50fd500afcdc0e102f9ab3e571d.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/women/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-women-calendar",
+          "to": "section-women-scripture",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1802",
+          "to": "reverse-1418",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(2px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 32,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(1.80132px)"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(1.80132px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "footer",
+          "to": "opening-settled",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(2px)"
+            }
+          }
+        },
+        {
+          "from": "opening-settled",
+          "to": "midpoint",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0.446308px)"
+            }
+          }
+        },
+        {
+          "from": "section-section-0",
+          "to": "section-women-opening",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.446308px)",
+              "to": "blur(2px)"
+            }
+          }
+        },
+        {
+          "from": "section-women-photo",
+          "to": "section-women-calendar",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(1.56284px)"
+            }
+          }
+        },
+        {
+          "from": "section-women-calendar",
+          "to": "section-women-scripture",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(1.56284px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1516",
+          "to": "reverse-1094",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(2px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 26,
+      "errors": [],
+      "video": null
+    }
+  }
+}

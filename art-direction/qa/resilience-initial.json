@@ -1,0 +1,1674 @@
+{
+  "created": "2026-10-07T07:08:09.870Z",
+  "physicalPhonesTested": false,
+  "limits": [
+    "Local Chrome4xCPU lab proxies, not field Web Vitals or physical phone validation.",
+    "No financial transactions or forms submitted.",
+    "Third-party media may require service consent; direct service fallbacks verified separately."
+  ],
+  "lab": [
+    {
+      "route": "home",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 348,
+      "cls": 0,
+      "longTasks": [
+        67
+      ],
+      "events": [],
+      "overflow": false,
+      "bytes": 2892468,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 0
+    },
+    {
+      "route": "believe",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 40,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 64
+        },
+        {
+          "name": "pointerenter",
+          "duration": 64
+        },
+        {
+          "name": "pointerenter",
+          "duration": 64
+        },
+        {
+          "name": "pointerenter",
+          "duration": 64
+        },
+        {
+          "name": "pointerenter",
+          "duration": 64
+        },
+        {
+          "name": "pointerenter",
+          "duration": 64
+        },
+        {
+          "name": "mouseover",
+          "duration": 64
+        },
+        {
+          "name": "pointerdown",
+          "duration": 64
+        },
+        {
+          "name": "mousedown",
+          "duration": 64
+        },
+        {
+          "name": "pointerup",
+          "duration": 64
+        },
+        {
+          "name": "mouseup",
+          "duration": 64
+        },
+        {
+          "name": "click",
+          "duration": 64
+        },
+        {
+          "name": "pointerout",
+          "duration": 24
+        },
+        {
+          "name": "pointerleave",
+          "duration": 24
+        },
+        {
+          "name": "pointerleave",
+          "duration": 24
+        },
+        {
+          "name": "pointerover",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "mouseout",
+          "duration": 24
+        },
+        {
+          "name": "mouseover",
+          "duration": 24
+        }
+      ],
+      "overflow": false,
+      "bytes": 627210,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 64
+    },
+    {
+      "route": "weather-procedures",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 60,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "mouseover",
+          "duration": 32
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 216898,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 32
+    },
+    {
+      "route": "easter",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 60,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "mouseover",
+          "duration": 16
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 661595,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "watch-live",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 136,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 112
+        },
+        {
+          "name": "pointerenter",
+          "duration": 112
+        },
+        {
+          "name": "pointerenter",
+          "duration": 112
+        },
+        {
+          "name": "pointerenter",
+          "duration": 112
+        },
+        {
+          "name": "pointerenter",
+          "duration": 112
+        },
+        {
+          "name": "pointerenter",
+          "duration": 112
+        },
+        {
+          "name": "mouseover",
+          "duration": 112
+        }
+      ],
+      "overflow": false,
+      "bytes": 369480,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 112
+    },
+    {
+      "route": "new",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 60,
+      "cls": 0.06690126137535787,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 373479,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "our-story",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 48,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "mouseover",
+          "duration": 24
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 679477,
+      "h1": "\"Albert Sans\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 24
+    },
+    {
+      "route": "leadership",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 36,
+      "cls": 0.0038254779219717115,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "mouseover",
+          "duration": 16
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 288804,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "mission",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 84,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "mouseover",
+          "duration": 24
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 140845,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 24
+    },
+    {
+      "route": "beliefs",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 64,
+      "cls": 0.13852293720940678,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 241153,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": false,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "pastoral-care",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 32,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 9527,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "life-groups",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 56,
+      "cls": 0.1065476987523606,
+      "longTasks": [],
+      "events": [],
+      "overflow": false,
+      "bytes": 345868,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": false,
+      "maxInteractionProxy": 0
+    },
+    {
+      "route": "membership",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 40,
+      "cls": 0.004847917490967962,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 9038,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "prayer",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 44,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 8448,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "serve",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0.11031113990286347,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 297614,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": false,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "alpha",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 60,
+      "cls": 0.10382389771119248,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "mouseover",
+          "duration": 16
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 9333,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": false,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "courses",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 60,
+      "cls": 0.05155087890405651,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 51403,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "kids",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 9720,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "youth",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 32,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 9977,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "young-adults",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0.022785212207549418,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 222840,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "women",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 40,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "mouseover",
+          "duration": 16
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 9694,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "men",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 9870,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "calendar",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 7851,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "previous-messages",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 40,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 784912,
+      "h1": "\"Albert Sans\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "give",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 32,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 8900,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "app",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 76,
+      "cls": 0,
+      "longTasks": [],
+      "events": [],
+      "overflow": false,
+      "bytes": 515072,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 0
+    },
+    {
+      "route": "baptism",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 60,
+      "cls": 0.11138809494395903,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "mouseover",
+          "duration": 16
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 287700,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": false,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "subsplash-media",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 60,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "mouseover",
+          "duration": 32
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 61387,
+      "h1": "\"Albert Sans\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 32
+    },
+    {
+      "route": "legal",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 36,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "mouseover",
+          "duration": 16
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 6889,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "404",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 6591,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    }
+  ],
+  "nojs": [
+    {
+      "route": "home",
+      "h1": "A FAITHWE LIVETOGETHER.",
+      "words": 586,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "h1": "I Have Decided",
+      "words": 180,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "h1": "Stay informed.",
+      "words": 183,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "h1": "EasterSunday.",
+      "words": 304,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "watch-live",
+      "h1": "Worship.Where you are.",
+      "words": 107,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "new",
+      "h1": "Your first Sunday.",
+      "words": 890,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "h1": "One vision.Generations of faith.",
+      "words": 634,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "h1": "Called to care.Here to serve.",
+      "words": 230,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "h1": "MISSION.",
+      "words": 180,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "h1": "What We Believe",
+      "words": 339,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "h1": "Pastoralcare.",
+      "words": 231,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "h1": "Life is better together!",
+      "words": 338,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "h1": "Join Community, Discover Purpose!",
+      "words": 218,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "h1": "Prayer.",
+      "words": 312,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "h1": "Join Our Team",
+      "words": 146,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "h1": "Explore life, faith, and meaning.",
+      "words": 207,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "h1": "Discipleship",
+      "words": 520,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "h1": "A place to learn.A place to belong.",
+      "words": 208,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "h1": "ELEVATE",
+      "words": 254,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "h1": "Grow together.Go deeper.",
+      "words": 240,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "women",
+      "h1": "Grow intoyour purpose.",
+      "words": 179,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "men",
+      "h1": "Faith.Brotherhood.Purpose.",
+      "words": 344,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "calendar",
+      "h1": "Calendar.",
+      "words": 114,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "previous-messages",
+      "h1": "Previous messages.",
+      "words": 137,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "give",
+      "h1": "Giving.",
+      "words": 325,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "app",
+      "h1": "Downloadour app.",
+      "words": 101,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "h1": "The next step.",
+      "words": 159,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "h1": "Obedience",
+      "words": 133,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "legal",
+      "h1": "About this site.",
+      "words": 179,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "404",
+      "h1": "404.",
+      "words": 91,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    }
+  ],
+  "interactions": [
+    {
+      "test": "verified-category-topic",
+      "expected": 12,
+      "actual": 12,
+      "pass": true
+    },
+    {
+      "test": "verified-category-speaker",
+      "expected": 12,
+      "actual": 12,
+      "pass": true
+    },
+    {
+      "test": "verified-category-scripture",
+      "expected": 9,
+      "actual": 9,
+      "pass": true
+    },
+    {
+      "test": "catalog-failure-fallback",
+      "pass": true
+    },
+    {
+      "test": "story-orientation-pin-release",
+      "pass": true,
+      "sequence": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "test": "direct-anchor-visible",
+      "top": 634.46875,
+      "pass": true
+    },
+    {
+      "test": "back-restores-route-anchor",
+      "pass": true
+    }
+  ],
+  "webkit": [
+    {
+      "status": "Unavailable",
+      "reason": "Error: browserType.launch: Executable doesn't exist at /Users/bobby/Library/Caches/ms-playwright/webkit-2287/pw_run.sh\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Playwright Team                                         ║\n╚════════════════════════════════════════════════════════════╝"
+    }
+  ]
+}

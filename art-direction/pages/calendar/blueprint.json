@@ -1,0 +1,157 @@
+{
+  "route": "calendar",
+  "title": "Calendar | Kingdom Life",
+  "description": "Find upcoming events, dates, and registration.",
+  "visitor_job": "Find upcoming events, dates, and registration.",
+  "signature": {
+    "id": "agenda-window"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll"
+  },
+  "reference": {
+    "template": "royal",
+    "route": "/contact"
+  },
+  "sections": [
+    {
+      "id": "calendar-opening",
+      "visitor_task": "Find upcoming events, dates, and registration.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Oversized calendar title balanced by actual abstractsourceart and timezone note.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "section-0"
+      },
+      "company_content": {
+        "copy": [
+          "ci:calendar.s0.b0"
+        ],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Oversized calendar title balanced by actual abstractsourceart and timezone note.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "calendar-agenda",
+      "visitor_task": "Find upcoming events, dates, and registration.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Large stable calendar embedded on cream; directproviderfallback aboveframe.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "section-1"
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Large stable calendar embedded on cream; directproviderfallback aboveframe.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "calendar-paths",
+      "visitor_task": "Find upcoming events, dates, and registration.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Three text-only contextual routes for regular gatherings; no fabricatedevents.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "section-1"
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Three text-only contextual routes for regular gatherings; no fabricatedevents.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    }
+  ]
+}

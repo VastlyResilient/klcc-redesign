@@ -1,0 +1,26 @@
+{
+  "version": "2.2",
+  "checked_at": "2026-10-07T06:13:56.994Z",
+  "scope": "G0",
+  "status": "Pass",
+  "results": [
+    {
+      "gate": "G0",
+      "name": "Inventory exists",
+      "status": "Pass",
+      "evidence": "art-direction/content-ledger.json"
+    },
+    {
+      "gate": "G0",
+      "name": "Original content unchanged",
+      "status": "Pass",
+      "evidence": "content.json"
+    },
+    {
+      "gate": "G0",
+      "name": "Protected skill baseline exists",
+      "status": "Pass",
+      "evidence": "art-direction/protected-skills.json"
+    }
+  ]
+}

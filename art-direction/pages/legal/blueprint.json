@@ -1,0 +1,110 @@
+{
+  "route": "legal",
+  "title": "Site information | Kingdom Life",
+  "description": "Understand this redesign and third-party service boundaries.",
+  "visitor_job": "Understand this redesign and third-party service boundaries.",
+  "signature": {
+    "id": "site-information"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll"
+  },
+  "reference": {
+    "template": "royal",
+    "route": "/contact"
+  },
+  "sections": [
+    {
+      "id": "legal-notice",
+      "visitor_task": "Understand this redesign and third-party service boundaries.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Quiet bounded reading with no invented church privacy promise.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "section-0"
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Quiet bounded reading with no invented church privacy promise.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "legal-services",
+      "visitor_task": "Understand this redesign and third-party service boundaries.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Clear externalservice andcontact explanation oncream.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "section-1"
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Clear externalservice andcontact explanation oncream.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+// Royal image-led opening: restrained arrival of original event atmosphere.
+const art=document.querySelector('.easter-opening figure');if(art&&!matchMedia('(prefers-reduced-motion: reduce)').matches){const observer=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting)){observer.disconnect();if(!document.body.classList.contains('motion-reduced'))art.animate([{opacity:.75,transform:'translateY(9px)'},{opacity:1,transform:'translateY(0)'}],{duration:850,easing:'cubic-bezier(.2,.7,.2,1)'})}},{threshold:.2});observer.observe(art)}

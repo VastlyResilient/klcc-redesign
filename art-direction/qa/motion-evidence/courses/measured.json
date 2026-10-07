@@ -1,0 +1,512 @@
+{
+  "route": "courses",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.200052)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.98833"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.200052)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.98833",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.700044)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.959164"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.700044)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.959164"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.700044)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.959164",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.700044)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.959164",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.700416)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.959142"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.700416)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.959142",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.499992)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.970834"
+            }
+          }
+        },
+        {
+          "from": "forward-005",
+          "to": "forward-006",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.499992)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.970834",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 45,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/courses/capture-desktop/desktop/video/page@320ae1da14e2915b1986933e00d8a9b6.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/courses/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.599952)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.965003"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.599952)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.965003"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.599952)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.965003",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.599952)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.965003",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.70032)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.959148"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.70032)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.959148",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.700092)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.959161"
+            }
+          }
+        },
+        {
+          "from": "forward-005",
+          "to": "forward-006",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.700092)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.959161",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-005",
+          "to": "forward-006",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.599868)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.965008"
+            }
+          }
+        },
+        {
+          "from": "forward-006",
+          "to": "forward-007",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.599868)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.965008",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 54,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.600222)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.964987"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(1)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.600222)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.964987",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.999786)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.941679"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.999786)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.941679",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 1.00017)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.941657"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 1.00017)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.941657"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(3)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 1.00017)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.941657",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(4)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 1.00017)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.941657",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 1.00035)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.941646"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(1)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 1.00035)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.941646",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.800334)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.953314"
+            }
+          }
+        },
+        {
+          "from": "forward-005",
+          "to": "forward-006",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(1)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.800334)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.953314",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 36,
+      "errors": [],
+      "video": null
+    }
+  }
+}

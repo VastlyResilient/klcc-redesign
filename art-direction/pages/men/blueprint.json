@@ -1,0 +1,551 @@
+{
+  "route": "men",
+  "reference": {
+    "template": "royal",
+    "route": "/about",
+    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "mode": "B",
+    "donors": [
+      "lou",
+      "slab"
+    ]
+  },
+  "visitor_job": "Compare recurring gatherings, current dates and discipleship opportunities.",
+  "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
+  "critical_answer": "Weekly prayer is Sunday at 7 AM in the Cathedral Lobby. Monday fellowship is at 6:30 PM in Fellowship Court. Preserve the October 17, December 5 and December 21 events and their stated times.",
+  "primary_action": {
+    "route": "men",
+    "source": "https://klcc.us/men",
+    "source_date": "2026-10-01",
+    "required": true,
+    "id": "cta:men.s4.a0",
+    "type": "cta",
+    "label": "Sign Up",
+    "original_destination": "mailto:ecalderon@klcc.us?subject=Sign%20Up%20for%20EMAW&cc=jlivramento@optonline.net",
+    "approved_destination": "mailto:ecalderon@klcc.us?subject=Sign%20Up%20for%20EMAW&cc=jlivramento@optonline.net",
+    "live_match": true
+  },
+  "supporting_proof": "Actual source copy and authentic source assets; consult the asset manifest.",
+  "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
+  "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
+  "signature": {
+    "id": "men-traverse",
+    "dominant_verb": "Traverse",
+    "structural_idea": "Recurring rhythm index followed by two deeper program chapters",
+    "axes": {
+      "unit": "content-specific block/image",
+      "vector": "Hold pending observed scene contract",
+      "driver": "native scroll",
+      "frame": "route-owned composition"
+    }
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "none",
+    "driver": "static",
+    "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+  },
+  "content_ids": [
+    "ci:men.s0.b0",
+    "ci:men.s1.b0",
+    "ci:men.s2.b0",
+    "ci:men.s2.b1",
+    "ci:men.s3.b0",
+    "cta:men.s3.a0",
+    "ci:men.s4.b0",
+    "ci:men.s4.b1",
+    "cta:men.s4.a0",
+    "cta:men.s4.a1",
+    "ci:men.s5.b0",
+    "ci:men.s5.b1",
+    "ci:men.s6.b0",
+    "ci:men.s6.b1",
+    "cta:men.s6.a0",
+    "img:men.page-men",
+    "img:men.leadership"
+  ],
+  "sections": [
+    {
+      "id": "men-opening",
+      "title": "Men\u2019s Ministry",
+      "visitor_task": "Compare recurring gatherings, current dates and discipleship opportunities.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+        "landmark": "hero",
+        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      },
+      "company_content": {
+        "copy": [
+          "ci:men.s0.b0",
+          "ci:men.s1.b0"
+        ],
+        "media": [],
+        "cta": []
+      },
+      "content_ids": [
+        "ci:men.s0.b0",
+        "ci:men.s1.b0"
+      ],
+      "reconstruction": {
+        "layout": "Explicit authored section .men-opening in src/pages/men.html; final composition is visible in the author-check captures.",
+        "ground": "ink",
+        "motion": {
+          "mechanism": "Scroll-triggered bounded image/block arrival",
+          "source_settings": "unknown; no invented Framer values",
+          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+          "heading": "static readable HTML; no universal rise"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        },
+        {
+          "reference": "Modest transform/opacity arrival; no observed split-word heading. Exact source trigger/easing unknown.",
+          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
+          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
+          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "men-week",
+      "title": "A weekly rhythm",
+      "visitor_task": "Read a weekly rhythm and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
+        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+        "landmark": "section-0",
+        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      },
+      "company_content": {
+        "copy": [
+          "ci:men.s3.b0"
+        ],
+        "media": [],
+        "cta": [
+          "cta:men.s3.a0"
+        ]
+      },
+      "content_ids": [
+        "ci:men.s3.b0",
+        "cta:men.s3.a0"
+      ],
+      "reconstruction": {
+        "layout": "Explicit authored section .men-week.paper in src/pages/men.html; final composition is visible in the author-check captures.",
+        "ground": "paper",
+        "motion": {
+          "mechanism": "Hold",
+          "source_settings": "unknown; no invented Framer values",
+          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+          "heading": "static readable HTML; no universal rise"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        },
+        {
+          "reference": "Utility controls stable; object/image sequence scrolls naturally. Exact reveal driver unknown until deep dossier.",
+          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
+          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
+          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "men-study",
+      "title": "Every Man A Warrior",
+      "visitor_task": "Read every man a warrior and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+        "landmark": "section-2",
+        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      },
+      "company_content": {
+        "copy": [
+          "ci:men.s4.b0",
+          "ci:men.s4.b1"
+        ],
+        "media": [],
+        "cta": [
+          "cta:men.s4.a0",
+          "cta:men.s4.a1"
+        ]
+      },
+      "content_ids": [
+        "ci:men.s4.b0",
+        "ci:men.s4.b1",
+        "cta:men.s4.a0",
+        "cta:men.s4.a1"
+      ],
+      "reconstruction": {
+        "layout": "Explicit authored section .men-study in src/pages/men.html; final composition is visible in the author-check captures.",
+        "ground": "navy",
+        "motion": {
+          "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
+          "source_settings": "unknown; no invented Framer values",
+          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+          "heading": "static readable HTML; no universal rise"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        },
+        {
+          "reference": "Sticky + Scroll-linked exchange: source copy and corresponding image exchange together across chapter positions; source phone remains sticky but recomposes vertically.",
+          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
+          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
+          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "men-calendar",
+      "title": "Men\u2019s Advance",
+      "visitor_task": "Read men\u2019s advance and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "composition": "Slab project metadata: left project identity, aligned right metadata and ruled information hierarchy. See scoped dossier for source-specific capture limitations.",
+        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+        "landmark": "section-0",
+        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance.",
+        "state": "opening"
+      },
+      "company_content": {
+        "copy": [
+          "ci:men.s2.b0",
+          "ci:men.s2.b1",
+          "ci:men.s6.b0",
+          "ci:men.s6.b1"
+        ],
+        "media": [],
+        "cta": [
+          "cta:men.s6.a0"
+        ]
+      },
+      "content_ids": [
+        "ci:men.s2.b0",
+        "ci:men.s2.b1",
+        "ci:men.s6.b0",
+        "ci:men.s6.b1",
+        "cta:men.s6.a0"
+      ],
+      "reconstruction": {
+        "layout": "Explicit authored section .men-calendar.paper in src/pages/men.html; final composition is visible in the author-check captures.",
+        "ground": "paper",
+        "motion": {
+          "mechanism": "Scroll-triggered bounded image/block arrival",
+          "source_settings": "unknown; no invented Framer values",
+          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+          "heading": "static readable HTML; no universal rise"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        },
+        {
+          "reference": "Normal photographic entry, no extra pin; footer follows.",
+          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
+          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
+          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "men-photo",
+      "title": "Every Man A Warrior",
+      "visitor_task": "Read every man a warrior and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+        "landmark": "hero",
+        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      },
+      "company_content": {
+        "copy": [],
+        "media": [
+          "img:men.leadership"
+        ],
+        "cta": []
+      },
+      "content_ids": [
+        "img:men.leadership"
+      ],
+      "reconstruction": {
+        "layout": "Explicit authored section .men-photo in src/pages/men.html; final composition is visible in the author-check captures.",
+        "ground": "navy",
+        "motion": {
+          "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
+          "source_settings": "unknown; no invented Framer values",
+          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+          "heading": "static readable HTML; no universal rise"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        },
+        {
+          "reference": "Sticky + Scroll-linked exchange: source copy and corresponding image exchange together across chapter positions; source phone remains sticky but recomposes vertically.",
+          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
+          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
+          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "men-scripture",
+      "title": "Stand firm in love",
+      "visitor_task": "Read stand firm in love and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+        "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+        "landmark": "section-2",
+        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      },
+      "company_content": {
+        "copy": [
+          "ci:men.s5.b0",
+          "ci:men.s5.b1"
+        ],
+        "media": [],
+        "cta": []
+      },
+      "content_ids": [
+        "ci:men.s5.b0",
+        "ci:men.s5.b1"
+      ],
+      "reconstruction": {
+        "layout": "Explicit authored section .scripture in src/pages/men.html; final composition is visible in the author-check captures.",
+        "ground": "ink",
+        "motion": {
+          "mechanism": "Hold",
+          "source_settings": "unknown; no invented Framer values",
+          "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+          "heading": "static readable HTML; no universal rise"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        },
+        {
+          "reference": "Settled source paragraphs stay fully white through reverse scrolling. Hold content; do not claim scroll-brightening.",
+          "conflict": "Source timing is unknown; some KLCC material cannot truthfully form the same synchronized image chapters.",
+          "adaptation": "Preserve spatial relationships and visible essential text. Use only causal motion established by the deep study; otherwise explicitly Hold.",
+          "test": "No false attribution. The motion ledger distinguishes measured source evidence from estimated implementation settings."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null,
+      "corrected": null
+    }
+  ],
+  "content_coverage": {
+    "expected": 17,
+    "assigned": 17,
+    "missing": []
+  },
+  "deletion_pass": "Do not invent a 32-step journey, meeting locations or program requirements. The 32-week duration belongs to the actual discipleship program.",
+  "implementation_status": "Observed; pre-code plan only",
+  "unresolved": [
+    "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
+    "Image focal points, type measures and every interaction require review of the rendered result."
+  ],
+  "title": "Men | Kingdom Life",
+  "implementation": {
+    "source": "src/pages/men.html",
+    "css": "src/pages/men.css",
+    "motion": "src/motion/scenes/men.ts",
+    "observed_references": [
+      "Royal /about image and content entry",
+      "Lou /about footer clarity arrival",
+      "Slab project image entry"
+    ],
+    "values": "Bounded 18px / opacity .75 image entry over 700ms, or 2px clarity entry over 650ms. Reconstruction estimates; source editor values unavailable. Once-entry; normal reverse scroll. No pinning.",
+    "deviation": "Motion is estimated rather than exact editor reconstruction. No invented pairwise axis distinctions. Every element remains visible before script.",
+    "status": "Reconstructed; independent fidelity review pending",
+    "actual_sections": [
+      {
+        "class": "men-opening",
+        "reference_landmark": "hero"
+      },
+      {
+        "class": "men-study",
+        "reference_landmark": "reading"
+      },
+      {
+        "class": "scripture",
+        "reference_landmark": "reading"
+      }
+    ],
+    "full_section_order": [
+      "men-opening",
+      "men-week paper",
+      "men-study",
+      "men-calendar paper",
+      "men-photo",
+      "scripture"
+    ],
+    "deleted": [
+      "Legacy texture-only source backgrounds omitted where they conflicted with the locked identity; asset files retained.",
+      "No automatic decorative arrows or icon badges."
+    ],
+    "functional_checks": {
+      "viewports": [
+        1440,
+        1024,
+        390
+      ],
+      "artifact": "art-direction/qa/functional-young-adults-youth-kids-women-men-new-leadership-life-groups.json",
+      "result": "24 browser checks clean: no overflow, required ledger omissions, missing loaded images, JS errors, or hidden reduced-motion essentials; menu/Escape functional."
+    }
+  },
+  "motion_contract": {
+    "mechanisms": [
+      "Observed Lou first-entry timed opacity",
+      "Royal native reading topology"
+    ],
+    "selectors": [
+      "#men-study p:not(.eyebrow)",
+      "#men-photo figure"
+    ],
+    "focus_selector": null,
+    "reason": "Routine and date rows never move. Longer study explanation and later leadership photograph receive distinct first-entry opacity. Scripture remains still, avoiding a repeated focus ending.",
+    "estimated_settings": {
+      "opacity_start": 0.65,
+      "duration_ms": 1100,
+      "focus_blur_max_px": 2
+    },
+    "reverse": "Timed first-entry does not replay; declared focus recomputes on scroll and reverses. Native content remains visible.",
+    "mobile": "No mobile pin added; same semantic order in native flow.",
+    "limitations": "These are restrained source-mechanism adaptations, not unique arbitrary heading axes. Exact Framer editor timings unavailable."
+  }
+}

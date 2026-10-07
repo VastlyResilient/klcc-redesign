@@ -1,0 +1,2 @@
+// All giving methods and financial controls deliberately Hold (Royal Contact).
+const image=document.querySelector('.give-generosity img');if(image&&!matchMedia('(prefers-reduced-motion: reduce)').matches){const observer=new IntersectionObserver(es=>{if(es.some(e=>e.isIntersecting)){observer.disconnect();if(!document.body.classList.contains('motion-reduced'))image.animate([{opacity:.8,transform:'translateY(8px)'},{opacity:1,transform:'translateY(0)'}],{duration:750,easing:'cubic-bezier(.2,.7,.2,1)'})}},{threshold:.15});observer.observe(image)}

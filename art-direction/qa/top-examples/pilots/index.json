@@ -1,0 +1,153 @@
+{
+  "created": "2026-10-07T06:37:43.790Z",
+  "results": [
+    {
+      "route": "our-story",
+      "viewport": "desktop",
+      "page_type": "narrative",
+      "section": "opening",
+      "build": {
+        "manifest": "art-direction/qa/captures/our-story/manifest.json",
+        "state": "opening-settled",
+        "label": "our-story — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal story — real image and factual hierarchy"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Lou portrait — decisive scale contrast"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal index — image-led destination"
+        }
+      ],
+      "selection_reason": "Three observed comparisons selected for this visitor task. Comparative quality must be judged visually; selection itself is not a pass.",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/top-examples/pilots/our-story-desktop-opening.png",
+      "status": "Unreviewed",
+      "settled": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "our-story",
+      "viewport": "phone",
+      "page_type": "narrative",
+      "section": "opening",
+      "build": {
+        "manifest": "art-direction/qa/captures/our-story/manifest.json",
+        "state": "opening-settled",
+        "label": "our-story — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal story — real image and factual hierarchy"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Lou portrait — decisive scale contrast"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal index — image-led destination"
+        }
+      ],
+      "selection_reason": "Three observed comparisons selected for this visitor task. Comparative quality must be judged visually; selection itself is not a pass.",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/top-examples/pilots/our-story-phone-opening.png",
+      "status": "Unreviewed",
+      "settled": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "mission",
+      "viewport": "desktop",
+      "page_type": "narrative",
+      "section": "opening",
+      "build": {
+        "manifest": "art-direction/qa/captures/mission/manifest.json",
+        "state": "opening-settled",
+        "label": "mission — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal story — real image and factual hierarchy"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Lou portrait — decisive scale contrast"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal index — image-led destination"
+        }
+      ],
+      "selection_reason": "Three observed comparisons selected for this visitor task. Comparative quality must be judged visually; selection itself is not a pass.",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/top-examples/pilots/mission-desktop-opening.png",
+      "status": "Unreviewed",
+      "settled": [
+        true,
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "route": "mission",
+      "viewport": "phone",
+      "page_type": "narrative",
+      "section": "opening",
+      "build": {
+        "manifest": "art-direction/qa/captures/mission/manifest.json",
+        "state": "opening-settled",
+        "label": "mission — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal story — real image and factual hierarchy"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Lou portrait — decisive scale contrast"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal index — image-led destination"
+        }
+      ],
+      "selection_reason": "Three observed comparisons selected for this visitor task. Comparative quality must be judged visually; selection itself is not a pass.",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/top-examples/pilots/mission-phone-opening.png",
+      "status": "Unreviewed",
+      "settled": [
+        true,
+        true,
+        true,
+        true
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "route": "watch-live",
+  "title": "Watch Live | Kingdom Life",
+  "description": "Watch the next service; find the direct provider if embedding fails.",
+  "visitor_job": "Watch the next service; find the direct provider if embedding fails.",
+  "signature": {
+    "id": "worship-to-player"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll"
+  },
+  "reference": {
+    "template": "royal",
+    "route": "/about"
+  },
+  "sections": [
+    {
+      "id": "live-opening",
+      "visitor_task": "Watch the next service; find the direct provider if embedding fails.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Royal photographic CTA relationship: invitation and action over documentary scene. Expands toopeningwithactualKLCCworshipphoto; notRoyalnormalflowhero.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "cta"
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [],
+        "media": [
+          "img:watch-live.worship-stage"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Worship stage fills visual opening; service time and direct access above fold.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "live-player",
+      "visitor_task": "Watch the next service; find the direct provider if embedding fails.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Stable widescreen player on cream with direct provider alternative.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "ourvalues"
+      },
+      "company_content": {
+        "copy": [
+          "ci:watch-live.integration0",
+          "ci:watch-live.integration1"
+        ],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Stable widescreen player on cream with direct provider alternative.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "watch-live-section-2",
+      "visitor_task": "Watch the next service; find the direct provider if embedding fails.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Stable widescreen player on cream with direct provider alternative.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "ourvalues"
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [
+          "cta:watch-live.live0"
+        ],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Stable widescreen player on cream with direct provider alternative.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,1270 @@
+{
+  "generated": "2026-10-07T07:50:53.593Z",
+  "limits": [
+    "Capture completion is not visual acceptance.",
+    "Blocked reviews describe exact unmet conditions; the owner-only Accepted state is never assigned.",
+    "Desktop videos are measured capture recordings, not generated marketing films."
+  ],
+  "routes": [
+    {
+      "route": "404",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/404/manifest.json",
+      "reviewStatus": "Fidelity-reviewed",
+      "review": "art-direction/qa/fidelity/404.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 22,
+          "sectionBoard": "art-direction/qa/side-by-side/404/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/404/capture-desktop/desktop/video/page@2dfef9a7a676359e5c922aeb33bb84e8.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 22,
+          "sectionBoard": "art-direction/qa/side-by-side/404/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 20,
+          "sectionBoard": "art-direction/qa/side-by-side/404/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/404",
+      "motionDir": "art-direction/qa/motion-evidence/404",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "believe",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/believe/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/believe.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 30,
+          "sectionBoard": "art-direction/qa/side-by-side/believe/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/believe/capture-desktop/desktop/video/page@f7f60d59f33b44f6fa249e66eb6496e5.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 32,
+          "sectionBoard": "art-direction/qa/side-by-side/believe/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 30,
+          "sectionBoard": "art-direction/qa/side-by-side/believe/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/believe",
+      "motionDir": "art-direction/qa/motion-evidence/believe",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "weather-procedures",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/weather-procedures/manifest.json",
+      "reviewStatus": "Fidelity-reviewed",
+      "review": "art-direction/qa/fidelity/weather-procedures.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 27,
+          "sectionBoard": "art-direction/qa/side-by-side/weather-procedures/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/weather-procedures/capture-desktop/desktop/video/page@96557012238c4ce35be0a22412e19042.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 29,
+          "sectionBoard": "art-direction/qa/side-by-side/weather-procedures/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 25,
+          "sectionBoard": "art-direction/qa/side-by-side/weather-procedures/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/weather-procedures",
+      "motionDir": "art-direction/qa/motion-evidence/weather-procedures",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "easter",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/easter/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/easter.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 31,
+          "sectionBoard": "art-direction/qa/side-by-side/easter/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/easter/capture-desktop/desktop/video/page@26614122d31fb9ea0d9455160089fbf3.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 33,
+          "sectionBoard": "art-direction/qa/side-by-side/easter/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 31,
+          "sectionBoard": "art-direction/qa/side-by-side/easter/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/easter",
+      "motionDir": "art-direction/qa/motion-evidence/easter",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "watch-live",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/watch-live/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/watch-live.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 27,
+          "sectionBoard": "art-direction/qa/side-by-side/watch-live/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/watch-live/capture-desktop/desktop/video/page@72546e89a8e37d93c831e43383dc7648.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 27,
+          "sectionBoard": "art-direction/qa/side-by-side/watch-live/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 25,
+          "sectionBoard": "art-direction/qa/side-by-side/watch-live/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/watch-live",
+      "motionDir": "art-direction/qa/motion-evidence/watch-live",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "new",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/new/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/new.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 55,
+          "sectionBoard": "art-direction/qa/side-by-side/new/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/new/capture-desktop/desktop/video/page@9b9b6dc255340c8aa9682cae0ce2503d.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 59,
+          "sectionBoard": "art-direction/qa/side-by-side/new/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 50,
+          "sectionBoard": "art-direction/qa/side-by-side/new/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/new",
+      "motionDir": "art-direction/qa/motion-evidence/new",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "our-story",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/our-story/manifest.json",
+      "reviewStatus": "Fidelity-reviewed",
+      "review": "art-direction/qa/fidelity/our-story.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 45,
+          "sectionBoard": "art-direction/qa/side-by-side/our-story/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/our-story/desktop/video/page@541196cb321ffe85eba3ca8f4c295a02.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 47,
+          "sectionBoard": "art-direction/qa/side-by-side/our-story/tablet-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/our-story/tablet/video/page@30d0ae464d090dec1f0605133d62d150.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 38,
+          "sectionBoard": "art-direction/qa/side-by-side/our-story/phone-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/our-story-corrected-phone/phone/video/page@023c7351813facb7202b554b5387597d.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/our-story",
+      "motionDir": "art-direction/qa/motion-evidence/our-story",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "leadership",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/leadership/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/leadership.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 36,
+          "sectionBoard": "art-direction/qa/side-by-side/leadership/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/leadership/capture-desktop/desktop/video/page@183728af1785b690c554d03a7e840951.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 38,
+          "sectionBoard": "art-direction/qa/side-by-side/leadership/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 42,
+          "sectionBoard": "art-direction/qa/side-by-side/leadership/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/leadership",
+      "motionDir": "art-direction/qa/motion-evidence/leadership",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "mission",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/mission/manifest.json",
+      "reviewStatus": "Fidelity-reviewed",
+      "review": "art-direction/qa/fidelity/mission.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 32,
+          "sectionBoard": "art-direction/qa/side-by-side/mission/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/mission/desktop/video/page@a4ab743a708e0f426f7835582f8b9782.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 32,
+          "sectionBoard": "art-direction/qa/side-by-side/mission/tablet-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/mission/tablet/video/page@944ab51851f68b9e496c6ee14bc8793d.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 28,
+          "sectionBoard": "art-direction/qa/side-by-side/mission/phone-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/mission/phone/video/page@c376cb0480e9ba6ffdc687054e72f5c9.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/mission",
+      "motionDir": "art-direction/qa/motion-evidence/mission",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "beliefs",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/beliefs/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/beliefs.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 44,
+          "sectionBoard": "art-direction/qa/side-by-side/beliefs/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/beliefs/capture-desktop/desktop/video/page@d8af308a89ad92c748fb69db2df07d10.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 46,
+          "sectionBoard": "art-direction/qa/side-by-side/beliefs/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 35,
+          "sectionBoard": "art-direction/qa/side-by-side/beliefs/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/beliefs",
+      "motionDir": "art-direction/qa/motion-evidence/beliefs",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "pastoral-care",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/pastoral-care/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/pastoral-care.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 26,
+          "sectionBoard": "art-direction/qa/side-by-side/pastoral-care/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/pastoral-care/capture-desktop/desktop/video/page@a1511a80a81aaa967a65477905f23c3e.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 28,
+          "sectionBoard": "art-direction/qa/side-by-side/pastoral-care/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 24,
+          "sectionBoard": "art-direction/qa/side-by-side/pastoral-care/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/pastoral-care",
+      "motionDir": "art-direction/qa/motion-evidence/pastoral-care",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "life-groups",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/life-groups/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/life-groups.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 37,
+          "sectionBoard": "art-direction/qa/side-by-side/life-groups/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/life-groups/capture-desktop/desktop/video/page@afad44da5a1e88a5cb564c32f2d6b1d0.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 39,
+          "sectionBoard": "art-direction/qa/side-by-side/life-groups/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 35,
+          "sectionBoard": "art-direction/qa/side-by-side/life-groups/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/life-groups",
+      "motionDir": "art-direction/qa/motion-evidence/life-groups",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "membership",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/membership/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/membership.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 33,
+          "sectionBoard": "art-direction/qa/side-by-side/membership/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/membership/final-desktop/desktop/video/page@98ba19d9d5d5d2e0aaa5ad40bc68a22d.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 35,
+          "sectionBoard": "art-direction/qa/side-by-side/membership/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 26,
+          "sectionBoard": "art-direction/qa/side-by-side/membership/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/membership",
+      "motionDir": "art-direction/qa/motion-evidence/membership",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "prayer",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/prayer/manifest.json",
+      "reviewStatus": "Fidelity-reviewed",
+      "review": "art-direction/qa/fidelity/prayer.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 29,
+          "sectionBoard": "art-direction/qa/side-by-side/prayer/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/prayer/capture-desktop/desktop/video/page@1ed1d8272d08d70bd408f259b8f7b521.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 31,
+          "sectionBoard": "art-direction/qa/side-by-side/prayer/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 29,
+          "sectionBoard": "art-direction/qa/side-by-side/prayer/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/prayer",
+      "motionDir": "art-direction/qa/motion-evidence/prayer",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "serve",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/serve/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/serve.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 29,
+          "sectionBoard": "art-direction/qa/side-by-side/serve/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/serve/capture-desktop/desktop/video/page@b2c65662f43fcf233ca7e16d8233c3de.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 29,
+          "sectionBoard": "art-direction/qa/side-by-side/serve/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 23,
+          "sectionBoard": "art-direction/qa/side-by-side/serve/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/serve",
+      "motionDir": "art-direction/qa/motion-evidence/serve",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "alpha",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/alpha/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/alpha.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 32,
+          "sectionBoard": "art-direction/qa/side-by-side/alpha/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/alpha/capture-desktop/desktop/video/page@17c9a49a3edfe017f5734046a2945000.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 32,
+          "sectionBoard": "art-direction/qa/side-by-side/alpha/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 30,
+          "sectionBoard": "art-direction/qa/side-by-side/alpha/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/alpha",
+      "motionDir": "art-direction/qa/motion-evidence/alpha",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "courses",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/courses/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/courses.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 52,
+          "sectionBoard": "art-direction/qa/side-by-side/courses/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/courses/capture-desktop/desktop/video/page@473b5dee5bd81759eb0ffc8a95a606af.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 54,
+          "sectionBoard": "art-direction/qa/side-by-side/courses/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 38,
+          "sectionBoard": "art-direction/qa/side-by-side/courses/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/courses",
+      "motionDir": "art-direction/qa/motion-evidence/courses",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "kids",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/kids/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/kids.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 27,
+          "sectionBoard": "art-direction/qa/side-by-side/kids/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/kids/capture-desktop/desktop/video/page@16009f73f152696079bdc3fe6b410b06.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 29,
+          "sectionBoard": "art-direction/qa/side-by-side/kids/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 25,
+          "sectionBoard": "art-direction/qa/side-by-side/kids/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/kids",
+      "motionDir": "art-direction/qa/motion-evidence/kids",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "youth",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/youth/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/youth.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 33,
+          "sectionBoard": "art-direction/qa/side-by-side/youth/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/youth/capture-desktop/desktop/video/page@d0a29e880687d905d11720e4dae07ffe.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 33,
+          "sectionBoard": "art-direction/qa/side-by-side/youth/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 31,
+          "sectionBoard": "art-direction/qa/side-by-side/youth/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/youth",
+      "motionDir": "art-direction/qa/motion-evidence/youth",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "young-adults",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/young-adults/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/young-adults.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 34,
+          "sectionBoard": "art-direction/qa/side-by-side/young-adults/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/young-adults/capture-desktop/desktop/video/page@718516fbdfb3a6a9cec242fcee5b8d6a.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 34,
+          "sectionBoard": "art-direction/qa/side-by-side/young-adults/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 30,
+          "sectionBoard": "art-direction/qa/side-by-side/young-adults/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/young-adults",
+      "motionDir": "art-direction/qa/motion-evidence/young-adults",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "women",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/women/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/women.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 32,
+          "sectionBoard": "art-direction/qa/side-by-side/women/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/women/capture-desktop/desktop/video/page@1befb50fd500afcdc0e102f9ab3e571d.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 32,
+          "sectionBoard": "art-direction/qa/side-by-side/women/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 26,
+          "sectionBoard": "art-direction/qa/side-by-side/women/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/women",
+      "motionDir": "art-direction/qa/motion-evidence/women",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "men",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/men/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/men.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 38,
+          "sectionBoard": "art-direction/qa/side-by-side/men/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/men/capture-desktop/desktop/video/page@bd6f1f2dca4836f338db35c143fcdd63.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 40,
+          "sectionBoard": "art-direction/qa/side-by-side/men/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 36,
+          "sectionBoard": "art-direction/qa/side-by-side/men/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/men",
+      "motionDir": "art-direction/qa/motion-evidence/men",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "calendar",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/calendar/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/calendar.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 29,
+          "sectionBoard": "art-direction/qa/side-by-side/calendar/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/calendar/capture-desktop/desktop/video/page@6dfa5d2aaf1bb7a57935f1794d1a21fb.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 31,
+          "sectionBoard": "art-direction/qa/side-by-side/calendar/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 25,
+          "sectionBoard": "art-direction/qa/side-by-side/calendar/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/calendar",
+      "motionDir": "art-direction/qa/motion-evidence/calendar",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "previous-messages",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/previous-messages/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/previous-messages.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 33,
+          "sectionBoard": "art-direction/qa/side-by-side/previous-messages/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/previous-messages/capture-desktop/desktop/video/page@a32a65919d187b6c702f1acae633fa89.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 33,
+          "sectionBoard": "art-direction/qa/side-by-side/previous-messages/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 29,
+          "sectionBoard": "art-direction/qa/side-by-side/previous-messages/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/previous-messages",
+      "motionDir": "art-direction/qa/motion-evidence/previous-messages",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "give",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/give/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/give.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 32,
+          "sectionBoard": "art-direction/qa/side-by-side/give/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/give/capture-desktop/desktop/video/page@f24e8939f225822eeb1e9bbb20b72980.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 34,
+          "sectionBoard": "art-direction/qa/side-by-side/give/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 32,
+          "sectionBoard": "art-direction/qa/side-by-side/give/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/give",
+      "motionDir": "art-direction/qa/motion-evidence/give",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "app",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/app/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/app.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 26,
+          "sectionBoard": "art-direction/qa/side-by-side/app/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/app/capture-desktop/desktop/video/page@6e4fbe0ec0fff19f6aa0d5ffe084fb52.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 26,
+          "sectionBoard": "art-direction/qa/side-by-side/app/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 24,
+          "sectionBoard": "art-direction/qa/side-by-side/app/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/app",
+      "motionDir": "art-direction/qa/motion-evidence/app",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "baptism",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/baptism/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/baptism.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 29,
+          "sectionBoard": "art-direction/qa/side-by-side/baptism/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/baptism/capture-desktop/desktop/video/page@b75f0bf610fd4d851d3caa96146d3e22.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 29,
+          "sectionBoard": "art-direction/qa/side-by-side/baptism/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 25,
+          "sectionBoard": "art-direction/qa/side-by-side/baptism/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/baptism",
+      "motionDir": "art-direction/qa/motion-evidence/baptism",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "subsplash-media",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/subsplash-media/manifest.json",
+      "reviewStatus": "Blocked",
+      "review": "art-direction/qa/fidelity/subsplash-media.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 33,
+          "sectionBoard": "art-direction/qa/side-by-side/subsplash-media/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/subsplash-media/capture-desktop/desktop/video/page@2c4f98e8ba4169d6bef7397cf4e47a59.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 35,
+          "sectionBoard": "art-direction/qa/side-by-side/subsplash-media/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 29,
+          "sectionBoard": "art-direction/qa/side-by-side/subsplash-media/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/subsplash-media",
+      "motionDir": "art-direction/qa/motion-evidence/subsplash-media",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "legal",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/legal/manifest.json",
+      "reviewStatus": "Fidelity-reviewed",
+      "review": "art-direction/qa/fidelity/legal.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 22,
+          "sectionBoard": "art-direction/qa/side-by-side/legal/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/legal/capture-desktop/desktop/video/page@ff1d0bb89c368b574f633a1daec41531.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 24,
+          "sectionBoard": "art-direction/qa/side-by-side/legal/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 22,
+          "sectionBoard": "art-direction/qa/side-by-side/legal/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/legal",
+      "motionDir": "art-direction/qa/motion-evidence/legal",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    },
+    {
+      "route": "home",
+      "captureStatus": "Captured",
+      "manifest": "art-direction/qa/captures/home/manifest.json",
+      "reviewStatus": "Fidelity-reviewed",
+      "review": "art-direction/qa/fidelity/home.json",
+      "viewports": {
+        "desktop": {
+          "present": true,
+          "states": 88,
+          "sectionBoard": "art-direction/qa/side-by-side/home/desktop-sections-0.png",
+          "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/home/capture-desktop/desktop/video/page@54e4560e00db230e2ee537990ffbcf70.webm",
+          "videoExists": true,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "tablet": {
+          "present": true,
+          "states": 81,
+          "sectionBoard": "art-direction/qa/side-by-side/home/tablet-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        },
+        "phone": {
+          "present": true,
+          "states": 80,
+          "sectionBoard": "art-direction/qa/side-by-side/home/phone-sections-0.png",
+          "video": null,
+          "videoExists": false,
+          "error": null,
+          "jsErrors": [],
+          "truncated": false
+        }
+      },
+      "comparisonDir": "art-direction/qa/side-by-side/home",
+      "motionDir": "art-direction/qa/motion-evidence/home",
+      "topExamplesDir": "art-direction/qa/top-examples/final"
+    }
+  ]
+}

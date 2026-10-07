@@ -1,0 +1,141 @@
+{
+  "route": "baptism",
+  "reference": {
+    "template": "royal",
+    "route": "/about",
+    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "mode": "B",
+    "donors": [
+      "lou",
+      "slab"
+    ]
+  },
+  "visitor_job": "Understand baptism preparation and register for the next ceremony.",
+  "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
+  "critical_answer": "The next baptism is November 8; the preparation class is Wednesday, November 4. No time or room should be invented.",
+  "primary_action": {
+    "route": "baptism",
+    "source": "https://klcc.us/baptism",
+    "source_date": "2026-10-01",
+    "required": true,
+    "id": "cta:baptism.s2.a0",
+    "type": "cta",
+    "label": "Register Here",
+    "original_destination": "https://subsplash.com/u/-TPGJTK/forms/d/013d03df-b0cd-41ae-b837-ba486b13df01",
+    "approved_destination": "https://subsplash.com/u/-TPGJTK/forms/d/013d03df-b0cd-41ae-b837-ba486b13df01",
+    "live_match": true
+  },
+  "supporting_proof": "Actual source copy and authentic source assets; consult the asset manifest.",
+  "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
+  "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
+  "signature": {
+    "id": "baptism-frame",
+    "dominant_verb": "Frame",
+    "structural_idea": "Two linked dates tell the preparation-to-ceremony journey",
+    "axes": {
+      "unit": "content-specific block/image",
+      "vector": "Hold pending observed scene contract",
+      "driver": "native scroll",
+      "frame": "route-owned composition"
+    }
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "none",
+    "driver": "static",
+    "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+  },
+  "content_ids": [
+    "ci:baptism.s0.b0",
+    "ci:baptism.s1.b0",
+    "ci:baptism.s1.b1",
+    "img:baptism.page-baptism",
+    "ci:baptism.s2.b0",
+    "ci:baptism.s2.b1",
+    "cta:baptism.s2.a0",
+    "cta:baptism.s2.a1",
+    "ci:baptism.s1.b2"
+  ],
+  "sections": [
+    {
+      "id": "baptism-opening",
+      "title": "opening",
+      "content_ids": [
+        "ci:baptism.s0.b0",
+        "ci:baptism.s1.b0",
+        "ci:baptism.s1.b1",
+        "img:baptism.page-baptism"
+      ],
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "landmark": "hero",
+        "state": "section-hero",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "manifest": "art-direction/references/deep/royal/about/manifest.json",
+        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+    },
+    {
+      "id": "baptism-dates",
+      "title": "dates",
+      "content_ids": [
+        "ci:baptism.s2.b0",
+        "ci:baptism.s2.b1",
+        "cta:baptism.s2.a0",
+        "cta:baptism.s2.a1"
+      ],
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "landmark": "ourvalues",
+        "state": "section-ourvalues",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "manifest": "art-direction/references/deep/royal/about/manifest.json",
+        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+    },
+    {
+      "id": "baptism-preparation",
+      "title": "preparation",
+      "content_ids": [
+        "ci:baptism.s1.b2"
+      ],
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "landmark": "section-2",
+        "state": "section-section-2",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+    }
+  ],
+  "content_coverage": {
+    "expected": 9,
+    "assigned": 9,
+    "missing": []
+  },
+  "deletion_pass": "Do not invent baptism footage, requirements, preparation checklists or ceremony details.",
+  "implementation_status": "Reconstructed",
+  "unresolved": [
+    "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
+    "Image focal points, type measures and every interaction require review of the rendered result."
+  ],
+  "motion_notes": {
+    "evidence": "Royal/about sticky reading topology; Lou/about measured timed first-entry opacity and reversible footer blur only. Durations are reconstructed estimates.",
+    "initial": "All essential content visible without JavaScript.",
+    "trigger": "Native scroll or first intersection",
+    "reverse": "Native reading reverses. Focus / emphasis scenes reverse; first-entry animation does not replay.",
+    "mobile": "Single-column native flow; sticky sidebars disabled below 700px.",
+    "reduced": "No entrance keyframes; no blur; all content visible.",
+    "limitation": "No claim of two unique heading axes: unobserved effects were not fabricated."
+  }
+}

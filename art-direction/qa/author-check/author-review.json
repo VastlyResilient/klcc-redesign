@@ -1,0 +1,86 @@
+{
+  "at": "2026-10-07T06:47:15.805607+00:00",
+  "reviewer": "author /root/v22_pool_screening",
+  "independent": false,
+  "viewports": [
+    1440,
+    1024,
+    390
+  ],
+  "frames_viewed": 72,
+  "physical_device_testing": false,
+  "functional_artifact": "art-direction/qa/functional-young-adults-youth-kids-women-men-new-leadership-life-groups.json",
+  "interaction_artifact": "art-direction/qa/author-check/interactions.json",
+  "routes": [
+    {
+      "route": "young-adults",
+      "board": "art-direction/qa/author-check/young-adults/author-board.jpg",
+      "observations": "Complete event posters remain uncropped. Desktop alternates poster and copy; phone places each poster immediately before its schedule and action.",
+      "obvious_layout_defects_remaining": [],
+      "fidelity_status": "Await independent reviewer; no owner acceptance implied"
+    },
+    {
+      "route": "youth",
+      "board": "art-direction/qa/author-check/youth/author-board.jpg",
+      "observations": "ELEVATE has a distinct large typographic opening; meeting time is separate from the explanation. Age paths remain readable in one column on phone.",
+      "obvious_layout_defects_remaining": [],
+      "fidelity_status": "Await independent reviewer; no owner acceptance implied"
+    },
+    {
+      "route": "kids",
+      "board": "art-direction/qa/author-check/kids/author-board.jpg",
+      "observations": "The type-led opening preserves ages and opening time without a misleading child photograph. The conceptual book is labeled.",
+      "obvious_layout_defects_remaining": [],
+      "fidelity_status": "Await independent reviewer; no owner acceptance implied"
+    },
+    {
+      "route": "women",
+      "board": "art-direction/qa/author-check/women/author-board.jpg",
+      "observations": "Calendar source text originally repeated the dates in an all-caps paragraph. Repaired into separate date and time/location fields, preserving all dates and labeling past events. Re-captured and re-viewed after repair.",
+      "obvious_layout_defects_remaining": [],
+      "fidelity_status": "Await independent reviewer; no owner acceptance implied"
+    },
+    {
+      "route": "men",
+      "board": "art-direction/qa/author-check/men/author-board.jpg",
+      "observations": "Weekly meeting information, training, dated events, and the biennial conference use separate reading groups. No invented ministry-specific photograph.",
+      "obvious_layout_defects_remaining": [],
+      "fidelity_status": "Await independent reviewer; no owner acceptance implied"
+    },
+    {
+      "route": "new",
+      "board": "art-direction/qa/author-check/new/author-board.jpg",
+      "observations": "The actual Cathedral photo establishes place; arrival steps are sequential, with a stationary desktop introduction and normal flow on phone. Child check-in details and all request actions remain.",
+      "obvious_layout_defects_remaining": [],
+      "fidelity_status": "Await independent reviewer; no owner acceptance implied"
+    },
+    {
+      "route": "leadership",
+      "board": "art-direction/qa/author-check/leadership/author-board.jpg",
+      "observations": "Source portraits are intact and correctly named. Biographies expand with native disclosures; every biography was opened in all three browser widths without overflow.",
+      "obvious_layout_defects_remaining": [],
+      "fidelity_status": "Await independent reviewer; no owner acceptance implied"
+    },
+    {
+      "route": "life-groups",
+      "board": "art-direction/qa/author-check/life-groups/author-board.jpg",
+      "observations": "Original campaign artwork stays intact; all seven group descriptions form aligned open rows, stacking cleanly on phone.",
+      "obvious_layout_defects_remaining": [],
+      "fidelity_status": "Await independent reviewer; no owner acceptance implied"
+    }
+  ],
+  "limitations": [
+    "Settled frame review does not verify exact animation timing.",
+    "Source editor timings remain unavailable; entry settings are explicit estimates.",
+    "The strict pairwise two-axis uniqueness requirement remains unresolved, as already recorded by the parent."
+  ],
+  "leadership_repair_recheck": {
+    "at": "2026-10-07",
+    "evidence": [
+      "art-direction/qa/side-by-side/leadership/desktop-sections-0.png",
+      "art-direction/qa/side-by-side/leadership/tablet-sections-0.png",
+      "art-direction/qa/side-by-side/leadership/phone-sections-0.png"
+    ],
+    "finding": "Fresh3-width boards now show portrait-first layout. People fully framed, names and role below, disclosures in normal flow. Tablet1024 still3columns byactual1000px breakpoint; phoneonecolumn. No visible overflow. Independent reviewer remains separately assigned."
+  }
+}

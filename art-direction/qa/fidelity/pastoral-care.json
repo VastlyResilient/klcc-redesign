@@ -1,0 +1,165 @@
+{
+  "route": "pastoral-care",
+  "reviewed_at": "2026-10-07T07:40:00Z",
+  "reviewer": "independent v22_capture_pipeline; did not author Care",
+  "status": "Blocked",
+  "accepted": false,
+  "sections": [
+    {
+      "id": "care-request",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/pastoral-care/observed-0/desktop-section-care-request.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Final viewport inspected. Stable request and factual advising information remain legible; authentic conceptual caption is visible on desktop/tablet and decorative image omitted on phone.",
+          "timing_limit": "Settled source/build comparison cannot establish exact intermediate easing or duration."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/pastoral-care/observed-0/tablet-section-care-request.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Final viewport inspected. Stable request and factual advising information remain legible; authentic conceptual caption is visible on desktop/tablet and decorative image omitted on phone.",
+          "timing_limit": "Settled source/build comparison cannot establish exact intermediate easing or duration."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/pastoral-care/observed-0/phone-section-care-request.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Final viewport inspected. Stable request and factual advising information remain legible; authentic conceptual caption is visible on desktop/tablet and decorative image omitted on phone.",
+          "timing_limit": "Settled source/build comparison cannot establish exact intermediate easing or duration."
+        }
+      ]
+    },
+    {
+      "id": "care-comfort",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/pastoral-care/observed-1/desktop-section-care-comfort.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Final viewport inspected. Continuous offset blockquote is legible and appropriately grouped. Cream ground and whole-block clarity differ from Lou black ground and per-character timing; exact sequence parity remains3.",
+          "timing_limit": "Settled source/build comparison cannot establish exact intermediate easing or duration."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/pastoral-care/observed-1/tablet-section-care-comfort.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Final viewport inspected. Continuous offset blockquote is legible and appropriately grouped. Cream ground and whole-block clarity differ from Lou black ground and per-character timing; exact sequence parity remains3.",
+          "timing_limit": "Settled source/build comparison cannot establish exact intermediate easing or duration."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/pastoral-care/observed-1/phone-section-care-comfort.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Final viewport inspected. Continuous offset blockquote is legible and appropriately grouped. Cream ground and whole-block clarity differ from Lou black ground and per-character timing; exact sequence parity remains3.",
+          "timing_limit": "Settled source/build comparison cannot establish exact intermediate easing or duration."
+        }
+      ]
+    }
+  ],
+  "visual_usability": "Readable and coherent in desktop, tablet and phone captures; no observed body overflow. Shared menu and footer visually organized. Functional three-width browser run checked menu/Escape and reduced-motion visibility.",
+  "blockers": [
+    {
+      "id": "reference-sequence-fidelity",
+      "gap": "Observed Lou source reveals individual characters over a black reading ground; final Care reveals one continuous blockquote over cream. Both are readable, but geometry/character timing is a documented adaptation rather than exact reconstruction.",
+      "attempts": "Independent final reviewer inspected desktop/tablet/phone final boards and measured opacity changes after sentence-flow correction. Request controls remain stable.",
+      "fallback": "Preserve continuous semantic quote and stable advising action; no body SplitText or invented motion to force parity."
+    }
+  ],
+  "functional_evidence": "art-direction/qa/functional-prayer-pastoral-care-watch-live-previous-messages-subsplash-media-calendar-give-app-weather-procedures-easter-legal-404.json",
+  "physical_phone_tested": false,
+  "limits": [
+    "Exact Framer editor timings unavailable.",
+    "Fidelity scores concern observed evidence, not animation presence alone."
+  ],
+  "independent_final_review": {
+    "viewports": [
+      1440,
+      1024,
+      390
+    ],
+    "observations": [
+      "Final three-width capture inspected after semantic quote repair. Continuous scripture sentence now flows naturally without mid-clause paragraph break.",
+      "Conceptual book caption is truthful; phone prioritizes practical request and explanation.",
+      "Whole-block timed opacity is a deliberately bounded adaptation of Lou character clarity, not an exact sequence replication."
+    ],
+    "evidence": [
+      "art-direction/qa/captures/pastoral-care/manifest.json",
+      "art-direction/qa/motion-evidence/pastoral-care/measured.json"
+    ],
+    "repair_status": "Visible sentence-flow and conceptual-caption defects resolved; exact motion/ground parity remains below source."
+  }
+}

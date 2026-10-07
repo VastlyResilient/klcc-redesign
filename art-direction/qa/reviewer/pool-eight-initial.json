@@ -1,0 +1,80 @@
+{
+  "reviewer": "v22_inventory_gates (not author of these routes)",
+  "reviewed_at": "2026-10-07T06:56:06.876461+00:00",
+  "status": "Findings-first; not Fidelity-reviewed",
+  "scope": "Actual desktop and phone section contact sheets viewed for all eight. Leadership source/build team comparison directly viewed. Tablet and live interaction checks pending. No scores fabricated for unviewed motion.",
+  "routes": [
+    {
+      "route": "young-adults",
+      "evidence": [
+        "art-direction/qa/side-by-side/young-adults/desktop-sections-0.png",
+        "art-direction/qa/side-by-side/young-adults/phone-sections-0.png"
+      ],
+      "findings": "Original RED and RISE artwork remains intact and distinct; meeting information grouped alongside each. Shared congregation photograph is accurately labelled wider church, not young adult group. Closing scripture topology repeats other ministry routes.",
+      "blocking": "Reference comparison and motion review pending"
+    },
+    {
+      "route": "youth",
+      "evidence": [
+        "art-direction/qa/side-by-side/youth/desktop-sections-0.png",
+        "art-direction/qa/side-by-side/youth/phone-sections-0.png"
+      ],
+      "findings": "Age ranges, weekly time and door time are easy to locate. Two age passages have clean spacing. No invented youth photograph; worship stage caption makes source role clear. Closing scripture repeats other routes.",
+      "blocking": "Reference comparison and motion review pending"
+    },
+    {
+      "route": "kids",
+      "evidence": [
+        "art-direction/qa/side-by-side/kids/desktop-sections-0.png",
+        "art-direction/qa/side-by-side/kids/phone-sections-0.png"
+      ],
+      "findings": "Immediate age range and Sunday opening time are readable. Conceptual book is labelled as illustration, not program evidence. Type-led opening is a content-gap fallback and differs substantially from Royal photographic hero; cannot call exact fidelity.",
+      "blocking": "Reference comparison and motion review pending"
+    },
+    {
+      "route": "women",
+      "evidence": [
+        "art-direction/qa/side-by-side/women/desktop-sections-0.png",
+        "art-direction/qa/side-by-side/women/phone-sections-0.png"
+      ],
+      "findings": "Past September/October dates visibly subdued and November/December clear. Authentic wider-congregation photo labelled as such. Quiet factual calendar works without fake event imagery.",
+      "blocking": "Reference comparison and motion review pending"
+    },
+    {
+      "route": "men",
+      "evidence": [
+        "art-direction/qa/side-by-side/men/desktop-sections-0.png",
+        "art-direction/qa/side-by-side/men/phone-sections-0.png"
+      ],
+      "findings": "Meeting routines and dated events are separated cleanly, with direct Every Man a Warrior registration. Leadership photograph accurately captioned. Long form has practical hierarchy but restrained visual variety.",
+      "blocking": "Reference comparison and motion review pending"
+    },
+    {
+      "route": "new",
+      "evidence": [
+        "art-direction/qa/side-by-side/new/desktop-sections-0.png",
+        "art-direction/qa/side-by-side/new/phone-sections-0.png"
+      ],
+      "findings": "Cathedral photograph and10AM arrival information are prominent. Sticky desktop visitor-information sidebar remains consistent through five steps; mobile is a readable native flow. Lower care/actions grouped clearly. Needs actualformdestination check.",
+      "blocking": "Reference comparison and motion review pending"
+    },
+    {
+      "route": "leadership",
+      "evidence": [
+        "art-direction/qa/side-by-side/leadership/desktop-sections-0.png",
+        "art-direction/qa/side-by-side/leadership/phone-sections-0.png"
+      ],
+      "findings": "Concrete fidelity gap: Royal team is portrait-dominant four-column gallery; build is compact two-column tiny-avatar directory. Readable but loses reference visual move. Recommend three-column portrait-led six-person gallery with belowportrait biography, preserve500pxsources. Source fidelity3/5 pending repair.",
+      "blocking": "Leadership portrait composition repair"
+    },
+    {
+      "route": "life-groups",
+      "evidence": [
+        "art-direction/qa/side-by-side/life-groups/desktop-sections-0.png",
+        "art-direction/qa/side-by-side/life-groups/phone-sections-0.png"
+      ],
+      "findings": "Original program artwork intact; general, women, men, young adults, new parents, believers and creatives organized as readable ruled entries. Wider congregation image accurately labelled. Royal values reference is photo-led panels; text-only categories require explicit content-based adaptation rather than claiming exact matching.",
+      "blocking": "Reference comparison and motion review pending"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+import {registerScene} from '../lifecycle.js';
+const reduced=()=>matchMedia('(prefers-reduced-motion: reduce)').matches||document.body.classList.contains('motion-reduced');
+const active=new Set<Animation>();
+// Group labels, descriptions and register action remain usable. Description first-entry opacity and later community photograph follow source reading/photo mechanisms. Closing scripture stays still.
+const entry0=new IntersectionObserver(es=>{for(const e of es){if(!e.isIntersecting)continue;entry0.unobserve(e.target);if(reduced())continue;const a=e.target.animate([{opacity:.65},{opacity:1}],{duration:1100,easing:'ease-out'});active.add(a);a.finished.then(()=>active.delete(a),()=>active.delete(a))}},{threshold:.15});document.querySelectorAll('#groups-directory article p').forEach(e=>entry0.observe(e));
+// Group labels, descriptions and register action remain usable. Description first-entry opacity and later community photograph follow source reading/photo mechanisms. Closing scripture stays still.
+const entry1=new IntersectionObserver(es=>{for(const e of es){if(!e.isIntersecting)continue;entry1.unobserve(e.target);if(reduced())continue;const a=e.target.animate([{opacity:.65},{opacity:1}],{duration:1100,easing:'ease-out'});active.add(a);a.finished.then(()=>active.delete(a),()=>active.delete(a))}},{threshold:.15});document.querySelectorAll('#groups-photo figure').forEach(e=>entry1.observe(e));
+addEventListener('klcc-motion-change',()=>{if(reduced()){active.forEach(a=>a.cancel());document.querySelectorAll<HTMLElement>('main [style*=filter]').forEach(e=>e.style.filter='none')}});

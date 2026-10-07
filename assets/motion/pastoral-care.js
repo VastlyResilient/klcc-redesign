@@ -1,0 +1,1 @@
+var e=document.querySelector(".care-quote");if(e&&!matchMedia("(prefers-reduced-motion: reduce)").matches){let t=new IntersectionObserver(o=>{o.some(r=>r.isIntersecting)&&(t.disconnect(),!document.body.classList.contains("motion-reduced")&&e.animate([{opacity:.7},{opacity:1}],{duration:1400,easing:"cubic-bezier(.2,.7,.2,1)"}))},{threshold:.15});t.observe(e)}

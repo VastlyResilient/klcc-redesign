@@ -1,0 +1,187 @@
+{
+  "route": "easter",
+  "title": "Easter Sunday | Kingdom Life",
+  "description": "Read archived Easter2026 event information and find a current Sunday.",
+  "visitor_job": "Read archived Easter2026 event information and find a current Sunday.",
+  "signature": {
+    "id": "past-event-program"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll"
+  },
+  "reference": {
+    "template": "royal",
+    "route": "/properties"
+  },
+  "sections": [
+    {
+      "id": "easter-opening",
+      "visitor_task": "Read archived Easter2026 event information and find a current Sunday.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Intact original artwork and explicit archived date, not upcoming.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "manifest": "art-direction/references/deep/royal/about/manifest.json",
+        "landmark": "hero",
+        "state": "section-hero"
+      },
+      "company_content": {
+        "copy": [
+          "ci:easter.s1.b1",
+          "ci:easter.s0.b0",
+          "ci:easter.s1.b2",
+          "ci:easter.s1.b0",
+          "ci:easter.s1.b3"
+        ],
+        "cta": [
+          "cta:easter.s1.a0",
+          "cta:easter.s1.a1",
+          "cta:easter.s1.a2",
+          "cta:easter.s1.a3"
+        ],
+        "media": [
+          "img:easter.page-easter"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Intact original artwork and explicit archived date, not upcoming.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "expect",
+      "visitor_task": "Read archived Easter2026 event information and find a current Sunday.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "composition": "Structured full questions/answers fromoriginal invitation oncream.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "landmark": "brief",
+        "state": "forward-002"
+      },
+      "company_content": {
+        "copy": [
+          "ci:easter.s2.b0",
+          "ci:easter.s2.b1"
+        ],
+        "cta": [
+          "cta:easter.s2.a0"
+        ],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Structured full questions/answers fromoriginal invitation oncream.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "easter-connect",
+      "visitor_task": "Read archived Easter2026 event information and find a current Sunday.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/properties",
+        "dossier": "art-direction/references/deep/royal/properties/dossier.md",
+        "composition": "Original connectedlinks retained with descriptive labels, plus currentvisit link.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "verification": "Blocked: utility links were reviewed for usability but no observed source sequence/layout was verified. Generic Royal/properties pointer does not prove a matching section."
+      },
+      "company_content": {
+        "copy": [
+          "ci:easter.s3.b0",
+          "ci:easter.s1.b4"
+        ],
+        "cta": [
+          "cta:easter.live5",
+          "cta:easter.live6",
+          "cta:easter.live7",
+          "cta:easter.live4",
+          "cta:easter.live9",
+          "cta:easter.live10"
+        ],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Original connectedlinks retained with descriptive labels, plus currentvisit link.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "version": "2.2",
+  "checked_at": "2026-10-07T07:26:27.492Z",
+  "scope": "G4",
+  "status": "Pass",
+  "results": [
+    {
+      "gate": "G4",
+      "name": "Both hardest pilots Fidelity-reviewed with section evidence",
+      "status": "Pass",
+      "evidence": []
+    },
+    {
+      "gate": "G4",
+      "name": "Pilot review preceded remaining authored page builds",
+      "status": "Pass",
+      "evidence": {
+        "events": "art-direction/build-events.jsonl",
+        "premature": [],
+        "note": "Legacy pre-run pages excluded; only this run timestamped build events establish chronology."
+      }
+    }
+  ]
+}

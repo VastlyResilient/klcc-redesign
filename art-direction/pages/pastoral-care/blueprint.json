@@ -1,0 +1,135 @@
+{
+  "route": "pastoral-care",
+  "title": "Pastoral Care | Kingdom Life",
+  "description": "Understand pastoral advising and request help.",
+  "visitor_job": "Understand pastoral advising and request help.",
+  "signature": {
+    "id": "care-expectations"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll"
+  },
+  "reference": {
+    "template": "royal",
+    "route": "/contact"
+  },
+  "sections": [
+    {
+      "id": "care-request",
+      "visitor_task": "Understand pastoral advising and request help.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Left quiet heading and actual source photograph; right complete explanation and stable request action.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "section-0"
+      },
+      "company_content": {
+        "copy": [
+          "ci:pastoral-care.s0.b0",
+          "ci:pastoral-care.s1.b0",
+          "ci:pastoral-care.s1.b1",
+          "ci:pastoral-care.s1.b2"
+        ],
+        "cta": [
+          "cta:pastoral-care.s1.a0"
+        ],
+        "media": [
+          "img:pastoral-care.faith-editorial"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Left quiet heading and actual source photograph; right complete explanation and stable request action.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "care-comfort",
+      "visitor_task": "Understand pastoral advising and request help.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "landmark": "section-2",
+        "composition": "Offset large reading passage; small contextual label left and substantial multi-line text right.",
+        "sequence": "Observed scroll-triggered timed text clarity; reverse scroll does not scrub or replay."
+      },
+      "company_content": {
+        "copy": [
+          "ci:pastoral-care.s2.b0",
+          "ci:pastoral-care.s2.b1"
+        ],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Offset large scripture passage with24/66 columns and10%gap;48px maximum reading typography. Phone30px single reading column. Request content above remains stable.",
+        "motion": {
+          "mechanism": "Scroll-triggered timed first-entry clarity, whole semantic quote",
+          "values": {
+            "opacity": [
+              0.7,
+              1
+            ],
+            "duration_ms": 1400,
+            "estimated": true,
+            "reverse": "remains readable after entry",
+            "body_split": false
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Lou individual character brightening and monochrome ground",
+          "conflict": "Long scripture readability and established KLCC palette",
+          "adaptation": "Whole-word clarity preserves natural wrapping and semantic aria-label; cream ground remains in the locked world. Critical care request never participates.",
+          "test": "Compare reading topology all3widths, timed forward entrance, reverse Hold and reduced-motion."
+        },
+        {
+          "reference": "Lou word-timed clarity",
+          "conflict": "Body text splitting prohibited; scripture is a single sentence across sourceextracted blocks",
+          "adaptation": "Continuous semantic blockquote retaining bothcontentIDs, oneblock timedclarity with no sentencebreak",
+          "test": "Visual lineflow and noJS/reducedreadability"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    }
+  ]
+}

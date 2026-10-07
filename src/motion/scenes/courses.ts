@@ -1,0 +1,2 @@
+import {registerScene} from '../lifecycle.js';
+if(!matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-reduced')){const o=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.animate([{opacity:.65,transform:'translateY(6px)'},{opacity:1,transform:'none'}],{duration:1000});o.unobserve(e.target)}}),{threshold:.1});document.querySelectorAll('.courses-fall article,.courses-seasons article').forEach(e=>o.observe(e))}

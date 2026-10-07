@@ -1,0 +1,121 @@
+{
+  "created": "2026-10-07T06:37:42.448Z",
+  "boards": [
+    {
+      "route": "our-story",
+      "viewport": "desktop",
+      "page_type": "narrative",
+      "section": "opening",
+      "build": {
+        "manifest": "art-direction/qa/captures/our-story/manifest.json",
+        "state": "opening-settled",
+        "label": "our-story — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal story — real image and factual hierarchy"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Lou portrait — decisive scale contrast"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal index — image-led destination"
+        }
+      ],
+      "selection_reason": "Three observed comparisons selected for this visitor task. Comparative quality must be judged visually; selection itself is not a pass."
+    },
+    {
+      "route": "our-story",
+      "viewport": "phone",
+      "page_type": "narrative",
+      "section": "opening",
+      "build": {
+        "manifest": "art-direction/qa/captures/our-story/manifest.json",
+        "state": "opening-settled",
+        "label": "our-story — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal story — real image and factual hierarchy"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Lou portrait — decisive scale contrast"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal index — image-led destination"
+        }
+      ],
+      "selection_reason": "Three observed comparisons selected for this visitor task. Comparative quality must be judged visually; selection itself is not a pass."
+    },
+    {
+      "route": "mission",
+      "viewport": "desktop",
+      "page_type": "narrative",
+      "section": "opening",
+      "build": {
+        "manifest": "art-direction/qa/captures/mission/manifest.json",
+        "state": "opening-settled",
+        "label": "mission — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal story — real image and factual hierarchy"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Lou portrait — decisive scale contrast"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal index — image-led destination"
+        }
+      ],
+      "selection_reason": "Three observed comparisons selected for this visitor task. Comparative quality must be judged visually; selection itself is not a pass."
+    },
+    {
+      "route": "mission",
+      "viewport": "phone",
+      "page_type": "narrative",
+      "section": "opening",
+      "build": {
+        "manifest": "art-direction/qa/captures/mission/manifest.json",
+        "state": "opening-settled",
+        "label": "mission — current build"
+      },
+      "examples": [
+        {
+          "manifest": "art-direction/references/deep/royal/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal story — real image and factual hierarchy"
+        },
+        {
+          "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+          "state": "opening-settled",
+          "label": "Lou portrait — decisive scale contrast"
+        },
+        {
+          "manifest": "art-direction/references/deep/royal/properties/manifest.json",
+          "state": "opening-settled",
+          "label": "Royal index — image-led destination"
+        }
+      ],
+      "selection_reason": "Three observed comparisons selected for this visitor task. Comparative quality must be judged visually; selection itself is not a pass."
+    }
+  ]
+}

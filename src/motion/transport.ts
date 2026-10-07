@@ -1,0 +1,2 @@
+// Plumbing only. Route modules own selectors, sequencing and properties.
+export function createTransport(render:()=>void){let raf=0;const schedule=()=>{if(!raf)raf=requestAnimationFrame(()=>{raf=0;if(!(window as any).__klccFrozen)render()})};addEventListener('scroll',schedule,{passive:true});addEventListener('resize',schedule);document.fonts.ready.then(schedule);schedule();return()=>{removeEventListener('scroll',schedule);removeEventListener('resize',schedule);cancelAnimationFrame(raf)}}

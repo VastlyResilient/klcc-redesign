@@ -1,0 +1,180 @@
+{
+  "route": "subsplash-media",
+  "title": "Messages & Media | Kingdom Life",
+  "description": "Play the verified current message and explore actual library categories.",
+  "visitor_job": "Play the verified current message and explore actual library categories.",
+  "signature": {
+    "id": "message-and-library"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll"
+  },
+  "reference": {
+    "template": "slab",
+    "route": "/projects/hydra"
+  },
+  "sections": [
+    {
+      "id": "message-opening",
+      "visitor_task": "Play the verified current message and explore actual library categories.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "composition": "Date andspeaker align opposite current message title in editorialbrief.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "hero",
+        "state": "opening"
+      },
+      "company_content": {
+        "copy": [
+          "ci:subsplash-media.s0.b0",
+          "ci:subsplash-media.s0.b1",
+          "ci:subsplash-media.s0.b2"
+        ],
+        "cta": [],
+        "media": [
+          "img:subsplash-media.worship-stage"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Date andspeaker align opposite current message title in editorialbrief.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Playback and category controls remain stable. Native content change supports library task; no invented Slab animation."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "message-player",
+      "visitor_task": "Play the verified current message and explore actual library categories.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "composition": "Playback holds still on lightground; controls never animated.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "brief",
+        "state": "forward-002"
+      },
+      "company_content": {
+        "copy": [
+          "ci:subsplash-media.integration0"
+        ],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Playback holds still on lightground; controls never animated.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Playback and category controls remain stable. Native content change supports library task; no invented Slab animation."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "message-categories",
+      "visitor_task": "Play the verified current message and explore actual library categories.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "composition": "Library categories become intentional typographic index to real providerviews.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "brief",
+        "state": "forward-002"
+      },
+      "company_content": {
+        "copy": [
+          "ci:subsplash-media.s1.b0"
+        ],
+        "cta": [
+          "cta:subsplash-media.s1.a0",
+          "cta:subsplash-media.s1.a1",
+          "cta:subsplash-media.s1.a2",
+          "cta:subsplash-media.s1.a3",
+          "cta:subsplash-media.s1.a4"
+        ],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Library categories become intentional typographic index to real providerviews.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Playback and category controls remain stable. Native content change supports library task; no invented Slab animation."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        },
+        {
+          "reference": "Slab case study editorial brief",
+          "conflict": "Original company has29 categorical media groups rather than project metadata",
+          "adaptation": "Native purpose-built library selectors and results; source visual hierarchy governs the stable editorial index, no invented motion claim",
+          "test": "Every category exactitemIDs/counts; provider destinations reachable"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    }
+  ]
+}

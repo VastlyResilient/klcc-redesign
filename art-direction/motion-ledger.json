@@ -1,0 +1,2421 @@
+{
+  "version": "2.2",
+  "note": "Actual declarations, not randomized to satisfy a uniqueness metric. Runtime verification is separate.",
+  "pages": [
+    {
+      "route": "404",
+      "signature": {
+        "id": "missing-page-recovery"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "missing-route",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Large404 with compactnavigation recovery; no delay orfake search.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-0"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "missing-help",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Smallhelp band with realcontact andvisit routes.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-1"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "alpha",
+      "signature": {
+        "id": "alpha-hold",
+        "dominant_verb": "Hold",
+        "structural_idea": "Questions-first editorial explanation with stable video and a compact session facts band",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "alpha-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "hero",
+            "state": "section-hero",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "alpha-conversation",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "landmark": "section-2",
+            "state": "section-section-2",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "alpha-films",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "ourvalues",
+            "state": "section-ourvalues",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "alpha-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "landmark": "section-3",
+            "state": "section-section-3",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        }
+      ]
+    },
+    {
+      "route": "app",
+      "signature": {
+        "id": "device-download"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "app-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Left reading and right image relationship from Royal story; single-image utility adaptation. Does not replicate paired chapter pin.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "stry"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "app-use",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Aligned label and supportingreading relationship; enlarged actionlabels are an explicit adaptation to three real destinations.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "state": "forward-002",
+            "landmark": "brief"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "baptism",
+      "signature": {
+        "id": "baptism-frame",
+        "dominant_verb": "Frame",
+        "structural_idea": "Two linked dates tell the preparation-to-ceremony journey",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "baptism-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "hero",
+            "state": "section-hero",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "baptism-dates",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "ourvalues",
+            "state": "section-ourvalues",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "baptism-preparation",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "landmark": "section-2",
+            "state": "section-section-2",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        }
+      ]
+    },
+    {
+      "route": "beliefs",
+      "signature": {
+        "id": "beliefs-hold",
+        "dominant_verb": "Hold",
+        "structural_idea": "A nine-part statement with a quiet persistent chapter count and generous reading measure",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "beliefs-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "hero",
+            "state": "section-hero",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "beliefs-statement",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "landmark": "section-2",
+            "state": "section-section-2",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "beliefs-reflection",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "cta",
+            "state": "section-cta",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        }
+      ]
+    },
+    {
+      "route": "believe",
+      "signature": {
+        "id": "believe-unfold",
+        "dominant_verb": "Unfold",
+        "structural_idea": "A personal decision followed by three deliberately separated next-step branches",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "believe-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "hero",
+            "state": "section-hero",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "believe-steps",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "ourvalues",
+            "state": "section-ourvalues",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "believe-alpha",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "cta",
+            "state": "section-cta",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "believe-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "landmark": "section-3",
+            "state": "section-section-3",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        }
+      ]
+    },
+    {
+      "route": "calendar",
+      "signature": {
+        "id": "agenda-window"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "calendar-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Oversized calendar title balanced by actual abstractsourceart and timezone note.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-0"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "calendar-agenda",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Large stable calendar embedded on cream; directproviderfallback aboveframe.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-1"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "calendar-paths",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Three text-only contextual routes for regular gatherings; no fabricatedevents.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-1"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "courses",
+      "signature": {
+        "id": "courses-carry",
+        "dominant_verb": "Carry",
+        "structural_idea": "Seasonal syllabus with a strong date column and individually bounded course descriptions",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "courses-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "hero",
+            "state": "section-hero",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "courses-fall",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "stry",
+            "state": "section-stry",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "courses-seasons",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "ourvalues",
+            "state": "section-ourvalues",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "courses-marriage",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "cta",
+            "state": "section-cta",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        }
+      ]
+    },
+    {
+      "route": "easter",
+      "signature": {
+        "id": "past-event-program"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "easter-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Intact original artwork and explicit archived date, not upcoming.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "landmark": "hero",
+            "state": "section-hero"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "expect",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Structured full questions/answers fromoriginal invitation oncream.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+            "landmark": "brief",
+            "state": "forward-002"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "easter-connect",
+          "reference": {
+            "template": "royal",
+            "route": "/properties",
+            "dossier": "art-direction/references/deep/royal/properties/dossier.md",
+            "composition": "Original connectedlinks retained with descriptive labels, plus currentvisit link.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "verification": "Blocked: utility links were reviewed for usability but no observed source sequence/layout was verified. Generic Royal/properties pointer does not prove a matching section."
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "give",
+      "signature": {
+        "id": "giving-methods"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "give-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Quiet legalentitytitle and immediate secureprovideraction with boundedactualart.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-0"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "give-methods",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Left label and one continuous right reading column, matching observed Slab Brief relationship.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "brief",
+            "state": "forward-002"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "give-generosity",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal story copy-left/image-right relationship, adapted to one actual pantry photograph; does not reproduce the paired sticky chapter sequence.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "stry"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "give-reading",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Bounded longerwhywe give plus small scripture statement.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-1"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "home",
+      "signature": {
+        "id": "protected-film"
+      },
+      "heading_arrival": {
+        "unit": "character-and-phrase",
+        "vector": "staged-opacity-translate",
+        "driver": "scroll-linked-film-progress"
+      },
+      "scenes": [
+        {
+          "id": "protected-home",
+          "reference": {
+            "template": "owner-approved-home",
+            "route": "/",
+            "evidence": "art-direction/home-baseline.json",
+            "composition": "Preserve existing pinned photograph, staged characters and phrases; no claim this is a Royal reconstruction.",
+            "sequence": "Existing film progresses with native scroll, reveals staged at documented data-enter/data-full intervals; reverses on scrolling up."
+          },
+          "contract": {
+            "mechanism": "Sticky / Scroll-linked",
+            "values": {
+              "source": "app.js initFilm",
+              "existing_approved": true,
+              "filmProgress": "0–1 over .film-travel",
+              "headingPhrases": [
+                [
+                  0.54,
+                  0.62
+                ],
+                [
+                  0.63,
+                  0.71
+                ],
+                [
+                  0.72,
+                  0.8
+                ]
+              ]
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "kids",
+      "signature": {
+        "id": "kids-frame",
+        "dominant_verb": "Frame",
+        "structural_idea": "Parent-first practical proof strip beneath source-art typography",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "kids-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information."
+        },
+        {
+          "id": "kids-team",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal invitation: wide photographic moment with one centered statement and restrained action; no text backdrop panel.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "cta",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information."
+        },
+        {
+          "id": "kids-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-2",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information."
+        }
+      ]
+    },
+    {
+      "route": "leadership",
+      "signature": {
+        "id": "leadership-focus",
+        "dominant_verb": "Focus",
+        "structural_idea": "Founders lead at larger scale, then a controlled portrait index with full biographies",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "leaders-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep each portrait beside its name and role. Full biographies remain available in place, with stable keyboard focus and no modal detour."
+        },
+        {
+          "id": "founding-leaders",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "team",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep each portrait beside its name and role. Full biographies remain available in place, with stable keyboard focus and no modal detour."
+        },
+        {
+          "id": "pastoral-team",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "team",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep each portrait beside its name and role. Full biographies remain available in place, with stable keyboard focus and no modal detour."
+        },
+        {
+          "id": "leadership-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-2",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep each portrait beside its name and role. Full biographies remain available in place, with stable keyboard focus and no modal detour."
+        }
+      ]
+    },
+    {
+      "route": "legal",
+      "signature": {
+        "id": "site-information"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "legal-notice",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Quiet bounded reading with no invented church privacy promise.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-0"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "legal-services",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Clear externalservice andcontact explanation oncream.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-1"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "life-groups",
+      "signature": {
+        "id": "life-groups-reorder",
+        "dominant_verb": "Reorder",
+        "structural_idea": "Seven-category editorial directory with an anchored registration invitation",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "groups-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Treat each category as a named, readable directory entry. Do not introduce a filter if there is no real filterable dataset."
+        },
+        {
+          "id": "groups-introduction",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-2",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Treat each category as a named, readable directory entry. Do not introduce a filter if there is no real filterable dataset."
+        },
+        {
+          "id": "groups-directory",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal values: three tall photographs with compact supporting copy; no rounded card boxes.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "ourvalues",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Treat each category as a named, readable directory entry. Do not introduce a filter if there is no real filterable dataset."
+        },
+        {
+          "id": "groups-photo",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Treat each category as a named, readable directory entry. Do not introduce a filter if there is no real filterable dataset."
+        },
+        {
+          "id": "life-groups-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-2",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Treat each category as a named, readable directory entry. Do not introduce a filter if there is no real filterable dataset."
+        }
+      ]
+    },
+    {
+      "route": "membership",
+      "signature": {
+        "id": "membership-accumulate",
+        "dominant_verb": "Accumulate",
+        "structural_idea": "Four typographic chapter steps sharing a single actual-community image",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "membership-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "hero",
+            "state": "section-hero",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "membership-journey",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "stry",
+            "state": "section-stry",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        }
+      ]
+    },
+    {
+      "route": "men",
+      "signature": {
+        "id": "men-traverse",
+        "dominant_verb": "Traverse",
+        "structural_idea": "Recurring rhythm index followed by two deeper program chapters",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "men-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
+        },
+        {
+          "id": "men-week",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-0",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
+        },
+        {
+          "id": "men-study",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-2",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
+        },
+        {
+          "id": "men-calendar",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Slab project metadata: left project identity, aligned right metadata and ruled information hierarchy. See scoped dossier for source-specific capture limitations.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-0",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance.",
+            "state": "opening"
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
+        },
+        {
+          "id": "men-photo",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
+        },
+        {
+          "id": "men-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-2",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions."
+        }
+      ]
+    },
+    {
+      "route": "mission",
+      "signature": {
+        "id": "image-to-purpose"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "mission-opening",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "landmark": "section-1",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "LouAbout: fullviewportportraitandhugecenteredname300/270pxdesktop,120tablet,64phone.",
+            "sequence": "Normaldocumentscrollcarriesphotoandname together; loadpixelationnotcopied."
+          },
+          "contract": {
+            "mechanism": "Fullheighttruthfulsourcemissionlensartwork,hugeMISSIONword; titleHold, no inventedzoom.",
+            "values": {
+              "estimated": true,
+              "source_editor_settings": "unknown"
+            }
+          },
+          "reduced_motion": "Unpinned complete text and final media visible.",
+          "mobile": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width."
+        },
+        {
+          "id": "mission-reading",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "landmark": "section-2",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "LouAbout: blackground, leftnegative space32%, rightbold40/44pxparagraph, smallcredentialcolumnsafter.",
+            "sequence": "Freshheld900pxprobe establishesonce-entered timedopacity/transformarrival; reverse stayswhite."
+          },
+          "contract": {
+            "mechanism": "KLCCbounded54pxstatementthen7semanticcommitments; 6pxrise opacity.62→1 in1400mswhenenters. EssentialcopyvisiblebeforeJS.",
+            "values": {
+              "estimated": true,
+              "source_editor_settings": "unknown"
+            }
+          },
+          "reduced_motion": "Unpinned complete text and final media visible.",
+          "mobile": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width."
+        },
+        {
+          "id": "mission-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "landmark": "section-3",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "Loufooter: abruptlightground,largeidentitywordmark,compactcontact/navigation.",
+            "sequence": "Observed reversibleblur14.661px→0 asfooterenters; actualcurveunknown."
+          },
+          "contract": {
+            "mechanism": "KLCCscripturelightground, oversizedstatementwith0–4pxfocus overfirstthirdsectionentry; linksandbodyneverblurred.",
+            "values": {
+              "estimated": true,
+              "source_editor_settings": "unknown"
+            }
+          },
+          "reduced_motion": "Unpinned complete text and final media visible.",
+          "mobile": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width."
+        }
+      ]
+    },
+    {
+      "route": "new",
+      "signature": {
+        "id": "new-trace",
+        "dominant_verb": "Trace",
+        "structural_idea": "Arrival journey with persistent practical margin and sequential place-specific answers",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "visit-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
+        },
+        {
+          "id": "visit-plan",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal story: shared sticky stage with synchronized chapter copy and image exchange; phone remains sticky in the source.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "stry",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
+        },
+        {
+          "id": "visit-together",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Sticky + Scroll-linked synchronized chapter exchange, only if matching factualimage/copy chapters exist",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
+        },
+        {
+          "id": "visit-next",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal values: three tall photographs with compact supporting copy; no rounded card boxes.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "ourvalues",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
+        },
+        {
+          "id": "visit-care",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-0",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
+        },
+        {
+          "id": "new-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-2",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Release the practical sidebar into normal flow. Never hide child check-in or safety information in a closed disclosure."
+        }
+      ]
+    },
+    {
+      "route": "our-story",
+      "signature": {
+        "id": "paired-history"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "y-rise",
+        "driver": "load-timed"
+      },
+      "scenes": [
+        {
+          "id": "story-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "hero",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal Abouthero: eyebrowleft, uppercase50/55pxheadline, dominantteamphotobelow, three-columnproofrow. 1259.97pxdesktopheight.",
+            "sequence": "Small observed opacity/transformarrival, exactsourceeasingunknown. Ourheader50pxAlbertSans uppercase, realarchivefullwidth, founded1991/about40peoplerow; noRoyalrevenuestat."
+          },
+          "contract": {
+            "mechanism": "Measured 10px timed title entrance650ms, notscrollscrub; existingimage visible.",
+            "values": {
+              "estimated": true,
+              "source_editor_settings": "unknown"
+            }
+          },
+          "reduced_motion": "Unpinned complete text and final media visible.",
+          "mobile": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width."
+        },
+        {
+          "id": "story-chapters",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "stry",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal Aboutstry: stableleftcopy42% /rightportrait53%, top75px810pxstage, threepairedchapters. Sourcesection1890px.",
+            "sequence": "Sticky pairedimage+copy exchange atsuccessivescrollthirds; reverse restoresmatchingpair."
+          },
+          "contract": {
+            "mechanism": "KLCC stage230svh, top90px, 3pairedchapters; transferbrief10pxcopy/4%imageclip withinfirst22%ofeachthird, estimatesexplicit.",
+            "values": {
+              "estimated": true,
+              "source_editor_settings": "unknown"
+            }
+          },
+          "reduced_motion": "Unpinned complete text and final media visible.",
+          "mobile": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width."
+        },
+        {
+          "id": "story-founders",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "team",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal Aboutteam: realportraits atconsistentheight withadjacentnamesroles.",
+            "sequence": "Portraits enter in-flow; no longpin."
+          },
+          "contract": {
+            "mechanism": "KLCConefoundercoupleportrait36%left, completebiography53%right. No hidebehindreadmore. Stillreading.",
+            "values": {
+              "estimated": true,
+              "source_editor_settings": "unknown"
+            }
+          },
+          "reduced_motion": "Unpinned complete text and final media visible.",
+          "mobile": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width."
+        }
+      ]
+    },
+    {
+      "route": "pastoral-care",
+      "signature": {
+        "id": "care-expectations"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "care-request",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Left quiet heading and actual source photograph; right complete explanation and stable request action.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-0"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "care-comfort",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "landmark": "section-2",
+            "composition": "Offset large reading passage; small contextual label left and substantial multi-line text right.",
+            "sequence": "Observed scroll-triggered timed text clarity; reverse scroll does not scrub or replay."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered timed first-entry clarity, whole semantic quote",
+            "values": {
+              "opacity": [
+                0.7,
+                1
+              ],
+              "duration_ms": 1400,
+              "estimated": true,
+              "reverse": "remains readable after entry",
+              "body_split": false
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "prayer",
+      "signature": {
+        "id": "prayer-request-and-schedule"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "request",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Immediate request action beside a concise invitation, not an intro pin.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-0"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "gather",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Schedule as three readable ruled rows beside church prayer statement.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-1"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "scripture",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Wide quiet worship photograph and scripture, brief passage into footer.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-1"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "previous-messages",
+      "signature": {
+        "id": "artwork-index"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "archive-opening",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Compact archive masthead and one dominant original image, no fake latest label.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "state": "opening",
+            "landmark": "hero"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "archive-selection",
+          "reference": {
+            "template": "slab",
+            "route": "/archive",
+            "dossier": "art-direction/references/deep/slab/archive-verified/dossier.md",
+            "composition": "Unequal artwork field preserves everycover ratio; associated titles dates speakers stay adjacent.",
+            "sequence": "Native-flow masonry with independently looping tile media; no measured outer grid scrub. Navigation two-span hover roll observed; exact timings unknown.",
+            "state": "opening-settled",
+            "landmark": "archive-grid",
+            "manifest": "art-direction/references/deep/slab/archive-verified/manifest.json"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "archive-library",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Full provider library presented as readable stable destination, quieter information band.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "state": "forward-002",
+            "landmark": "brief"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "serve",
+      "signature": {
+        "id": "serve-reframe",
+        "dominant_verb": "Reframe",
+        "structural_idea": "One authentic act of service as the entire visual argument",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "serve-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "landmark": "cta",
+            "state": "section-cta",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "manifest": "art-direction/references/deep/royal/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "serve-purpose",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "landmark": "section-2",
+            "state": "section-section-2",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        },
+        {
+          "id": "serve-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "landmark": "section-3",
+            "state": "section-section-3",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+            "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+          },
+          "contract": {
+            "mechanism": "Undocumented"
+          }
+        }
+      ]
+    },
+    {
+      "route": "subsplash-media",
+      "signature": {
+        "id": "message-and-library"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "message-opening",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Date andspeaker align opposite current message title in editorialbrief.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "hero",
+            "state": "opening"
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "values": {
+              "reason": "Playback and category controls remain stable. Native content change supports library task; no invented Slab animation."
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "message-player",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Playback holds still on lightground; controls never animated.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "brief",
+            "state": "forward-002"
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "values": {
+              "reason": "Playback and category controls remain stable. Native content change supports library task; no invented Slab animation."
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "message-categories",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Library categories become intentional typographic index to real providerviews.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "brief",
+            "state": "forward-002"
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "values": {
+              "reason": "Playback and category controls remain stable. Native content change supports library task; no invented Slab animation."
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "watch-live",
+      "signature": {
+        "id": "worship-to-player"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "live-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal photographic CTA relationship: invitation and action over documentary scene. Expands toopeningwithactualKLCCworshipphoto; notRoyalnormalflowhero.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "cta"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "live-player",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Stable widescreen player on cream with direct provider alternative.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "ourvalues"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "watch-live-section-2",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Stable widescreen player on cream with direct provider alternative.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "ourvalues"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "weather-procedures",
+      "signature": {
+        "id": "weather-notice"
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "hold",
+        "driver": "native-scroll"
+      },
+      "scenes": [
+        {
+          "id": "weather-notice",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Calm urgent notice without interpreting as a live closure report.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-0"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "weather-channels",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Left label and one continuous right reading column, matching observed Slab Brief relationship.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "brief",
+            "state": "forward-002"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        },
+        {
+          "id": "weather-volunteer",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Compact contrasting snowremovalvolunteer invitation with actual form link.",
+            "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+            "landmark": "section-1"
+          },
+          "contract": {
+            "mechanism": "Hold essential controls; route-specific image entry only where verified",
+            "values": {
+              "estimated": true
+            }
+          },
+          "reduced_motion": "All HTML visible, no pin or focusblur.",
+          "mobile": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped."
+        }
+      ]
+    },
+    {
+      "route": "women",
+      "signature": {
+        "id": "women-unfold",
+        "dominant_verb": "Unfold",
+        "structural_idea": "Editorial seasonal notice with one source-art field and two clearly dated lines",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "women-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep each date, event name, time and venue together. Preserve earlier dates in a clearly historical group."
+        },
+        {
+          "id": "women-photo",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep each date, event name, time and venue together. Preserve earlier dates in a clearly historical group."
+        },
+        {
+          "id": "women-calendar",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Slab project metadata: left project identity, aligned right metadata and ruled information hierarchy. See scoped dossier for source-specific capture limitations.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-0",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance.",
+            "state": "opening"
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep each date, event name, time and venue together. Preserve earlier dates in a clearly historical group."
+        },
+        {
+          "id": "women-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-2",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep each date, event name, time and venue together. Preserve earlier dates in a clearly historical group."
+        }
+      ]
+    },
+    {
+      "route": "young-adults",
+      "signature": {
+        "id": "young-adults-assemble",
+        "dominant_verb": "Assemble",
+        "structural_idea": "Two distinct event editions with intact poster objects and adjacent schedules",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "ya-intro",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row."
+        },
+        {
+          "id": "ya-events",
+          "reference": {
+            "template": "slab",
+            "route": "/projects/hydra",
+            "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+            "composition": "Slab project metadata: left project identity, aligned right metadata and ruled information hierarchy. See scoped dossier for source-specific capture limitations.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-0",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance.",
+            "state": "opening"
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row."
+        },
+        {
+          "id": "ya-community",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row."
+        },
+        {
+          "id": "young-adults-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-2",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row."
+        }
+      ]
+    },
+    {
+      "route": "youth",
+      "signature": {
+        "id": "youth-exchange",
+        "dominant_verb": "Exchange",
+        "structural_idea": "Two age-band reading columns separated by a wide actual worship scene",
+        "axes": {
+          "unit": "content-specific block/image",
+          "vector": "Hold pending observed scene contract",
+          "driver": "native scroll",
+          "frame": "route-owned composition"
+        }
+      },
+      "heading_arrival": {
+        "unit": "block",
+        "vector": "none",
+        "driver": "static",
+        "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+      },
+      "scenes": [
+        {
+          "id": "elevate-opening",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible."
+        },
+        {
+          "id": "elevate-service",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "hero",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible."
+        },
+        {
+          "id": "age-paths",
+          "reference": {
+            "template": "royal",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/royal/about/dossier.md",
+            "composition": "Royal values: three tall photographs with compact supporting copy; no rounded card boxes.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "ourvalues",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Scroll-triggered bounded image/block arrival",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible."
+        },
+        {
+          "id": "youth-scripture",
+          "reference": {
+            "template": "lou",
+            "route": "/about",
+            "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+            "composition": "Lou reading: offset large-type passage with a narrow measure and smaller credentials; phone becomes nearly full width.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-2",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible."
+        },
+        {
+          "id": "elevate-connect",
+          "reference": {
+            "template": "royal",
+            "route": "/contact",
+            "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+            "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
+            "sequence": "Observe the cited dossier and capture states. KLCC uses the authored estimated motion contract; shared provenance does not establish timing or sequence parity.",
+            "landmark": "section-0",
+            "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+          },
+          "contract": {
+            "mechanism": "Hold",
+            "source_settings": "unknown; no invented Framer values",
+            "implementation_values": "must be measured/justified in reconstruction pass before fidelity review",
+            "heading": "static readable HTML; no universal rise"
+          },
+          "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy.",
+          "mobile": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible."
+        }
+      ]
+    }
+  ]
+}

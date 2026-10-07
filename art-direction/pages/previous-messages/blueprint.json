@@ -1,0 +1,184 @@
+{
+  "route": "previous-messages",
+  "title": "Previous Messages | Kingdom Life",
+  "description": "Browse real archived teaching and open a message.",
+  "visitor_job": "Browse real archived teaching and open a message.",
+  "signature": {
+    "id": "artwork-index"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll"
+  },
+  "reference": {
+    "template": "slab",
+    "route": "/projects/hydra"
+  },
+  "sections": [
+    {
+      "id": "archive-opening",
+      "visitor_task": "Browse real archived teaching and open a message.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "composition": "Compact archive masthead and one dominant original image, no fake latest label.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "state": "opening",
+        "landmark": "hero"
+      },
+      "company_content": {
+        "copy": [
+          "ci:previous-messages.s0.b0",
+          "ci:previous-messages.archive-3kxydmm"
+        ],
+        "cta": [
+          "cta:previous-messages.archive-3kxydmm"
+        ],
+        "media": [
+          "img:previous-messages.3kxydmm"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Compact archive masthead and one dominant original image, no fake latest label.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "archive-selection",
+      "visitor_task": "Browse real archived teaching and open a message.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/archive",
+        "dossier": "art-direction/references/deep/slab/archive-verified/dossier.md",
+        "composition": "Unequal artwork field preserves everycover ratio; associated titles dates speakers stay adjacent.",
+        "sequence": "Native-flow masonry with independently looping tile media; no measured outer grid scrub. Navigation two-span hover roll observed; exact timings unknown.",
+        "state": "opening-settled",
+        "landmark": "archive-grid",
+        "manifest": "art-direction/references/deep/slab/archive-verified/manifest.json"
+      },
+      "company_content": {
+        "copy": [
+          "ci:previous-messages.archive-g42cgb7",
+          "ci:previous-messages.archive-xshbs3z",
+          "ci:previous-messages.archive-ncz3rmr"
+        ],
+        "cta": [
+          "cta:previous-messages.archive-g42cgb7",
+          "cta:previous-messages.archive-xshbs3z",
+          "cta:previous-messages.archive-ncz3rmr"
+        ],
+        "media": [
+          "img:previous-messages.g42cgb7",
+          "img:previous-messages.xshbs3z",
+          "img:previous-messages.ncz3rmr"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Unequal artwork field preserves everycover ratio; associated titles dates speakers stay adjacent.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Three desktop/tablet columns and two phone columns, no tile captions",
+          "conflict": "Three additional landscape sermon covers require readable title, speaker and date",
+          "adaptation": "Two unequal desktop columns and one phone column, intact cover ratio and adjacent factual metadata",
+          "test": "Visual comparison must record the changed density and hierarchy; it is not an exact grid reconstruction."
+        },
+        {
+          "reference": "Archive tile content loops independently of scroll",
+          "conflict": "KLCC covers are authentic static artwork",
+          "adaptation": "Static covers with estimated donor image entry; never claim source archive scrubbing",
+          "test": "No fabricated media or motion attribution."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "archive-library",
+      "visitor_task": "Browse real archived teaching and open a message.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "composition": "Full provider library presented as readable stable destination, quieter information band.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "state": "forward-002",
+        "landmark": "brief"
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Full provider library presented as readable stable destination, quieter information band.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    }
+  ]
+}

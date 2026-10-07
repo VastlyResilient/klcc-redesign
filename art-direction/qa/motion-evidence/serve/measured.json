@@ -1,0 +1,298 @@
+{
+  "route": "serve",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 0.16685)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.988877"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 0.16685)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.988877",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(2.48855px)"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2.48855px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-serve-purpose",
+          "to": "section-serve-scripture",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.56248px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-2001",
+          "to": "reverse-1551",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(0.384527px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1551",
+          "to": "reverse-1101",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.384527px)",
+              "to": "blur(3px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 29,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/serve/capture-desktop/desktop/video/page@9e235dc6c4fe814404a5926328c08c2e.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/serve/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 1.50017)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.899989"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(2.72227px)"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 1.50017)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.899989",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2.72227px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-serve-purpose",
+          "to": "section-serve-scripture",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.353865px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1422",
+          "to": "reverse-1038",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(3px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 29,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 1.58354)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.89443"
+            }
+          }
+        },
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(2.78098px)"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 1.58354)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.89443",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2.78098px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "footer",
+          "to": "opening-settled",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(3px)"
+            }
+          }
+        },
+        {
+          "from": "opening-settled",
+          "to": "midpoint",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-section-0",
+          "to": "section-serve-opening",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(3px)"
+            }
+          }
+        },
+        {
+          "from": "section-serve-opening",
+          "to": "section-serve-purpose",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1143",
+          "to": "reverse-721",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(3px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 23,
+      "errors": [],
+      "video": null
+    }
+  }
+}

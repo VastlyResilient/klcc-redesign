@@ -1,0 +1,170 @@
+{
+  "route": "alpha",
+  "reference": {
+    "template": "royal",
+    "route": "/about",
+    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "mode": "B",
+    "donors": [
+      "lou",
+      "slab"
+    ]
+  },
+  "visitor_job": "Understand Alpha, see time/duration, and register for a suitable session.",
+  "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
+  "critical_answer": "Alpha spans 12 weeks and meets Wednesdays at 7 PM at the Cathedral. Virtual classes occur on alternative evenings. Preserve the current registration information.",
+  "primary_action": {
+    "route": "alpha",
+    "source": "https://klcc.us/alpha",
+    "source_date": "2026-10-01",
+    "required": true,
+    "id": "cta:alpha.s1.a0",
+    "type": "cta",
+    "label": "Fall Session",
+    "original_destination": "https://brushfire.com/klcc/alpha/632963/details",
+    "approved_destination": "https://brushfire.com/klcc/alpha/632963/details",
+    "live_match": true
+  },
+  "supporting_proof": "Actual source copy and authentic source assets; consult the asset manifest.",
+  "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
+  "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
+  "signature": {
+    "id": "alpha-hold",
+    "dominant_verb": "Hold",
+    "structural_idea": "Questions-first editorial explanation with stable video and a compact session facts band",
+    "axes": {
+      "unit": "content-specific block/image",
+      "vector": "Hold pending observed scene contract",
+      "driver": "native scroll",
+      "frame": "route-owned composition"
+    }
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "none",
+    "driver": "static",
+    "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+  },
+  "content_ids": [
+    "ci:alpha.s0.b0",
+    "ci:alpha.s1.b0",
+    "ci:alpha.s1.b2",
+    "cta:alpha.s1.a0",
+    "img:alpha.klcc-alpha-original",
+    "ci:alpha.s1.b1",
+    "cta:alpha.s1.a1",
+    "ci:alpha.integration0",
+    "ci:alpha.integration1",
+    "ci:alpha.s2.b0",
+    "ci:alpha.s2.b1"
+  ],
+  "sections": [
+    {
+      "id": "alpha-opening",
+      "title": "opening",
+      "content_ids": [
+        "ci:alpha.s0.b0",
+        "ci:alpha.s1.b0",
+        "ci:alpha.s1.b2",
+        "cta:alpha.s1.a0",
+        "img:alpha.klcc-alpha-original"
+      ],
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "landmark": "hero",
+        "state": "section-hero",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "manifest": "art-direction/references/deep/royal/about/manifest.json",
+        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+    },
+    {
+      "id": "alpha-conversation",
+      "title": "conversation",
+      "content_ids": [
+        "ci:alpha.s1.b1",
+        "cta:alpha.s1.a1"
+      ],
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "landmark": "section-2",
+        "state": "section-section-2",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+    },
+    {
+      "id": "alpha-films",
+      "title": "films",
+      "content_ids": [
+        "ci:alpha.integration0",
+        "ci:alpha.integration1"
+      ],
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "landmark": "ourvalues",
+        "state": "section-ourvalues",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "manifest": "art-direction/references/deep/royal/about/manifest.json",
+        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography.",
+      "deviations": [
+        {
+          "reference": "Royal photographic panels",
+          "conflict": "Vimeo rejects embedded securitycontext in all3testviewports",
+          "adaptation": "Real1280px providerthumbnail with verifiedtitle/duration leads to exactVimeo page; no permanent errorframe and no inventedplaybackclaim",
+          "evidence": "art-direction/source/alpha-video-oembed.json"
+        }
+      ]
+    },
+    {
+      "id": "alpha-scripture",
+      "title": "scripture",
+      "content_ids": [
+        "ci:alpha.s2.b0",
+        "ci:alpha.s2.b1"
+      ],
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "landmark": "section-3",
+        "state": "section-section-3",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+        "comparison_scope": "Topology and reading hierarchy adaptation; not a claim of pixel identity or identical content count."
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Company content determines passage count. Native reading and measured first-entry opacity use intact HTML; no forced hidden copy or invented choreography."
+    }
+  ],
+  "content_coverage": {
+    "expected": 11,
+    "assigned": 11,
+    "missing": []
+  },
+  "deletion_pass": "Do not manufacture answers to the theological questions. Avoid extra CTAs that block video or duplicate registration.",
+  "implementation_status": "Reconstructed",
+  "unresolved": [
+    "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
+    "Image focal points, type measures and every interaction require review of the rendered result."
+  ],
+  "motion_notes": {
+    "evidence": "Royal/about sticky reading topology; Lou/about measured timed first-entry opacity and reversible footer blur only. Durations are reconstructed estimates.",
+    "initial": "All essential content visible without JavaScript.",
+    "trigger": "Native scroll or first intersection",
+    "reverse": "Native reading reverses. Focus / emphasis scenes reverse; first-entry animation does not replay.",
+    "mobile": "Single-column native flow; sticky sidebars disabled below 700px.",
+    "reduced": "No entrance keyframes; no blur; all content visible.",
+    "limitation": "No claim of two unique heading axes: unobserved effects were not fabricated."
+  }
+}

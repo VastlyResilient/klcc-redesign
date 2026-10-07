@@ -1,0 +1,227 @@
+{
+  "route": "watch-live",
+  "reviewed_at": "2026-10-07T07:38:32.661459+00:00",
+  "reviewer": "independent v22_pool_screening agent; not the page author",
+  "status": "Blocked",
+  "accepted": false,
+  "sections": [
+    {
+      "id": "live-opening",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/watch-live/exact-section-live-opening.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/watch-live/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 3,
+            "media_size_aspect": 3,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Royal CTA centers a smaller heading and action; KLCC places larger heading and action bottom-left. Image overlay relationship is present, but precise text geometry differs.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/watch-live/exact-section-live-opening.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/watch-live/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 3,
+            "media_size_aspect": 3,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Royal CTA centers a smaller heading and action; KLCC places larger heading and action bottom-left. Image overlay relationship is present, but precise text geometry differs.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/watch-live/exact-section-live-opening.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/watch-live/phone-sections-0.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 2,
+            "media_size_aspect": 3,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Royal CTA centers a smaller heading and action; KLCC places larger heading and action bottom-left. Image overlay relationship is present, but precise text geometry differs.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        }
+      ]
+    },
+    {
+      "id": "live-player",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/watch-live/exact-section-live-player.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/watch-live/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Blueprint maps a stable left-label/right-player area to Royal three values image cards. Those are different structures, although media controls work.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/watch-live/exact-section-live-player.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/watch-live/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Blueprint maps a stable left-label/right-player area to Royal three values image cards. Those are different structures, although media controls work.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/watch-live/exact-section-live-player.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/watch-live/phone-sections-0.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Blueprint maps a stable left-label/right-player area to Royal three values image cards. Those are different structures, although media controls work.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        }
+      ]
+    },
+    {
+      "id": "watch-live-section-2",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/watch-live/exact-section-watch-live-section-2.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/watch-live/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Stable practical controls and supporting links retain legibility; no image crop issue remains after repair.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/watch-live/exact-section-watch-live-section-2.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/watch-live/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Stable practical controls and supporting links retain legibility; no image crop issue remains after repair.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/watch-live/exact-section-watch-live-section-2.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/watch-live/phone-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Stable practical controls and supporting links retain legibility; no image crop issue remains after repair.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        }
+      ]
+    }
+  ],
+  "blockers": [
+    {
+      "section": "live-opening",
+      "gap": "Royal CTA centers a smaller heading and action; KLCC places larger heading and action bottom-left. Image overlay relationship is present, but precise text geometry differs.",
+      "attempts": "Source corrected from generic Royal hero to actual Royal about CTA; three-width comparisons inspected; phone subject crop repaired and visually rechecked.",
+      "next_action": "Reconstruct centered source placement or retain explicitly Blocked fidelity."
+    },
+    {
+      "section": "live-player",
+      "gap": "Blueprint maps a stable left-label/right-player area to Royal three values image cards. Those are different structures, although media controls work.",
+      "attempts": "Reviewed exact source/build pair at all three widths; provider countdown renders and direct playback fallback remains.",
+      "next_action": "Choose a genuinely observed single-media/label reference or retain Blocked fidelity."
+    }
+  ],
+  "functional_evidence": "art-direction/qa/functional-prayer-pastoral-care-watch-live-previous-messages-subsplash-media-calendar-give-app-weather-procedures-easter-legal-404.json",
+  "review_scope": "Three viewport whole-page and per-section visual review, actual source/build comparisons, common functional browser run. No owner approval or physical phone test.",
+  "limits": [
+    "Brand typography/color adaptations are intentionally retained.",
+    "Source editor timing curves unavailable.",
+    "A settled geometry comparison does not establish every intermediate animation state.",
+    "The initial observed-role map used generic source role aliases. Final blueprint comparison may supersede those source mappings; do not treat a mismatched mapping as proof that authored design is wrong."
+  ],
+  "review_round": "Final exact-blueprint comparison review; captures and measured motion probe independently inspected"
+}

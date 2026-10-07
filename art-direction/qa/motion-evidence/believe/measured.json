@@ -1,0 +1,183 @@
+{
+  "route": "believe",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-believe-steps",
+          "to": "section-believe-alpha",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-2037",
+          "to": "reverse-1587",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(0.533138px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1587",
+          "to": "reverse-1137",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.533138px)",
+              "to": "blur(3px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 30,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/believe/capture-desktop/desktop/video/page@0ea01775c782e2307af7335e63df7d5d.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/believe/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-believe-steps",
+          "to": "section-believe-alpha",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1529",
+          "to": "reverse-1145",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(3px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 30,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "none",
+              "to": "matrix(1, 0, 0, 1, 0, 1.18207)"
+            },
+            "opacity": {
+              "from": "1",
+              "to": "0.921195"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>article:nth-child(2)",
+          "properties": {
+            "transform": {
+              "from": "matrix(1, 0, 0, 1, 0, 1.18207)",
+              "to": "none"
+            },
+            "opacity": {
+              "from": "0.921195",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(2.83616px)"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2.83616px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-believe-steps",
+          "to": "section-believe-alpha",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1985",
+          "to": "reverse-1563",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(3px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 28,
+      "errors": [],
+      "video": null
+    }
+  }
+}

@@ -1,0 +1,3322 @@
+{
+  "date": "2026-10-07T06:13:34.490522+00:00",
+  "scope": "21 fresh marketplace visits + live previews; home desktop1440x900 and phone390x844; half-viewport wheel traversal; opening/midpoint/footer. Up to2 actual linked inner routes same viewports.",
+  "captureScript": "scripts/capture.ts",
+  "rows": [
+    {
+      "slug": "royal",
+      "marketplace": "https://www.framer.com/marketplace/templates/royal/",
+      "preview": "https://royaltemplate.framer.website/",
+      "home": "https://royaltemplate.framer.website/",
+      "routes": [
+        {
+          "label": "ABOUT",
+          "href": "https://royaltemplate.framer.website/about"
+        },
+        {
+          "label": "PROPERTIES",
+          "href": "https://royaltemplate.framer.website/properties"
+        },
+        {
+          "label": "BLOG",
+          "href": "https://royaltemplate.framer.website/blog"
+        },
+        {
+          "label": "CONTACT",
+          "href": "https://royaltemplate.framer.website/contact"
+        },
+        {
+          "label": "Learn more\n\nLearn more",
+          "href": "https://royaltemplate.framer.website/properties/the-urban-villa"
+        },
+        {
+          "label": "Learn more\n\nLearn more",
+          "href": "https://royaltemplate.framer.website/properties/the-coastal-palace"
+        },
+        {
+          "label": "Learn more\n\nLearn more",
+          "href": "https://royaltemplate.framer.website/properties/elegant-suburban-mansion"
+        },
+        {
+          "label": "Learn more\n\nLearn more",
+          "href": "https://royaltemplate.framer.website/properties/lakeside-modern-escape"
+        },
+        {
+          "label": "Article\n\nThe Rise of Modern Minimalist Homes in Luxury Real Estate",
+          "href": "https://royaltemplate.framer.website/blog/the-rise-of-modern-minimalist-homes-in-luxury-real-estate"
+        },
+        {
+          "label": "Insight\n\nWhy Emotional Connections Are the Key to Selling Luxury Homes",
+          "href": "https://royaltemplate.framer.website/blog/why-emotional-connections-are-the-key-to-selling-luxury-homes"
+        },
+        {
+          "label": "Article\n\nInside a $10M Modern Villa Designed for Elevated Living",
+          "href": "https://royaltemplate.framer.website/blog/inside-a-10m-modern-villa-designed-for-elevated-living"
+        }
+      ],
+      "headings": [
+        "Live Where Luxury Resides",
+        "THE URBAN VILLA",
+        "THE COASTAL PALACE",
+        "ELEGANT SUBURBAN MANSION",
+        "LAKESIDE MODERN ESCAPE",
+        "MEET JACOB NOLAN",
+        "OUR COMMUNITIES",
+        "TESTIMONIALS",
+        "PRESS & MEDIA",
+        "Begin your journey to timeless luxury."
+      ],
+      "time": "2026-10-07T06:01:52.477Z",
+      "screenRoutes": [
+        "https://royaltemplate.framer.website/about",
+        "https://royaltemplate.framer.website/contact"
+      ],
+      "fit": 5,
+      "reason": "Anchor: practical contact, image-led About, property index/detail and journal form a coherent documentary world suited to KLCC.",
+      "character": "Black ground, compact uppercase Switzer, full-width photographs, hairline separation, sparse square actions.",
+      "innerStructureObserved": "About: small eyebrow and left headline immediately followed by wide team photo; later left story copy opposite large photographs. Contact: compact left practical details and right form.",
+      "useFor": "About/story, first visit, program discovery, care/contact, archival passages.",
+      "signatureMotionEvidence": "Sticky header and observed transform/opacity deltas; selected deep dossier must identify the actual story sticky interval.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/royal-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/about/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/about/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/about/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/about/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/about/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/about/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/contact/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/contact/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/contact/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/contact/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/contact/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/contact/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/royal/home/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://royaltemplate.framer.website/about",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://royaltemplate.framer.website/about",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://royaltemplate.framer.website/contact",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://royaltemplate.framer.website/contact",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://royaltemplate.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://royaltemplate.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "lou",
+      "marketplace": "https://www.framer.com/marketplace/templates/lou/",
+      "preview": "https://louperez.framer.website/",
+      "home": "https://louperez.framer.website/",
+      "routes": [
+        {
+          "label": "Work",
+          "href": "https://louperez.framer.website/projects"
+        },
+        {
+          "label": "About",
+          "href": "https://louperez.framer.website/about"
+        },
+        {
+          "label": "Archive",
+          "href": "https://louperez.framer.website/archive"
+        },
+        {
+          "label": "Journal",
+          "href": "https://louperez.framer.website/journal"
+        },
+        {
+          "label": "Contact",
+          "href": "https://louperez.framer.website/contact"
+        },
+        {
+          "label": "Vogue America\nMeek Mill Shines\n2025",
+          "href": "https://louperez.framer.website/projects/vogue-america"
+        },
+        {
+          "label": "Dolce Gabbana\nSicilian jewels\n2025",
+          "href": "https://louperez.framer.website/projects/dolce-gabbana"
+        },
+        {
+          "label": "Vanity Fair\nLinsday Lohan editorial\n2024",
+          "href": "https://louperez.framer.website/projects/vanity-fair"
+        },
+        {
+          "label": "Stella McCartney\nFlora beauty\n2024",
+          "href": "https://louperez.framer.website/projects/stella-mccartney"
+        },
+        {
+          "label": "Zalando\nPick up your style\n2024",
+          "href": "https://louperez.framer.website/projects/zalando"
+        },
+        {
+          "label": "Rimowa\nStanding Still\n2023",
+          "href": "https://louperez.framer.website/projects/rimowa"
+        },
+        {
+          "label": "Swarowski\nFor the love of life\n2023",
+          "href": "https://louperez.framer.website/projects/swarowski"
+        },
+        {
+          "label": "Prada\nBack to the roots\n2023",
+          "href": "https://louperez.framer.website/projects/prada"
+        }
+      ],
+      "headings": [
+        "LOU FRAMER TEMPLATE"
+      ],
+      "time": "2026-10-07T06:01:48.605Z",
+      "screenRoutes": [
+        "https://louperez.framer.website/about",
+        "https://louperez.framer.website/projects/vogue-america"
+      ],
+      "fit": 4,
+      "reason": "Topology donor for mission/manifesto; expressive image world and reading choreography, but loading pixelation must not be copied.",
+      "character": "Black/white grounds, BDO Grotesk, oversized name, image-first fashion sequences and very large footer wordmark.",
+      "innerStructureObserved": "About: full-viewport portrait then narrow large reading column on black, credential lists, contrasting white contact footer. Project: aligned three-part metadata and uninterrupted image sequence.",
+      "useFor": "Mission/beliefs manifesto, editorial photograph passages.",
+      "signatureMotionEvidence": "Scroll-linked reading is a deep-study target; screening captures initial image pixelation and viewport-fixed utility labels, with filter/transform/opacity deltas. Exact trigger/timing unknown in screening.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/lou-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/about/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/about/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/about/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/about/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/about/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/about/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/home/desktop/opening-settled.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/home/phone/opening-settled.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/projects-vogue-america/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/projects-vogue-america/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/projects-vogue-america/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/projects-vogue-america/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/projects-vogue-america/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/lou/projects-vogue-america/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://louperez.framer.website/about",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "filter",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://louperez.framer.website/about",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "filter",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://louperez.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "filter",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 4
+        },
+        {
+          "route": "https://louperez.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "filter",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 4,
+          "stateCount": 4
+        },
+        {
+          "route": "https://louperez.framer.website/projects/vogue-america",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "filter",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        },
+        {
+          "route": "https://louperez.framer.website/projects/vogue-america",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "filter",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "slab",
+      "marketplace": "https://www.framer.com/marketplace/templates/slab/",
+      "preview": "https://slabtemplate.framer.website/",
+      "home": "https://slabtemplate.framer.website/",
+      "routes": [
+        {
+          "label": "ARCHIVE\nARCHIVE",
+          "href": "https://slabtemplate.framer.website/archive"
+        },
+        {
+          "label": "Hydra",
+          "href": "https://slabtemplate.framer.website/projects/hydra"
+        },
+        {
+          "label": "Hum",
+          "href": "https://slabtemplate.framer.website/projects/hum"
+        },
+        {
+          "label": "Basalt",
+          "href": "https://slabtemplate.framer.website/projects/fossil"
+        },
+        {
+          "label": "Flowit Supply",
+          "href": "https://slabtemplate.framer.website/projects/precept"
+        },
+        {
+          "label": "Regent",
+          "href": "https://slabtemplate.framer.website/projects/regent"
+        },
+        {
+          "label": "Sasha",
+          "href": "https://slabtemplate.framer.website/projects/sasha"
+        }
+      ],
+      "headings": [],
+      "time": "2026-10-07T06:01:37.033Z",
+      "screenRoutes": [
+        "https://slabtemplate.framer.website/projects/hydra",
+        "https://slabtemplate.framer.website/archive"
+      ],
+      "fit": 4,
+      "reason": "Topology donor for media archives; its object-based grid preserves recognizable artwork and clear project metadata.",
+      "character": "Nearly black, small utility navigation, compact grotesk type, strong visual objects and narrow gaps.",
+      "innerStructureObserved": "Archive: irregular multi-column object grid becomes two columns on phone. Hydra: wide image, title on left and Date/Location/Services on right; later imagery and subsequent project surfaces.",
+      "useFor": "Messages/media archives; factual project/series metadata.",
+      "signatureMotionEvidence": "Fixed utility header observed. Midpoint/footer show changing project surfaces; navigation versus scroll-linked progression needs deep verification. No Overview/Challenge/Solution brief assumed.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/slab-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/archive/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/archive/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/archive/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/archive/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/archive/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/archive/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/home/desktop/opening-settled.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/home/phone/opening-settled.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/projects-hydra/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/projects-hydra/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/projects-hydra/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/projects-hydra/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/projects-hydra/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/slab/projects-hydra/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://slabtemplate.framer.website/archive",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://slabtemplate.framer.website/archive",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://slabtemplate.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 4,
+          "stateCount": 4
+        },
+        {
+          "route": "https://slabtemplate.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 4,
+          "stateCount": 4
+        },
+        {
+          "route": "https://slabtemplate.framer.website/projects/hydra",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://slabtemplate.framer.website/projects/hydra",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "rivelle",
+      "marketplace": "https://www.framer.com/marketplace/templates/rivelle/",
+      "preview": "https://rivelle.framer.media/",
+      "home": "https://rivelle.framer.media/",
+      "routes": [
+        {
+          "label": "Portfolio",
+          "href": "https://rivelle.framer.media/portfolio"
+        },
+        {
+          "label": "About",
+          "href": "https://rivelle.framer.media/about"
+        },
+        {
+          "label": "Contact",
+          "href": "https://rivelle.framer.media/contact"
+        },
+        {
+          "label": "Ethereal Motion\n\n/\n\nPortrait",
+          "href": "https://rivelle.framer.media/portfolio/ethereal-motion"
+        },
+        {
+          "label": "Fractured Stillness\n\n/\n\nFashion",
+          "href": "https://rivelle.framer.media/portfolio/fractured-stillness"
+        },
+        {
+          "label": "Wrapped in Bloom\n\n/\n\nFashion",
+          "href": "https://rivelle.framer.media/portfolio/wrapped-in-bloom"
+        },
+        {
+          "label": "Coastal Blossom\n\n/\n\nCommercial",
+          "href": "https://rivelle.framer.media/portfolio/coastal-blossom"
+        },
+        {
+          "label": "Half Seen\n\n/\n\nEditorial",
+          "href": "https://rivelle.framer.media/portfolio/half-seen"
+        },
+        {
+          "label": "Blogs",
+          "href": "https://rivelle.framer.media/blog"
+        },
+        {
+          "label": "MAR 23, 2026\n\nHow I Approach Editorial Portraits",
+          "href": "https://rivelle.framer.media/blog/how-i-approach-editorial-portraits"
+        },
+        {
+          "label": "MAY 7, 2026\n\nBuilding a Stronger Photo Story",
+          "href": "https://rivelle.framer.media/blog/building-a-stronger-photo-story"
+        },
+        {
+          "label": "MAR 23, 2026\n\nCreating Images with a Sense of Time",
+          "href": "https://rivelle.framer.media/blog/creating-images-with-a-sense-of-time"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "https://rivelle.framer.media/legal/privacy-policy"
+        },
+        {
+          "label": "Terms",
+          "href": "https://rivelle.framer.media/legal/terms-of-service"
+        },
+        {
+          "label": "404",
+          "href": "https://rivelle.framer.media/404"
+        }
+      ],
+      "headings": [
+        "Rivelle Moreau",
+        "Following Light, Mood, and Memory",
+        "Portraits",
+        "Fashion",
+        "Commercial",
+        "Editorial",
+        "Curated Frames",
+        "How It Unfolds",
+        "What They Say",
+        "Journal",
+        "Your Next Story Begins Here"
+      ],
+      "time": "2026-10-07T06:02:01.482Z",
+      "screenRoutes": [
+        "https://rivelle.framer.media/about",
+        "https://rivelle.framer.media/contact"
+      ],
+      "fit": 4,
+      "reason": "Strong alternative anchor, but would exceed the three-template limit after Royal/Lou/Slab; not selected.",
+      "character": "Geist, enormous restrained weight titles, dark dramatic portrait openings, bright ruled rows and black wordmark footer.",
+      "innerStructureObserved": "About: portrait and bottom-aligned large title leads into white experience rows. Contact: left contact information and immediate right light form over the same photographic world, then FAQ/photo split.",
+      "useFor": "People/about, care/contact, ordered experience lists.",
+      "signatureMotionEvidence": "Header persists; opacity/transform/color deltas sampled. Full heading entrance timing remains unknown.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/rivelle-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/about/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/about/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/about/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/about/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/about/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/about/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/contact/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/contact/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/contact/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/contact/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/contact/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/contact/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/rivelle/home/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://rivelle.framer.media/about",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://rivelle.framer.media/about",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://rivelle.framer.media/contact",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "filter",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://rivelle.framer.media/contact",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "filter",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://rivelle.framer.media/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://rivelle.framer.media/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "consultpro",
+      "marketplace": "https://www.framer.com/marketplace/templates/consultpro/",
+      "preview": "https://consult-pro.framer.website/",
+      "home": "https://consult-pro.framer.website/",
+      "routes": [
+        {
+          "label": "Contact Us",
+          "href": "https://consult-pro.framer.website/contact-us"
+        }
+      ],
+      "headings": [
+        "Business Consultants That Deliver Results",
+        "Strategic Business Solutions For Modern Enterprises",
+        "Strategic Guidance For Sustainable Business Success",
+        "Meet The Experts Behind Your Success",
+        "Ready To Accelerate Your Business Growth?"
+      ],
+      "time": "2026-10-07T06:01:00.925Z",
+      "screenRoutes": [
+        "https://consult-pro.framer.website/contact-us"
+      ],
+      "fit": 3,
+      "reason": "Useful calm contact topology, but one substantive inner page and generic business imagery make it weak as whole-site anchor.",
+      "character": "Black/white contrast, light Manrope, rounded white actions and dark form surface.",
+      "innerStructureObserved": "Contact: large calm left heading/contact methods opposite contained form; mobile makes useful details precede form. Home alternates large professional photos and plain information.",
+      "useFor": "Care, prayer, practical request/contact.",
+      "signatureMotionEvidence": "Persistent header observed; no substantive animated property delta established by coarse screening. Do not invent an interaction.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/consultpro-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/contact-us/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/contact-us/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/contact-us/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/contact-us/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/contact-us/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/contact-us/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/consultpro/home/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://consult-pro.framer.website/contact-us",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 3,
+          "stateCount": 3
+        },
+        {
+          "route": "https://consult-pro.framer.website/contact-us",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        },
+        {
+          "route": "https://consult-pro.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://consult-pro.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 1,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Only one substantive inner route exposed; captured it."
+    },
+    {
+      "slug": "drospecta",
+      "marketplace": "https://www.framer.com/marketplace/templates/drospecta/",
+      "preview": "https://drospecta.framer.website/",
+      "home": "https://drospecta.framer.website/",
+      "routes": [
+        {
+          "label": "Pricing",
+          "href": "https://drospecta.framer.website/pricing"
+        },
+        {
+          "label": "Blog",
+          "href": "https://drospecta.framer.website/blog"
+        },
+        {
+          "label": "Contact",
+          "href": "https://drospecta.framer.website/contact-us"
+        },
+        {
+          "label": "4 best practices on sales coaching modeling - The ultimate guide\n\nOct 8, 2025",
+          "href": "https://drospecta.framer.website/blog/7-best-practices-on-sales-coaching-modeling"
+        },
+        {
+          "label": "Sales funnel vs sales pipeline - The complete guide\n\nSep 4, 2025",
+          "href": "https://drospecta.framer.website/blog/sales-funnel-vs-sales-pipeline-the-complete-guide"
+        },
+        {
+          "label": "LinkedIn profile optimization: 4 better tips to stand out in 2026\n\nSep 3, 2025",
+          "href": "https://drospecta.framer.website/blog/linkedin-profile-optimization-4-tips-to-stand-out-in-2026"
+        },
+        {
+          "label": "404",
+          "href": "https://drospecta.framer.website/404"
+        },
+        {
+          "label": "Privacy policy",
+          "href": "https://drospecta.framer.website/legal/privacy-policy"
+        },
+        {
+          "label": "Terms of use",
+          "href": "https://drospecta.framer.website/legal/terms-of-use"
+        }
+      ],
+      "headings": [
+        "Outbound sales, on autopilot",
+        "Built to power revenue heroes like you",
+        "The best way to build your sales pipeline",
+        "All-in-one solution, no extra tools needed",
+        "100+ powerful integrations",
+        "Amsterdam needed a scalable solution to convert site intents.",
+        "Start building pipelines with simple plans",
+        "$600/mo",
+        "$2500/mo",
+        "Contact",
+        "Results from real customers",
+        "Everything you need to know",
+        "Everything you need to make sales",
+        "More meetings, less effort"
+      ],
+      "time": "2026-10-07T06:01:04.323Z",
+      "screenRoutes": [
+        "https://drospecta.framer.website/pricing",
+        "https://drospecta.framer.website/blog"
+      ],
+      "fit": 2,
+      "reason": "Clear product hierarchy, but sales-dashboard/pricing-card identity has poor cultural fit for the church.",
+      "character": "Green/cream, Inter Display, rounded panels, bright green primary buttons.",
+      "innerStructureObserved": "Blog: feature image beside summary then smaller articles; pricing: plan panels followed by aligned comparison table; mobile stacks before comparative rows.",
+      "useFor": "App capabilities, structured comparisons, article library.",
+      "signatureMotionEvidence": "Header/controls remain stable; color changes sampled. Pricing switching and load-more controls were seen but not exercised in this screen.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/drospecta-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/blog/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/blog/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/blog/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/blog/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/blog/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/blog/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/pricing/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/pricing/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/pricing/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/pricing/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/pricing/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/drospecta/pricing/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://drospecta.framer.website/blog",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://drospecta.framer.website/blog",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://drospecta.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://drospecta.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://drospecta.framer.website/pricing",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://drospecta.framer.website/pricing",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "net-folio",
+      "marketplace": "https://www.framer.com/marketplace/templates/net-folio/",
+      "preview": "https://net-studio.framer.website/",
+      "home": "https://net-studio.framer.website/",
+      "routes": [
+        {
+          "label": "WORK",
+          "href": "https://net-studio.framer.website/work"
+        },
+        {
+          "label": "BLOG",
+          "href": "https://net-studio.framer.website/blog"
+        },
+        {
+          "label": "ABOUT",
+          "href": "https://net-studio.framer.website/about"
+        },
+        {
+          "label": "CONTACT",
+          "href": "https://net-studio.framer.website/contact"
+        },
+        {
+          "label": "SIPS OF STYLE\n\nBranding",
+          "href": "https://net-studio.framer.website/work/sips-of-style"
+        },
+        {
+          "label": "URBAN EDGE\n\nWebsite",
+          "href": "https://net-studio.framer.website/work/urban-edge"
+        },
+        {
+          "label": "IGNITE IDENTITY\n\nCampaign",
+          "href": "https://net-studio.framer.website/work/ignite-identity"
+        },
+        {
+          "label": "MAR 7, 2025\n\nTHE FUTURE OF INNOVATION IN MARKETING AGENCIES\n\nInspiration\n\nA forw",
+          "href": "https://net-studio.framer.website/blog/the-future-of-innovation-in-marketing-agencies"
+        },
+        {
+          "label": "JAN 31, 2025\n\nWHY PERSONAL BRANDING IS KEY TO YOUR SUCCESS\n\nInsight\n\nUpdates\n\nSt",
+          "href": "https://net-studio.framer.website/blog/why-is-personal-branding-is-key-to-yout-portolio-s-success"
+        },
+        {
+          "label": "JAN 21, 2025\n\nTHE IMPORTANCE OF CONSISTENCY IN YOUR BRANDING PORTFOLIO\n\nInsight\n",
+          "href": "https://net-studio.framer.website/blog/the-importance-of-consistency-in-your-branding-portfolio"
+        },
+        {
+          "label": "404",
+          "href": "https://net-studio.framer.website/404"
+        },
+        {
+          "label": "TERMS & CONDITIONS",
+          "href": "https://net-studio.framer.website/tnc"
+        }
+      ],
+      "headings": [
+        "NET FOLIO",
+        "Our Works",
+        "Our Services",
+        "Partner Brands",
+        "We bring ideas to life, turning brand stories into measurable results that resonate.",
+        "Why Clients Trust Us",
+        "Award Highlights",
+        "Pricing Plans",
+        "Latest Updates",
+        "Design That Truly Drives Business Growth + Results"
+      ],
+      "time": "2026-10-07T06:01:07.237Z",
+      "screenRoutes": [
+        "https://net-studio.framer.website/about",
+        "https://net-studio.framer.website/work/sips-of-style"
+      ],
+      "fit": 3,
+      "reason": "Strong editorial case-reading structure, but floating tilted cards and condensed type conflict with locked KLCC direction.",
+      "character": "Black, condensed Antonio uppercase, narrow paragraphs, minimal white pills.",
+      "innerStructureObserved": "About: unequal title/supporting text over wide studio image; later orbiting-looking text panels around central statement. Case: title, synopsis and metadata before wide image; label left and bounded description right.",
+      "useFor": "History/case narratives and archive chapters.",
+      "signatureMotionEvidence": "Delayed type-only entrance settled on second capture. Transform/opacity differences sampled; floating panel trajectories not measured.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/net-folio-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/about/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/about/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/about/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/about/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/about/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/about/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/home/desktop/opening-settled.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/home/phone/opening-settled.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/work-sips-of-style/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/work-sips-of-style/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/work-sips-of-style/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/work-sips-of-style/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/work-sips-of-style/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/net-folio/work-sips-of-style/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://net-studio.framer.website/about",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://net-studio.framer.website/about",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://net-studio.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 4
+        },
+        {
+          "route": "https://net-studio.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 4
+        },
+        {
+          "route": "https://net-studio.framer.website/work/sips-of-style",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://net-studio.framer.website/work/sips-of-style",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "nouva",
+      "marketplace": "https://www.framer.com/marketplace/templates/nouva/",
+      "preview": "https://nouva-template.framer.website/",
+      "home": "https://nouva-template.framer.website/",
+      "routes": [
+        {
+          "label": "Sign In",
+          "href": "https://nouva-template.framer.website/sign-in"
+        },
+        {
+          "label": "Contact",
+          "href": "https://nouva-template.framer.website/contact"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "https://nouva-template.framer.website/legal/privacy-policy"
+        },
+        {
+          "label": "Terms of Service",
+          "href": "https://nouva-template.framer.website/legal/terms-of-service"
+        },
+        {
+          "label": "404",
+          "href": "https://nouva-template.framer.website/404"
+        }
+      ],
+      "headings": [
+        "Words that work. Every single time.",
+        "The way teams work is changing. Most are still catching up.",
+        "Three shifts that change how your team works.",
+        "One platform that handles everything your team produces.",
+        "One platform, endless possibilities.",
+        "Everything else falls short. Here's why teams choose us.",
+        "Teams who never looked back.",
+        "Start free, scale when ready.",
+        "You have questions. We have answers.",
+        "The work doesn't stop. Neither does Nouva."
+      ],
+      "time": "2026-10-07T06:01:10.343Z",
+      "screenRoutes": [
+        "https://nouva-template.framer.website/contact",
+        "https://nouva-template.framer.website/sign-in"
+      ],
+      "fit": 2,
+      "reason": "Atmosphere is strong but its dark software panels and authentication flow do not offer sufficient company-specific inner topology.",
+      "character": "Onest, midnight blue, naturalistic dune atmosphere, restrained white controls and dark cards.",
+      "innerStructureObserved": "Contact: centered title and compact form; sign-in: narrow stable utility form; home atmospheric full-height landscape hands off to product cards.",
+      "useFor": "Conceptual belief atmosphere only; not chosen as donor.",
+      "signatureMotionEvidence": "Initial capture caught load blank; refreshed settled home confirms landscape scene. Header persisted; animated driver not established by screen.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/nouva-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/contact/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/contact/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/contact/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/contact/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/contact/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/contact/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/home/desktop/opening-settled.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/home/phone/opening-settled.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/sign-in/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/sign-in/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/sign-in/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/sign-in/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/sign-in/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nouva/sign-in/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://nouva-template.framer.website/contact",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://nouva-template.framer.website/contact",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://nouva-template.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 2,
+          "stateCount": 4
+        },
+        {
+          "route": "https://nouva-template.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 2,
+          "stateCount": 4
+        },
+        {
+          "route": "https://nouva-template.framer.website/sign-in",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://nouva-template.framer.website/sign-in",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "mvn-studio",
+      "marketplace": "https://www.framer.com/marketplace/templates/mvn-studio/",
+      "preview": "https://mvnstudio.framer.website/",
+      "home": "https://mvnstudio.framer.website/",
+      "routes": [
+        {
+          "label": "Start a project",
+          "href": "https://mvnstudio.framer.website/contact"
+        },
+        {
+          "label": "404",
+          "href": "https://mvnstudio.framer.website/404"
+        },
+        {
+          "label": "Privacy",
+          "href": "https://mvnstudio.framer.website/legal-pages/privacy-policy"
+        },
+        {
+          "label": "Terms of Service",
+          "href": "https://mvnstudio.framer.website/legal-pages/terms-of-service"
+        }
+      ],
+      "headings": [
+        "We don't make apps.We build category winners.",
+        "Designing products people want to use.",
+        "We help automate what matters most.",
+        "Product thinking,pixel perfect execution.",
+        "Products we\u2019ve helped shape and scale.",
+        "Focused on outcomes, not just visuals.",
+        "What we help teams build and scale.",
+        "Feedback from our partners.",
+        "Frequently asked questions."
+      ],
+      "time": "2026-10-07T06:01:13.391Z",
+      "screenRoutes": [
+        "https://mvnstudio.framer.website/contact",
+        "https://mvnstudio.framer.website/legal-pages/privacy-policy"
+      ],
+      "fit": 2,
+      "reason": "Product studio page depends on decorative 3D/pastiche assets; its quiet legal composition is more useful than home skin.",
+      "character": "Black/white alternating, Inter with serif word accent, centered compact navigation pill, giant MVN footer.",
+      "innerStructureObserved": "Contact: centered title/form then three contact methods. Privacy: restrained single measure on light ground. Home includes theatrical hands and software objects.",
+      "useFor": "Utility/legal hierarchy; avoid decorative product-world imitation.",
+      "signatureMotionEvidence": "Intro load blank resolved after traversal; transform/opacity changes observed. No evidence supports replicating source timing.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/mvn-studio-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/contact/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/contact/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/contact/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/contact/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/contact/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/contact/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/home/desktop/opening-settled.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/home/phone/opening-settled.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/legal-pages-privacy-policy/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/legal-pages-privacy-policy/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/legal-pages-privacy-policy/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/legal-pages-privacy-policy/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/legal-pages-privacy-policy/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/mvn-studio/legal-pages-privacy-policy/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://mvnstudio.framer.website/contact",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://mvnstudio.framer.website/contact",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://mvnstudio.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 4
+        },
+        {
+          "route": "https://mvnstudio.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 4
+        },
+        {
+          "route": "https://mvnstudio.framer.website/legal-pages/privacy-policy",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "filter",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://mvnstudio.framer.website/legal-pages/privacy-policy",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured; MVN second is legal utility, not narrative topology."
+    },
+    {
+      "slug": "agents",
+      "marketplace": "https://www.framer.com/marketplace/templates/agents/",
+      "preview": "https://agents.framer.website/",
+      "home": "https://agents.framer.website/",
+      "routes": [
+        {
+          "label": "[ STUDIO ]\n\nART DIRECTION",
+          "href": "https://agents.framer.website/work/echoes-copy"
+        },
+        {
+          "label": "[ COSMOS ]\n\nBRANDING",
+          "href": "https://agents.framer.website/work/cosmos"
+        },
+        {
+          "label": "[ WARS ]\n\nBRANDING",
+          "href": "https://agents.framer.website/work/wars"
+        },
+        {
+          "label": "[ PURPLE ]\n\nPACKAGING",
+          "href": "https://agents.framer.website/work/purple"
+        },
+        {
+          "label": "WORK",
+          "href": "https://agents.framer.website/work"
+        },
+        {
+          "label": "ARCHIVE",
+          "href": "https://agents.framer.website/archive"
+        },
+        {
+          "label": "ABOUT",
+          "href": "https://agents.framer.website/about"
+        },
+        {
+          "label": "CONTACT",
+          "href": "https://agents.framer.website/contact"
+        }
+      ],
+      "headings": [
+        "Agents",
+        "[ SERVICES ]",
+        "[ Selected Clients ]",
+        "Agents"
+      ],
+      "time": "2026-10-07T06:01:16.114Z",
+      "screenRoutes": [
+        "https://agents.framer.website/about",
+        "https://agents.framer.website/work/echoes-copy"
+      ],
+      "fit": 4,
+      "reason": "Expressive community/program imagery fit, but its editorial world would compete with Royal if mixed broadly.",
+      "character": "Black, tightly tracked heavy Inter Display, enormous wordmarks, teal-tinted editorial imagery.",
+      "innerStructureObserved": "About: full-height photo with asymmetrically placed title/copy then unequal portrait grid. Work detail: project number/title above large media, then two-column imagery and supporting information.",
+      "useFor": "Young adults, youth, program editorial stories.",
+      "signatureMotionEvidence": "Persistent navigation and reveal transform/opacity/color deltas; screen does not establish exact clip/reveal trajectories.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/agents-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/about/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/about/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/about/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/about/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/about/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/about/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/work-echoes-copy/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/work-echoes-copy/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/work-echoes-copy/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/work-echoes-copy/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/work-echoes-copy/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/agents/work-echoes-copy/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://agents.framer.website/about",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://agents.framer.website/about",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://agents.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://agents.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://agents.framer.website/work/echoes-copy",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://agents.framer.website/work/echoes-copy",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "atoks",
+      "marketplace": "https://www.framer.com/marketplace/templates/atoks/",
+      "preview": "https://atoks.framer.website/",
+      "home": "https://atoks.framer.website/",
+      "routes": [
+        {
+          "label": "About",
+          "href": "https://atoks.framer.website/about"
+        },
+        {
+          "label": "Features",
+          "href": "https://atoks.framer.website/features"
+        },
+        {
+          "label": "Pricing",
+          "href": "https://atoks.framer.website/pricing"
+        },
+        {
+          "label": "Blog",
+          "href": "https://atoks.framer.website/blog"
+        },
+        {
+          "label": "Contact",
+          "href": "https://atoks.framer.website/contact"
+        },
+        {
+          "label": "Changelog",
+          "href": "https://atoks.framer.website/changelog"
+        },
+        {
+          "label": "Privacy policy",
+          "href": "https://atoks.framer.website/privacy-policy"
+        },
+        {
+          "label": "Usage Terms",
+          "href": "https://atoks.framer.website/terms-and-conditions"
+        },
+        {
+          "label": "404",
+          "href": "https://atoks.framer.website/404"
+        }
+      ],
+      "headings": [
+        "Take Control of Your Financial Journey"
+      ],
+      "time": "2026-10-07T06:01:20.601Z",
+      "screenRoutes": [
+        "https://atoks.framer.website/about",
+        "https://atoks.framer.website/features"
+      ],
+      "fit": 2,
+      "reason": "Organized product framing, but pastel card farms and phone mockups conflict with anti-slop and church needs.",
+      "character": "White, Inter Tight, pastel feature surfaces and large rounded media.",
+      "innerStructureObserved": "About: centered heading then wide team image, four colored metric cards and people. Features: central device surrounded by small capability panels; mobile becomes long sequence.",
+      "useFor": "App information only; not selected.",
+      "signatureMotionEvidence": "Header persistence and transform/opacity deltas sampled; detailed scene driver unknown.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/atoks-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/about/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/about/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/about/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/about/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/about/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/about/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/features/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/features/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/features/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/features/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/features/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/features/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/atoks/home/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://atoks.framer.website/about",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://atoks.framer.website/about",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://atoks.framer.website/features",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://atoks.framer.website/features",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://atoks.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://atoks.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "outreach",
+      "marketplace": "https://www.framer.com/marketplace/templates/outreach/",
+      "preview": "https://outreachtemplate.framer.website/",
+      "home": "https://outreachtemplate.framer.website/",
+      "routes": [
+        {
+          "label": "Explore pricing",
+          "href": "https://outreachtemplate.framer.website/pricing"
+        },
+        {
+          "label": "Full changelog",
+          "href": "https://outreachtemplate.framer.website/changelog"
+        }
+      ],
+      "headings": [
+        "The only cold outreach tool you'll ever need",
+        "Our tools are built to make your life easier and your audience happier.",
+        "Why people can\u2019t stop talking about us",
+        "Unlock the full potential of your email strategy",
+        "What\u2019s New and Improved",
+        "Get started and make each email count."
+      ],
+      "time": "2026-10-07T06:01:23.618Z",
+      "screenRoutes": [
+        "https://outreachtemplate.framer.website/pricing",
+        "https://outreachtemplate.framer.website/changelog"
+      ],
+      "fit": 3,
+      "reason": "Dated changelog is a useful readable chronology, but SaaS pricing and bright electric accent are not the church identity.",
+      "character": "Black, Gambarino serif display with sans body, vivid blue action accent.",
+      "innerStructureObserved": "Changelog: vertical timeline line with date/title left and image/description right; phone stacks each entry. Pricing: paired plans and bounded FAQ.",
+      "useFor": "History timeline, dated updates.",
+      "signatureMotionEvidence": "Transform/opacity/color deltas and header persistence observed; no precise sticky duration established.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/outreach-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/changelog/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/changelog/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/changelog/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/changelog/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/changelog/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/changelog/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/pricing/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/pricing/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/pricing/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/pricing/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/pricing/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/outreach/pricing/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://outreachtemplate.framer.website/changelog",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://outreachtemplate.framer.website/changelog",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://outreachtemplate.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://outreachtemplate.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://outreachtemplate.framer.website/pricing",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://outreachtemplate.framer.website/pricing",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "fragments",
+      "marketplace": "https://www.framer.com/marketplace/templates/fragments/",
+      "preview": "https://fragments.framer.website/",
+      "home": "https://fragments.framer.website/",
+      "routes": [
+        {
+          "label": "Styleguide",
+          "href": "https://fragments.framer.website/style-guide"
+        }
+      ],
+      "headings": [
+        "Fragment OSYour Second Brain",
+        "Arrange all within one spot",
+        "Stay focused and organized",
+        "Build your Second Brain",
+        "Pay once, use forever",
+        "$24",
+        "$99",
+        "FAQ",
+        "Subscribe future updates"
+      ],
+      "time": "2026-10-07T06:01:26.388Z",
+      "screenRoutes": [],
+      "fit": 2,
+      "reason": "Marketing one-page template; useful simple lists but too generic for a full inner-page world.",
+      "character": "White, Inter, small black actions, generous spacing, unobtrusive rows.",
+      "innerStructureObserved": "Single marketing page: centered product introduction, six capability entries without heavy cards, FAQs, newsletter footer. Only style-guide linked as separate route.",
+      "useFor": "Quiet resource lists and utility information.",
+      "signatureMotionEvidence": "Persistent header plus reveal differences sampled. FAQ affordance seen but not interacted during screen.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/fragments-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/fragments/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/fragments/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/fragments/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/fragments/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/fragments/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/fragments/home/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://fragments.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://fragments.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Marketing one-page; style guide is not an inner-page world."
+    },
+    {
+      "slug": "portfoliod",
+      "marketplace": "https://www.framer.com/marketplace/templates/portfoliod/",
+      "preview": "https://portfoliod.framer.website/",
+      "home": "https://portfoliod.framer.website/",
+      "routes": [],
+      "headings": [
+        "WE BUILD ",
+        "BRANDS PEOPLE ",
+        "REMEMBER",
+        "PROJECTS",
+        "01",
+        "STUDIO",
+        "02",
+        "SERVICES",
+        "03",
+        "PROCESS",
+        "04",
+        "47THEGREATT",
+        "@GMAIL.COM",
+        "REVIEWS",
+        "05",
+        "F. A. Q",
+        "06",
+        "JOJU \u00a9"
+      ],
+      "time": "2026-10-07T06:01:29.049Z",
+      "screenRoutes": [],
+      "fit": 3,
+      "reason": "Ruled services are clear; one-page template and bright blue hero limit it to topology donation.",
+      "character": "Black/white, Switzer, emphatic uppercase heading, blue media atmosphere, huge footer wordmark.",
+      "innerStructureObserved": "Single marketing page: centered statement and project objects; services pair left description with right photo separated by rules; phone stacks media below description.",
+      "useFor": "Program indexes and service explanations.",
+      "signatureMotionEvidence": "Fixed menu/header observed; no substantive animation delta proven by coarse screen.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/portfoliod-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/portfoliod/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/portfoliod/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/portfoliod/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/portfoliod/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/portfoliod/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/portfoliod/home/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://portfoliod.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://portfoliod.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "One-page: no same-origin inner route found in visible href set."
+    },
+    {
+      "slug": "design-co",
+      "marketplace": "https://www.framer.com/marketplace/templates/design-co/",
+      "preview": "https://design-co.framer.website/",
+      "home": "https://design-co.framer.website/",
+      "routes": [
+        {
+          "label": "View all\nView all",
+          "href": "https://design-co.framer.website/projects"
+        },
+        {
+          "label": "LUM\u00c9 STUDIO\nLUM\u00c9 STUDIO",
+          "href": "https://design-co.framer.website/projects/lum%C3%A9-studio"
+        },
+        {
+          "label": "THE HORIZON RESIDENCE\nTHE HORIZON RESIDENCE",
+          "href": "https://design-co.framer.website/projects/the-horizon-residence"
+        },
+        {
+          "label": "THE VERENA RESIDENCE\nTHE VERENA RESIDENCE",
+          "href": "https://design-co.framer.website/projects/the-verena-residence"
+        },
+        {
+          "label": "ARDEN BOUTIQUE HOTEL\nARDEN BOUTIQUE HOTEL",
+          "href": "https://design-co.framer.website/projects/arden-boutique-hotel"
+        }
+      ],
+      "headings": [
+        "Timeless Interiors. Crafted for You.",
+        "Featured works",
+        "Designing Interiors with  Purpose and Precision",
+        "Design Services Tailored to You",
+        "What Our  Clients Say",
+        "Our Design Philosophy",
+        "The Minds Behind the Design",
+        "Frequently Asked Questions",
+        "GET IN TOUCH"
+      ],
+      "time": "2026-10-07T06:01:31.726Z",
+      "screenRoutes": [
+        "https://design-co.framer.website/projects",
+        "https://design-co.framer.website/projects/lum%C3%A9-studio"
+      ],
+      "fit": 4,
+      "reason": "Strong documentary image continuity and functional project gallery, a credible alternate anchor.",
+      "character": "Switzer, warm actual interior photographs, light ground, compact text on full-height image, huge black wordmark footer.",
+      "innerStructureObserved": "Projects: full-height chair photo then two-column image catalogue. Detail: full-height photograph with low title then paired/gallery images. Home services: left practical text opposite right large image.",
+      "useFor": "First visit/place, groups, activity galleries.",
+      "signatureMotionEvidence": "Header and transform/opacity changes sampled; design hinges on image hierarchy more than animation density.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/design-co-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects-lum%C3%A9-studio/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects-lum%C3%A9-studio/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects-lum%C3%A9-studio/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects-lum%C3%A9-studio/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects-lum%C3%A9-studio/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/design-co/projects-lum%C3%A9-studio/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://design-co.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        },
+        {
+          "route": "https://design-co.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://design-co.framer.website/projects",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://design-co.framer.website/projects",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        },
+        {
+          "route": "https://design-co.framer.website/projects/lum%C3%A9-studio",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://design-co.framer.website/projects/lum%C3%A9-studio",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 2,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "blissful",
+      "marketplace": "https://www.framer.com/marketplace/templates/blissful/",
+      "preview": "https://blissful.framer.website/",
+      "home": "https://blissful.framer.website/",
+      "routes": [
+        {
+          "label": "Portfolio\n\nPortfolio",
+          "href": "https://blissful.framer.website/portfolio"
+        },
+        {
+          "label": "About Me\n\nAbout Me",
+          "href": "https://blissful.framer.website/about-me"
+        },
+        {
+          "label": "Pricing\n\nPricing",
+          "href": "https://blissful.framer.website/pricing"
+        },
+        {
+          "label": "Contact\n\nContact",
+          "href": "https://blissful.framer.website/contact"
+        },
+        {
+          "label": "ANNA & MARK\n\nANNA & MARK",
+          "href": "https://blissful.framer.website/portfolio/anna-and-mark"
+        },
+        {
+          "label": "JULIE & MICHAEL\n\nJULIE & MICHAEL",
+          "href": "https://blissful.framer.website/portfolio/julie-and-michael"
+        },
+        {
+          "label": "SHREYA & ROHAN\n\nSHREYA & ROHAN",
+          "href": "https://blissful.framer.website/portfolio/shreya-and-rohan"
+        },
+        {
+          "label": "ENGAGEMENT\nMarie & Rob\nAUG 2, 2025",
+          "href": "https://blissful.framer.website/portfolio/marie-and-rob"
+        },
+        {
+          "label": "404\n\n404",
+          "href": "https://blissful.framer.website/404"
+        },
+        {
+          "label": "Privacy policy",
+          "href": "https://blissful.framer.website/privacy-policy"
+        },
+        {
+          "label": "Terms & conditions",
+          "href": "https://blissful.framer.website/terms-and-conditions"
+        }
+      ],
+      "headings": [
+        "Your forever starts here.",
+        "Where",
+        "love",
+        "stories",
+        "become",
+        "art.",
+        "Every",
+        "timeless",
+        "frame",
+        "celebrates",
+        "the",
+        "connections,",
+        "details,",
+        "and",
+        "joy",
+        "that",
+        "make",
+        "your",
+        "wedding",
+        "unforgettable.",
+        "Recent work",
+        "Behind the lens",
+        "Happy customers",
+        "Pricing",
+        "FAQ",
+        "Your next great chapter starts here."
+      ],
+      "time": "2026-10-07T06:01:34.458Z",
+      "screenRoutes": [
+        "https://blissful.framer.website/about-me",
+        "https://blissful.framer.website/portfolio/anna-and-mark"
+      ],
+      "fit": 3,
+      "reason": "Warm human image-story rhythm is useful, but wedding identity and serif typography should not transfer wholesale.",
+      "character": "Warm ivory, Crimson Text, soft rounded photo corners, generous photo-to-text spacing.",
+      "innerStructureObserved": "About: centered title, wide portrait, compact story split and widely separated proof figures. Project: titled image then masonry wedding sequence.",
+      "useFor": "Community stories and authentic event albums.",
+      "signatureMotionEvidence": "Home photo initially small; settled image state requires loading/scroll separation. Header and transform/opacity deltas observed, not exact scale curve.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/blissful-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/about-me/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/about-me/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/about-me/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/about-me/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/about-me/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/about-me/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/portfolio-anna-and-mark/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/portfolio-anna-and-mark/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/portfolio-anna-and-mark/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/portfolio-anna-and-mark/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/portfolio-anna-and-mark/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/blissful/portfolio-anna-and-mark/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://blissful.framer.website/about-me",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://blissful.framer.website/about-me",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://blissful.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://blissful.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://blissful.framer.website/portfolio/anna-and-mark",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        },
+        {
+          "route": "https://blissful.framer.website/portfolio/anna-and-mark",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "presenta",
+      "marketplace": "https://www.framer.com/marketplace/templates/presenta/",
+      "preview": "https://presentatemplate.framer.website/",
+      "home": "https://presentatemplate.framer.website/",
+      "routes": [
+        {
+          "label": "MailForge\nExplore project\n\nJAN 13, 2026\n\nPositioning, UX, Conversion, Visuals",
+          "href": "https://presentatemplate.framer.website/mailforge"
+        },
+        {
+          "label": "Elyte\nExplore project\n\nJAN 11, 2026\n\nBranding, UI, Messaging, Systems",
+          "href": "https://presentatemplate.framer.website/elyte"
+        },
+        {
+          "label": "Flowstack\nExplore project\n\nJAN 8, 2026\n\nUX, Structure, Story, Interaction",
+          "href": "https://presentatemplate.framer.website/flowstack"
+        },
+        {
+          "label": "AI Supply\nExplore project\n\nJAN 2, 2026\n\nPositioning, Narrative, Visuals, Landing",
+          "href": "https://presentatemplate.framer.website/ai-supply"
+        },
+        {
+          "label": "Contact",
+          "href": "https://presentatemplate.framer.website/contact"
+        }
+      ],
+      "headings": [
+        "Web designagency for digital businesses",
+        "Let us help you go from idea to reality..."
+      ],
+      "time": "2026-10-07T06:01:39.825Z",
+      "screenRoutes": [
+        "https://presentatemplate.framer.website/mailforge",
+        "https://presentatemplate.framer.website/contact"
+      ],
+      "fit": 3,
+      "reason": "Case explanations and clear image/type contrast useful; extensive blurred hero image may not fit approved landing rule.",
+      "character": "Geist, black/white, large uppercase typography, softly blurred atmospheric hero imagery.",
+      "innerStructureObserved": "MailForge: title over blurred project cover, white split project explanation, aligned Challenge/Solution/Results disclosures. Contact: information left/form right over same scene.",
+      "useFor": "Course/Alpha explanation and case-like narratives.",
+      "signatureMotionEvidence": "Header ground changes and transform/opacity deltas observed. Disclosures seen but not exercised by this screen.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/presenta-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/contact/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/contact/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/contact/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/contact/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/contact/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/contact/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/mailforge/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/mailforge/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/mailforge/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/mailforge/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/mailforge/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/presenta/mailforge/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://presentatemplate.framer.website/contact",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://presentatemplate.framer.website/contact",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://presentatemplate.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://presentatemplate.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://presentatemplate.framer.website/mailforge",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://presentatemplate.framer.website/mailforge",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "arix",
+      "marketplace": "https://www.framer.com/marketplace/templates/arix/",
+      "preview": "https://arix.framer.website/",
+      "home": "https://arix.framer.website/",
+      "routes": [
+        {
+          "label": "Contact",
+          "href": "https://arix.framer.website/contact"
+        },
+        {
+          "label": "About us",
+          "href": "https://arix.framer.website/about-us"
+        },
+        {
+          "label": "Projects",
+          "href": "https://arix.framer.website/projects"
+        },
+        {
+          "label": "[ 001 ]\n\nVantage Spire\n\nAn iconic development blending modern aesthetics, functi",
+          "href": "https://arix.framer.website/projects/vantage-spire"
+        },
+        {
+          "label": "[ 002 ]\n\nNature Modern House\n\nA contemporary home inspired by nature, combining ",
+          "href": "https://arix.framer.website/projects/nature-modern-house"
+        },
+        {
+          "label": "[ 003 ]\n\nBeach Villa\n\nAn elegant coastal villa crafted for seaside living, blend",
+          "href": "https://arix.framer.website/projects/beach-villa"
+        },
+        {
+          "label": "[ 004 ]\n\nGroke Penthouse\n\nA modern penthouse blending dramatic architecture, swe",
+          "href": "https://arix.framer.website/projects/groke-penthouse"
+        },
+        {
+          "label": "[ 005 ]\n\nModern House\n\nA modern home blending warm textures, clean lines, and ex",
+          "href": "https://arix.framer.website/projects/modern-house"
+        },
+        {
+          "label": "404",
+          "href": "https://arix.framer.website/404"
+        }
+      ],
+      "headings": [
+        "Innovative Design for Modern Living",
+        "Uncompromising quality in residential living",
+        "242+",
+        "15+",
+        "Full-service solutions you can trust us",
+        "We create striking spaces by engineering.",
+        "01",
+        "02",
+        "03",
+        "Explore some of our most recent projects",
+        "Reasons to Work With Us",
+        "70+",
+        "What our clients say about working with us",
+        "Your questions, clearly answered here"
+      ],
+      "time": "2026-10-07T06:01:42.675Z",
+      "screenRoutes": [
+        "https://arix.framer.website/about-us",
+        "https://arix.framer.website/projects/vantage-spire"
+      ],
+      "fit": 3,
+      "reason": "Architecture editorial grid is readable; orange controls and award cards should not transfer.",
+      "character": "Black/white with orange accent, strong Inter Display, crisp architectural imagery, large footer wordmark.",
+      "innerStructureObserved": "About: left title opposite single image, award rows on black. Detail: clear title above wide picture, label/overview facts and mixed-size photo gallery.",
+      "useFor": "Place/orientation, chronological programs, documentary galleries.",
+      "signatureMotionEvidence": "Fixed header plus transform/opacity/color differences sampled; desktop project rows become explicit photo entries on phone.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/arix-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/about-us/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/about-us/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/about-us/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/about-us/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/about-us/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/about-us/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/projects-vantage-spire/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/projects-vantage-spire/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/projects-vantage-spire/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/projects-vantage-spire/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/projects-vantage-spire/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/arix/projects-vantage-spire/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://arix.framer.website/about-us",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://arix.framer.website/about-us",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        },
+        {
+          "route": "https://arix.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://arix.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://arix.framer.website/projects/vantage-spire",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://arix.framer.website/projects/vantage-spire",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "perform",
+      "marketplace": "https://www.framer.com/marketplace/templates/perform/",
+      "preview": "https://perform.framer.website/",
+      "home": "https://perform.framer.website/",
+      "routes": [
+        {
+          "label": "Contact",
+          "href": "https://perform.framer.website/contact"
+        }
+      ],
+      "headings": [
+        "Level Up Your",
+        "Performance",
+        "From beginners to seasoned pros, I create custom plans tailored to help you unlock your full potential and succeed in races.",
+        "Coaching plans",
+        "Everything you need to know",
+        "Ready to Achieve Your Goals?"
+      ],
+      "time": "2026-10-07T06:01:45.682Z",
+      "screenRoutes": [
+        "https://perform.framer.website/contact"
+      ],
+      "fit": 3,
+      "reason": "Activity-first full-height photograph and quiet contact work; only one substantive inner page prevents anchor use.",
+      "character": "Black/white, Manrope, action photography, sparse white pill controls.",
+      "innerStructureObserved": "Home: full-height cyclist photograph then coaching content and isolated testimonial. Contact: stable contact methods left/form right, followed by quiet proof and photo closing.",
+      "useFor": "Youth/activity programs, care/contact.",
+      "signatureMotionEvidence": "Persistent header observed; sampled captures do not prove proposed content-synchronized stack mechanism.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/perform-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/contact/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/contact/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/contact/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/contact/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/contact/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/contact/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/perform/home/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://perform.framer.website/contact",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://perform.framer.website/contact",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://perform.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://perform.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Only one substantive inner route exposed; captured it."
+    },
+    {
+      "slug": "brightedge",
+      "marketplace": "https://www.framer.com/marketplace/templates/brightedge/",
+      "preview": "https://brightedge.framer.website/",
+      "home": "https://brightedge.framer.website/",
+      "routes": [
+        {
+          "label": "Pricing",
+          "href": "https://brightedge.framer.website/pricing"
+        },
+        {
+          "label": "Marketing\n\nVELOCITY",
+          "href": "https://brightedge.framer.website/projects/velocity"
+        },
+        {
+          "label": "Web design\n\nTHE PERFECT FRAME",
+          "href": "https://brightedge.framer.website/projects/the-perfect-frame"
+        },
+        {
+          "label": "Marketing\n\nSPREADING THE WORD",
+          "href": "https://brightedge.framer.website/projects/spreading-the-word"
+        },
+        {
+          "label": "Branding\n\nFRESH BEGINNINGS",
+          "href": "https://brightedge.framer.website/projects/fresh-beginnings"
+        },
+        {
+          "label": "Contact",
+          "href": "https://brightedge.framer.website/contact"
+        },
+        {
+          "label": "May 5, 2025\n\n/\n\nInsights\n\nThe Future of AI in Digital Marketing",
+          "href": "https://brightedge.framer.website/blogs/the-future-of-ai-in-digital-marketing"
+        },
+        {
+          "label": "May 5, 2025\n\n/\n\nInsights\n\nThe Role of Artificial Intelligence in Modern Digital ",
+          "href": "https://brightedge.framer.website/blogs/the-role-of-artificial-intelligence-in-modern-digital-marketing"
+        },
+        {
+          "label": "May 3, 2025\n\n/\n\nMarketing\n\nTop Digital Marketing Trends for 2025",
+          "href": "https://brightedge.framer.website/blogs/top-digital-marketing-trends-for-2025"
+        },
+        {
+          "label": "About",
+          "href": "https://brightedge.framer.website/about"
+        },
+        {
+          "label": "Services",
+          "href": "https://brightedge.framer.website/services"
+        },
+        {
+          "label": "Projects",
+          "href": "https://brightedge.framer.website/projects"
+        },
+        {
+          "label": "Blogs",
+          "href": "https://brightedge.framer.website/blogs"
+        }
+      ],
+      "headings": [
+        "creators",
+        "CREATING WORK THAT INSPIRES",
+        "Explore what we can do for you",
+        "We are leading digital marketing agency",
+        "Showcasing Our Most Impactful Work",
+        "Strategic Steps to Impactful Results",
+        "Creative Professionals at Your Service",
+        "Choose the Perfect Plan for Your Business",
+        "Testimonials That Inspire Confidence",
+        "Clear Solutions to Your Concerns",
+        "Stay Ahead with the Latest in Digital Marketing",
+        "Let\u2019s Start Your Project Today"
+      ],
+      "time": "2026-10-07T06:01:55.837Z",
+      "screenRoutes": [
+        "https://brightedge.framer.website/about",
+        "https://brightedge.framer.website/contact"
+      ],
+      "fit": 3,
+      "reason": "Actual timeline structure useful, but empty full-screen ABOUT/CONTACT opening wastes urgent visitor time.",
+      "character": "Archivo, white, orange accent, dark vertical desktop nav rail that becomes top bar on phone.",
+      "innerStructureObserved": "About: very tall title opening then dated vertical timeline with images. Contact: long title gap before form. Home: photo and named numbered process steps across a fine line.",
+      "useFor": "Membership progression or dated history; omit delayed practical access.",
+      "signatureMotionEvidence": "Viewport-fixed sidebar and transform/opacity/color changes observed; timeline progress requires deep source verification.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/brightedge-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/about/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/about/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/about/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/about/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/about/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/about/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/contact/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/contact/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/contact/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/contact/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/contact/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/contact/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/brightedge/home/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://brightedge.framer.website/about",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://brightedge.framer.website/about",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://brightedge.framer.website/contact",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 0,
+          "stateCount": 3
+        },
+        {
+          "route": "https://brightedge.framer.website/contact",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://brightedge.framer.website/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "color",
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 1,
+          "stateCount": 3
+        },
+        {
+          "route": "https://brightedge.framer.website/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    },
+    {
+      "slug": "nexflow",
+      "marketplace": "https://www.framer.com/marketplace/templates/nexflow/",
+      "preview": "https://nexflow.framer.media/",
+      "home": "https://nexflow.framer.media/",
+      "routes": [
+        {
+          "label": "Waitlist",
+          "href": "https://nexflow.framer.media/waitlist"
+        },
+        {
+          "label": "Contact us",
+          "href": "https://nexflow.framer.media/contact"
+        },
+        {
+          "label": "Terms",
+          "href": "https://nexflow.framer.media/legal/terms-and-conditions"
+        },
+        {
+          "label": "Privacy",
+          "href": "https://nexflow.framer.media/legal/privacy-policy"
+        },
+        {
+          "label": "404",
+          "href": "https://nexflow.framer.media/404"
+        }
+      ],
+      "headings": [
+        "Build workflows with confidence",
+        "Catch issues before they reach production",
+        "Built to run production without friction",
+        "Why modern teams choose Nexflow",
+        "From change to production \u2014 fully validated, every step",
+        "Built for teams running production at scale",
+        "Trusted by teams shipping to production",
+        "Simple licensing for production teams",
+        "Got questions?We\u2019ve got answers.",
+        "Ship every change with confidence"
+      ],
+      "time": "2026-10-07T06:01:58.656Z",
+      "screenRoutes": [
+        "https://nexflow.framer.media/contact",
+        "https://nexflow.framer.media/waitlist"
+      ],
+      "fit": 3,
+      "reason": "Aligned factual rows and compact utility screens useful, but SaaS graphic panels are not church material.",
+      "character": "White/grey, fine grid borders, black buttons, restrained grotesk typography, monochrome landscape.",
+      "innerStructureObserved": "Contact: centered concise title/form; waitlist: title and small email action over landscape. Home: split copy/product visual and comparison table, mobile reorders sequentially.",
+      "useFor": "Calendar/giving/app practical hierarchy.",
+      "signatureMotionEvidence": "Header persists and transform/opacity deltas sampled; exact animation curve unknown.",
+      "status": "Observed",
+      "visionReviewed": true,
+      "visionMethod": "Contact sheet inspected as an image; up to18 source frames per sheet. Refreshed settled openings inspected separately where initial loader masked home.",
+      "sheet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/nexflow-screening-sheet.jpg",
+      "screenshots": [
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/contact/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/contact/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/contact/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/contact/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/contact/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/contact/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/home/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/home/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/home/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/home/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/home/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/home/phone/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/waitlist/desktop/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/waitlist/desktop/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/waitlist/desktop/midpoint.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/waitlist/phone/opening.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/waitlist/phone/footer.png",
+        "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/pool/nexflow/waitlist/phone/midpoint.png"
+      ],
+      "captureMetrics": [
+        {
+          "route": "https://nexflow.framer.media/contact",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        },
+        {
+          "route": "https://nexflow.framer.media/contact",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 2,
+          "stateCount": 3
+        },
+        {
+          "route": "https://nexflow.framer.media/",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        },
+        {
+          "route": "https://nexflow.framer.media/",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        },
+        {
+          "route": "https://nexflow.framer.media/waitlist",
+          "viewport": "desktop",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        },
+        {
+          "route": "https://nexflow.framer.media/waitlist",
+          "viewport": "phone",
+          "httpStatus": 200,
+          "truncated": false,
+          "error": null,
+          "motionProperties": [
+            "opacity",
+            "transform"
+          ],
+          "settledStates": 3,
+          "stateCount": 3
+        }
+      ],
+      "unknowns": [
+        "Exact editor settings, easing and timing unknown from screening.",
+        "Screening is not exhaustive inner-route/interaction audit.",
+        "Source assets/code not licensed or copied."
+      ],
+      "innerCoverageLimit": "Two linked inner routes captured."
+    }
+  ],
+  "recommendation": {
+    "anchor": "royal",
+    "donors": [
+      "lou",
+      "slab"
+    ],
+    "mode": "B: anchor plus borrowed topology",
+    "reason": "Royal provides coherent documentary About/contact/property/journal depth, Lou uniquely supports manifesto reading, Slab uniquely supports object-led archive. Donors contribute topology only; restyle to locked KLCC identity."
+  },
+  "limits": [
+    "No claim that all animations or all source routes were tested.",
+    "Initial loaders caught on5 homes; refreshed with delayed load and settled-opening captures.",
+    "No source/effect should be asserted solely from handoff examples if fresh preview contradicts it."
+  ]
+}

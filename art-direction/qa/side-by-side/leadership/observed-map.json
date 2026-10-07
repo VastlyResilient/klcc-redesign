@@ -1,0 +1,139 @@
+{
+  "route": "leadership",
+  "status": "Comparison-created-not-reviewed",
+  "method": "Source states mapped from authored data-reference-landmark and observed DOM section order. These are adaptation comparisons, not exact CSS similarity assertions.",
+  "results": [
+    {
+      "section": "section-1",
+      "referenceRole": "hero",
+      "created": "2026-10-07T06:48:54.014Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "section-hero",
+          "buildState": "section-section-1",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-0/desktop-section-section-1.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "section-hero",
+          "buildState": "section-section-1",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-0/tablet-section-section-1.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "section-hero",
+          "buildState": "section-section-1",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-0/phone-section-section-1.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": "section-2",
+      "referenceRole": "team",
+      "created": "2026-10-07T06:48:54.393Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "section-team",
+          "buildState": "section-section-2",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-1/desktop-section-section-2.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "section-team",
+          "buildState": "section-section-2",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-1/tablet-section-section-2.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "section-team",
+          "buildState": "section-section-2",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-1/phone-section-section-2.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": "section-3",
+      "referenceRole": "team",
+      "created": "2026-10-07T06:48:54.638Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "section-team",
+          "buildState": "section-section-3",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-2/desktop-section-section-3.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "section-team",
+          "buildState": "section-section-3",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-2/tablet-section-section-3.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "section-team",
+          "buildState": "section-section-3",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-2/phone-section-section-3.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": "section-4",
+      "referenceRole": "reading",
+      "created": "2026-10-07T06:48:55.114Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "section-section-2",
+          "buildState": "section-section-4",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-3/desktop-section-section-4.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "section-section-2",
+          "buildState": "section-section-4",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-3/tablet-section-section-4.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "section-section-2",
+          "buildState": "section-section-4",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/leadership/observed-3/phone-section-section-4.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+// Slab object archive: independent image entries, not movement of baked artwork tiles.
+if(!matchMedia('(prefers-reduced-motion: reduce)').matches){const observer=new IntersectionObserver(es=>{for(const e of es)if(e.isIntersecting){observer.unobserve(e.target);if(!document.body.classList.contains('motion-reduced'))e.target.animate([{opacity:.72,transform:'translateY(10px)'},{opacity:1,transform:'translateY(0)'}],{duration:800,easing:'cubic-bezier(.2,.7,.2,1)'})}},{threshold:.15});document.querySelectorAll('.archive-message').forEach(e=>observer.observe(e))}

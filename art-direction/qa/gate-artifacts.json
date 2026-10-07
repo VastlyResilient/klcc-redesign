@@ -1,0 +1,99 @@
+{
+  "created": "2026-10-07T07:54:37.361625+00:00",
+  "status": "Release Blocked",
+  "gates": [
+    {
+      "gate": "G0",
+      "status": "Pass",
+      "artifacts": [
+        "art-direction/protected-skills.json",
+        "art-direction/content-ledger.json",
+        "art-direction/qa/dom-ledger-results.json"
+      ],
+      "limits": "433 required checks and original-content hash; no skill writes."
+    },
+    {
+      "gate": "G1",
+      "status": "Pass",
+      "artifacts": [
+        "art-direction/company-truth.json",
+        "art-direction/pages/"
+      ],
+      "limits": "Original pages fetched and facts/source dates, route jobs retained."
+    },
+    {
+      "gate": "G2",
+      "status": "Pass with limits",
+      "artifacts": [
+        "art-direction/references/pool-screening.md",
+        "art-direction/directions.md",
+        "art-direction/site-dna.json",
+        "art-direction/uniqueness.json"
+      ],
+      "limits": "All21 screened, one world selected; cross-site registry unavailable, not a uniqueness pass."
+    },
+    {
+      "gate": "G3",
+      "status": "Evidence captured; fidelity tested atG6",
+      "artifacts": [
+        "art-direction/references/deep/"
+      ],
+      "limits": "Selected live sources captured; editor values unavailable and estimated."
+    },
+    {
+      "gate": "G4",
+      "status": "Pass",
+      "artifacts": [
+        "art-direction/qa/G4.json",
+        "art-direction/qa/G4-automatic.json",
+        "art-direction/build-events.jsonl"
+      ],
+      "limits": "Both hardest pilots reviewed before remaining authored builds; later checks retain failures separately."
+    },
+    {
+      "gate": "G5",
+      "status": "Authored; quality blocked atG6",
+      "artifacts": [
+        "src/pages/",
+        "src/motion/scenes/",
+        "art-direction/pages/"
+      ],
+      "limits": "All30 routes exist; implementation presence does not certify design quality."
+    },
+    {
+      "gate": "G6",
+      "status": "Blocked",
+      "artifacts": [
+        "art-direction/qa/fidelity/",
+        "art-direction/qa/fresh-review.md",
+        "art-direction/qa/contact-sheets/",
+        "art-direction/qa/structural-results.json",
+        "art-direction/qa/motion-results.json"
+      ],
+      "limits": "Failed reference topology, sequence, structural and anti-sameness conditions remain."
+    },
+    {
+      "gate": "G7",
+      "status": "Tested with stated limits",
+      "artifacts": [
+        "art-direction/qa/resilience.json",
+        "art-direction/qa/link-audit.json",
+        "art-direction/qa/functional-progress.json"
+      ],
+      "limits": "Lab/NoJS/keyboard/link checks; no physical-device or full actual-pixel contrast certification."
+    },
+    {
+      "gate": "G8",
+      "status": "Artifact packet assembled; not release approval",
+      "artifacts": [
+        "COMPLETION.md",
+        "BLOCKED.md",
+        "review/index.html",
+        "review/manifest.json",
+        "pending-proposals.md",
+        "art-direction/protected-skills-end.json"
+      ],
+      "limits": "Every route has a terminal review disposition. Production blocked until failed conditions resolved."
+    }
+  ]
+}

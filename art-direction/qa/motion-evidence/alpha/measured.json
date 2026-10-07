@@ -1,0 +1,164 @@
+{
+  "route": "alpha",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-alpha-conversation",
+          "to": "section-alpha-films",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-2130",
+          "to": "reverse-1680",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(0.527129px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1680",
+          "to": "reverse-1230",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.527129px)",
+              "to": "blur(3px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 30,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/alpha/capture-desktop/desktop/video/page@3cedfab2685dc5116a36886491181de2.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/alpha/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-alpha-conversation",
+          "to": "section-alpha-films",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1539",
+          "to": "reverse-1155",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(3px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 32,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(2.98216px)"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2.98216px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-alpha-conversation",
+          "to": "section-alpha-films",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(3px)",
+              "to": "blur(0.490414px)"
+            }
+          }
+        },
+        {
+          "from": "section-alpha-films",
+          "to": "section-alpha-scripture",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.490414px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-2108",
+          "to": "reverse-1686",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(3px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 28,
+      "errors": [],
+      "video": null
+    }
+  }
+}
