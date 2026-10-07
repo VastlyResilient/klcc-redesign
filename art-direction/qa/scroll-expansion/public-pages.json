@@ -1,0 +1,310 @@
+{
+  "created": "2026-10-07T22:22:29.073Z",
+  "base": "https://vastlyresilient.github.io/klcc-redesign/preview/",
+  "routes": [
+    {
+      "route": "home",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/believe/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/weather-procedures/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/easter/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "watch-live",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/watch-live/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "new",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/new/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/our-story/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/leadership/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/mission/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/beliefs/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/pastoral-care/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/life-groups/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/membership/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/prayer/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/serve/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/alpha/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/courses/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/kids/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/youth/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/young-adults/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "women",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/women/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "men",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/men/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "calendar",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/calendar/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "previous-messages",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/previous-messages/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "give",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/give/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "app",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/app/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/baptism/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/subsplash-media/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "legal",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/legal/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "404",
+      "url": "https://vastlyresilient.github.io/klcc-redesign/preview/404/",
+      "status": 200,
+      "pass": true
+    }
+  ],
+  "browserChecks": [
+    {
+      "route": "home",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "women",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "men",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "give",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "home",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "women",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "men",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "give",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    }
+  ],
+  "pass": true,
+  "limits": "Desktop/mobile Chromium browser checks, not physical-phone testing. No payment or form submission."
+}

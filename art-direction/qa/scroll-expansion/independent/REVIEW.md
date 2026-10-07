@@ -25,3 +25,9 @@ Automated browser viewports, not physical iPhone/Android devices. No payments, m
 **Pass for this motion-integration change.** All 27 routes visually inspected in 81 viewport cases (243 opening/middle/footer captures). 291 detail-scene/viewport cases sampled forward and backward, with no endpoint mismatch beyond subpixel tolerance. All reduced-motion detail styles reset; all27 phone no-JS routes retain readable main content and avoid horizontal overflow. The single visual spacing defect was repaired and rechecked.
 
 Compact board browser: [index.html](index.html). Machine-readable result: [summary.json](summary.json).
+
+## Tablet-width follow-up
+
+At 884×900 and 768×768 the corrected sticky breakpoint keeps the left image alongside the care explanation with no overlap or horizontal overflow (top112px). Full-size examination additionally caught the conceptual-image caption being blurred because the focus effect targeted the entire figure. Reported for correction to image-only targeting; this narrow repair requires recheck before the follow-up passes.
+
+**Tablet follow-up resolved.** Fresh full-size screenshots at both requested widths show a crisp caption and stable adjacent columns. Computed figure and caption filters are `none`; only the photograph has the intended changing focus. Both widths have zero horizontal overflow. Evidence: `care-tablet-884.png`, `care-tablet-768.png`, `care-tablet-followup.json`.

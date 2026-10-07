@@ -11,5 +11,5 @@
 .care-context-scripture{margin-top:40px;border-top:1px solid #ffffff40;padding-top:30px}.care-context-scripture .eyebrow{font-size:12px;margin-bottom:20px}.care-context-scripture .care-quote{color:var(--paper);font-size:20px;line-height:1.65;font-weight:400;letter-spacing:0;border:0;padding:0;margin:0;max-width:54ch}.care-context-scripture .text-link{font-size:17px;margin-top:24px}@media(max-width:700px){.care-context-scripture .care-quote{font-size:19px}}
 
 /* Royal paired-reading adaptation: hold the quiet illustration while care information progresses. */
-@media(min-width:901px) and (prefers-reduced-motion:no-preference){body:not(.motion-reduced) .care-heading{position:sticky;top:112px;align-self:start}}
+@media(min-width:701px) and (min-height:650px) and (prefers-reduced-motion:no-preference){body:not(.motion-reduced) .care-heading{position:sticky;top:112px;align-self:start}}
 @media(max-width:700px){.care-heading figure{display:block;margin-top:28px;max-width:100%}}

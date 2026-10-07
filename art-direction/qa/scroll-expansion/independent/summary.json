@@ -325,5 +325,16 @@
     "No payments or external form submissions",
     "Observed mechanism adaptations, not exact editor timing",
     "Existing strict fidelity/differentiation gates remain separate"
-  ]
+  ],
+  "tablet_followup": {
+    "widths": [
+      884,
+      768
+    ],
+    "pass": true,
+    "caption_filter": "none",
+    "figure_filter": "none",
+    "image_only_focus": true,
+    "evidence": "care-tablet-followup.json"
+  }
 }
