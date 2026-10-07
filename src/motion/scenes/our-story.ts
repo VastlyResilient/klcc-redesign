@@ -1,4 +1,9 @@
+import {scrollDetail} from '../scroll-detail.js';
 import {registerScene,clamp} from '../lifecycle.js';
 const page=document.querySelector<HTMLElement>('.story-page')!,stage=document.querySelector<HTMLElement>('.story-chapters')!,chapters=[...document.querySelectorAll<HTMLElement>('.story-chapter')];
 let clean:(()=>void)|undefined;const setup=()=>{clean?.();const enabled=innerWidth>700&&!matchMedia('(prefers-reduced-motion: reduce)').matches&&!document.body.classList.contains('motion-reduced');page.classList.toggle('motion-ready',enabled);if(!enabled){for(const c of chapters){c.removeAttribute('aria-hidden');c.inert=false}return}clean=registerScene('story-paired-chapters',stage,p=>{const progress=clamp(p),index=Math.min(2,Math.floor(progress*3)),local=clamp((progress*3-index)/.22);for(const [i,c] of chapters.entries()){c.classList.toggle('is-current',i===index);c.setAttribute('aria-hidden',String(i!==index));c.inert=i!==index;if(i===index){c.style.setProperty('--chapter-y',`${(1-local)*10}px`);c.style.setProperty('--chapter-clip',`${(1-local)*4}%`)}}},.1,1)};setup();let resize:number;addEventListener('resize',()=>{clearTimeout(resize);resize=window.setTimeout(setup,150)});addEventListener('klcc-motion-change',setup);
 const title=document.querySelector<HTMLElement>('.story-opening h1')!;if(!matchMedia('(prefers-reduced-motion: reduce)').matches)title.animate([{transform:'translateY(10px)',opacity:.7},{transform:'translateY(0)',opacity:1}],{duration:650,easing:'cubic-bezier(.2,.7,.2,1)'});
+
+// Native-scroll detail: Slab continuation adapted to this page’s semantic reading/media roles.
+// Reverse follows position; these distances/thresholds are authored estimates, not Framer editor settings.
+scrollDetail({"id": "story-founders-arrival", "selector": ".founders-identity img", "kind": "image", "distance": 36, "start": 0.94, "end": 0.32, "stagger": 0.065});

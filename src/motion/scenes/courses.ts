@@ -1,6 +1,6 @@
-// Observed first-entry clarity, reconstructed timing. Essential copy stays readable.
-const reduced=matchMedia('(prefers-reduced-motion: reduce)');
-if(!reduced.matches&&!document.body.classList.contains('motion-reduced')){
- const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){if(!reduced.matches&&!document.body.classList.contains('motion-reduced'))entry.target.animate([{opacity:.8},{opacity:1}],{duration:1000,easing:'cubic-bezier(.2,.65,.3,1)'});observer.unobserve(entry.target)}}),{threshold:.15});
- document.querySelectorAll('.courses-reading figure').forEach(el=>observer.observe(el));
-}
+import {scrollDetail} from '../scroll-detail.js';
+// Replaces the prior time-based opacity arrival on the same target.
+// Native-scroll detail: Slab continuation adapted to this page’s semantic reading/media roles.
+// Reverse follows position; these distances/thresholds are authored estimates, not Framer editor settings.
+scrollDetail({"id": "courses-reading-continuation", "selector": ".courses-reading figure", "kind": "image", "distance": 40, "start": 0.94, "end": 0.32, "stagger": 0.065});
+scrollDetail({"id": "courses-subject-passages", "selector": ".courses-fall article>p", "kind": "rise", "distance": 22, "start": 0.94, "end": 0.32, "stagger": 0.065});

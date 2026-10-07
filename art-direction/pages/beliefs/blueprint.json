@@ -10,7 +10,7 @@
       "slab"
     ]
   },
-  "visitor_job": "Read KLCC’s actual nine statements of belief without distraction.",
+  "visitor_job": "Read KLCC\u2019s actual nine statements of belief without distraction.",
   "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
   "critical_answer": "Preserve all nine clauses of the source creed. Paragraph boundaries and punctuation may be clarified without changing theological meaning.",
   "primary_action": null,
@@ -135,7 +135,7 @@
   ],
   "motion_notes": {
     "initial": "All content visible without JavaScript; enhanced membership stages initialize immediately.",
-    "trigger": "First intersection of intact unit, opacity .8→1; authored reconstruction timing.",
+    "trigger": "First intersection of intact unit, opacity .8\u21921; authored reconstruction timing.",
     "reverse": "Membership paired stage reverses; other first-entry clarity does not replay.",
     "mobile": "Native document reading, no hidden essential passage or forced pin.",
     "reduced": "Fully visible, unpinned static content.",
@@ -161,5 +161,14 @@
     "css": "src/pages/beliefs.css",
     "motion": "src/motion/scenes/beliefs.ts",
     "repair_notes": "art-direction/pages/beliefs/repair-notes.md"
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/beliefs.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Implemented; incremental review pending",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
   }
 }

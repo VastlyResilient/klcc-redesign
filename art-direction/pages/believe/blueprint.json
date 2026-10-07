@@ -328,7 +328,7 @@
   ],
   "motion_notes": {
     "initial": "All content visible without JavaScript; enhanced membership stages initialize immediately.",
-    "trigger": "First intersection of intact unit, opacity .8→1; authored reconstruction timing.",
+    "trigger": "First intersection of intact unit, opacity .8\u21921; authored reconstruction timing.",
     "reverse": "Membership paired stage reverses; other first-entry clarity does not replay.",
     "mobile": "Native document reading, no hidden essential passage or forced pin.",
     "reduced": "Fully visible, unpinned static content.",
@@ -356,5 +356,14 @@
     "css": "src/pages/believe.css",
     "motion": "src/motion/scenes/believe.ts",
     "repair_notes": "art-direction/pages/believe/repair-notes.md"
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/believe.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Implemented; incremental review pending",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
   }
 }

@@ -79,5 +79,14 @@
     }
   ],
   "repair_review_note": "Composition repaired 2026-10-07; historical fidelity record unchanged. Requires independent fresh judgment, not author approval.",
-  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred"
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/pastoral-care.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Implemented; incremental review pending",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
 }

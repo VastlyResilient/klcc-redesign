@@ -171,5 +171,14 @@
     "composition": "Light ground, real contact and utility groups above large right-aligned church wordmark; source scripture retained in preceding reading, not falsely substituted for contact footer.",
     "motion": "Whole footer blur6px to0 observed focus mechanism; curve estimated, focus-within and reduced motion force sharp."
   },
-  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred"
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/mission.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Implemented; incremental review pending",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
 }

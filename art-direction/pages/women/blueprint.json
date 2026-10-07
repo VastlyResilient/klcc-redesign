@@ -10,7 +10,7 @@
       "slab"
     ]
   },
-  "visitor_job": "Find women’s connection opportunities and distinguish upcoming from past events.",
+  "visitor_job": "Find women\u2019s connection opportunities and distinguish upcoming from past events.",
   "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
   "critical_answer": "The November 6 fall-series gathering and December 4 Christmas event are at 7:30 PM in the Cathedral. September 4 and October 2 are past dates as of October 7, 2026.",
   "primary_action": null,
@@ -20,12 +20,12 @@
   "signature": {
     "id": "women-gathering-first",
     "dominant_verb": "Gather",
-    "structural_idea": "Useful event records first; documentary image interval second; purpose and encouragement essay third. Deliberately different from Youth’s Royal title/photo opening.",
+    "structural_idea": "Useful event records first; documentary image interval second; purpose and encouragement essay third. Deliberately different from Youth\u2019s Royal title/photo opening.",
     "axes": {
       "unit": "event record / documentary image / intact purpose paragraph",
       "driver": "Hold for schedules, Scroll-triggered clarity for narrative",
       "vector": "opacity only; no forced split text",
-      "frame": "metadata→full-width photograph→measured reading field"
+      "frame": "metadata\u2192full-width photograph\u2192measured reading field"
     }
   },
   "heading_arrival": {
@@ -114,7 +114,7 @@
         "motion": {
           "mechanism": "Hold",
           "selectors": [],
-          "implementation_values": "All essentials visible. Entry opacity .8→1; image1100ms, intact paragraphs1500ms; threshold .18; authored estimates.",
+          "implementation_values": "All essentials visible. Entry opacity .8\u21921; image1100ms, intact paragraphs1500ms; threshold .18; authored estimates.",
           "reverse": "No repeat on reverse; normal document flow.",
           "source_settings": "Source exact editor timings unknown."
         },
@@ -203,7 +203,7 @@
           "selectors": [
             ".women-together figure"
           ],
-          "implementation_values": "All essentials visible. Entry opacity .8→1; image1100ms, intact paragraphs1500ms; threshold .18; authored estimates.",
+          "implementation_values": "All essentials visible. Entry opacity .8\u21921; image1100ms, intact paragraphs1500ms; threshold .18; authored estimates.",
           "reverse": "No repeat on reverse; normal document flow.",
           "source_settings": "Source exact editor timings unknown."
         },
@@ -254,7 +254,7 @@
           "selectors": [
             ".women-purpose-copy p"
           ],
-          "implementation_values": "All essentials visible. Entry opacity .8→1; image1100ms, intact paragraphs1500ms; threshold .18; authored estimates.",
+          "implementation_values": "All essentials visible. Entry opacity .8\u21921; image1100ms, intact paragraphs1500ms; threshold .18; authored estimates.",
           "reverse": "No repeat on reverse; normal document flow.",
           "source_settings": "Source exact editor timings unknown."
         },
@@ -302,7 +302,7 @@
       "women-together",
       "women-purpose"
     ],
-    "values": "Schedule hold; image and two intact purpose paragraphs once-entered opacity .8→1; responsive static fallbacks.",
+    "values": "Schedule hold; image and two intact purpose paragraphs once-entered opacity .8\u21921; responsive static fallbacks.",
     "status": "Reconstructed; new comparison pending",
     "functional_checks": {
       "viewports": [
@@ -352,5 +352,14 @@
     "women-opening",
     "women-together",
     "women-purpose"
-  ]
+  ],
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/women.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Implemented; incremental review pending",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
 }

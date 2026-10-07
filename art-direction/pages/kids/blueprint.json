@@ -160,7 +160,7 @@
           "selectors": [
             ".kids-next-art figure"
           ],
-          "source_settings": "Source observed vertical translations900→669→182→-20px around next-project; exact curve unknown",
+          "source_settings": "Source observed vertical translations900\u2192669\u2192182\u2192-20px around next-project; exact curve unknown",
           "implementation_values": "y=clamp(0,(stage.top-.2*viewportHeight)*.28,160px), native scroll; no pin or auto-navigation",
           "reverse": "Translation reverses with scroll; essential copy and signup remain static",
           "mobile": "Hold at700px and below",
@@ -266,7 +266,7 @@
         "selectors": [
           ".kids-next-art figure"
         ],
-        "source_settings": "Source observed vertical translations900→669→182→-20px around next-project; exact curve unknown",
+        "source_settings": "Source observed vertical translations900\u2192669\u2192182\u2192-20px around next-project; exact curve unknown",
         "implementation_values": "y=clamp(0,(stage.top-.2*viewportHeight)*.28,160px), native scroll; no pin or auto-navigation",
         "reverse": "Translation reverses with scroll; essential copy and signup remain static",
         "mobile": "Hold at700px and below",
@@ -296,5 +296,14 @@
       "mechanism": "Hold",
       "reason": "Native flow keeps parent information and volunteer artwork stationary on small screens."
     }
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/kids.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Implemented; incremental review pending",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
   }
 }

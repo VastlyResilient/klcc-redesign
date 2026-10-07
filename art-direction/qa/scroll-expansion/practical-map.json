@@ -1,0 +1,165 @@
+{
+  "app": [
+    {
+      "id": "app-artwork",
+      "selector": ".app-opening figure",
+      "kind": "image",
+      "distance": 40,
+      "start": 0.8,
+      "end": 0.15
+    },
+    {
+      "id": "app-capabilities",
+      "selector": ".app-use-links a span, .app-use-links a p",
+      "kind": "rise",
+      "distance": 22,
+      "stagger": 0.035
+    }
+  ],
+  "calendar": [
+    {
+      "id": "calendar-context",
+      "selector": ".calendar-context",
+      "kind": "rise",
+      "distance": 22
+    },
+    {
+      "id": "calendar-reading",
+      "selector": ".calendar-event-column > .calendar-events > li > details > p",
+      "kind": "rise",
+      "distance": 14,
+      "stagger": 0
+    }
+  ],
+  "easter": [
+    {
+      "id": "easter-artwork",
+      "selector": ".easter-opening > img, .easter-opening > figure",
+      "kind": "image",
+      "distance": 40
+    },
+    {
+      "id": "easter-answers",
+      "selector": ".easter-answers > h3, .easter-answers > p",
+      "kind": "rise",
+      "distance": 22,
+      "stagger": 0.02
+    }
+  ],
+  "give": [
+    {
+      "id": "give-community",
+      "selector": ".give-generosity img",
+      "kind": "image",
+      "distance": 48
+    },
+    {
+      "id": "give-scripture",
+      "selector": ".giving-reading-column > p",
+      "kind": "rise",
+      "distance": 24,
+      "stagger": 0.05
+    }
+  ],
+  "pastoral-care": [
+    {
+      "id": "care-picture",
+      "selector": ".care-heading figure",
+      "kind": "focus",
+      "start": 0.86,
+      "end": 0.4,
+      "trigger": ".care-expectation"
+    },
+    {
+      "id": "care-expectation",
+      "selector": ".care-expectation > p:last-child",
+      "kind": "rise",
+      "distance": 28,
+      "start": 0.88,
+      "end": 0.3
+    },
+    {
+      "id": "care-comfort",
+      "selector": ".care-quote",
+      "kind": "rise",
+      "distance": 36,
+      "start": 0.94,
+      "end": 0.24
+    }
+  ],
+  "prayer": [
+    {
+      "id": "prayer-belief",
+      "selector": ".prayer-belief p",
+      "kind": "rise",
+      "distance": 28
+    },
+    {
+      "id": "prayer-gathering",
+      "selector": ".prayer-scripture > img",
+      "kind": "image",
+      "distance": 32
+    }
+  ],
+  "previous-messages": [
+    {
+      "id": "archive-artwork",
+      "selector": ".archive-message img",
+      "kind": "image",
+      "distance": 48,
+      "stagger": 0.06
+    },
+    {
+      "id": "archive-library",
+      "selector": ".archive-library h2",
+      "kind": "rise",
+      "distance": 30
+    }
+  ],
+  "subsplash-media": [
+    {
+      "id": "media-photo",
+      "selector": ".media-opening figure",
+      "kind": "image",
+      "distance": 44
+    },
+    {
+      "id": "media-library",
+      "selector": ".library-heading h2, .library-reading-column > p:first-child",
+      "kind": "rise",
+      "distance": 24,
+      "stagger": 0.12
+    }
+  ],
+  "watch-live": [
+    {
+      "id": "live-context",
+      "selector": ".live-player-metadata .live-screen p",
+      "kind": "rise",
+      "distance": 24
+    },
+    {
+      "id": "live-invitation",
+      "selector": ".live-visit > p",
+      "kind": "rise",
+      "distance": 38,
+      "start": 0.96,
+      "end": 0.25
+    }
+  ],
+  "weather-procedures": [
+    {
+      "id": "weather-picture",
+      "selector": ".weather-notice figure",
+      "kind": "image",
+      "distance": 24
+    },
+    {
+      "id": "weather-volunteer",
+      "selector": ".weather-volunteer h2, .weather-volunteer > div > p",
+      "kind": "rise",
+      "distance": 22,
+      "stagger": 0.12
+    }
+  ]
+}

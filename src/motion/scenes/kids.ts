@@ -1,3 +1,4 @@
+import {scrollDetail} from '../scroll-detail.js';
 // Slab Hydra next-project frames014–016: artwork moves up with native scroll.
 // KLCC uses a bounded 160px continuation, explicit signup, no automatic navigation.
 const stage=document.querySelector<HTMLElement>('.kids-next-art');
@@ -14,3 +15,8 @@ const bounds=()=>{const end=(stage?.getBoundingClientRect().top??0)+scrollY-inne
 const syncInspector=()=>{if(stage&&!reduced())scenes.set(sceneId,{bounds});else scenes.delete(sceneId)};
 addEventListener('resize',syncInspector);addEventListener('klcc-motion-change',syncInspector);matchMedia('(prefers-reduced-motion: reduce)').addEventListener('change',syncInspector);syncInspector();
 addEventListener('pageswap',()=>{scenes.delete(sceneId);removeEventListener('scroll',schedule);removeEventListener('resize',schedule);removeEventListener('resize',syncInspector);removeEventListener('klcc-motion-change',schedule);removeEventListener('klcc-motion-change',syncInspector)},{once:true});
+
+// Native-scroll detail: Slab continuation adapted to this page’s semantic reading/media roles.
+// Reverse follows position; these distances/thresholds are authored estimates, not Framer editor settings.
+scrollDetail({"id": "kids-campus-arrival", "selector": ".orientation-photo", "kind": "image", "distance": 28, "start": 0.94, "end": 0.32, "stagger": 0.065});
+scrollDetail({"id": "kids-volunteer-reading", "selector": ".kids-team-reading>div>p", "kind": "rise", "distance": 24, "start": 0.94, "end": 0.32, "stagger": 0.065});

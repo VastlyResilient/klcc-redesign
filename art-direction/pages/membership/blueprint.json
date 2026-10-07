@@ -10,7 +10,7 @@
       "slab"
     ]
   },
-  "visitor_job": "Understand membership’s purpose and register for the current class.",
+  "visitor_job": "Understand membership\u2019s purpose and register for the current class.",
   "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
   "critical_answer": "The next class is October 24. Join, Community, Discover and Purpose are the four actual membership themes.",
   "primary_action": {
@@ -31,7 +31,7 @@
   "signature": {
     "id": "membership-repaired-composition",
     "dominant_verb": "Exchange",
-    "structural_idea": "Phone now reconstructs the observed sticky photograph/bottom-copy paired exchange at viewports ≥680px tall; short-height and reduced-motion stay static. Source phone scene was visually inspected first.",
+    "structural_idea": "Phone now reconstructs the observed sticky photograph/bottom-copy paired exchange at viewports \u2265680px tall; short-height and reduced-motion stay static. Source phone scene was visually inspected first.",
     "axes": {
       "unit": "paired copy and media",
       "vector": "crossfade in stable stage",
@@ -200,5 +200,14 @@
     "css": "src/pages/membership.css",
     "motion": "src/motion/scenes/membership.ts",
     "repair_notes": "art-direction/pages/membership/repair-notes.md"
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/membership.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Implemented; incremental review pending",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
   }
 }

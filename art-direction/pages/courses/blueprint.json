@@ -12,7 +12,7 @@
   },
   "visitor_job": "Compare discipleship courses by season, date and registration status.",
   "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
-  "critical_answer": "Preserve the fall overview September 23–December 9, each course range and genuine On Break or Closed states. Log the Finance duration/date inconsistency instead of silently resolving it.",
+  "critical_answer": "Preserve the fall overview September 23\u2013December 9, each course range and genuine On Break or Closed states. Log the Finance duration/date inconsistency instead of silently resolving it.",
   "primary_action": {
     "route": "courses",
     "source": "https://klcc.us/courses",
@@ -511,7 +511,7 @@
   ],
   "motion_notes": {
     "initial": "All content visible without JavaScript; enhanced membership stages initialize immediately.",
-    "trigger": "First intersection of intact unit, opacity .8→1; authored reconstruction timing.",
+    "trigger": "First intersection of intact unit, opacity .8\u21921; authored reconstruction timing.",
     "reverse": "Membership paired stage reverses; other first-entry clarity does not replay.",
     "mobile": "Native document reading, no hidden essential passage or forced pin.",
     "reduced": "Fully visible, unpinned static content.",
@@ -540,5 +540,14 @@
     "css": "src/pages/courses.css",
     "motion": "src/motion/scenes/courses.ts",
     "repair_notes": "art-direction/pages/courses/repair-notes.md"
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/courses.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Implemented; incremental review pending",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
   }
 }

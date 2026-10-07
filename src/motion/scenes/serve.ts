@@ -1,6 +1,6 @@
-// Observed first-entry clarity, reconstructed timing. Essential copy stays readable.
-const reduced=matchMedia('(prefers-reduced-motion: reduce)');
-if(!reduced.matches&&!document.body.classList.contains('motion-reduced')){
- const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){if(!reduced.matches&&!document.body.classList.contains('motion-reduced'))entry.target.animate([{opacity:.8},{opacity:1}],{duration:1300,easing:'cubic-bezier(.2,.65,.3,1)'});observer.unobserve(entry.target)}}),{threshold:.15});
- document.querySelectorAll('.serve-purpose>p:not(.eyebrow)').forEach(el=>observer.observe(el));
-}
+import {scrollDetail} from '../scroll-detail.js';
+// Replaces the prior time-based opacity arrival on the same target.
+// Native-scroll detail: Slab continuation adapted to this page’s semantic reading/media roles.
+// Reverse follows position; these distances/thresholds are authored estimates, not Framer editor settings.
+scrollDetail({"id": "serve-purpose-reading", "selector": ".serve-purpose>p:not(.eyebrow)", "kind": "rise", "distance": 30, "start": 0.94, "end": 0.32, "stagger": 0.065});
+scrollDetail({"id": "serve-scripture-arrival", "selector": ".serve-scripture", "kind": "rise", "distance": 24, "start": 0.94, "end": 0.32, "stagger": 0.065});
