@@ -1,5 +1,5 @@
 {
-  "created": "2026-10-08T03:38:01.982Z",
+  "created": "2026-10-08T03:44:14.603Z",
   "base": "http://127.0.0.1:4201/",
   "results": [
     {
@@ -807,6 +807,798 @@
           "scrollY": 812,
           "opacity": 0.73,
           "top": 834.421875
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "404",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-404-0"
+      ],
+      "width": 768,
+      "maxScroll": 734,
+      "motion": null,
+      "errors": []
+    },
+    {
+      "route": "alpha",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-alpha-0",
+        "text-alpha-1"
+      ],
+      "width": 768,
+      "maxScroll": 2661,
+      "motion": {
+        "target": "text-alpha-1",
+        "before": {
+          "scrollY": 814,
+          "opacity": 0.73,
+          "top": 947.015625
+        },
+        "after": {
+          "scrollY": 1397,
+          "opacity": 1,
+          "top": 364.015625
+        },
+        "reverse": {
+          "scrollY": 814,
+          "opacity": 0.73,
+          "top": 947.015625
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "app",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-app-0"
+      ],
+      "width": 768,
+      "maxScroll": 952,
+      "motion": null,
+      "errors": []
+    },
+    {
+      "route": "baptism",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-baptism-0"
+      ],
+      "width": 768,
+      "maxScroll": 1647,
+      "motion": {
+        "target": "text-baptism-0",
+        "before": {
+          "scrollY": 8,
+          "opacity": 0.73,
+          "top": 946.765625
+        },
+        "after": {
+          "scrollY": 591,
+          "opacity": 1,
+          "top": 363.765625
+        },
+        "reverse": {
+          "scrollY": 8,
+          "opacity": 0.73,
+          "top": 946.765625
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "beliefs",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-beliefs-0"
+      ],
+      "width": 768,
+      "maxScroll": 3410,
+      "motion": {
+        "target": "text-beliefs-0",
+        "before": {
+          "scrollY": 197,
+          "opacity": 0.66,
+          "top": 947
+        },
+        "after": {
+          "scrollY": 780,
+          "opacity": 1,
+          "top": 364
+        },
+        "reverse": {
+          "scrollY": 197,
+          "opacity": 0.66,
+          "top": 947
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "believe",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-believe-0",
+        "text-believe-1"
+      ],
+      "width": 768,
+      "maxScroll": 2413,
+      "motion": {
+        "target": "text-believe-0",
+        "before": {
+          "scrollY": 351,
+          "opacity": 0.73,
+          "top": 947.15625
+        },
+        "after": {
+          "scrollY": 934,
+          "opacity": 1,
+          "top": 364.15625
+        },
+        "reverse": {
+          "scrollY": 351,
+          "opacity": 0.73,
+          "top": 947.15625
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "calendar",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-calendar-0"
+      ],
+      "width": 768,
+      "maxScroll": 2551,
+      "motion": null,
+      "errors": []
+    },
+    {
+      "route": "courses",
+      "viewport": 768,
+      "count": 3,
+      "ids": [
+        "text-courses-0",
+        "text-courses-1",
+        "text-courses-2"
+      ],
+      "width": 768,
+      "maxScroll": 4432,
+      "motion": {
+        "target": "text-courses-0",
+        "before": {
+          "scrollY": 193,
+          "opacity": 0.73,
+          "top": 946.421875
+        },
+        "after": {
+          "scrollY": 776,
+          "opacity": 1,
+          "top": 363.421875
+        },
+        "reverse": {
+          "scrollY": 193,
+          "opacity": 0.73,
+          "top": 946.421875
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "easter",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-easter-0",
+        "text-easter-1"
+      ],
+      "width": 768,
+      "maxScroll": 2355,
+      "motion": {
+        "target": "text-easter-0",
+        "before": {
+          "scrollY": 132,
+          "opacity": 0.73,
+          "top": 946.875
+        },
+        "after": {
+          "scrollY": 715,
+          "opacity": 1,
+          "top": 363.875
+        },
+        "reverse": {
+          "scrollY": 132,
+          "opacity": 0.73,
+          "top": 946.875
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "give",
+      "viewport": 768,
+      "count": 3,
+      "ids": [
+        "text-give-0",
+        "text-give-1",
+        "text-give-2"
+      ],
+      "width": 768,
+      "maxScroll": 2371,
+      "motion": {
+        "target": "text-give-1",
+        "before": {
+          "scrollY": 559,
+          "opacity": 0.73,
+          "top": 946.390625
+        },
+        "after": {
+          "scrollY": 1142,
+          "opacity": 1,
+          "top": 363.390625
+        },
+        "reverse": {
+          "scrollY": 559,
+          "opacity": 0.73,
+          "top": 946.390625
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "kids",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-kids-0"
+      ],
+      "width": 768,
+      "maxScroll": 1965,
+      "motion": {
+        "target": "text-kids-0",
+        "before": {
+          "scrollY": 127,
+          "opacity": 0.73,
+          "top": 947.03125
+        },
+        "after": {
+          "scrollY": 710,
+          "opacity": 1,
+          "top": 364.03125
+        },
+        "reverse": {
+          "scrollY": 127,
+          "opacity": 0.73,
+          "top": 947.03125
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "leadership",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-leadership-0",
+        "text-leadership-1"
+      ],
+      "width": 768,
+      "maxScroll": 2893,
+      "motion": {
+        "target": "text-leadership-0",
+        "before": {
+          "scrollY": 569,
+          "opacity": 0.73,
+          "top": 947.09375
+        },
+        "after": {
+          "scrollY": 1152,
+          "opacity": 1,
+          "top": 364.09375
+        },
+        "reverse": {
+          "scrollY": 569,
+          "opacity": 0.73,
+          "top": 947.09375
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "legal",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-legal-0"
+      ],
+      "width": 768,
+      "maxScroll": 982,
+      "motion": null,
+      "errors": []
+    },
+    {
+      "route": "life-groups",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-life-groups-0",
+        "text-life-groups-1"
+      ],
+      "width": 768,
+      "maxScroll": 3813,
+      "motion": {
+        "target": "text-life-groups-0",
+        "before": {
+          "scrollY": 90,
+          "opacity": 0.73,
+          "top": 947.140625
+        },
+        "after": {
+          "scrollY": 673,
+          "opacity": 1,
+          "top": 364.140625
+        },
+        "reverse": {
+          "scrollY": 90,
+          "opacity": 0.73,
+          "top": 947.140625
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "membership",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-membership-0"
+      ],
+      "width": 768,
+      "maxScroll": 4475,
+      "motion": {
+        "target": "text-membership-0",
+        "before": {
+          "scrollY": 406,
+          "opacity": 0.73,
+          "top": 1774.90625
+        },
+        "after": {
+          "scrollY": 989,
+          "opacity": 1,
+          "top": 1191.90625
+        },
+        "reverse": {
+          "scrollY": 406,
+          "opacity": 0.73,
+          "top": 1774.90625
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "men",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-men-0",
+        "text-men-1"
+      ],
+      "width": 768,
+      "maxScroll": 3050,
+      "motion": {
+        "target": "text-men-0",
+        "before": {
+          "scrollY": 997,
+          "opacity": 0.73,
+          "top": 946.828125
+        },
+        "after": {
+          "scrollY": 1580,
+          "opacity": 1,
+          "top": 363.828125
+        },
+        "reverse": {
+          "scrollY": 997,
+          "opacity": 0.73,
+          "top": 946.828125
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "mission",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-mission-0"
+      ],
+      "width": 768,
+      "maxScroll": 2267,
+      "motion": {
+        "target": "text-mission-0",
+        "before": {
+          "scrollY": 598,
+          "opacity": 0.66,
+          "top": 946.796875
+        },
+        "after": {
+          "scrollY": 1181,
+          "opacity": 1,
+          "top": 363.796875
+        },
+        "reverse": {
+          "scrollY": 598,
+          "opacity": 0.66,
+          "top": 946.796875
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "new",
+      "viewport": 768,
+      "count": 3,
+      "ids": [
+        "text-new-0",
+        "text-new-1",
+        "text-new-2"
+      ],
+      "width": 768,
+      "maxScroll": 6160,
+      "motion": {
+        "target": "text-new-0",
+        "before": {
+          "scrollY": 709,
+          "opacity": 0.73,
+          "top": 946.84375
+        },
+        "after": {
+          "scrollY": 1292,
+          "opacity": 1,
+          "top": 363.84375
+        },
+        "reverse": {
+          "scrollY": 709,
+          "opacity": 0.73,
+          "top": 946.84375
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "our-story",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-our-story-0",
+        "text-our-story-1"
+      ],
+      "width": 768,
+      "maxScroll": 4147,
+      "motion": {
+        "target": "text-our-story-0",
+        "before": {
+          "scrollY": 382,
+          "opacity": 0.73,
+          "top": 956.65625
+        },
+        "after": {
+          "scrollY": 965,
+          "opacity": 1,
+          "top": 373.65625
+        },
+        "reverse": {
+          "scrollY": 382,
+          "opacity": 0.73,
+          "top": 956.65625
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "pastoral-care",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-pastoral-care-0",
+        "text-pastoral-care-1"
+      ],
+      "width": 768,
+      "maxScroll": 1261,
+      "motion": {
+        "target": "text-pastoral-care-1",
+        "before": {
+          "scrollY": 274,
+          "opacity": 0.66,
+          "top": 946.4839477539062
+        },
+        "after": {
+          "scrollY": 857,
+          "opacity": 1,
+          "top": 329.3290100097656
+        },
+        "reverse": {
+          "scrollY": 274,
+          "opacity": 0.660014,
+          "top": 946.4839477539062
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "prayer",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-prayer-0",
+        "text-prayer-1"
+      ],
+      "width": 768,
+      "maxScroll": 2089,
+      "motion": {
+        "target": "text-prayer-0",
+        "before": {
+          "scrollY": 138,
+          "opacity": 0.73,
+          "top": 946.375
+        },
+        "after": {
+          "scrollY": 720,
+          "opacity": 1,
+          "top": 364.375
+        },
+        "reverse": {
+          "scrollY": 138,
+          "opacity": 0.73,
+          "top": 946.375
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "previous-messages",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-previous-messages-0",
+        "text-previous-messages-1"
+      ],
+      "width": 768,
+      "maxScroll": 1220,
+      "motion": {
+        "target": "text-previous-messages-0",
+        "before": {
+          "scrollY": 42,
+          "opacity": 0.73,
+          "top": 946.40625
+        },
+        "after": {
+          "scrollY": 625,
+          "opacity": 1,
+          "top": 363.40625
+        },
+        "reverse": {
+          "scrollY": 42,
+          "opacity": 0.73,
+          "top": 946.40625
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "serve",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-serve-0"
+      ],
+      "width": 768,
+      "maxScroll": 1502,
+      "motion": {
+        "target": "text-serve-0",
+        "before": {
+          "scrollY": 647,
+          "opacity": 0.66,
+          "top": 944.88623046875
+        },
+        "after": {
+          "scrollY": 1229,
+          "opacity": 1,
+          "top": 340.34375
+        },
+        "reverse": {
+          "scrollY": 647,
+          "opacity": 0.660001,
+          "top": 944.88623046875
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "subsplash-media",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-subsplash-media-0",
+        "text-subsplash-media-1"
+      ],
+      "width": 768,
+      "maxScroll": 2418,
+      "motion": {
+        "target": "text-subsplash-media-0",
+        "before": {
+          "scrollY": 346,
+          "opacity": 0.73,
+          "top": 946.671875
+        },
+        "after": {
+          "scrollY": 929,
+          "opacity": 1,
+          "top": 363.671875
+        },
+        "reverse": {
+          "scrollY": 346,
+          "opacity": 0.73,
+          "top": 946.671875
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "watch-live",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-watch-live-0"
+      ],
+      "width": 768,
+      "maxScroll": 1534,
+      "motion": {
+        "target": "text-watch-live-0",
+        "before": {
+          "scrollY": 496,
+          "opacity": 0.73,
+          "top": 947.15625
+        },
+        "after": {
+          "scrollY": 1079,
+          "opacity": 1,
+          "top": 364.15625
+        },
+        "reverse": {
+          "scrollY": 496,
+          "opacity": 0.73,
+          "top": 947.15625
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "weather-procedures",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-weather-procedures-0",
+        "text-weather-procedures-1"
+      ],
+      "width": 768,
+      "maxScroll": 1439,
+      "motion": {
+        "target": "text-weather-procedures-1",
+        "before": {
+          "scrollY": 610,
+          "opacity": 0.73,
+          "top": 946.0953369140625
+        },
+        "after": {
+          "scrollY": 1192,
+          "opacity": 1,
+          "top": 342.375
+        },
+        "reverse": {
+          "scrollY": 610,
+          "opacity": 0.73,
+          "top": 946.0953369140625
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "women",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-women-0"
+      ],
+      "width": 768,
+      "maxScroll": 1598,
+      "motion": {
+        "target": "text-women-0",
+        "before": {
+          "scrollY": 764,
+          "opacity": 0.66,
+          "top": 945.6099853515625
+        },
+        "after": {
+          "scrollY": 1347,
+          "opacity": 1,
+          "top": 337.6875
+        },
+        "reverse": {
+          "scrollY": 764,
+          "opacity": 0.660001,
+          "top": 945.6099853515625
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "young-adults",
+      "viewport": 768,
+      "count": 1,
+      "ids": [
+        "text-young-adults-0"
+      ],
+      "width": 768,
+      "maxScroll": 2432,
+      "motion": {
+        "target": "text-young-adults-0",
+        "before": {
+          "scrollY": 945,
+          "opacity": 0.73,
+          "top": 946.53125
+        },
+        "after": {
+          "scrollY": 1528,
+          "opacity": 1,
+          "top": 363.53125
+        },
+        "reverse": {
+          "scrollY": 945,
+          "opacity": 0.73,
+          "top": 946.53125
+        }
+      },
+      "errors": []
+    },
+    {
+      "route": "youth",
+      "viewport": 768,
+      "count": 2,
+      "ids": [
+        "text-youth-0",
+        "text-youth-1"
+      ],
+      "width": 768,
+      "maxScroll": 2061,
+      "motion": {
+        "target": "text-youth-0",
+        "before": {
+          "scrollY": 443,
+          "opacity": 0.73,
+          "top": 947.078125
+        },
+        "after": {
+          "scrollY": 1026,
+          "opacity": 1,
+          "top": 364.078125
+        },
+        "reverse": {
+          "scrollY": 443,
+          "opacity": 0.73,
+          "top": 947.078125
         }
       },
       "errors": []

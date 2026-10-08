@@ -9,7 +9,7 @@ const base=process.argv[2]||'http://127.0.0.1:4201/';
 const out='art-direction/qa/text-choreography';await fs.mkdir(out,{recursive:true});
 const browser=await chromium.launch({headless:true,executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});
 const results=[];
-for(const [name,width,height]of[['desktop',1440,900],['phone',390,844]]){
+for(const [name,width,height]of[['desktop',1440,900],['tablet',768,1024],['phone',390,844]]){
  const page=await browser.newPage({viewport:{width,height}});
  for(const route of routes){
   const errors=[];const onError=error=>errors.push(String(error));page.on('pageerror',onError);
@@ -59,7 +59,7 @@ for(const route of ['kids','calendar','pastoral-care']){
  results.push({route,viewport:'reduced-phone',...state});await page.close();
 }
 await browser.close();
-for(const [name,cellWidth,cellHeight,columns]of[['desktop',360,225,4],['phone',195,422,6]]){
+for(const [name,cellWidth,cellHeight,columns]of[['desktop',360,225,4],['tablet',256,341,5],['phone',195,422,6]]){
  const rows=Math.ceil(routes.length/columns),composite=[];
  for(const [index,route]of routes.entries()){
   const image=await sharp(path.join(out,`${route}-${name}-review.jpg`)).resize(cellWidth,cellHeight,{fit:'cover',position:'top'}).jpeg({quality:78}).toBuffer();
@@ -71,5 +71,5 @@ for(const [name,cellWidth,cellHeight,columns]of[['desktop',360,225,4],['phone',1
 }
 const failures=results.filter(row=>row.errors?.length||row.count===0||row.width>row.viewport+2||row.motion&&(row.motion.after.opacity<.97||row.motion.reverse.opacity>=row.motion.after.opacity));
 await fs.writeFile(path.join(out,'results.json'),JSON.stringify({created:new Date().toISOString(),base,results,failures},null,2));
-console.log(JSON.stringify({routes:routes.length,viewports:2,motionSamples:results.filter(x=>x.motion).length,failures:failures.map(x=>({route:x.route,viewport:x.viewport,count:x.count,errors:x.errors,motion:x.motion}))},null,2));
+console.log(JSON.stringify({routes:routes.length,viewports:3,motionSamples:results.filter(x=>x.motion).length,failures:failures.map(x=>({route:x.route,viewport:x.viewport,count:x.count,errors:x.errors,motion:x.motion}))},null,2));
 if(failures.length)process.exitCode=1;
