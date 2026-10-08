@@ -325,7 +325,7 @@ function activate(){
   if(!stage||!travel){
     document.documentElement.style.setProperty('--header-progress','1');
     const secondaryHeader=document.getElementById('siteHeader');
-    const settleSecondary=()=>secondaryHeader?.classList.toggle('is-glass',scrollY>80);
+    const settleSecondary=()=>{const strength=Math.max(0,Math.min(1,scrollY/220));secondaryHeader?.style.setProperty('--glass-strength',strength.toFixed(3));secondaryHeader?.classList.toggle('is-glass',strength>.01)};
     addEventListener('scroll',settleSecondary,{passive:true});settleSecondary();
     return
   }
@@ -341,7 +341,11 @@ function activate(){
   function update(){
     raf=0;
     const siteHeader=document.getElementById('siteHeader');
-    siteHeader.classList.toggle('is-glass',travel.getBoundingClientRect().bottom<=siteHeader.offsetHeight+140);
+    const glassStrength=Math.max(0,Math.min(1,(430-travel.getBoundingClientRect().bottom)/350));
+    siteHeader.style.setProperty('--glass-strength',glassStrength.toFixed(3));
+    siteHeader.classList.toggle('is-glass',glassStrength>.01);
+    const leaving=Math.max(0,Math.min(1,(innerHeight+200-travel.getBoundingClientRect().bottom)/300));
+    stage.style.setProperty('--copy-exit',(1-leaving).toFixed(3));
     const h=Math.max(1,travel.offsetHeight-innerHeight);
     const raw=Math.max(0,Math.min(1,-travel.getBoundingClientRect().top/h));
     const p=matchMedia('(prefers-reduced-motion: reduce)').matches?1:raw;

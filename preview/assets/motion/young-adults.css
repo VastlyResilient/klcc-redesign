@@ -4,13 +4,13 @@
 .site-header .brand img{filter:brightness(0) invert(1)}
 .site-header .quick-nav a[aria-current],.site-header .menu-toggle:hover{color:inherit}
 
-/* Persistent navigation: transparent at the opening, frosted once content begins. */
-.site-header{position:fixed;transition:padding .4s cubic-bezier(.2,.7,.2,1),background-color .35s,border-color .35s,box-shadow .35s}
-.site-header.is-glass{mix-blend-mode:normal;inset:10px 2.5% auto;width:95%;border:1px solid #ffffff4d;border-radius:18px;background:rgba(16,28,42,.92);box-shadow:0 14px 42px #08101c2e;color:#fff}
+/* Full-width navigation glass gains strength with native scroll. */
+.site-header{--glass-strength:0;position:fixed;inset:0 0 auto;width:100%;padding-block:calc(22px - var(--glass-strength)*12px);border:0;border-radius:0;border-bottom:1px solid rgba(255,255,255,calc(var(--glass-strength)*.18));background:rgba(9,33,60,calc(var(--glass-strength)*.78));box-shadow:none;transition:none}
+.site-header.is-glass{mix-blend-mode:normal;color:#fff}
 @supports (backdrop-filter:blur(1px)){
-  .site-header.is-glass{background:rgba(16,28,42,.70);backdrop-filter:blur(18px) saturate(1.25);-webkit-backdrop-filter:blur(18px) saturate(1.25)}
+  .site-header{background:rgba(9,33,60,calc(var(--glass-strength)*.44));backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25);-webkit-backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25)}
 }
-@media(max-width:700px){.site-header.is-glass{inset:8px 12px auto;width:calc(100% - 24px)}}
+@media(max-width:700px){.site-header{padding-block:calc(16px - var(--glass-strength)*6px)}}
 /* Route-owned composition: young-adults; Royal anchor, Lou reading and Slab image-entry donors. */
 .young-adults-page{padding-top:140px;overflow:clip}.young-adults-page section{padding:80px var(--edge)}.young-adults-page .eyebrow{color:var(--ice);margin-bottom:24px}.young-adults-page h1{font-size:clamp(42px,6.6vw,94px);max-width:16ch;line-height:.98;letter-spacing:-.045em}.young-adults-page h2{max-width:22ch}.young-adults-page figcaption{font-size:12px;line-height:1.5;color:var(--ice);margin-top:12px}.young-adults-page .actions{display:flex;flex-wrap:wrap;gap:20px 32px;margin-top:26px}.young-adults-page .scripture{padding:110px var(--edge);background:var(--navy)}.young-adults-page .scripture h2{font-size:clamp(30px,4.8vw,66px);max-width:24ch;margin-left:24%;margin-bottom:32px}.young-adults-page .scripture p{margin-left:24%;max-width:52ch;color:var(--ice)}.young-adults-page .paper{background:var(--paper);color:var(--ink)}.young-adults-page .paper .eyebrow,.young-adults-page .paper figcaption{color:#43596c}.young-adults-page .paper .button{background:var(--ink);color:var(--paper)}.young-adults-page .rule{border-top:1px solid #ffffff35;padding-top:25px}.young-adults-page details{border-top:1px solid currentColor;padding:20px 0}.young-adults-page summary{cursor:pointer;font-weight:600}.young-adults-page details p{margin-top:20px}
 @media(max-width:700px){.young-adults-page{padding-top:110px}.young-adults-page section{padding:55px var(--edge)}.young-adults-page h1{font-size:44px}.young-adults-page .scripture{padding:70px var(--edge)}.young-adults-page .scripture h2,.young-adults-page .scripture p{margin-left:0}}
