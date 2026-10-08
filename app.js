@@ -322,7 +322,13 @@ function activate(){
   }
   const stage=document.getElementById('filmStage');
   const travel=document.querySelector('.film-travel');
-  if(!stage||!travel){document.documentElement.style.setProperty('--header-progress','1');return}
+  if(!stage||!travel){
+    document.documentElement.style.setProperty('--header-progress','1');
+    const secondaryHeader=document.getElementById('siteHeader');
+    const settleSecondary=()=>secondaryHeader?.classList.toggle('is-glass',scrollY>80);
+    addEventListener('scroll',settleSecondary,{passive:true});settleSecondary();
+    return
+  }
   const video=document.getElementById('filmVideo');
   let duration=0,raf=0,pending=0;
   // A produced clip is installed at this exact path after its quality gate.
