@@ -496,3 +496,9 @@ body.windsor-motion :is(.route-opening--signal,[data-route="alpha"],[data-route=
  body.windsor-motion .windsor-horizontal .group-row p{font-size:18px;line-height:1.6;margin:0}
  body.windsor-motion .windsor-horizontal .groups-register{margin:0;align-self:flex-start;min-height:44px}
 }
+
+/* Transparent opening navigation, including the legacy homepage shell. */
+body.experience-rebuild .site-header,
+body.experience-rebuild[data-page="/"] .site-header{position:absolute;background:transparent;border-bottom:0;backdrop-filter:none;-webkit-backdrop-filter:none;box-shadow:none}
+body.experience-rebuild.menu-open .site-header{position:fixed}
+body.experience-rebuild[data-page="/"] .film-stage{padding-top:0}
