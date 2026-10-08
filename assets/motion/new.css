@@ -11,6 +11,13 @@
   .site-header{background:rgba(9,33,60,calc(var(--glass-strength)*.44));backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25);-webkit-backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25)}
 }
 @media(max-width:700px){.site-header{padding-block:calc(16px - var(--glass-strength)*6px)}}
+
+/* Reference-backed, bounded typography motion. The HTML stays readable without JS. */
+.klcc-text-word{display:inline-block;vertical-align:baseline}
+.klcc-text-copy{display:block}
+.eyebrow[style*="--text-index-progress"]{letter-spacing:calc(.14em + var(--text-index-progress)*.035em)}
+@media(prefers-reduced-motion:reduce){.klcc-text-word,.klcc-text-copy{opacity:1!important;transform:none!important}}
+body.motion-reduced .klcc-text-word,body.motion-reduced .klcc-text-copy{opacity:1!important;transform:none!important}
 /* Route-owned composition: new; Royal anchor, Lou reading and Slab image-entry donors. */
 .new-page{padding-top:140px;overflow:clip}.new-page section{padding:80px var(--edge)}.new-page .eyebrow{color:var(--ice);margin-bottom:24px}.new-page h1{font-size:clamp(42px,6.6vw,94px);max-width:16ch;line-height:.98;letter-spacing:-.045em}.new-page h2{max-width:22ch}.new-page figcaption{font-size:12px;line-height:1.5;color:var(--ice);margin-top:12px}.new-page .actions{display:flex;flex-wrap:wrap;gap:20px 32px;margin-top:26px}.new-page .scripture{padding:110px var(--edge);background:var(--navy)}.new-page .scripture h2{font-size:clamp(30px,4.8vw,66px);max-width:24ch;margin-left:24%;margin-bottom:32px}.new-page .scripture p{margin-left:24%;max-width:52ch;color:var(--ice)}.new-page .paper{background:var(--paper);color:var(--ink)}.new-page .paper .eyebrow,.new-page .paper figcaption{color:#43596c}.new-page .paper .button{background:var(--ink);color:var(--paper)}.new-page .rule{border-top:1px solid #ffffff35;padding-top:25px}.new-page details{border-top:1px solid currentColor;padding:20px 0}.new-page summary{cursor:pointer;font-weight:600}.new-page details p{margin-top:20px}
 @media(max-width:700px){.new-page{padding-top:110px}.new-page section{padding:55px var(--edge)}.new-page h1{font-size:44px}.new-page .scripture{padding:70px var(--edge)}.new-page .scripture h2,.new-page .scripture p{margin-left:0}}

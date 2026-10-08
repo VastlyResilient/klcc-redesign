@@ -11,6 +11,13 @@
   .site-header{background:rgba(9,33,60,calc(var(--glass-strength)*.44));backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25);-webkit-backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25)}
 }
 @media(max-width:700px){.site-header{padding-block:calc(16px - var(--glass-strength)*6px)}}
+
+/* Reference-backed, bounded typography motion. The HTML stays readable without JS. */
+.klcc-text-word{display:inline-block;vertical-align:baseline}
+.klcc-text-copy{display:block}
+.eyebrow[style*="--text-index-progress"]{letter-spacing:calc(.14em + var(--text-index-progress)*.035em)}
+@media(prefers-reduced-motion:reduce){.klcc-text-word,.klcc-text-copy{opacity:1!important;transform:none!important}}
+body.motion-reduced .klcc-text-word,body.motion-reduced .klcc-text-copy{opacity:1!important;transform:none!important}
 .calendar-opening{padding:155px var(--edge) 60px}.calendar-opening h1{font-size:clamp(60px,12vw,180px);line-height:1;letter-spacing:-.06em;margin:25px 0 40px}.calendar-opening>div{display:flex;justify-content:space-between;align-items:center;gap:30px;border-top:1px solid #ffffff50;padding-top:24px}.calendar-opening>div p{font-size:22px;max-width:38ch}.calendar-opening a{font-size:16px;flex-shrink:0}.calendar-agenda{background:var(--paper);color:var(--ink);padding:40px var(--edge) 55px}.calendar-context{display:flex;justify-content:space-between;gap:20px;padding-bottom:25px;align-items:center}.calendar-context p:last-child{font-size:14px}.calendar-agenda iframe{display:block;width:100%;height:800px;border:0;background:white}.calendar-help{font-size:15px;max-width:70ch;margin-top:25px}.calendar-paths{padding:80px var(--edge)}.calendar-paths>.eyebrow{margin-bottom:30px;color:var(--ice)}.calendar-paths a{border-top:1px solid #ffffff40;padding:28px 0;display:flex;justify-content:space-between;gap:25px;text-decoration:none;align-items:center}.calendar-paths span{font-size:clamp(30px,4.3vw,62px);letter-spacing:-.04em;font-weight:500}.calendar-paths small{font-size:16px;color:var(--ice)}.calendar-paths a:hover span,.calendar-paths a:focus-visible span{color:var(--ice)}@media(max-width:700px){.calendar-opening{padding-top:135px}.calendar-opening h1{font-size:16vw}.calendar-opening>div{display:block}.calendar-opening>div p{font-size:20px}.calendar-opening a{margin-top:20px}.calendar-context{display:block}.calendar-context p:last-child{margin-top:10px}.calendar-agenda{padding:35px 15px 45px}.calendar-agenda iframe{height:720px}.calendar-paths{padding:60px var(--edge)}.calendar-paths a{display:block}.calendar-paths span{display:block;font-size:35px}.calendar-paths small{display:block;margin-top:14px}}
 
 /* 2026-10-07: inspected source topology repair; practical content holds. */

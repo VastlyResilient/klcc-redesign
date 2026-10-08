@@ -11,6 +11,13 @@
   .site-header{background:rgba(9,33,60,calc(var(--glass-strength)*.44));backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25);-webkit-backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25)}
 }
 @media(max-width:700px){.site-header{padding-block:calc(16px - var(--glass-strength)*6px)}}
+
+/* Reference-backed, bounded typography motion. The HTML stays readable without JS. */
+.klcc-text-word{display:inline-block;vertical-align:baseline}
+.klcc-text-copy{display:block}
+.eyebrow[style*="--text-index-progress"]{letter-spacing:calc(.14em + var(--text-index-progress)*.035em)}
+@media(prefers-reduced-motion:reduce){.klcc-text-word,.klcc-text-copy{opacity:1!important;transform:none!important}}
+body.motion-reduced .klcc-text-word,body.motion-reduced .klcc-text-copy{opacity:1!important;transform:none!important}
 /* Royal Contact practical opening; Slab next-project volunteer continuation. */
 .kids-page{padding-top:150px;overflow:clip}.kids-page section{padding:55px var(--edge) 80px}.kids-page .eyebrow{font-size:12px;letter-spacing:.12em;color:var(--ice);margin-bottom:24px}.kids-page h1{font-size:50px;line-height:1.1;letter-spacing:-.025em;max-width:16ch}.kids-page figcaption{font-size:12px;line-height:1.5;color:var(--ice);margin-top:12px}
 .kids-opening{display:grid;grid-template-columns:46% 46%;gap:8%;align-items:start}.kids-arrival-facts{margin-top:44px}.kids-arrival-facts p{margin-bottom:27px}.kids-arrival-facts span,.kids-arrival-facts strong{display:block}.kids-arrival-facts span{font-size:13px;color:var(--ice);margin-bottom:8px}.kids-arrival-facts strong{font-size:24px;font-weight:500;line-height:1.3}.kids-arrival>.text-link{margin-top:8px}.kids-learning{padding-top:65px}.kids-intro p{font-size:20px;line-height:1.55;max-width:45ch}.orientation-photo{margin-top:35px;max-width:420px}.orientation-photo img{width:100%;height:auto}

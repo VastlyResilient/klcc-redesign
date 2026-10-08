@@ -1,3 +1,4 @@
+import './text-choreography.js';
 const header=document.querySelector('.site-header')!,menu=document.querySelector<HTMLDialogElement>('#site-menu')!,toggle=document.querySelector<HTMLButtonElement>('.menu-toggle')!;
 const settle=()=>{const strength=Math.max(0,Math.min(1,scrollY/220));header.style.setProperty('--glass-strength',strength.toFixed(3));header.classList.toggle('is-glass',strength>.85)};addEventListener('scroll',settle,{passive:true});settle();
 const close=()=>{menu.close();toggle.setAttribute('aria-expanded','false');document.documentElement.classList.remove('no-scroll');toggle.focus()};toggle.addEventListener('click',()=>{menu.showModal();toggle.setAttribute('aria-expanded','true');document.documentElement.classList.add('no-scroll')});menu.querySelector('.menu-close')?.addEventListener('click',close);menu.addEventListener('cancel',e=>{e.preventDefault();close()});

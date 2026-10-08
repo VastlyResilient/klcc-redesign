@@ -11,3 +11,10 @@
   .site-header{background:rgba(9,33,60,calc(var(--glass-strength)*.44));backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25);-webkit-backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25)}
 }
 @media(max-width:700px){.site-header{padding-block:calc(16px - var(--glass-strength)*6px)}}
+
+/* Reference-backed, bounded typography motion. The HTML stays readable without JS. */
+.klcc-text-word{display:inline-block;vertical-align:baseline}
+.klcc-text-copy{display:block}
+.eyebrow[style*="--text-index-progress"]{letter-spacing:calc(.14em + var(--text-index-progress)*.035em)}
+@media(prefers-reduced-motion:reduce){.klcc-text-word,.klcc-text-copy{opacity:1!important;transform:none!important}}
+body.motion-reduced .klcc-text-word,body.motion-reduced .klcc-text-copy{opacity:1!important;transform:none!important}
