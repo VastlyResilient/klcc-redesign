@@ -322,7 +322,13 @@ function activate(){
   }
   const stage=document.getElementById('filmStage');
   const travel=document.querySelector('.film-travel');
-  if(!stage||!travel){document.documentElement.style.setProperty('--header-progress','1');return}
+  if(!stage||!travel){
+    document.documentElement.style.setProperty('--header-progress','1');
+    const secondaryHeader=document.getElementById('siteHeader');
+    const settleSecondary=()=>secondaryHeader?.classList.toggle('is-glass',scrollY>80);
+    addEventListener('scroll',settleSecondary,{passive:true});settleSecondary();
+    return
+  }
   const video=document.getElementById('filmVideo');
   let duration=0,raf=0,pending=0;
   // A produced clip is installed at this exact path after its quality gate.
@@ -334,6 +340,8 @@ function activate(){
   function schedule(){if(!raf)raf=requestAnimationFrame(update)}
   function update(){
     raf=0;
+    const siteHeader=document.getElementById('siteHeader');
+    siteHeader.classList.toggle('is-glass',travel.getBoundingClientRect().bottom<=siteHeader.offsetHeight+140);
     const h=Math.max(1,travel.offsetHeight-innerHeight);
     const raw=Math.max(0,Math.min(1,-travel.getBoundingClientRect().top/h));
     const p=matchMedia('(prefers-reduced-motion: reduce)').matches?1:raw;
