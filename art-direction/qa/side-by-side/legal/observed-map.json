@@ -1,0 +1,73 @@
+{
+  "route": "legal",
+  "status": "Comparison-created-not-reviewed",
+  "method": "Source states mapped from authored data-reference-landmark and observed DOM section order. These are adaptation comparisons, not exact CSS similarity assertions.",
+  "results": [
+    {
+      "section": "legal-notice",
+      "referenceRole": "contact",
+      "created": "2026-10-07T07:14:12.369Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "section-section-0",
+          "buildState": "section-legal-notice",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/legal/observed-0/desktop-section-legal-notice.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "section-section-0",
+          "buildState": "section-legal-notice",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/legal/observed-0/tablet-section-legal-notice.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "section-section-0",
+          "buildState": "section-legal-notice",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/legal/observed-0/phone-section-legal-notice.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": "legal-services",
+      "referenceRole": "brief",
+      "created": "2026-10-07T07:14:12.523Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "forward-002",
+          "buildState": "section-legal-services",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/legal/observed-1/desktop-section-legal-services.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "forward-002",
+          "buildState": "section-legal-services",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/legal/observed-1/tablet-section-legal-services.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "forward-002",
+          "buildState": "section-legal-services",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/legal/observed-1/phone-section-legal-services.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    }
+  ]
+}

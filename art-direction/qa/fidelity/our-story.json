@@ -1,0 +1,405 @@
+{
+  "route": "our-story",
+  "status": "Fidelity-reviewed",
+  "reviewed_at": "2026-10-07T06:27:47.062220+00:00",
+  "reviewer": "independent v22_inventory_gates agent",
+  "reference": "Royal /about",
+  "sections": [
+    {
+      "id": "story-opening",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "section",
+          "comparison": "review/independent/our-story-0.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-section-story-opening.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "state": "section",
+          "comparison": "review/independent/our-story-1.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/corrected-phone/phone-section-story-opening.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "state": "section",
+          "comparison": "review/independent/our-story-2.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Targeted tablet correction: h1 now40px, matching chosen source. Whole opening visually inspected: no clipped/awkward heading words, facts and imagery retain prior hierarchy, zero overflow. Desktop and phone h1 sizes remain unchanged. This does not clear other structural or global anti-sameness failures.",
+          "build_evidence": "art-direction/qa/round-3/tablet-heading-followup/our-story-whole-opening.png",
+          "reviewer": "repair_practical independent follow-up",
+          "reviewed_at": "2026-10-07T09:52:53.527835+00:00",
+          "source_evidence": "art-direction/references/deep/royal/about/tablet/section-hero.png",
+          "followup_measurements": "art-direction/qa/round-3/tablet-heading-followup/measurements.json",
+          "original_comparison": "art-direction/qa/round-3/tablet-heading-followup/our-story-comparison.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "story-chapters",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "p0",
+          "comparison": "review/independent/our-story-3.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-story-chapters-p0.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1440,
+          "state": "p0.25",
+          "comparison": "review/independent/our-story-4.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-story-chapters-p0.25.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1440,
+          "state": "p0.5",
+          "comparison": "review/independent/our-story-5.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-story-chapters-p0.5.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1440,
+          "state": "p0.75",
+          "comparison": "review/independent/our-story-6.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-story-chapters-p0.75.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1440,
+          "state": "p1",
+          "comparison": "review/independent/our-story-7.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-story-chapters-p1.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "state": "p0",
+          "comparison": "review/independent/our-story-8.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-story-chapters-p0.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "state": "p0.25",
+          "comparison": "review/independent/our-story-9.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-story-chapters-p0.25.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "state": "p0.5",
+          "comparison": "review/independent/our-story-10.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-story-chapters-p0.5.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "state": "p0.75",
+          "comparison": "review/independent/our-story-11.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-story-chapters-p0.75.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "state": "p1",
+          "comparison": "review/independent/our-story-12.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-story-chapters-p1.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "state": "section",
+          "comparison": "review/independent/our-story-13.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/corrected-phone/phone-section-story-chapters.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "story-founders",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "section",
+          "comparison": "review/independent/our-story-14.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-section-story-founders.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "state": "section",
+          "comparison": "review/independent/our-story-15.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-section-story-founders.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "state": "section",
+          "comparison": "review/independent/our-story-16.webp",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity.",
+          "original_comparison": "art-direction/qa/side-by-side/our-story/corrected-phone/phone-section-story-founders.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    }
+  ],
+  "owner_feedback": null,
+  "accepted": false,
+  "kept": "Left uppercase introduction, broad real image and fact row, synchronized sticky copy/photo chapters, portrait identity grouping.",
+  "adapted": "Royal commercial proof became real founding facts. Long source church chapters require more reading space. Founders replace generic team roles. Phone releases pin and uses intact landscape photos to preserve faces and complete copy. KLCC blue/cream replaces Royal black; actual archival grain retained.",
+  "findings": [
+    {
+      "id": "mobile-archive-crop",
+      "initial_score": 3,
+      "resolution": "Rebuilt phone images at native landscape aspect and captions below; verified corrected-phone captures."
+    },
+    {
+      "id": "generic-blueprint-text",
+      "resolution": "Actual source and adaptation records expanded by parent; not a generic page-family proof."
+    },
+    {
+      "id": "landmark-under-header",
+      "resolution": "Programmatic section-top captures can intersect fixed header. Actual menu/navigation/reverse/reduced-motion checks found no obscured anchor failure."
+    }
+  ],
+  "interaction_evidence": [
+    "art-direction/qa/reviewer/pilot-menu-reduced.json",
+    "art-direction/qa/reviewer/pilot-interactions.json"
+  ],
+  "review_scope": "Visual reconstruction judgment at three browser viewports, five desktop/tablet sticky states, static phone rewrite. Automated full-site resilience/structural reports remain separate gates.",
+  "limits": [
+    "No physical device testing.",
+    "Owner approval remains outstanding.",
+    "Authentic historical source photograph is visibly grainy.",
+    "Source Framer timing settings were unavailable; reconstructed transition timings are estimates."
+  ],
+  "tablet_followup": {
+    "reviewer": "repair_practical independent follow-up",
+    "reviewed_at": "2026-10-07T09:52:53.527835+00:00",
+    "evidence": "art-direction/qa/round-3/tablet-heading-followup/review.json",
+    "scope": "Only corrected1024px h1 scale/line-break/opening review; does not clear all structural or anti-sameness assertions"
+  }
+}

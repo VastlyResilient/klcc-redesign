@@ -1,0 +1,16 @@
+{
+  "name": "klcc-v22-reviewed-build",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.13.0" },
+  "scripts": {
+    "build": "node --experimental-strip-types scripts/build.ts",
+    "preview": "python3 -m http.server 4201",
+    "qa:gates": "node --experimental-strip-types scripts/gates.ts",
+    "qa:links": "node --experimental-strip-types scripts/links.ts",
+    "qa:motion": "node --experimental-strip-types scripts/motion-audit.ts",
+    "qa:resilience": "node --experimental-strip-types scripts/resilience.ts"
+  },
+  "devDependencies": { "playwright": "1.60.0", "sharp": "0.34.5", "esbuild": "0.21.5" }
+}

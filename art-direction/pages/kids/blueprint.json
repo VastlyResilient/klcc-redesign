@@ -1,0 +1,309 @@
+{
+  "route": "kids",
+  "reference": {
+    "template": "royal",
+    "route": "/contact",
+    "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+    "mode": "B",
+    "donors": [
+      "lou",
+      "slab"
+    ]
+  },
+  "visitor_job": "Confirm ages and Sunday start time, then volunteer if appropriate.",
+  "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
+  "critical_answer": "Ages 6 weeks through sixth grade. Classes open Sunday at 9:45 AM. Preserve the source description without inventing additional safety promises.",
+  "primary_action": {
+    "route": "kids",
+    "source": "https://klcc.us/kids",
+    "source_date": "2026-10-01",
+    "required": true,
+    "id": "cta:kids.s2.a0",
+    "type": "cta",
+    "label": "Sign Up",
+    "original_destination": "https://klccus.churchcenter.com/people/forms/595671",
+    "approved_destination": "https://klccus.churchcenter.com/people/forms/595671",
+    "live_match": true
+  },
+  "supporting_proof": "Actual source copy and authentic source assets; consult the asset manifest.",
+  "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
+  "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
+  "signature": {
+    "id": "kids-parent-arrival",
+    "dominant_verb": "Orient",
+    "structural_idea": "Immediate practical contact hierarchy then separate volunteer continuation"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "none",
+    "driver": "static",
+    "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+  },
+  "content_ids": [
+    "ci:kids.s0.b0",
+    "ci:kids.s1.b0",
+    "ci:kids.s2.b0",
+    "ci:kids.s2.b1",
+    "cta:kids.s2.a0",
+    "ci:kids.s3.b0",
+    "ci:kids.s3.b1",
+    "img:kids.page-kids",
+    "img:kids.faith-editorial"
+  ],
+  "sections": [
+    {
+      "id": "kids-opening",
+      "title": "Kingdom Kids",
+      "visitor_task": "Confirm ages and Sunday start time, then volunteer if appropriate.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "landmark": "section-0",
+        "state": "opening-settled",
+        "composition": "Asymmetric contact identity and factual channels left; lower right complete explanation. Subordinate campus orientation image follows right copy.",
+        "selection_reason": "Parent must find ages, Sunday timing and check-in immediately; broad photo hero duplicated New."
+      },
+      "company_content": {
+        "copy": [
+          "ci:kids.s0.b0",
+          "ci:kids.s1.b0"
+        ],
+        "media": [],
+        "cta": []
+      },
+      "content_ids": [
+        "ci:kids.s0.b0",
+        "ci:kids.s1.b0"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 distinct opening revision; see preconstruction decision in plan.md.",
+        "ground": "ink",
+        "motion": {
+          "mechanism": "Hold / native document progression",
+          "selectors": [],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "All text and actions visible by default",
+          "reverse": "Native flow"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Title, ages,9:45 AM and check-in link precede complete learning description and small campus context image.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/kids.json",
+        "reviewed_at": "2026-10-07T20:09:58.359Z"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "kids-team",
+      "title": "Help children grow",
+      "visitor_task": "Read help children grow and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "section-7",
+        "state": "forward-015",
+        "composition": "Centered next-step identity gives way to dominant artwork entering from below, then explicit volunteer explanation and signup.",
+        "selection_reason": "Slab continuation advances to another task; parent journey now offers service as a deliberate optional next step.",
+        "selector": "[data-framer-name=\"Next Project Section\"]",
+        "semantic_manifest": "art-direction/references/deep/slab/hydra-regions/regions.json"
+      },
+      "company_content": {
+        "copy": [
+          "ci:kids.s2.b0",
+          "ci:kids.s3.b0",
+          "ci:kids.s3.b1",
+          "ci:kids.s2.b1"
+        ],
+        "media": [
+          "img:kids.faith-editorial"
+        ],
+        "cta": [
+          "cta:kids.s2.a0"
+        ]
+      },
+      "content_ids": [
+        "ci:kids.s2.b0",
+        "img:kids.faith-editorial",
+        "ci:kids.s3.b0",
+        "ci:kids.s3.b1",
+        "ci:kids.s2.b1",
+        "cta:kids.s2.a0"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 distinct opening revision; see preconstruction decision in plan.md.",
+        "ground": "paper",
+        "motion": {
+          "mechanism": "Scroll-linked bounded artwork translation",
+          "selectors": [
+            ".kids-next-art figure"
+          ],
+          "source_settings": "Source observed vertical translations900\u2192669\u2192182\u2192-20px around next-project; exact curve unknown",
+          "implementation_values": "y=clamp(0,(stage.top-.2*viewportHeight)*.28,160px), native scroll; no pin or auto-navigation",
+          "reverse": "Translation reverses with scroll; essential copy and signup remain static",
+          "mobile": "Hold at700px and below",
+          "reduced_motion": "Hold, transform:none",
+          "inspector": {
+            "id": "kids-volunteer-art-continuation",
+            "bounds": "start=artDocumentTop-.2*viewportHeight-160/.28; end=artDocumentTop-.2*viewportHeight",
+            "hold": "Scene unregistered at<=700px or reduced motion because no motion exists"
+          }
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Show age and time before the image. Keep original artwork uncropped where lettering matters and avoid any sticky section that delays practical information.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Slab automatic next-project navigation and progress",
+          "conflict": "Volunteer signup must be deliberate and never triggered by scrolling",
+          "adaptation": "Explicit existing signup action; no invented completion percentage; bounded media translation only",
+          "test": "Forward/reverse artwork positions, keyboard signup, phone and reduced-motion static state"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/kids.json",
+        "reviewed_at": "2026-10-07T20:09:58.359Z"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    }
+  ],
+  "content_coverage": {
+    "expected": 9,
+    "assigned": 8,
+    "missing": [
+      "img:kids.page-kids"
+    ]
+  },
+  "deletion_pass": "Do not add invented photographs of children, floating feature icons, or unsupported safeguarding claims.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "unresolved": [
+    "Fresh independent source/composition and motion review pending; no owner acceptance inferred."
+  ],
+  "title": "Kids | Kingdom Life",
+  "implementation": {
+    "source": "src/pages/kids.html",
+    "css": "src/pages/kids.css",
+    "motion": "src/motion/scenes/kids.ts",
+    "observed_references": [
+      "art-direction/references/deep/royal/contact/dossier.md#section-0",
+      "art-direction/references/deep/slab/hydra-scoped/dossier.md#next-project"
+    ],
+    "values": "See exact per-section reconstruction.motion; old generic opacity observers removed.",
+    "deviation": "Motion is estimated rather than exact editor reconstruction. No invented pairwise axis distinctions. Every element remains visible before script.",
+    "status": "Reconstructed; independent fidelity review pending",
+    "actual_sections": [
+      {
+        "class": [
+          "kids-opening"
+        ],
+        "reference_landmark": "section-0"
+      },
+      {
+        "class": [
+          "kids-team"
+        ],
+        "reference_landmark": "next-project"
+      }
+    ],
+    "full_section_order": [
+      "kids-opening",
+      "kids-team"
+    ],
+    "deleted": [
+      "Legacy texture-only source backgrounds omitted where they conflicted with the locked identity; asset files retained.",
+      "No automatic decorative arrows or icon badges."
+    ],
+    "functional_checks": {
+      "viewports": [
+        1440,
+        1024,
+        390
+      ],
+      "artifact": "art-direction/qa/functional-young-adults-youth-kids-women-men-new-leadership-life-groups.json",
+      "result": "24 browser checks clean: no overflow, required ledger omissions, missing loaded images, JS errors, or hidden reduced-motion essentials; menu/Escape functional."
+    }
+  },
+  "motion_contract": {
+    "mechanisms": [
+      "Scroll-linked bounded artwork translation"
+    ],
+    "essential_content": "All required content and actions render without JS; reduced-motion remains static.",
+    "section_contracts": [
+      {
+        "mechanism": "Scroll-linked bounded artwork translation",
+        "selectors": [
+          ".kids-next-art figure"
+        ],
+        "source_settings": "Source observed vertical translations900\u2192669\u2192182\u2192-20px around next-project; exact curve unknown",
+        "implementation_values": "y=clamp(0,(stage.top-.2*viewportHeight)*.28,160px), native scroll; no pin or auto-navigation",
+        "reverse": "Translation reverses with scroll; essential copy and signup remain static",
+        "mobile": "Hold at700px and below",
+        "reduced_motion": "Hold, transform:none",
+        "inspector": {
+          "id": "kids-volunteer-art-continuation",
+          "bounds": "start=artDocumentTop-.2*viewportHeight-160/.28; end=artDocumentTop-.2*viewportHeight",
+          "hold": "Scene unregistered at<=700px or reduced motion because no motion exists"
+        }
+      }
+    ],
+    "selectors": [
+      ".kids-next-art figure"
+    ]
+  },
+  "repair": {
+    "date": "2026-10-07",
+    "status": "Rebuilt; author desktop/tablet/phone visual checks performed; independent reference review still required",
+    "source_decision": "2026-10-07 distinct-opening decision in plan.md",
+    "removed_false_mechanism": "Short scripture heading no longer receives Lou footer blur",
+    "content": "All original IDs retained. Repeated scripture section deleted; exact scripture now serves contextual proof inside task-specific section, not a separate false Lou donor scene.",
+    "author_capture_directory": "/tmp/klcc-ministry-repair"
+  },
+  "motion_fallbacks": {
+    "phone": {
+      "max_width": 700,
+      "mechanism": "Hold",
+      "reason": "Native flow keeps parent information and volunteer artwork stationary on small screens."
+    }
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/kids.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

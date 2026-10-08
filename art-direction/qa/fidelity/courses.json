@@ -1,0 +1,441 @@
+{
+  "route": "courses",
+  "status": "Fidelity-reviewed",
+  "accepted": false,
+  "sections": [
+    {
+      "id": "courses-opening",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-opening-desktop.png",
+          "build_sha256": "a149ad6078e73da76a1ab4028e08500151fa5fcf8bfcd99a6ae3082a88ddb4a1",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+          "source_state": "opening",
+          "source_unit": "image-and-metadata",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Dominant Bible photograph precedes left course identity and right description, matching the source image/metadata relation. Phone crop retains the hand and book without stretching, then stacks the longer real description.",
+          "comparison": "review/independent/courses-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-opening-tablet.png",
+          "build_sha256": "c51bc275e63b4263fb4a263e926b318b87c49f41746d27ab7ec92c900490f387",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+          "source_state": "opening",
+          "source_unit": "image-and-metadata",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Dominant Bible photograph precedes left course identity and right description, matching the source image/metadata relation. Phone crop retains the hand and book without stretching, then stacks the longer real description.",
+          "comparison": "review/independent/courses-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-opening-phone.png",
+          "build_sha256": "588bd133f0778737d5a1915be862afff2ce4270f61d8ca79c5b64f8ba20c933a",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png",
+          "source_state": "opening",
+          "source_unit": "image-and-metadata",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Dominant Bible photograph precedes left course identity and right description, matching the source image/metadata relation. Phone crop retains the hand and book without stretching, then stacks the longer real description.",
+          "comparison": "review/independent/courses-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "courses-fall",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-fall-desktop.png",
+          "build_sha256": "a5ce374f1ee574cc6e7e6a3d1c1f2e3590ef2b2841906678d6f6ee2c24fc9cbe",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+          "source_state": "forward-002",
+          "source_unit": "brief",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "The brief pattern retains a quiet left label/action and clear ruled course descriptions at right. Four actual offerings expand the source three-block count; mobile rows remain comfortably separated and labels/actions stay associated.",
+          "comparison": "review/independent/courses-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-fall-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-fall-tablet.png",
+          "build_sha256": "00f3f33b03669878c94634cbc7ddb1be1eb3054e3df787905918abd1b9f46f31",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+          "source_state": "forward-002",
+          "source_unit": "brief",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "The brief pattern retains a quiet left label/action and clear ruled course descriptions at right. Four actual offerings expand the source three-block count; mobile rows remain comfortably separated and labels/actions stay associated.",
+          "comparison": "review/independent/courses-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-fall-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-fall-phone.png",
+          "build_sha256": "dc6591cbf4c961cfeca47a93b033ebff798c47383b06be1d67b1518593226c3f",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png",
+          "source_state": "forward-002",
+          "source_unit": "brief",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "The brief pattern retains a quiet left label/action and clear ruled course descriptions at right. Four actual offerings expand the source three-block count; mobile rows remain comfortably separated and labels/actions stay associated.",
+          "comparison": "review/independent/courses-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-fall-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "courses-seasons",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-seasons-desktop.png",
+          "build_sha256": "36fe1d95f2540fc270627a69d29bf0d3a3390d269df390add9f17e4ae7944541",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+          "source_state": "forward-002",
+          "source_unit": "brief",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "The former thumbnail sidebar is removed. Winter/spring now uses the exact brief unit: left seasonal label, right stacked course explanations and separator. Pale ground makes this a readable sequence change while preserving column hierarchy.",
+          "comparison": "review/independent/courses-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-seasons-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-seasons-tablet.png",
+          "build_sha256": "0204675063faae662d4ad0c9c5ca94d9bcdd9fe47a2979978a20fcf0681b431c",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+          "source_state": "forward-002",
+          "source_unit": "brief",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "The former thumbnail sidebar is removed. Winter/spring now uses the exact brief unit: left seasonal label, right stacked course explanations and separator. Pale ground makes this a readable sequence change while preserving column hierarchy.",
+          "comparison": "review/independent/courses-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-seasons-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-seasons-phone.png",
+          "build_sha256": "7ccf71d2e800653146ff776a5ae493d08485cddaab6db2c049d580c03f537eda",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png",
+          "source_state": "forward-002",
+          "source_unit": "brief",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "The former thumbnail sidebar is removed. Winter/spring now uses the exact brief unit: left seasonal label, right stacked course explanations and separator. Pale ground makes this a readable sequence change while preserving column hierarchy.",
+          "comparison": "review/independent/courses-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-seasons-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "courses-reading",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-reading-desktop.png",
+          "build_sha256": "b78214826b0b9feaac4164c12748a42ae3cfee2579c40c04d44ea6de44f5d690",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-dominant-artwork.png",
+          "source_state": "forward-007",
+          "source_unit": "dominant-artwork",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "The conceptual book artwork now occupies its own dominant media section at all widths, matching the exact dominant-artwork source unit. Caption truthfully labels conceptual imagery. No object stretching or clipped textual content is visible.",
+          "comparison": "review/independent/courses-3.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-reading-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-reading-tablet.png",
+          "build_sha256": "40ca48bc885449984315fd57c984144cbef1f5c02151e676b3ab2a48029d45b9",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-dominant-artwork.png",
+          "source_state": "forward-007",
+          "source_unit": "dominant-artwork",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "The conceptual book artwork now occupies its own dominant media section at all widths, matching the exact dominant-artwork source unit. Caption truthfully labels conceptual imagery. No object stretching or clipped textual content is visible.",
+          "comparison": "review/independent/courses-3.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-reading-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-reading-phone.png",
+          "build_sha256": "28a208f13fc609ba358f1dcae7f5bd052adf0f7e44d3ab4f813eea99ddc1147d",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-dominant-artwork.png",
+          "source_state": "forward-005",
+          "source_unit": "dominant-artwork",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 5,
+            "media_size_aspect": 5,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "The conceptual book artwork now occupies its own dominant media section at all widths, matching the exact dominant-artwork source unit. Caption truthfully labels conceptual imagery. No object stretching or clipped textual content is visible.",
+          "comparison": "review/independent/courses-3.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-reading-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "courses-marriage",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-marriage-desktop.png",
+          "build_sha256": "95c3182969230ace7f5205d53f78fd6ce4fb0f97f8edc508ba6319d9e11df660",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+          "source_state": "forward-010",
+          "source_unit": "text-row",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Measured text-row scope is now correct: title/status left and explanatory paragraph right, stacked on phone. Closed registration remains visibly separate from descriptive copy. Light blue inversion is coherent with surrounding church palette.",
+          "comparison": "review/independent/courses-4.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-marriage-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-marriage-tablet.png",
+          "build_sha256": "8d243e57d90d0df56670a0d0626dcfb95e8d2d885e97c58439b558939f6cd996",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+          "source_state": "forward-010",
+          "source_unit": "text-row",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Measured text-row scope is now correct: title/status left and explanatory paragraph right, stacked on phone. Closed registration remains visibly separate from descriptive copy. Light blue inversion is coherent with surrounding church palette.",
+          "comparison": "review/independent/courses-4.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-marriage-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/courses-marriage-phone.png",
+          "build_sha256": "5912cb6273dc575e170de6f6c5b7c73d0493873a0c9fc0a2dd430d96c567ebaa",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png",
+          "source_state": "forward-008",
+          "source_unit": "text-row",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Measured text-row scope is now correct: title/status left and explanatory paragraph right, stacked on phone. Closed registration remains visibly separate from descriptive copy. Light blue inversion is coherent with surrounding church palette.",
+          "comparison": "review/independent/courses-4.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/courses-marriage-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    }
+  ],
+  "reviewer": "editorial_independent_review; independent of product authorship",
+  "reviewed_at": "2026-10-07T09:51:03.135775+00:00",
+  "scope": "Round 3 exact-unit visual review, actual browser motion and targeted actual-pixel contrast; section rubric only, not owner acceptance or mechanical gate waiver",
+  "source_review": "art-direction/qa/round-2/editorial-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/courses.json",
+  "source_hashes": {
+    "src/pages/courses.html": "79f3c81bbd8926ac49ddf572ade3c215520cb75da47d0b947cebf72ccae6209e",
+    "src/pages/courses.css": "b3041ca51be636449337f14ec3e692b22091bc06d4885637e7654b164d66a89c",
+    "src/motion/scenes/courses.ts": "e3ffe93d212a759f28c36205e8d0d5364ea81a9377e935bafe0be1bfd0b099f3"
+  },
+  "limits": [
+    "Raw section aspect ratios, full-bleed flags, heading ratios and total section-count assertions remain separate mechanical gate results; these visual scores do not waive them.",
+    "Source copy length, intrinsic company assets and church palette intentionally differ; no pixel similarity percentage claimed.",
+    "Whole-unit build crops exclude fixed browser/header chrome for unobstructed content review; opening and motion screenshots retain actual header.",
+    "No physical phone, exact source editor timing, all-frame contrast proof or owner Accepted status claimed.",
+    "Targeted overlay/hero contrast sampling is not a complete WCAG audit of every text node or every transitional frame.",
+    "Source Lou first-arrival is observed but per-character implementation parity is not claimed; intact-unit clarity avoids hiding essential copy."
+  ],
+  "issues": []
+}

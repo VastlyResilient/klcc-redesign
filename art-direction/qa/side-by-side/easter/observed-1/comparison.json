@@ -1,0 +1,31 @@
+{
+  "created": "2026-10-07T07:08:51.892Z",
+  "pairs": [
+    {
+      "viewport": "desktop",
+      "referenceState": "forward-002",
+      "buildState": "section-expect",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/easter/observed-1/desktop-section-expect.png",
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "tablet",
+      "referenceState": "forward-002",
+      "buildState": "section-expect",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/easter/observed-1/tablet-section-expect.png",
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "phone",
+      "referenceState": "forward-002",
+      "buildState": "section-expect",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/easter/observed-1/phone-section-expect.png",
+      "referenceSettled": true,
+      "buildSettled": true
+    }
+  ],
+  "unmatched": [],
+  "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+}

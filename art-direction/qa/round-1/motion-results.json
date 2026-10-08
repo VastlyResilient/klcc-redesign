@@ -1,0 +1,636 @@
+{
+  "created": "2026-10-07T07:39:52.534Z",
+  "scope": "Runtime motion mechanics; unknown does not pass.",
+  "checks": [
+    {
+      "route": "home",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "home",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "home",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "believe",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "believe",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "believe",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "weather-procedures",
+      "viewport": 1440,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "weather-procedures",
+      "viewport": 1024,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "weather-procedures",
+      "viewport": 390,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "easter",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "easter",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "easter",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "watch-live",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "watch-live",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "watch-live",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "new",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "new",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "new",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "our-story",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "our-story",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "our-story",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "leadership",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "leadership",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "leadership",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "mission",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "mission",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "mission",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "beliefs",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "beliefs",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "beliefs",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "pastoral-care",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "pastoral-care",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "pastoral-care",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "life-groups",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "life-groups",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "life-groups",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "membership",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "membership",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "membership",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "prayer",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "prayer",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "prayer",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "serve",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "serve",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "serve",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "alpha",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "alpha",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "alpha",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "courses",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "courses",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "courses",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "kids",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "kids",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "kids",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "youth",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "youth",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "youth",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "young-adults",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "young-adults",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "young-adults",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "women",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "women",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "women",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "men",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "men",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "men",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "calendar",
+      "viewport": 1440,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "calendar",
+      "viewport": 1024,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "calendar",
+      "viewport": 390,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "previous-messages",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "previous-messages",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "previous-messages",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "give",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "give",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "give",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "app",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "app",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "app",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "baptism",
+      "viewport": 1440,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "baptism",
+      "viewport": 1024,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "baptism",
+      "viewport": 390,
+      "pass": true,
+      "note": "Main-content computed property changes observed; not a source-fidelity approval.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "subsplash-media",
+      "viewport": 1440,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "subsplash-media",
+      "viewport": 1024,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "subsplash-media",
+      "viewport": 390,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "legal",
+      "viewport": 1440,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "legal",
+      "viewport": 1024,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "legal",
+      "viewport": 390,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "404",
+      "viewport": 1440,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "404",
+      "viewport": 1024,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    },
+    {
+      "route": "404",
+      "viewport": 390,
+      "pass": null,
+      "note": "Hold/short entrance not proven by this sampler; source/contract review required.",
+      "evidence": "art-direction/qa/motion-runtime.json"
+    }
+  ]
+}

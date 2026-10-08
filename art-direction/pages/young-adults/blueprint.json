@@ -1,0 +1,368 @@
+{
+  "route": "young-adults",
+  "reference": {
+    "template": "royal",
+    "route": "/about",
+    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "mode": "B",
+    "donors": [
+      "lou",
+      "slab"
+    ]
+  },
+  "visitor_job": "Choose RED Night or RISE Night and know exactly when to attend.",
+  "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
+  "critical_answer": "College and early-career community. RED Night meets on the third Saturday at 7 PM; RISE Night meets on the second and fourth Thursdays at 7:30 PM. Both use the Youth Center.",
+  "primary_action": {
+    "route": "young-adults",
+    "source": "https://klcc.us/young-adults",
+    "source_date": "2026-10-01",
+    "required": true,
+    "id": "cta:young-adults.s1.a1",
+    "type": "cta",
+    "label": "New Here",
+    "original_destination": "https://subsplash.com/u/-TPGJTK/forms/d/b9468f67-5ae7-4dcc-99ab-4fdcff423a95",
+    "approved_destination": "https://subsplash.com/u/-TPGJTK/forms/d/b9468f67-5ae7-4dcc-99ab-4fdcff423a95",
+    "live_match": true
+  },
+  "supporting_proof": "Actual source copy and authentic source assets; consult the asset manifest.",
+  "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
+  "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
+  "signature": {
+    "id": "young-adults-assemble",
+    "dominant_verb": "Assemble",
+    "structural_idea": "Two distinct event editions with intact poster objects and adjacent schedules",
+    "axes": {
+      "unit": "content-specific block/image",
+      "vector": "Hold pending observed scene contract",
+      "driver": "native scroll",
+      "frame": "route-owned composition"
+    }
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "none",
+    "driver": "static",
+    "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+  },
+  "content_ids": [
+    "ci:young-adults.s0.b0",
+    "ci:young-adults.s1.b0",
+    "cta:young-adults.s1.a0",
+    "cta:young-adults.s1.a1",
+    "ci:young-adults.s2.b0",
+    "ci:young-adults.s2.b1",
+    "cta:young-adults.s2.a0",
+    "ci:young-adults.s3.b0",
+    "ci:young-adults.s3.b1",
+    "cta:young-adults.s3.a0",
+    "ci:young-adults.s4.b0",
+    "ci:young-adults.s4.b1",
+    "img:young-adults.worship",
+    "img:young-adults.young-adults-red-night",
+    "img:young-adults.young-adults-rise-night"
+  ],
+  "sections": [
+    {
+      "id": "ya-intro",
+      "title": "Join the young adult community",
+      "visitor_task": "Choose RED Night or RISE Night and know exactly when to attend.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "hero",
+        "state": "opening",
+        "composition": "Original artwork first then left identity and right description/metadata; native stacked phone."
+      },
+      "company_content": {
+        "copy": [
+          "ci:young-adults.s0.b0",
+          "ci:young-adults.s1.b0",
+          "ci:young-adults.s4.b0",
+          "ci:young-adults.s4.b1",
+          "ci:young-adults.s2.b0",
+          "ci:young-adults.s2.b1"
+        ],
+        "media": [
+          "img:young-adults.young-adults-red-night"
+        ],
+        "cta": [
+          "cta:young-adults.s1.a1",
+          "cta:young-adults.s1.a0",
+          "cta:young-adults.s2.a0"
+        ]
+      },
+      "content_ids": [
+        "img:young-adults.young-adults-red-night",
+        "ci:young-adults.s0.b0",
+        "ci:young-adults.s1.b0",
+        "cta:young-adults.s1.a1",
+        "cta:young-adults.s1.a0",
+        "ci:young-adults.s4.b0",
+        "ci:young-adults.s4.b1",
+        "ci:young-adults.s2.b0",
+        "ci:young-adults.s2.b1",
+        "cta:young-adults.s2.a0"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 repair; inspect src/pages/young-adults.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
+        "ground": "ink",
+        "motion": {
+          "mechanism": "Hold in native document flow",
+          "selectors": [],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "No route-owned motion on this section",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/young-adults.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "ya-events",
+      "title": "RED Night",
+      "visitor_task": "Read red night and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "hero",
+        "state": "opening",
+        "composition": "Wide intact artwork before left identity and right factual metadata; stacks on phone.",
+        "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+      },
+      "company_content": {
+        "copy": [
+          "ci:young-adults.s3.b0",
+          "ci:young-adults.s3.b1"
+        ],
+        "media": [
+          "img:young-adults.young-adults-rise-night"
+        ],
+        "cta": [
+          "cta:young-adults.s3.a0"
+        ]
+      },
+      "content_ids": [
+        "img:young-adults.young-adults-rise-night",
+        "ci:young-adults.s3.b0",
+        "ci:young-adults.s3.b1",
+        "cta:young-adults.s3.a0"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 repair; inspect src/pages/young-adults.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
+        "ground": "paper",
+        "motion": {
+          "mechanism": "Scroll-triggered once-entered opacity",
+          "selectors": [
+            "#ya-events article p:not(.eyebrow)"
+          ],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/young-adults.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "ya-community",
+      "title": "RED Night",
+      "visitor_task": "Read red night and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "section-3",
+        "state": "forward-007",
+        "composition": "Wide image-only artwork sequence, native flow; actual congregation caption retained."
+      },
+      "company_content": {
+        "copy": [],
+        "media": [
+          "img:young-adults.worship"
+        ],
+        "cta": []
+      },
+      "content_ids": [
+        "img:young-adults.worship"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 repair; inspect src/pages/young-adults.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
+        "ground": "paper",
+        "motion": {
+          "mechanism": "Hold in native document flow",
+          "selectors": [],
+          "implementation_values": "No route-owned motion",
+          "source_settings": "Unknown; no timing reconstruction claimed",
+          "heading": "No heading",
+          "reverse": "Native document flow"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Each complete poster immediately precedes its schedule and action. The phone layout must not crop poster lettering or squeeze two posters into one row.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/young-adults.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    }
+  ],
+  "content_coverage": {
+    "expected": 15,
+    "assigned": 15,
+    "missing": []
+  },
+  "deletion_pass": "Remove redundant event badges and ornamental Follow Us labels. Preserve the actual social destinations and both event descriptions.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "unresolved": [
+    "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
+    "Image focal points, type measures and every interaction require review of the rendered result."
+  ],
+  "title": "Young Adults | Kingdom Life",
+  "implementation": {
+    "source": "src/pages/young-adults.html",
+    "css": "src/pages/young-adults.css",
+    "motion": "src/motion/scenes/young-adults.ts",
+    "observed_references": [
+      "Royal /about image and content entry",
+      "Lou /about footer clarity arrival",
+      "Slab project image entry"
+    ],
+    "values": "Only listed live selectors receive once-entered opacity .65 to 1 over 1100ms ease-out at threshold .15. Removed obsolete no-op selectors; no sticky chapter exchange or reversible scripture focus.",
+    "deviation": "Motion is estimated rather than exact editor reconstruction. No invented pairwise axis distinctions. Every element remains visible before script.",
+    "status": "Reconstructed; independent fidelity review pending",
+    "actual_sections": [
+      {
+        "class": "ya-intro",
+        "reference_landmark": "hero"
+      },
+      {
+        "class": "ya-events",
+        "reference_landmark": "section-0"
+      }
+    ],
+    "full_section_order": [
+      "ya-intro",
+      "ya-events",
+      "ya-community"
+    ],
+    "deleted": [
+      "Legacy texture-only source backgrounds omitted where they conflicted with the locked identity; asset files retained.",
+      "No automatic decorative arrows or icon badges."
+    ],
+    "functional_checks": {
+      "viewports": [
+        1440,
+        1024,
+        390
+      ],
+      "artifact": "art-direction/qa/functional-young-adults-youth-kids-women-men-new-leadership-life-groups.json",
+      "result": "24 browser checks clean: no overflow, required ledger omissions, missing loaded images, JS errors, or hidden reduced-motion essentials; menu/Escape functional."
+    }
+  },
+  "motion_contract": {
+    "mechanisms": [
+      "Scroll-triggered once-entered opacity"
+    ],
+    "selectors": [
+      "#ya-events article p:not(.eyebrow)"
+    ],
+    "focus_selector": null,
+    "estimated_settings": {
+      "opacity_start": 0.65,
+      "duration_ms": 1100,
+      "threshold": 0.15
+    },
+    "reverse": "No replay; no reversed filter. Native flow.",
+    "mobile": "Native document flow; same nonessential entry selectors; essential content holds.",
+    "limitations": "Source editor timings unknown. No pin, chapter exchange or footer-focus reconstruction."
+  },
+  "repair": {
+    "date": "2026-10-07",
+    "status": "Second source reconstruction after independent findings; recapture required",
+    "source_decision": "See plan.md preconstruction repair decision",
+    "removed_false_mechanism": "Short scripture heading no longer receives Lou footer blur",
+    "content": "All original IDs retained. Repeated scripture section deleted; exact scripture now serves contextual proof inside task-specific section, not a separate false Lou donor scene.",
+    "author_capture_directory": "/tmp/klcc-ministry-repair"
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/young-adults.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

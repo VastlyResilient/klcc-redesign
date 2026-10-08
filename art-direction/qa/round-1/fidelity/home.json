@@ -1,0 +1,160 @@
+{
+  "route": "home",
+  "status": "Fidelity-reviewed",
+  "reviewer": "independent v22_capture_pipeline",
+  "reviewed_at": "2026-10-07",
+  "reference": "Owner-approved existing KLCC homepage baseline, not a Royal reconstruction",
+  "evidence": [
+    "art-direction/home-baseline.json",
+    "art-direction/qa/home-metadata-change.json",
+    "art-direction/qa/captures/home/manifest.json",
+    "art-direction/qa/side-by-side/home/desktop-film-progress.png",
+    "art-direction/qa/side-by-side/home/tablet-film-progress.png",
+    "art-direction/qa/side-by-side/home/phone-film-progress.png"
+  ],
+  "verified": [
+    "Viewed all section boards and five intro-progress states at1440,1024,390CSSpx.",
+    "Initial introduction has no displaycopy; SeekFirst,LiveFully,faithstatement,deck,portraitandactions enter progressively across native scroll.",
+    "Menu and footer visible at all3widths; subsequent approved compositions remain intact.",
+    "No JavaScript errors or truncation in captures.",
+    "Approved homepage body and mechanics preserved; metadata-only change documented separately."
+  ],
+  "sections": [
+    {
+      "id": "top",
+      "judgment": "Staged photograph-backed pinned scroll works and remains legible on all3widths. It is not actual video playback.",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "approved-baseline-preservation",
+          "comparison": "art-direction/qa/side-by-side/home/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 5,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Staged photograph-backed pinned scroll works and remains legible on all3widths. It is not actual video playback."
+        },
+        {
+          "viewport": 1024,
+          "state": "approved-baseline-preservation",
+          "comparison": "art-direction/qa/side-by-side/home/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 5,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Staged photograph-backed pinned scroll works and remains legible on all3widths. It is not actual video playback."
+        },
+        {
+          "viewport": 390,
+          "state": "approved-baseline-preservation",
+          "comparison": "art-direction/qa/side-by-side/home/phone-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 5,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Staged photograph-backed pinned scroll works and remains legible on all3widths. It is not actual video playback."
+        }
+      ]
+    },
+    {
+      "id": "welcome-through-footer",
+      "judgment": "All observed approved homepage sections retain their existing layout, photography,menu,andactions. This is a preservation review, not proof that every old section satisfies the new reference contract.",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "approved-baseline-preservation",
+          "comparison": "art-direction/qa/side-by-side/home/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 5,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "All observed approved homepage sections retain their existing layout, photography,menu,andactions. This is a preservation review, not proof that every old section satisfies the new reference contract."
+        },
+        {
+          "viewport": 1024,
+          "state": "approved-baseline-preservation",
+          "comparison": "art-direction/qa/side-by-side/home/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 5,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "All observed approved homepage sections retain their existing layout, photography,menu,andactions. This is a preservation review, not proof that every old section satisfies the new reference contract."
+        },
+        {
+          "viewport": 390,
+          "state": "approved-baseline-preservation",
+          "comparison": "art-direction/qa/side-by-side/home/phone-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 5,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "All observed approved homepage sections retain their existing layout, photography,menu,andactions. This is a preservation review, not proof that every old section satisfies the new reference contract."
+        }
+      ]
+    }
+  ],
+  "blockers": [],
+  "limitations": [
+    "Existing homepage menus/footers and decorative arrows differ from new inner-page shell; preserved intentionally.",
+    "Accepted is owner-only and not set.",
+    "Missing MP4 is a preexisting baseline limitation, not a newly introduced preservation failure. It must remain disclosed; no actual playback claim."
+  ],
+  "review_scope": "Preservation of owner-approved photo-backed pinned introduction and existing homepage. No new MP4 generation or replacement requested in current run.",
+  "baselineLimitations": [
+    {
+      "condition": "Real scroll-video playback is unavailable in the protected baseline.",
+      "evidence": "index.html contains an empty video element; app.js loads hero-film.mp4 only when body.dataset.film equals ready. That data attribute and assets/hero-film.mp4 are absent.",
+      "attempt": "Verified actual source, asset existence, and five visual scroll-progress states at3widths. No new video permitted in current scope, and approved homepage is protected.",
+      "fallback": "Preserve working photo-backed pinned intro and staged HTML reveals. Do not describe it as a working film asset.",
+      "external_requirement": "A supplied/approved MP4 and explicit integration change would be required to verify actual playback."
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "route": "leadership",
+  "reference": {
+    "template": "royal",
+    "route": "/about",
+    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "mode": "B",
+    "donors": [
+      "lou",
+      "slab"
+    ]
+  },
+  "visitor_job": "Identify real pastors and understand their roles and biographies.",
+  "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
+  "critical_answer": "Identify founding pastors Jay and Jeannine Ramirez and all six named pastors. Preserve exact roles and correct portrait associations.",
+  "primary_action": {
+    "route": "leadership",
+    "source": "https://klcc.us/leadership",
+    "source_date": "2026-10-01",
+    "required": true,
+    "id": "cta:leadership.s2.a0",
+    "type": "cta",
+    "label": "Read more about Our Story",
+    "original_destination": "/our-story",
+    "approved_destination": "/our-story/",
+    "live_match": true
+  },
+  "supporting_proof": "Actual source copy and authentic source assets; consult the asset manifest.",
+  "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
+  "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
+  "signature": {
+    "id": "leadership-focus",
+    "dominant_verb": "Focus",
+    "structural_idea": "Founders lead at larger scale, then a controlled portrait index with full biographies",
+    "axes": {
+      "unit": "content-specific block/image",
+      "vector": "Hold pending observed scene contract",
+      "driver": "native scroll",
+      "frame": "route-owned composition"
+    }
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "none",
+    "driver": "static",
+    "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+  },
+  "content_ids": [
+    "ci:leadership.s0.b0",
+    "ci:leadership.s1.b0",
+    "ci:leadership.s2.b0",
+    "ci:leadership.s2.b1",
+    "ci:leadership.s2.b2",
+    "ci:leadership.s2.b3",
+    "ci:leadership.s2.b4",
+    "cta:leadership.s2.a0",
+    "ci:leadership.s3.b0",
+    "ci:leadership.s3.b1",
+    "ci:leadership.s4.b0",
+    "ci:leadership.s4.b1",
+    "ci:leadership.s4.b2",
+    "ci:leadership.s4.b3",
+    "ci:leadership.s4.b4",
+    "ci:leadership.s4.b5",
+    "ci:leadership.s4.b6",
+    "ci:leadership.s4.b7",
+    "ci:leadership.s4.b8",
+    "ci:leadership.s4.b9",
+    "ci:leadership.s5.b0",
+    "ci:leadership.s5.b1",
+    "ci:leadership.s5.b2",
+    "ci:leadership.s5.b3",
+    "ci:leadership.s5.b4",
+    "ci:leadership.s5.b5",
+    "ci:leadership.s5.b6",
+    "ci:leadership.s5.b7",
+    "ci:leadership.s5.b8",
+    "img:leadership.leadership",
+    "img:leadership.founders-portrait",
+    "img:leadership.founding-pastors",
+    "img:leadership.tj-niglio",
+    "img:leadership.manny-cintron",
+    "img:leadership.jason-thomas",
+    "img:leadership.sandy-vargas",
+    "img:leadership.brandon-kellum",
+    "img:leadership.lori-burgos"
+  ],
+  "sections": [
+    {
+      "id": "leaders-opening",
+      "title": "Those who serve",
+      "visitor_task": "Identify real pastors and understand their roles and biographies.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+        "landmark": "hero",
+        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      },
+      "company_content": {
+        "copy": [
+          "ci:leadership.s0.b0",
+          "ci:leadership.s1.b0"
+        ],
+        "media": [
+          "img:leadership.leadership"
+        ],
+        "cta": []
+      },
+      "content_ids": [
+        "ci:leadership.s0.b0",
+        "ci:leadership.s1.b0",
+        "img:leadership.leadership"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 repair; inspect src/pages/leadership.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
+        "ground": "ink",
+        "motion": {
+          "mechanism": "Hold in native document flow",
+          "selectors": [],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "No route-owned motion on this section",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Keep each portrait beside its name and role. Full biographies remain available in place, with stable keyboard focus and no modal detour.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/leadership.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "founding-leaders",
+      "title": "Founding pastors",
+      "visitor_task": "Read founding pastors and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
+        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+        "landmark": "team",
+        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      },
+      "company_content": {
+        "copy": [
+          "ci:leadership.s2.b0",
+          "ci:leadership.s2.b1",
+          "ci:leadership.s2.b2",
+          "ci:leadership.s2.b3",
+          "ci:leadership.s2.b4",
+          "ci:leadership.s3.b0",
+          "ci:leadership.s3.b1"
+        ],
+        "media": [
+          "img:leadership.founding-pastors",
+          "img:leadership.founders-portrait"
+        ],
+        "cta": [
+          "cta:leadership.s2.a0"
+        ]
+      },
+      "content_ids": [
+        "img:leadership.founding-pastors",
+        "img:leadership.founders-portrait",
+        "ci:leadership.s2.b0",
+        "ci:leadership.s2.b1",
+        "ci:leadership.s2.b2",
+        "ci:leadership.s2.b3",
+        "ci:leadership.s2.b4",
+        "cta:leadership.s2.a0",
+        "ci:leadership.s3.b0",
+        "ci:leadership.s3.b1"
+      ],
+      "reconstruction": {
+        "layout": "Two parallel full-width portrait associations with captions below, then full retained biography below the portrait row; phone one portrait per row. Royal team relationship replaces split tiny portraits beside biography.",
+        "ground": "paper",
+        "motion": {
+          "mechanism": "Hold in native document flow",
+          "selectors": [],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "No route-owned motion on this section",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Keep each portrait beside its name and role. Full biographies remain available in place, with stable keyboard focus and no modal detour.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/leadership.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "pastoral-team",
+      "title": "Meet our team",
+      "visitor_task": "Read meet our team and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
+        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+        "landmark": "team",
+        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      },
+      "company_content": {
+        "copy": [
+          "ci:leadership.s4.b0",
+          "ci:leadership.s4.b1",
+          "ci:leadership.s4.b2",
+          "ci:leadership.s4.b3",
+          "ci:leadership.s4.b4",
+          "ci:leadership.s4.b5",
+          "ci:leadership.s4.b6",
+          "ci:leadership.s4.b7",
+          "ci:leadership.s4.b8",
+          "ci:leadership.s4.b9",
+          "ci:leadership.s5.b0",
+          "ci:leadership.s5.b1",
+          "ci:leadership.s5.b2",
+          "ci:leadership.s5.b3",
+          "ci:leadership.s5.b4",
+          "ci:leadership.s5.b5",
+          "ci:leadership.s5.b6",
+          "ci:leadership.s5.b7",
+          "ci:leadership.s5.b8"
+        ],
+        "media": [
+          "img:leadership.tj-niglio",
+          "img:leadership.manny-cintron",
+          "img:leadership.jason-thomas",
+          "img:leadership.sandy-vargas",
+          "img:leadership.brandon-kellum",
+          "img:leadership.lori-burgos"
+        ],
+        "cta": []
+      },
+      "content_ids": [
+        "ci:leadership.s4.b0",
+        "img:leadership.tj-niglio",
+        "ci:leadership.s4.b1",
+        "ci:leadership.s4.b2",
+        "ci:leadership.s4.b3",
+        "img:leadership.manny-cintron",
+        "ci:leadership.s4.b4",
+        "ci:leadership.s4.b5",
+        "ci:leadership.s4.b6",
+        "img:leadership.jason-thomas",
+        "ci:leadership.s4.b7",
+        "ci:leadership.s4.b8",
+        "ci:leadership.s4.b9",
+        "img:leadership.sandy-vargas",
+        "ci:leadership.s5.b0",
+        "ci:leadership.s5.b1",
+        "ci:leadership.s5.b2",
+        "img:leadership.brandon-kellum",
+        "ci:leadership.s5.b3",
+        "ci:leadership.s5.b4",
+        "ci:leadership.s5.b5",
+        "img:leadership.lori-burgos",
+        "ci:leadership.s5.b6",
+        "ci:leadership.s5.b7",
+        "ci:leadership.s5.b8"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 repair; inspect src/pages/leadership.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
+        "ground": "paper",
+        "motion": {
+          "mechanism": "Scroll-triggered once-entered opacity",
+          "selectors": [
+            "#pastoral-team article img"
+          ],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Keep each portrait beside its name and role. Full biographies remain available in place, with stable keyboard focus and no modal detour.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/leadership.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    }
+  ],
+  "content_coverage": {
+    "expected": 38,
+    "assigned": 38,
+    "missing": []
+  },
+  "deletion_pass": "Remove duplicate Read More labels and oversized expansion symbols. Never add generic portraits or substitute identities.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "unresolved": [
+    "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
+    "Image focal points, type measures and every interaction require review of the rendered result."
+  ],
+  "title": "Leadership | Kingdom Life",
+  "implementation": {
+    "source": "src/pages/leadership.html",
+    "css": "src/pages/leadership.css",
+    "motion": "src/motion/scenes/leadership.ts",
+    "observed_references": [
+      "Royal /about image and content entry",
+      "Lou /about footer clarity arrival",
+      "Slab project image entry"
+    ],
+    "values": "Only listed live selectors receive once-entered opacity .65 to 1 over 1100ms ease-out at threshold .15. Removed obsolete no-op selectors; no sticky chapter exchange or reversible scripture focus.",
+    "deviation": "Motion is estimated rather than exact editor reconstruction. No invented pairwise axis distinctions. Every element remains visible before script.",
+    "status": "Reconstructed; independent fidelity review pending",
+    "actual_sections": [
+      {
+        "class": "leaders-opening",
+        "reference_landmark": "hero"
+      },
+      {
+        "class": "founding-leaders",
+        "reference_landmark": "team"
+      },
+      {
+        "class": "pastoral-team",
+        "reference_landmark": "team"
+      }
+    ],
+    "full_section_order": [
+      "leaders-opening",
+      "founding-leaders",
+      "pastoral-team"
+    ],
+    "deleted": [
+      "Legacy texture-only source backgrounds omitted where they conflicted with the locked identity; asset files retained.",
+      "No automatic decorative arrows or icon badges."
+    ],
+    "functional_checks": {
+      "viewports": [
+        1440,
+        1024,
+        390
+      ],
+      "artifact": "art-direction/qa/functional-young-adults-youth-kids-women-men-new-leadership-life-groups.json",
+      "result": "24 browser checks clean: no overflow, required ledger omissions, missing loaded images, JS errors, or hidden reduced-motion essentials; menu/Escape functional."
+    }
+  },
+  "implementation_notes": [
+    "Independent review corrected the initial small portrait/adjacent biography arrangement into portrait-first team hierarchy. Source500px originals are not enlarged beyond320CSSpx."
+  ],
+  "motion_contract": {
+    "mechanisms": [
+      "Scroll-triggered once-entered opacity"
+    ],
+    "selectors": [
+      "#pastoral-team article img"
+    ],
+    "focus_selector": null,
+    "estimated_settings": {
+      "opacity_start": 0.65,
+      "duration_ms": 1100,
+      "threshold": 0.15
+    },
+    "reverse": "No replay; no reversed filter. Native flow.",
+    "mobile": "Native document flow; same nonessential entry selectors; essential content holds.",
+    "limitations": "Source editor timings unknown. No pin, chapter exchange or footer-focus reconstruction."
+  },
+  "repair": {
+    "date": "2026-10-07",
+    "status": "Second source reconstruction after independent findings; recapture required",
+    "source_decision": "See plan.md preconstruction repair decision",
+    "removed_false_mechanism": "Short scripture heading no longer receives Lou footer blur",
+    "content": "All original IDs retained. Repeated scripture section deleted; exact scripture now serves contextual proof inside task-specific section, not a separate false Lou donor scene.",
+    "author_capture_directory": "/tmp/klcc-ministry-repair"
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/leadership.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

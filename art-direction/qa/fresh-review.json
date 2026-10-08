@@ -1,0 +1,19 @@
+{
+  "created": "2026-10-07T20:07:58.451903+00:00",
+  "scope": "Repair-loop independent section review, with separate failed global audit",
+  "counts": {
+    "Fidelity-reviewed": 30
+  },
+  "accepted": false,
+  "packets": [
+    "art-direction/qa/round-2/ministry-review.json",
+    "art-direction/qa/round-2/practical-review.json",
+    "art-direction/qa/round-2/editorial-review.json",
+    "art-direction/qa/round-2/mission-review.json",
+    "art-direction/qa/build-final/give-review.json",
+    "art-direction/qa/build-final/kids-men-review.json",
+    "art-direction/qa/build-final/women-review.json"
+  ],
+  "global_diagnosis": "art-direction/qa/round-3/global-gate-diagnosis.md",
+  "global_gate_status": "Blocked"
+}

@@ -1,0 +1,30 @@
+{
+  "version": "2.2",
+  "checked_at": "2026-10-07T06:31:38.738Z",
+  "scope": "G4",
+  "status": "Blocked",
+  "results": [
+    {
+      "gate": "G4",
+      "name": "Both hardest pilots Fidelity-reviewed with section evidence",
+      "status": "Blocked",
+      "evidence": [
+        {
+          "route": "mission",
+          "issue": "missing Fidelity record",
+          "file": "art-direction/qa/fidelity/mission.json"
+        }
+      ]
+    },
+    {
+      "gate": "G4",
+      "name": "Pilot review preceded remaining authored page builds",
+      "status": "Blocked",
+      "evidence": {
+        "events": "art-direction/build-events.jsonl",
+        "premature": [],
+        "note": "Legacy pre-run pages excluded; only this run timestamped build events establish chronology."
+      }
+    }
+  ]
+}

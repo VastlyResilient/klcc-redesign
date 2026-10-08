@@ -1,0 +1,29 @@
+{
+  "route": "pastoral-care",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [],
+      "scrollStates": 23,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/pastoral-care/capture-desktop/desktop/video/page@da044c3460692c31bdb6dec4929f860c.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/pastoral-care/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [],
+      "scrollStates": 25,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [],
+      "scrollStates": 21,
+      "errors": [],
+      "video": null
+    }
+  }
+}

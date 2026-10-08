@@ -1,0 +1,896 @@
+[
+  {
+    "route": "mission",
+    "width": 1440,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "mission-footer-focus",
+        "start": 1355.078125,
+        "end": 2498.640625
+      },
+      {
+        "id": "detail-mission-commitments-sequence-0",
+        "start": 535.796875,
+        "end": 1093.796875
+      },
+      {
+        "id": "detail-mission-commitments-sequence-1",
+        "start": 594.296875,
+        "end": 1152.296875
+      },
+      {
+        "id": "detail-mission-commitments-sequence-2",
+        "start": 760.125,
+        "end": 1318.125
+      },
+      {
+        "id": "detail-mission-commitments-sequence-3",
+        "start": 818.625,
+        "end": 1376.625
+      },
+      {
+        "id": "detail-mission-commitments-sequence-4",
+        "start": 984.453125,
+        "end": 1542.453125
+      },
+      {
+        "id": "detail-mission-commitments-sequence-5",
+        "start": 984.453125,
+        "end": 1542.453125
+      },
+      {
+        "id": "detail-mission-commitments-sequence-6",
+        "start": 1091.78125,
+        "end": 1649.78125
+      }
+    ],
+    "details": 7,
+    "motion": [
+      {
+        "id": "detail-mission-commitments-sequence-0",
+        "states": [
+          {
+            "y": 536,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 815,
+            "translate": "0px 12.9858px",
+            "opacity": "0.925082",
+            "filter": "none"
+          },
+          {
+            "y": 1094,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 536,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-1",
+        "states": [
+          {
+            "y": 594,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 873,
+            "translate": "0px 13.0208px",
+            "opacity": "0.92488",
+            "filter": "none"
+          },
+          {
+            "y": 1152,
+            "translate": "0px 2.20718e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 594,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-2",
+        "states": [
+          {
+            "y": 760,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1039,
+            "translate": "0px 13.0087px",
+            "opacity": "0.92495",
+            "filter": "none"
+          },
+          {
+            "y": 1318,
+            "translate": "0px 3.91388e-06px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 760,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-3",
+        "states": [
+          {
+            "y": 819,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1098,
+            "translate": "0px 12.9738px",
+            "opacity": "0.925151",
+            "filter": "none"
+          },
+          {
+            "y": 1377,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 819,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-4",
+        "states": [
+          {
+            "y": 984,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1263,
+            "translate": "0px 13.0317px",
+            "opacity": "0.924817",
+            "filter": "none"
+          },
+          {
+            "y": 1542,
+            "translate": "0px 5.14089e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 984,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-5",
+        "states": [
+          {
+            "y": 984,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1263,
+            "translate": "0px 13.0317px",
+            "opacity": "0.924817",
+            "filter": "none"
+          },
+          {
+            "y": 1542,
+            "translate": "0px 5.14089e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 984,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-6",
+        "states": [
+          {
+            "y": 1092,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1371,
+            "translate": "0px 12.9847px",
+            "opacity": "0.925088",
+            "filter": "none"
+          },
+          {
+            "y": 1650,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1092,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-mission-commitments-sequence-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-2",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-3",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-4",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-5",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-6",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  },
+  {
+    "route": "mission",
+    "width": 1024,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "mission-footer-focus",
+        "start": 1432.90625,
+        "end": 2543.1875
+      },
+      {
+        "id": "detail-mission-commitments-sequence-0",
+        "start": 535.796875,
+        "end": 1093.796875
+      },
+      {
+        "id": "detail-mission-commitments-sequence-1",
+        "start": 594.296875,
+        "end": 1152.296875
+      },
+      {
+        "id": "detail-mission-commitments-sequence-2",
+        "start": 785.625,
+        "end": 1343.625
+      },
+      {
+        "id": "detail-mission-commitments-sequence-3",
+        "start": 844.125,
+        "end": 1402.125
+      },
+      {
+        "id": "detail-mission-commitments-sequence-4",
+        "start": 1009.953125,
+        "end": 1567.953125
+      },
+      {
+        "id": "detail-mission-commitments-sequence-5",
+        "start": 1009.953125,
+        "end": 1567.953125
+      },
+      {
+        "id": "detail-mission-commitments-sequence-6",
+        "start": 1142.78125,
+        "end": 1700.78125
+      }
+    ],
+    "details": 7,
+    "motion": [
+      {
+        "id": "detail-mission-commitments-sequence-0",
+        "states": [
+          {
+            "y": 536,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 815,
+            "translate": "0px 12.9858px",
+            "opacity": "0.925082",
+            "filter": "none"
+          },
+          {
+            "y": 1094,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 536,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-1",
+        "states": [
+          {
+            "y": 594,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 873,
+            "translate": "0px 13.0208px",
+            "opacity": "0.92488",
+            "filter": "none"
+          },
+          {
+            "y": 1152,
+            "translate": "0px 2.20718e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 594,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-2",
+        "states": [
+          {
+            "y": 786,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1065,
+            "translate": "0px 12.9738px",
+            "opacity": "0.925151",
+            "filter": "none"
+          },
+          {
+            "y": 1344,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 786,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-3",
+        "states": [
+          {
+            "y": 844,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1123,
+            "translate": "0px 13.0087px",
+            "opacity": "0.92495",
+            "filter": "none"
+          },
+          {
+            "y": 1402,
+            "translate": "0px 3.91388e-06px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 844,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-4",
+        "states": [
+          {
+            "y": 1010,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1289,
+            "translate": "0px 12.9967px",
+            "opacity": "0.925019",
+            "filter": "none"
+          },
+          {
+            "y": 1568,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1010,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-5",
+        "states": [
+          {
+            "y": 1010,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1289,
+            "translate": "0px 12.9967px",
+            "opacity": "0.925019",
+            "filter": "none"
+          },
+          {
+            "y": 1568,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1010,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-6",
+        "states": [
+          {
+            "y": 1143,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1422,
+            "translate": "0px 12.9847px",
+            "opacity": "0.925088",
+            "filter": "none"
+          },
+          {
+            "y": 1701,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1143,
+            "translate": "0px 26px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-mission-commitments-sequence-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-2",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-3",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-4",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-5",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-6",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  },
+  {
+    "route": "mission",
+    "width": 390,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "mission-footer-focus",
+        "start": 1566.4375,
+        "end": 2881.359375
+      },
+      {
+        "id": "detail-mission-commitments-sequence-0",
+        "start": 411.984375,
+        "end": 969.984375
+      },
+      {
+        "id": "detail-mission-commitments-sequence-1",
+        "start": 603.3125,
+        "end": 1161.3125
+      },
+      {
+        "id": "detail-mission-commitments-sequence-2",
+        "start": 769.140625,
+        "end": 1327.140625
+      },
+      {
+        "id": "detail-mission-commitments-sequence-3",
+        "start": 934.96875,
+        "end": 1492.96875
+      },
+      {
+        "id": "detail-mission-commitments-sequence-4",
+        "start": 1100.796875,
+        "end": 1658.796875
+      },
+      {
+        "id": "detail-mission-commitments-sequence-5",
+        "start": 1233.625,
+        "end": 1791.625
+      },
+      {
+        "id": "detail-mission-commitments-sequence-6",
+        "start": 1340.953125,
+        "end": 1898.953125
+      }
+    ],
+    "details": 7,
+    "motion": [
+      {
+        "id": "detail-mission-commitments-sequence-0",
+        "states": [
+          {
+            "y": 412,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 691,
+            "translate": "0px 6.49945px",
+            "opacity": "0.925006",
+            "filter": "none"
+          },
+          {
+            "y": 970,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 412,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-1",
+        "states": [
+          {
+            "y": 603,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 882,
+            "translate": "0px 6.51092px",
+            "opacity": "0.924874",
+            "filter": "none"
+          },
+          {
+            "y": 1161,
+            "translate": "0px 1.22273e-05px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 603,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-2",
+        "states": [
+          {
+            "y": 769,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1048,
+            "translate": "0px 6.50491px",
+            "opacity": "0.924943",
+            "filter": "none"
+          },
+          {
+            "y": 1327,
+            "translate": "0px 2.47674e-06px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 769,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-3",
+        "states": [
+          {
+            "y": 935,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1214,
+            "translate": "0px 6.49891px",
+            "opacity": "0.925013",
+            "filter": "none"
+          },
+          {
+            "y": 1493,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 935,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-4",
+        "states": [
+          {
+            "y": 1101,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1380,
+            "translate": "0px 6.4929px",
+            "opacity": "0.925082",
+            "filter": "none"
+          },
+          {
+            "y": 1659,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1101,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-5",
+        "states": [
+          {
+            "y": 1234,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1513,
+            "translate": "0px 6.4869px",
+            "opacity": "0.925151",
+            "filter": "none"
+          },
+          {
+            "y": 1792,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1234,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-mission-commitments-sequence-6",
+        "states": [
+          {
+            "y": 1341,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 1620,
+            "translate": "0px 6.49836px",
+            "opacity": "0.925019",
+            "filter": "none"
+          },
+          {
+            "y": 1899,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 1341,
+            "translate": "0px 13px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-mission-commitments-sequence-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-2",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-3",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-4",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-5",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-mission-commitments-sequence-6",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  }
+]

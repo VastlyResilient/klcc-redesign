@@ -1,0 +1,205 @@
+{
+  "route": "baptism",
+  "status": "Blocked",
+  "reviewer": "independent v22_capture_pipeline",
+  "reviewed_at": "2026-10-07T07:16:03.695Z",
+  "evidence": "art-direction/qa/side-by-side/baptism/",
+  "observations": "All three widths: original water image, short invitation, legible November4 preparation and November8 baptism dates, stable registration actions, and separate preparatory explanation. No cropped faces or invented church ceremony photo.",
+  "repairs": [
+    "Source-based H1 scale restored",
+    "Year and day information kept adjacent to dates",
+    "Critical date and registration controls remain stationary"
+  ],
+  "sections": [
+    {
+      "id": "baptism-opening",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled-landmark-and-section-board",
+          "comparison": "art-direction/qa/side-by-side/baptism/",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled-landmark-and-section-board",
+          "comparison": "art-direction/qa/side-by-side/baptism/",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+        },
+        {
+          "viewport": 390,
+          "state": "settled-landmark-and-section-board",
+          "comparison": "art-direction/qa/side-by-side/baptism/",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+        }
+      ]
+    },
+    {
+      "id": "baptism-dates",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled-landmark-and-section-board",
+          "comparison": "art-direction/qa/side-by-side/baptism/",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled-landmark-and-section-board",
+          "comparison": "art-direction/qa/side-by-side/baptism/",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+        },
+        {
+          "viewport": 390,
+          "state": "settled-landmark-and-section-board",
+          "comparison": "art-direction/qa/side-by-side/baptism/",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+        }
+      ]
+    },
+    {
+      "id": "baptism-preparation",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled-landmark-and-section-board",
+          "comparison": "art-direction/qa/side-by-side/baptism/",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled-landmark-and-section-board",
+          "comparison": "art-direction/qa/side-by-side/baptism/",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+        },
+        {
+          "viewport": 390,
+          "state": "settled-landmark-and-section-board",
+          "comparison": "art-direction/qa/side-by-side/baptism/",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 3,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Visually reviewed for usable content-first adaptation. Exact reference topology/choreography does not meet four-point fidelity threshold; see route-specific blocker. Scores are not owner acceptance."
+        }
+      ]
+    }
+  ],
+  "blockers": [
+    {
+      "condition": "Exact-reference fidelity gate remains below4/5",
+      "evidence": "The practical date composition intentionally substitutes real calendar facts for Royal lifestyle proof/imagery. Lou offset reading is adapted to one paragraph; there is no observed exact-source analogue for the entire date sequence. Content-first usability passes, exact scene fidelity does not.",
+      "attempt": "Compared actual3-width page sections and matching reference boards; requested concrete visual repairs where identified.",
+      "fallback": "Keep legible real-company content and explicitly documented reference adaptations. Do not invent factual imagery or hide schedules to imitate unsupported scenes."
+    }
+  ],
+  "limits": [
+    "No claim that public preview reveals exact editor easing/settings.",
+    "Accepted is reserved to owner."
+  ],
+  "final_evidence": "art-direction/qa/captures/baptism/manifest.json"
+}

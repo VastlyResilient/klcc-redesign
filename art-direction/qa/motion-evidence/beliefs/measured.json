@@ -1,0 +1,626 @@
+{
+  "route": "beliefs",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.998049"
+            }
+          }
+        },
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.998049"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "0.998049",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "0.998049",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.99464"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.99464"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.99464"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.99464",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
+          "properties": {
+            "opacity": {
+              "from": "0.99464",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
+          "properties": {
+            "opacity": {
+              "from": "0.99464",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.994641"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
+          "properties": {
+            "opacity": {
+              "from": "0.994641",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.995184"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.995184"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
+          "properties": {
+            "opacity": {
+              "from": "0.995184",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
+          "properties": {
+            "opacity": {
+              "from": "0.995184",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.995188"
+            }
+          }
+        },
+        {
+          "from": "forward-005",
+          "to": "forward-006",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
+          "properties": {
+            "opacity": {
+              "from": "0.995188",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 34,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/beliefs/capture-desktop/desktop/video/page@e63a1520c770dcd077d5e9a8af19b105.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/beliefs/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.997731"
+            }
+          }
+        },
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.997731"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "0.997731",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "0.997731",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.994642"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.994642"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.994642"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.994642",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
+          "properties": {
+            "opacity": {
+              "from": "0.994642",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
+          "properties": {
+            "opacity": {
+              "from": "0.994642",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.99464"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
+          "properties": {
+            "opacity": {
+              "from": "0.99464",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.995184"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.995184"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
+          "properties": {
+            "opacity": {
+              "from": "0.995184",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
+          "properties": {
+            "opacity": {
+              "from": "0.995184",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.994642"
+            }
+          }
+        },
+        {
+          "from": "forward-005",
+          "to": "forward-006",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
+          "properties": {
+            "opacity": {
+              "from": "0.994642",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 34,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.99569"
+            }
+          }
+        },
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.99569"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "0.99569",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "0.99569",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.992772"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.992772"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.992772",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(4)",
+          "properties": {
+            "opacity": {
+              "from": "0.992772",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.993437"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.993437"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(5)",
+          "properties": {
+            "opacity": {
+              "from": "0.993437",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(6)",
+          "properties": {
+            "opacity": {
+              "from": "0.993437",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.993439"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.993439"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(7)",
+          "properties": {
+            "opacity": {
+              "from": "0.993439",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(8)",
+          "properties": {
+            "opacity": {
+              "from": "0.993439",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.992772"
+            }
+          }
+        },
+        {
+          "from": "forward-005",
+          "to": "forward-006",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(2)>p:nth-child(9)",
+          "properties": {
+            "opacity": {
+              "from": "0.992772",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 32,
+      "errors": [],
+      "video": null
+    }
+  }
+}

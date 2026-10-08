@@ -1,0 +1,258 @@
+{
+  "route": "easter",
+  "self_check": [
+    {
+      "route": "easter",
+      "w": 1440,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "easter-opening",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "expect",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "easter-connect",
+          "width": 1440,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "easter",
+      "w": 1024,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "easter-opening",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "expect",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "easter-connect",
+          "width": 1024,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "easter",
+      "w": 390,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "easter-opening",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "expect",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "easter-connect",
+          "width": 390,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    }
+  ],
+  "source_comparison_status": "Awaiting independent review",
+  "controls": {
+    "practical_motion": "Hold"
+  },
+  "calendar_source": null,
+  "followup_self_check": [
+    {
+      "route": "easter",
+      "w": 1440,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "easter-opening",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "expect",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "easter-connect",
+          "width": 1440,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "easter",
+      "w": 1024,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "easter-opening",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "expect",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "easter-connect",
+          "width": 1024,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "easter",
+      "w": 390,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "easter-opening",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "expect",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "easter-connect",
+          "width": 390,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    }
+  ],
+  "final_measured_metrics": [
+    {
+      "r": "easter",
+      "w": 1440,
+      "h1": "50px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Plan a current Sunday visit",
+          "top": 299.671875,
+          "bottom": 345.46875
+        },
+        {
+          "text": "Directions",
+          "top": 985.46875,
+          "bottom": 1028.96875
+        },
+        {
+          "text": "What to expect",
+          "top": 985.46875,
+          "bottom": 1028.96875
+        },
+        {
+          "text": "Watch Sundays at 10 AM",
+          "top": 1040.96875,
+          "bottom": 1084.46875
+        },
+        {
+          "text": "Connect through the app",
+          "top": 1040.96875,
+          "bottom": 1084.46875
+        }
+      ]
+    },
+    {
+      "r": "easter",
+      "w": 1024,
+      "h1": "40px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Plan a current Sunday visit",
+          "top": 299.671875,
+          "bottom": 345.46875
+        },
+        {
+          "text": "Directions",
+          "top": 865.546875,
+          "bottom": 909.046875
+        },
+        {
+          "text": "What to expect",
+          "top": 865.546875,
+          "bottom": 909.046875
+        },
+        {
+          "text": "Watch Sundays at 10 AM",
+          "top": 921.046875,
+          "bottom": 987.046875
+        },
+        {
+          "text": "Connect through the app",
+          "top": 921.046875,
+          "bottom": 987.046875
+        }
+      ]
+    },
+    {
+      "r": "easter",
+      "w": 390,
+      "h1": "32px",
+      "overflow": false,
+      "actions": [
+        {
+          "text": "Plan a current Sunday visit",
+          "top": 378.859375,
+          "bottom": 424.65625
+        },
+        {
+          "text": "Directions",
+          "top": 835.5,
+          "bottom": 879
+        },
+        {
+          "text": "What to expect",
+          "top": 835.5,
+          "bottom": 879
+        },
+        {
+          "text": "Watch Sundays at 10 AM",
+          "top": 891,
+          "bottom": 957
+        },
+        {
+          "text": "Connect through the app",
+          "top": 891,
+          "bottom": 957
+        }
+      ]
+    }
+  ],
+  "followup_evidence": "/tmp/klcc-practical-final/"
+}

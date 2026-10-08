@@ -1,0 +1,75 @@
+{
+  "route": "young-adults",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [],
+      "scrollStates": 35,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/young-adults/capture-desktop/desktop/video/page@dad977f9a340c77a637059aad08ea3c7.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/young-adults/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(1)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.998701"
+            }
+          }
+        },
+        {
+          "from": "forward-004",
+          "to": "forward-005",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(1)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.998701",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 35,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(1)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.981702"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>article:nth-child(1)>div:nth-child(2)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.981702",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 27,
+      "errors": [],
+      "video": null
+    }
+  }
+}

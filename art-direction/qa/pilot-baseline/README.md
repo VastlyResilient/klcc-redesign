@@ -1,0 +1,1 @@
+Historical G4 review snapshots from committed9bf83c1. These preserve the actual pilot-review chronology; current quality is evaluated from current fidelity records at G6. Later corrections do not rewrite these historical judgments or imply that those earlier judgments were exhaustive.

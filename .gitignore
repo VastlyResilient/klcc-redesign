@@ -3,3 +3,16 @@ qa-*.png
 .DS_Store
 __pycache__/
 production/video-job.json
+
+# v2.2 local evidence; compact review packet is tracked separately.
+node_modules/
+.dev/
+art-direction/qa/captures/
+art-direction/qa/capture-queue.lock
+art-direction/references/pool/
+art-direction/references/deep/**/capture.json
+art-direction/references/deep/**/manifest.json
+art-direction/references/deep/**/*.png
+art-direction/references/deep/**/*.webm
+art-direction/references/deep/**/*.jpg
+art-direction/source/**/*.html

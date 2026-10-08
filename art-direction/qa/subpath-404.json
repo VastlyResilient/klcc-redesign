@@ -1,0 +1,27 @@
+{
+  "scope": "Local GitHub project-subpath emulation, not a production deployment check",
+  "results": [
+    {
+      "route": "young-adults/",
+      "status": 200,
+      "title": "Young Adults | Kingdom Life",
+      "base": "http://127.0.0.1:4202/klcc-redesign/young-adults/",
+      "h1": "Grow together.Go deeper.",
+      "font": "\"Albert Sans\", sans-serif",
+      "overflow": false,
+      "loadedCSS": 2,
+      "errors": []
+    },
+    {
+      "route": "not-a-real-page",
+      "status": 404,
+      "title": "Page not found | Kingdom Life",
+      "base": "http://127.0.0.1:4202/klcc-redesign/",
+      "h1": "404.",
+      "font": "\"Albert Sans\", sans-serif",
+      "overflow": false,
+      "loadedCSS": 2,
+      "errors": []
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "route": "prayer",
+  "title": "Prayer | Kingdom Life",
+  "description": "Ask for prayer or find the next prayer gathering.",
+  "visitor_job": "Ask for prayer or find the next prayer gathering.",
+  "signature": {
+    "id": "prayer-request-and-schedule"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll"
+  },
+  "reference": {
+    "template": "royal",
+    "route": "/contact"
+  },
+  "sections": [
+    {
+      "id": "request",
+      "visitor_task": "Ask for prayer or find the next prayer gathering.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Immediate request action beside a concise invitation, not an intro pin.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "section-0"
+      },
+      "company_content": {
+        "copy": [
+          "ci:prayer.s0.b0",
+          "ci:prayer.s3.b0",
+          "ci:prayer.s3.b1",
+          "ci:prayer.s3.b2",
+          "ci:prayer.s3.b3"
+        ],
+        "cta": [
+          "cta:prayer.s3.a0",
+          "cta:prayer.s3.a1"
+        ],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Immediate request action beside a concise invitation, not an intro pin.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "gather",
+      "visitor_task": "Ask for prayer or find the next prayer gathering.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Schedule as three readable ruled rows beside church prayer statement.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "section-1"
+      },
+      "company_content": {
+        "copy": [
+          "ci:prayer.s1.b1",
+          "ci:prayer.s1.b0",
+          "ci:prayer.s1.b2"
+        ],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Schedule as three readable ruled rows beside church prayer statement.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    },
+    {
+      "id": "scripture",
+      "visitor_task": "Ask for prayer or find the next prayer gathering.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Wide quiet worship photograph and scripture, brief passage into footer.",
+        "sequence": "Stable taskcontrols; only observed photographic focus/entry outsideforms. Exact editor values unknown.",
+        "landmark": "section-1"
+      },
+      "company_content": {
+        "copy": [
+          "ci:prayer.s2.b0",
+          "ci:prayer.s2.b1"
+        ],
+        "cta": [],
+        "media": [
+          "img:prayer.worship"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Wide quiet worship photograph and scripture, brief passage into footer.",
+        "motion": {
+          "mechanism": "Hold essential controls; route-specific image entry only where verified",
+          "values": {
+            "estimated": true
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    }
+  ],
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/prayer.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

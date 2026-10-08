@@ -1,0 +1,114 @@
+{
+  "route": "life-groups",
+  "status": "Comparison-created-not-reviewed",
+  "method": "Source states mapped from authored data-reference-landmark and observed DOM section order. These are adaptation comparisons, not exact CSS similarity assertions.",
+  "results": [
+    {
+      "section": "section-1",
+      "referenceRole": "hero",
+      "created": "2026-10-07T06:48:55.302Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "section-hero",
+          "buildState": "section-section-1",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/observed-0/desktop-section-section-1.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "section-hero",
+          "buildState": "section-section-1",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/observed-0/tablet-section-section-1.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "section-hero",
+          "buildState": "section-section-1",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/observed-0/phone-section-section-1.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": 1,
+      "status": "No-observed-mapping"
+    },
+    {
+      "section": "section-3",
+      "referenceRole": "values",
+      "created": "2026-10-07T06:48:55.519Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "section-ourvalues",
+          "buildState": "section-section-3",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/observed-2/desktop-section-section-3.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "section-ourvalues",
+          "buildState": "section-section-3",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/observed-2/tablet-section-section-3.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "section-ourvalues",
+          "buildState": "section-section-3",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/observed-2/phone-section-section-3.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": 3,
+      "status": "No-observed-mapping"
+    },
+    {
+      "section": "section-5",
+      "referenceRole": "reading",
+      "created": "2026-10-07T06:48:55.897Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "section-section-2",
+          "buildState": "section-section-5",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/observed-4/desktop-section-section-5.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "section-section-2",
+          "buildState": "section-section-5",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/observed-4/tablet-section-section-5.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "section-section-2",
+          "buildState": "section-section-5",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/life-groups/observed-4/phone-section-section-5.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    }
+  ]
+}

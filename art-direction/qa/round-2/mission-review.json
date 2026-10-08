@@ -1,0 +1,253 @@
+{
+  "reviewer": "repair_practical agent, independent of mission authorship",
+  "reviewed_at": "2026-10-07T09:31:45.362053+00:00",
+  "review_stage": "Independent final follow-up after actual mission reading/footer repairs. No owner acceptance or whole-site approval.",
+  "routes": [
+    {
+      "route": "mission",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "mission-opening",
+          "status": "Fidelity-reviewed",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "height": 900,
+              "state": "Initial, settled, forward/reverse, reduced motion sampled",
+              "source_evidence": "art-direction/references/deep/lou-pilot/about/desktop/opening-settled.png",
+              "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1440-opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 4,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Full viewport company lens artwork carries centered radical-scale identity. Desktop256.32px relative to source270–300px, tablet120px exact, phone70.2px vs64px: all within a defensible company-word adaptation. Native document scroll; no invented source load pixelation.",
+              "comparison": "art-direction/qa/round-2/mission-comparisons/mission-opening-1440.png"
+            },
+            {
+              "viewport": 1024,
+              "height": 768,
+              "state": "Initial, settled, forward/reverse, reduced motion sampled",
+              "source_evidence": "art-direction/references/deep/lou-pilot/about/tablet/opening-settled.png",
+              "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1024-opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 4,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Full viewport company lens artwork carries centered radical-scale identity. Desktop256.32px relative to source270–300px, tablet120px exact, phone70.2px vs64px: all within a defensible company-word adaptation. Native document scroll; no invented source load pixelation.",
+              "comparison": "art-direction/qa/round-2/mission-comparisons/mission-opening-1024.png"
+            },
+            {
+              "viewport": 390,
+              "height": 844,
+              "state": "Initial, settled, forward/reverse, reduced motion sampled",
+              "source_evidence": "art-direction/references/deep/lou-pilot/about/phone/opening-settled.png",
+              "build_evidence": "art-direction/qa/round-2/mission-final-evidence/390-opening.png",
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 4,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Full viewport company lens artwork carries centered radical-scale identity. Desktop256.32px relative to source270–300px, tablet120px exact, phone70.2px vs64px: all within a defensible company-word adaptation. Native document scroll; no invented source load pixelation.",
+              "comparison": "art-direction/qa/round-2/mission-comparisons/mission-opening-390.png"
+            }
+          ]
+        },
+        {
+          "id": "mission-reading",
+          "status": "Fidelity-reviewed",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "height": 900,
+              "state": "Initial, settled, forward/reverse, reduced motion sampled",
+              "source_evidence": "art-direction/qa/round-2/lou-reader-1440.png",
+              "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1440-reading-settled.png",
+              "scores": {
+                "text_placement": 5,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 5,
+                "media_size_aspect": 5,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "The corrected broad centered field matches measured Lou x280/880 desktop and x104/816 tablet exactly. Phone x22/346 vs x20/350 is immaterial. Statement40px desktop/tablet,24px phone; modest two-column commitments stack in phone. Preserving seven semantic company commitments is an actual substitute for source smaller credentials, not three invented paragraphs. The required no-bodySplitText adaptation retains the observed one-time arrival and reverse hold. Full original verse and serve action now form contextual content within this same centered reading field, removing the artificial scripture-as-footer scene.",
+              "additional_build_evidence": [
+                "art-direction/qa/round-2/mission-final-evidence/1440-scripture.png"
+              ],
+              "comparison": "art-direction/qa/round-2/mission-comparisons/mission-reading-1440.png"
+            },
+            {
+              "viewport": 1024,
+              "height": 768,
+              "state": "Initial, settled, forward/reverse, reduced motion sampled",
+              "source_evidence": "art-direction/qa/round-2/lou-reader-1024.png",
+              "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1024-reading-settled.png",
+              "scores": {
+                "text_placement": 5,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 5,
+                "media_size_aspect": 5,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "The corrected broad centered field matches measured Lou x280/880 desktop and x104/816 tablet exactly. Phone x22/346 vs x20/350 is immaterial. Statement40px desktop/tablet,24px phone; modest two-column commitments stack in phone. Preserving seven semantic company commitments is an actual substitute for source smaller credentials, not three invented paragraphs. The required no-bodySplitText adaptation retains the observed one-time arrival and reverse hold. Full original verse and serve action now form contextual content within this same centered reading field, removing the artificial scripture-as-footer scene.",
+              "additional_build_evidence": [
+                "art-direction/qa/round-2/mission-final-evidence/1024-scripture.png"
+              ],
+              "comparison": "art-direction/qa/round-2/mission-comparisons/mission-reading-1024.png"
+            },
+            {
+              "viewport": 390,
+              "height": 844,
+              "state": "Initial, settled, forward/reverse, reduced motion sampled",
+              "source_evidence": "art-direction/qa/round-2/lou-reader-390.png",
+              "build_evidence": "art-direction/qa/round-2/mission-final-evidence/390-reading-settled.png",
+              "scores": {
+                "text_placement": 5,
+                "readability": 5,
+                "text_image_association": 5,
+                "media_position": 5,
+                "media_size_aspect": 5,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 5
+              },
+              "judgment": "The corrected broad centered field matches measured Lou x280/880 desktop and x104/816 tablet exactly. Phone x22/346 vs x20/350 is immaterial. Statement40px desktop/tablet,24px phone; modest two-column commitments stack in phone. Preserving seven semantic company commitments is an actual substitute for source smaller credentials, not three invented paragraphs. The required no-bodySplitText adaptation retains the observed one-time arrival and reverse hold. Full original verse and serve action now form contextual content within this same centered reading field, removing the artificial scripture-as-footer scene.",
+              "additional_build_evidence": [
+                "art-direction/qa/round-2/mission-final-evidence/390-scripture.png"
+              ],
+              "comparison": "art-direction/qa/round-2/mission-comparisons/mission-reading-390.png"
+            }
+          ]
+        }
+      ],
+      "shared_footer_review": {
+        "id": "site-footer",
+        "status": "Fidelity-reviewed",
+        "reviews": [
+          {
+            "viewport": 1440,
+            "state": "Whole footer settled; forward/reverse entry, keyboard focus, reduced motion and no-JS verified",
+            "source_evidence": "art-direction/references/deep/lou-pilot/about/desktop/footer.png",
+            "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1440-footer-whole.png",
+            "additional_build_evidence": [
+              "art-direction/qa/round-2/mission-final-evidence/1440-footer.png",
+              "art-direction/qa/round-2/mission-final-evidence/1440-nojs-footer.png"
+            ],
+            "scores": {
+              "text_placement": 4,
+              "readability": 5,
+              "text_image_association": 5,
+              "media_position": 5,
+              "media_size_aspect": 5,
+              "alignment": 4,
+              "spacing": 4,
+              "atmosphere_parity": 4,
+              "sequence_parity": 4,
+              "mobile_recomposition": 4
+            },
+            "judgment": "The real shared contact/footer now uses light ground, top practical/contact/navigation group hierarchy and a large bottom-right wordmark. Company service time/address and real destinations replace studio identity facts; phone retains primary service facts above two utility groups and lower wordmark. Source contact hierarchy is materially reproduced. Longer church facts add height (694/660/865px vs source580/556/659); this is acceptable readable content expansion with actual grouping preserved. Bounded whole-footer reversible focus reproduces the observed source mechanism; exact6px curve is estimated. Keyboard focus forces sharp controls."
+          },
+          {
+            "viewport": 1024,
+            "state": "Whole footer settled; forward/reverse entry, keyboard focus, reduced motion and no-JS verified",
+            "source_evidence": "art-direction/references/deep/lou-pilot/about/tablet/footer.png",
+            "build_evidence": "art-direction/qa/round-2/mission-final-evidence/1024-footer-whole.png",
+            "additional_build_evidence": [
+              "art-direction/qa/round-2/mission-final-evidence/1024-footer.png",
+              "art-direction/qa/round-2/mission-final-evidence/1024-nojs-footer.png"
+            ],
+            "scores": {
+              "text_placement": 4,
+              "readability": 5,
+              "text_image_association": 5,
+              "media_position": 5,
+              "media_size_aspect": 5,
+              "alignment": 4,
+              "spacing": 4,
+              "atmosphere_parity": 4,
+              "sequence_parity": 4,
+              "mobile_recomposition": 4
+            },
+            "judgment": "The real shared contact/footer now uses light ground, top practical/contact/navigation group hierarchy and a large bottom-right wordmark. Company service time/address and real destinations replace studio identity facts; phone retains primary service facts above two utility groups and lower wordmark. Source contact hierarchy is materially reproduced. Longer church facts add height (694/660/865px vs source580/556/659); this is acceptable readable content expansion with actual grouping preserved. Bounded whole-footer reversible focus reproduces the observed source mechanism; exact6px curve is estimated. Keyboard focus forces sharp controls."
+          },
+          {
+            "viewport": 390,
+            "state": "Whole footer settled; forward/reverse entry, keyboard focus, reduced motion and no-JS verified",
+            "source_evidence": "art-direction/references/deep/lou-pilot/about/phone/footer.png",
+            "build_evidence": "art-direction/qa/round-2/mission-final-evidence/390-footer-whole.png",
+            "additional_build_evidence": [
+              "art-direction/qa/round-2/mission-final-evidence/390-footer.png",
+              "art-direction/qa/round-2/mission-final-evidence/390-nojs-footer.png"
+            ],
+            "scores": {
+              "text_placement": 4,
+              "readability": 5,
+              "text_image_association": 5,
+              "media_position": 5,
+              "media_size_aspect": 5,
+              "alignment": 4,
+              "spacing": 4,
+              "atmosphere_parity": 4,
+              "sequence_parity": 4,
+              "mobile_recomposition": 4
+            },
+            "judgment": "The real shared contact/footer now uses light ground, top practical/contact/navigation group hierarchy and a large bottom-right wordmark. Company service time/address and real destinations replace studio identity facts; phone retains primary service facts above two utility groups and lower wordmark. Source contact hierarchy is materially reproduced. Longer church facts add height (694/660/865px vs source580/556/659); this is acceptable readable content expansion with actual grouping preserved. Bounded whole-footer reversible focus reproduces the observed source mechanism; exact6px curve is estimated. Keyboard focus forces sharp controls."
+          }
+        ]
+      }
+    }
+  ],
+  "evidence": "art-direction/qa/round-2/mission-final-evidence/observations.json",
+  "controls_evidence": "art-direction/qa/round-2/mission-final-evidence/footer-controls.json",
+  "initial_review_preserved": "art-direction/qa/round-2/mission-review-initial.json",
+  "historical_gates_changed": false,
+  "checks": {
+    "all_3_widths_no_overflow": true,
+    "all_3_widths_noJS_complete_7_commitments_and_verse": true,
+    "all_3_widths_keyboard_focus_footer_filter": "none",
+    "all_3_widths_reduced_motion_filter": "none",
+    "footer_control": "Reduce motion toggles motion-reduced class; Back to top returns scrollY0/0/1",
+    "footer_destinations": "11 actual native anchors inspected, including phone/email/local destinations; no external submission performed"
+  },
+  "limitations": [
+    "Footer exact source blur duration/easing is unknown;6px is a bounded implementation estimate.",
+    "The whole-footer screenshot can include fixed header overlay at its top when the viewport is at document end; paired viewport screenshot documents native layout.",
+    "Source fresh Lou p-locator measurement file is invalidated in its own metadata. Corrected source field dimensions independently corroborated against screenshots/dossier are used."
+  ]
+}

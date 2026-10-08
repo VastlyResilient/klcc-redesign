@@ -1,0 +1,366 @@
+{
+  "created": "2026-10-07T07:54:37.361625+00:00",
+  "routes": [
+    {
+      "route": "home",
+      "status": "Fidelity-reviewed",
+      "viewports": {
+        "1440": "Fidelity-reviewed",
+        "1024": "Fidelity-reviewed",
+        "390": "Fidelity-reviewed"
+      },
+      "evidence": "art-direction/qa/fidelity/home.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "believe",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/believe.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "weather-procedures",
+      "status": "Fidelity-reviewed",
+      "viewports": {
+        "1440": "Fidelity-reviewed",
+        "1024": "Fidelity-reviewed",
+        "390": "Fidelity-reviewed"
+      },
+      "evidence": "art-direction/qa/fidelity/weather-procedures.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "easter",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/easter.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "watch-live",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/watch-live.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "new",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/new.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "our-story",
+      "status": "Fidelity-reviewed",
+      "viewports": {
+        "1440": "Fidelity-reviewed",
+        "1024": "Fidelity-reviewed",
+        "390": "Fidelity-reviewed"
+      },
+      "evidence": "art-direction/qa/fidelity/our-story.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "leadership",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/leadership.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "mission",
+      "status": "Fidelity-reviewed",
+      "viewports": {
+        "1440": "Fidelity-reviewed",
+        "1024": "Fidelity-reviewed",
+        "390": "Fidelity-reviewed"
+      },
+      "evidence": "art-direction/qa/fidelity/mission.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "beliefs",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/beliefs.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "pastoral-care",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/pastoral-care.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "life-groups",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/life-groups.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "membership",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/membership.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "prayer",
+      "status": "Fidelity-reviewed",
+      "viewports": {
+        "1440": "Fidelity-reviewed",
+        "1024": "Fidelity-reviewed",
+        "390": "Fidelity-reviewed"
+      },
+      "evidence": "art-direction/qa/fidelity/prayer.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "serve",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/serve.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "alpha",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/alpha.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "courses",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/courses.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "kids",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/kids.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "youth",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/youth.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "young-adults",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/young-adults.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "women",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/women.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "men",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/men.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "calendar",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/calendar.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "previous-messages",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/previous-messages.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "give",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/give.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "app",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/app.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "baptism",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/baptism.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "subsplash-media",
+      "status": "Blocked",
+      "viewports": {
+        "1440": "Blocked",
+        "1024": "Blocked",
+        "390": "Blocked"
+      },
+      "evidence": "art-direction/qa/fidelity/subsplash-media.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "legal",
+      "status": "Fidelity-reviewed",
+      "viewports": {
+        "1440": "Fidelity-reviewed",
+        "1024": "Fidelity-reviewed",
+        "390": "Fidelity-reviewed"
+      },
+      "evidence": "art-direction/qa/fidelity/legal.json",
+      "owner_feedback": null,
+      "accepted": false
+    },
+    {
+      "route": "404",
+      "status": "Fidelity-reviewed",
+      "viewports": {
+        "1440": "Fidelity-reviewed",
+        "1024": "Fidelity-reviewed",
+        "390": "Fidelity-reviewed"
+      },
+      "evidence": "art-direction/qa/fidelity/404.json",
+      "owner_feedback": null,
+      "accepted": false
+    }
+  ],
+  "note": "A route remains Blocked at each release viewport when a section fails; no viewport average masks failures."
+}

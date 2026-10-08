@@ -1,0 +1,77 @@
+{
+  "route": "watch-live",
+  "status": "Comparison-created-not-reviewed",
+  "method": "Source states mapped from authored data-reference-landmark and observed DOM section order. These are adaptation comparisons, not exact CSS similarity assertions.",
+  "results": [
+    {
+      "section": "live-opening",
+      "referenceRole": "hero",
+      "created": "2026-10-07T07:08:51.369Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "section-hero",
+          "buildState": "section-live-opening",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/watch-live/observed-0/desktop-section-live-opening.png",
+          "referenceSettled": true,
+          "buildSettled": false
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "section-hero",
+          "buildState": "section-live-opening",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/watch-live/observed-0/tablet-section-live-opening.png",
+          "referenceSettled": true,
+          "buildSettled": false
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "section-hero",
+          "buildState": "section-live-opening",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/watch-live/observed-0/phone-section-live-opening.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": "live-player",
+      "referenceRole": "brief",
+      "created": "2026-10-07T07:08:51.553Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "forward-002",
+          "buildState": "section-live-player",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/watch-live/observed-1/desktop-section-live-player.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "forward-002",
+          "buildState": "section-live-player",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/watch-live/observed-1/tablet-section-live-player.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "forward-002",
+          "buildState": "section-live-player",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/watch-live/observed-1/phone-section-live-player.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": "watch-live-section-2",
+      "status": "No-observed-mapping"
+    }
+  ]
+}

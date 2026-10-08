@@ -1,0 +1,170 @@
+[
+  {
+    "route": "give",
+    "vp": "desktop",
+    "width": 1440,
+    "sections": [
+      {
+        "id": "give-opening",
+        "height": 512,
+        "type": [
+          {
+            "text": "Giving.",
+            "size": "50px"
+          }
+        ]
+      },
+      {
+        "id": "give-methods",
+        "height": 862,
+        "type": [
+          {
+            "text": "Ways to Give",
+            "size": "32px"
+          }
+        ]
+      },
+      {
+        "id": "give-generosity",
+        "height": 1141,
+        "type": [
+          {
+            "text": "Generosity",
+            "size": "36px"
+          }
+        ]
+      },
+      {
+        "id": "give-reading",
+        "height": 644,
+        "type": [
+          {
+            "text": "Why We Give",
+            "size": "22px"
+          }
+        ]
+      }
+    ],
+    "controls": [
+      {
+        "summary": "Use the giving form on this page",
+        "opened": true
+      }
+    ],
+    "overflow": false,
+    "broken": [],
+    "h1": "50px"
+  },
+  {
+    "route": "give",
+    "vp": "tablet",
+    "width": 1024,
+    "sections": [
+      {
+        "id": "give-opening",
+        "height": 512,
+        "type": [
+          {
+            "text": "Giving.",
+            "size": "40px"
+          }
+        ]
+      },
+      {
+        "id": "give-methods",
+        "height": 862,
+        "type": [
+          {
+            "text": "Ways to Give",
+            "size": "32px"
+          }
+        ]
+      },
+      {
+        "id": "give-generosity",
+        "height": 984,
+        "type": [
+          {
+            "text": "Generosity",
+            "size": "36px"
+          }
+        ]
+      },
+      {
+        "id": "give-reading",
+        "height": 714,
+        "type": [
+          {
+            "text": "Why We Give",
+            "size": "22px"
+          }
+        ]
+      }
+    ],
+    "controls": [
+      {
+        "summary": "Use the giving form on this page",
+        "opened": true
+      }
+    ],
+    "overflow": false,
+    "broken": [],
+    "h1": "40px"
+  },
+  {
+    "route": "give",
+    "vp": "phone",
+    "width": 390,
+    "sections": [
+      {
+        "id": "give-opening",
+        "height": 516,
+        "type": [
+          {
+            "text": "Giving.",
+            "size": "32px"
+          }
+        ]
+      },
+      {
+        "id": "give-methods",
+        "height": 952,
+        "type": [
+          {
+            "text": "Ways to Give",
+            "size": "32px"
+          }
+        ]
+      },
+      {
+        "id": "give-generosity",
+        "height": 759,
+        "type": [
+          {
+            "text": "Generosity",
+            "size": "30px"
+          }
+        ]
+      },
+      {
+        "id": "give-reading",
+        "height": 850,
+        "type": [
+          {
+            "text": "Why We Give",
+            "size": "22px"
+          }
+        ]
+      }
+    ],
+    "controls": [
+      {
+        "summary": "Use the giving form on this page",
+        "opened": true
+      }
+    ],
+    "overflow": false,
+    "broken": [],
+    "h1": "32px"
+  }
+]

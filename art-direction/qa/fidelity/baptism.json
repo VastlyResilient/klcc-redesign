@@ -1,0 +1,275 @@
+{
+  "route": "baptism",
+  "status": "Fidelity-reviewed",
+  "accepted": false,
+  "sections": [
+    {
+      "id": "baptism-opening",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/baptism-opening-desktop.png",
+          "build_sha256": "bf486e2ffebcc67dfea448552a6691db9ed7e6f1195b812a6442ec754d2e25e6",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+          "source_state": "opening",
+          "source_unit": "image-and-metadata",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Water image introduces baptism before left title/right invitation, following the image/metadata source unit. Phone crop remains coherent water imagery and all essential wording is HTML below the image.",
+          "comparison": "review/independent/baptism-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/baptism-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/baptism-opening-tablet.png",
+          "build_sha256": "56fd1fe7be2798e7107a8cffe994e161c225b0c048863b8bc9d730c5f655705f",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+          "source_state": "opening",
+          "source_unit": "image-and-metadata",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Water image introduces baptism before left title/right invitation, following the image/metadata source unit. Phone crop remains coherent water imagery and all essential wording is HTML below the image.",
+          "comparison": "review/independent/baptism-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/baptism-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/baptism-opening-phone.png",
+          "build_sha256": "85ddc8628594e086f407532da8c07b3e46533b8c9fa6ba099aec6563a4187c59",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png",
+          "source_state": "opening",
+          "source_unit": "image-and-metadata",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Water image introduces baptism before left title/right invitation, following the image/metadata source unit. Phone crop remains coherent water imagery and all essential wording is HTML below the image.",
+          "comparison": "review/independent/baptism-0.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/baptism-opening-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "baptism-dates",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/baptism-dates-desktop.png",
+          "build_sha256": "fbff5e8a08a1db681ac0cadfb38b687f7bf5b9bd8b82e38d9161e587a1e39b73",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-metadata.png",
+          "source_state": "forward-001",
+          "source_unit": "metadata",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 5,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Exact metadata unit now supplies a valid comparison. Left upcoming-event summary and two right date rows are compact and well aligned; phone places date rows before actions without collision.",
+          "comparison": "review/independent/baptism-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/baptism-dates-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/baptism-dates-tablet.png",
+          "build_sha256": "c251c6eda131357de91dc397aa78a0cd6ec63c2b1a3e86de7fba37b02b9c2ed2",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-metadata.png",
+          "source_state": "forward-001",
+          "source_unit": "metadata",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 5,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Exact metadata unit now supplies a valid comparison. Left upcoming-event summary and two right date rows are compact and well aligned; phone places date rows before actions without collision.",
+          "comparison": "review/independent/baptism-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/baptism-dates-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/baptism-dates-phone.png",
+          "build_sha256": "782c6ada24e40d5be1822fd24b1a60f2b362c3d212c4f8c6dffa963ee997d277",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-metadata.png",
+          "source_state": "forward-001",
+          "source_unit": "metadata",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 5,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Exact metadata unit now supplies a valid comparison. Left upcoming-event summary and two right date rows are compact and well aligned; phone places date rows before actions without collision.",
+          "comparison": "review/independent/baptism-1.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/baptism-dates-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "baptism-preparation",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "height": 900,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/baptism-preparation-desktop.png",
+          "build_sha256": "107937519b5a8cb227f7246a45448be78886249c34d2cc03793681a408e7acdc",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+          "source_state": "forward-010",
+          "source_unit": "text-row",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Text-only source unit legitimately maps to left preparation label/right explanation. The larger paragraph remains readable at all widths; pale ground and stacked mobile flow preserve the hierarchy with longer company content.",
+          "comparison": "review/independent/baptism-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/baptism-preparation-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "height": 768,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/baptism-preparation-tablet.png",
+          "build_sha256": "dd420afb2d47b1af5a8a4c030823fa0b1f65dfb12fa7b27fcc6ea8fd78aa7980",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+          "source_state": "forward-010",
+          "source_unit": "text-row",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Text-only source unit legitimately maps to left preparation label/right explanation. The larger paragraph remains readable at all widths; pale ground and stacked mobile flow preserve the hierarchy with longer company content.",
+          "comparison": "review/independent/baptism-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/baptism-preparation-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "height": 844,
+          "state": "Whole defined unit at settled arrival; forward/reverse behavior tested separately. Membership comparison shows first paired stage; additional chapter states are in motion evidence.",
+          "build_evidence": "art-direction/qa/round-3/editorial/baptism-preparation-phone.png",
+          "build_sha256": "ad049ddb059c5734f6f975965964f864fb42cc0c5b90cda8889a52bef4fbdbb1",
+          "source_evidence": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png",
+          "source_state": "forward-008",
+          "source_unit": "text-row",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Text-only source unit legitimately maps to left preparation label/right explanation. The larger paragraph remains readable at all widths; pale ground and stacked mobile flow preserve the hierarchy with longer company content.",
+          "comparison": "review/independent/baptism-2.webp",
+          "original_comparison": "art-direction/qa/round-3/editorial/baptism-preparation-comparison.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    }
+  ],
+  "reviewer": "editorial_independent_review; independent of product authorship",
+  "reviewed_at": "2026-10-07T09:51:03.135775+00:00",
+  "scope": "Round 3 exact-unit visual review, actual browser motion and targeted actual-pixel contrast; section rubric only, not owner acceptance or mechanical gate waiver",
+  "source_review": "art-direction/qa/round-2/editorial-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/baptism.json",
+  "source_hashes": {
+    "src/pages/baptism.html": "c630472d4e65d303701c78817dd9286b8310aff771352d92ecf3ed7b694e0b67",
+    "src/pages/baptism.css": "6ffbced3be57675d6c8d80fa7bf396d2dc28e1298e26081975ceb53e4436e220",
+    "src/motion/scenes/baptism.ts": "ba046f5d93f99e38c51025d779c7b34f4c98861b50d7737429e3b96ea22eb78e"
+  },
+  "limits": [
+    "Raw section aspect ratios, full-bleed flags, heading ratios and total section-count assertions remain separate mechanical gate results; these visual scores do not waive them.",
+    "Source copy length, intrinsic company assets and church palette intentionally differ; no pixel similarity percentage claimed.",
+    "Whole-unit build crops exclude fixed browser/header chrome for unobstructed content review; opening and motion screenshots retain actual header.",
+    "No physical phone, exact source editor timing, all-frame contrast proof or owner Accepted status claimed.",
+    "Targeted overlay/hero contrast sampling is not a complete WCAG audit of every text node or every transitional frame.",
+    "Source Lou first-arrival is observed but per-character implementation parity is not claimed; intact-unit clarity avoids hiding essential copy."
+  ],
+  "issues": []
+}

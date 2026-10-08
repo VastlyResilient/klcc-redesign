@@ -1,3 +1,21 @@
+# KLCC v2.2 — gated rebuild (review branch)
+
+**Production release is blocked by reference-fidelity checks.** Start with [COMPLETION.md](COMPLETION.md), [BLOCKED.md](BLOCKED.md), and the [visual review packet](review/index.html). Do not interpret authored routes or passing functional checks as accepted design.
+
+The current build has 30 routes: the protected homepage, 27 inner pages, legal and 404. Explicit page compositions live in `src/pages/`; route motion lives in `src/motion/scenes/`. The selected reference world is Royal with Lou and Slab donors. No paid generation and no skill writes occurred.
+
+## Run this version
+
+Use Node22.13+ and Python3. Install exact development dependencies with `npm ci`, then run `npm run preview` and open `http://127.0.0.1:4201/review/` or the site root. `npm run build` regenerates authored routes only after the historical pilot gate verifies. `npm run qa:gates` intentionally returns nonzero while strict failures remain.
+
+Browser scripts use the installed macOS Google Chrome. Capture defaults and viewport protocol are documented in `art-direction/qa/CAPTURE-WORKFLOW.md`. Raw multi-gigabyte captures remain in the local evidence tree; the portable packet contains selected compressed boards and30 recordings. Re-capture references for a new environment; do not treat absent raw files in a clean clone as a pass.
+
+**Do not run the legacy Python/prerender commands below against this version:** they belong to earlier generated body layouts and can overwrite the explicit v2.2 pages. Historical notes are retained for provenance only.
+
+---
+
+## Prior version history (superseded implementation instructions)
+
 # Kingdom Life Christian Church — redesign preview
 
 A full-site KLCC redesign with 28 directly loadable, prerendered routes. The approved opening uses scroll-controlled authentic worship photography and staged live HTML lettering. Later chapters add reversible image framing, subtle depth and individually emphasized mission statements. There is no generated video installed in this build. An approved clip can be installed at `assets/hero-film.mp4` and enabled through `body[data-film="ready"]` after its separate quality gate.

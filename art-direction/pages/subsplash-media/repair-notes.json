@@ -1,0 +1,284 @@
+{
+  "route": "subsplash-media",
+  "self_check": [
+    {
+      "route": "subsplash-media",
+      "w": 1440,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "message-opening",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "message-player",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "message-categories",
+          "width": 1440,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "subsplash-media",
+      "w": 1024,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "message-opening",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "message-player",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "message-categories",
+          "width": 1024,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "subsplash-media",
+      "w": 390,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "message-opening",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "message-player",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "message-categories",
+          "width": 390,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    }
+  ],
+  "source_comparison_status": "Awaiting independent review",
+  "controls": {
+    "widths": [
+      1440,
+      1024,
+      390
+    ],
+    "categories": [
+      {
+        "kind": "topic",
+        "label": "Kids",
+        "count": 16,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "Paul",
+        "count": 16,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "experiment",
+        "count": 16,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "Holy",
+        "count": 13,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "Holy Spirit",
+        "count": 13,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "Spirit",
+        "count": 13,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "church",
+        "count": 13,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "family",
+        "count": 7,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "prays",
+        "count": 7,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "Timothy",
+        "count": 6,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "God makes us brave",
+        "count": 3,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "brave",
+        "count": 3,
+        "pass": true
+      },
+      {
+        "kind": "topic",
+        "label": "together",
+        "count": 1,
+        "pass": true
+      },
+      {
+        "kind": "speaker",
+        "label": "Pastor Brandon Kellum",
+        "count": 16,
+        "pass": true
+      },
+      {
+        "kind": "speaker",
+        "label": "Pastor Jason Thomas",
+        "count": 31,
+        "pass": true
+      },
+      {
+        "kind": "speaker",
+        "label": "Pastor Sandy Vargas",
+        "count": 18,
+        "pass": true
+      },
+      {
+        "kind": "speaker",
+        "label": "Lori Burgos",
+        "count": 13,
+        "pass": true
+      },
+      {
+        "kind": "speaker",
+        "label": "Minister Brandon Kellum",
+        "count": 10,
+        "pass": true
+      },
+      {
+        "kind": "scripture",
+        "label": "Deuteronomy",
+        "count": 9,
+        "pass": true
+      },
+      {
+        "kind": "scripture",
+        "label": "2 Chronicles",
+        "count": 5,
+        "pass": true
+      },
+      {
+        "kind": "scripture",
+        "label": "Psalms",
+        "count": 34,
+        "pass": true
+      },
+      {
+        "kind": "scripture",
+        "label": "Matthew",
+        "count": 44,
+        "pass": true
+      },
+      {
+        "kind": "scripture",
+        "label": "Mark",
+        "count": 6,
+        "pass": true
+      },
+      {
+        "kind": "scripture",
+        "label": "Acts",
+        "count": 16,
+        "pass": true
+      },
+      {
+        "kind": "scripture",
+        "label": "Ephesians",
+        "count": 33,
+        "pass": true
+      },
+      {
+        "kind": "scripture",
+        "label": "Philippians",
+        "count": 19,
+        "pass": true
+      },
+      {
+        "kind": "scripture",
+        "label": "Hebrews",
+        "count": 14,
+        "pass": true
+      },
+      {
+        "kind": "scripture",
+        "label": "1 Peter",
+        "count": 11,
+        "pass": true
+      },
+      {
+        "kind": "scripture",
+        "label": "Revelation",
+        "count": 6,
+        "pass": true
+      }
+    ],
+    "items": 158,
+    "calendar1440": {
+      "events": 29,
+      "overflow": false,
+      "provider": true
+    },
+    "calendar1024": {
+      "events": 29,
+      "overflow": false,
+      "provider": true
+    },
+    "calendar390": {
+      "events": 29,
+      "overflow": false,
+      "provider": true
+    },
+    "giving": true,
+    "watchAnchor": "#live-player",
+    "semanticQuote": 1,
+    "quoteText": "Praise be to the God and Father of our Lord Jesus Christ, the Father of compassion and the God of all comfort, who comforts us in all our troubles, so that we can comfort those in any trouble with the comfort we ourselves receive from God. // 2 Corinthians 1:3-4",
+    "animations": 0,
+    "reducedMotionVisible": true
+  },
+  "calendar_source": null
+}

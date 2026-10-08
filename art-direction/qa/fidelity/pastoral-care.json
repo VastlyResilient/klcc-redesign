@@ -1,0 +1,100 @@
+{
+  "route": "pastoral-care",
+  "status": "Fidelity-reviewed",
+  "accepted": false,
+  "sections": [
+    {
+      "id": "care-request",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/pastoral-care-desktop-care-request.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/pastoral-care-desktop-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Repaired 50/40/32px heading restores Contact scale. Complete care explanation and request action remain together; short scripture is now contextual within this section, removing false standalone donor sequence. Conceptual image has honest role.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/pastoral-care-0.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/pastoral-care-desktop-care-request.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/pastoral-care-tablet-care-request.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/pastoral-care-tablet-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Repaired 50/40/32px heading restores Contact scale. Complete care explanation and request action remain together; short scripture is now contextual within this section, removing false standalone donor sequence. Conceptual image has honest role.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/pastoral-care-1.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/pastoral-care-tablet-care-request.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/pastoral-care-phone-care-request.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/pastoral-care-phone-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Repaired 50/40/32px heading restores Contact scale. Complete care explanation and request action remain together; short scripture is now contextual within this section, removing false standalone donor sequence. Conceptual image has honest role.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/pastoral-care-2.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/pastoral-care-phone-care-request.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    }
+  ],
+  "reviewer": "repair_ministry agent; independent of practical page authorship",
+  "reviewed_at": "2026-10-07T09:23:28.298Z",
+  "scope": "Independent initial official evidence review and author-repair follow-up. Section rubric only; owner acceptance and cross-site anti-sameness remain separate.",
+  "source_review": "art-direction/qa/round-2/practical-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/pastoral-care.json",
+  "source_hashes": {
+    "src/pages/pastoral-care.html": "d6ea7b07c1a48f02986cb6a7741bcdb8be7d46cdd082144a193312f92112482a",
+    "src/pages/pastoral-care.css": "a5886b24241871acfb4f8bafcfaf088690aab5f846bbbd4cbd496b1a416b0a7e",
+    "src/motion/scenes/pastoral-care.ts": "13d9dc4d01d9b79c4ac2a4425b04c6e0b42e6c9c31f597f743f6d2ede3c6a142"
+  },
+  "limits": [
+    "This section rubric does not replace owner approval or whole-site anti-sameness review.",
+    "External payment/request submission and media playback were not executed. Embedded providers depend on network; stable direct destinations are present.",
+    "Functional content expands some source reading sections. Authentic media and intact essential data take precedence over fabricated filler."
+  ],
+  "issues": []
+}

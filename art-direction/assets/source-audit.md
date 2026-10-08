@@ -1,0 +1,9 @@
+# Original asset audit — October 7, 2026
+
+Seven leadership photographs were downloaded from image URLs present in the live source HTML. Adjacent biography columns establish the identity: Bishop Jay and Jeannine Ramirez, TJ Niglio, Manny Cintron, Jason Thomas, Sandy Vargas, Brandon Kellum, Lori Burgos. Viewed every portrait in `qa/source-assets-contact.jpg`. They are 500×500 originals delivered by source; suitable for bounded portrait columns, not full-bleed desktop hero enlargement. Source JPGs preserved; WebP variants supplied.
+
+Kids/youth/men/women source openings are respectively colorful powder, blurred color texture, blue texture, and pink botanical/abstract texture. These are not photographs of actual program participants. None authorizes an invented photo of children, youth, men or women. Use typography and accurate source artwork where no documentary material exists.
+
+The original Previous Messages page embeds the official Subsplash Website Media collection. Following its Previous Messages link exposed actual archive cards. Four cards were downloaded with their original 1280×720 artwork and inspected in `qa/message-artwork-contact.jpg`. Speaker and date were extracted from each corresponding official provider page's public serialized media record. They are archived entries from 2022/2025. Do not call them the latest sermons. Each card's provider destination is supplied, enabling genuine playable actions while preserving the full live library.
+
+Manifest additions and exact URLs: `asset-manifest.json`, `new-source-assets.json`, `message-selection.json`. Extra media is optional enrichment in the content ledger until assigned to a reconstructed section. Rights: owner-authorized redesign of company material; copyright, model and publication permission not independently certified. No generated company people, facilities or events were added.

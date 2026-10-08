@@ -1,0 +1,29 @@
+{
+  "route": "baptism",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [],
+      "scrollStates": 27,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/baptism/capture-desktop/desktop/video/page@fc11a331635aca6e52e0d1ba08d92ab4.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/baptism/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [],
+      "scrollStates": 29,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [],
+      "scrollStates": 25,
+      "errors": [],
+      "video": null
+    }
+  }
+}

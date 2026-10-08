@@ -1,0 +1,75 @@
+{
+  "route": "courses",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [],
+      "scrollStates": 41,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/courses/capture-desktop/desktop/video/page@c580da3e17a92c5f5270886938c31402.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/courses/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-006",
+          "to": "forward-007",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.999876"
+            }
+          }
+        },
+        {
+          "from": "forward-007",
+          "to": "forward-008",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "0.999876",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 45,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-007",
+          "to": "forward-008",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.999052"
+            }
+          }
+        },
+        {
+          "from": "forward-008",
+          "to": "forward-009",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(4)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "0.999052",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 41,
+      "errors": [],
+      "video": null
+    }
+  }
+}

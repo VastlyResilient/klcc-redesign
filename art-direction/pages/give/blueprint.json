@@ -1,0 +1,252 @@
+{
+  "route": "give",
+  "title": "Giving | Kingdom Life",
+  "description": "Choose a giving method without pressure or animation delays.",
+  "visitor_job": "Choose a giving method without pressure or animation delays.",
+  "signature": {
+    "id": "giving-methods"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll",
+    "source_reason": "Giving controls Hold. Slab proof image is an intact factual asset in document flow; it is not a chapter sequence."
+  },
+  "reference": {
+    "template": "royal",
+    "route": "/contact"
+  },
+  "sections": [
+    {
+      "id": "give-opening",
+      "visitor_task": "Choose a giving method without pressure or animation delays.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "landmark": "section-0",
+        "composition": "One practical heading followed by sparse actual channels on the left and dominant provider-action field on the right.",
+        "sequence": "Hold; payment controls and required instructions stay immediately usable."
+      },
+      "company_content": {
+        "copy": [
+          "ci:give.s0.b1",
+          "ci:give.s0.b0",
+          "ci:give.integration0"
+        ],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Royal Contact relation split into two semantic sections: heading, then two-column actual channels/provider action. Phone places the provider action before alternatives.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Royal editable contact form",
+          "conflict": "KLCC donation processing must remain with its real provider; no fabricated card fields or transaction behavior.",
+          "adaptation": "Provider purpose, direct secure launch, fallback instruction and optional existing embedded form occupy the real action field. No artificial height added to resemble source form.",
+          "test": "Independent responsive composition and source/action preservation; actual payments not submitted."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/give.json",
+        "reviewed_at": "2026-10-07T19:56:37.737036+00:00"
+      }
+    },
+    {
+      "id": "give-methods",
+      "visitor_task": "Choose a giving method without pressure or animation delays.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "landmark": "section-0",
+        "composition": "One practical heading followed by sparse actual channels on the left and dominant provider-action field on the right.",
+        "sequence": "Hold; payment controls and required instructions stay immediately usable."
+      },
+      "company_content": {
+        "copy": [
+          "ci:give.s1.b0",
+          "ci:give.s1.b1",
+          "ci:give.s1.b2",
+          "ci:give.s1.b3"
+        ],
+        "cta": [
+          "cta:give.s1.a0"
+        ],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Royal Contact relation split into two semantic sections: heading, then two-column actual channels/provider action. Phone places the provider action before alternatives.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Royal editable contact form",
+          "conflict": "KLCC donation processing must remain with its real provider; no fabricated card fields or transaction behavior.",
+          "adaptation": "Provider purpose, direct secure launch, fallback instruction and optional existing embedded form occupy the real action field. No artificial height added to resemble source form.",
+          "test": "Independent responsive composition and source/action preservation; actual payments not submitted."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/give.json",
+        "reviewed_at": "2026-10-07T19:56:37.737036+00:00"
+      }
+    },
+    {
+      "id": "give-generosity",
+      "visitor_task": "Choose a giving method without pressure or animation delays.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "hero",
+        "state": "opening",
+        "composition": "Wide intact pantry artwork first; compact proof title left and bounded explanation right below, stacked on phone.",
+        "sequence": "Hold / native document progression. Giving controls Hold. Slab proof image is an intact factual asset in document flow; it is not a chapter sequence."
+      },
+      "company_content": {
+        "copy": [
+          "ci:give.s3.b0",
+          "ci:give.s3.b1"
+        ],
+        "cta": [],
+        "media": [
+          "img:give.community-pantry"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Wide intact pantry artwork first; compact proof title left and bounded explanation right below, stacked on phone.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/give.json",
+        "reviewed_at": "2026-10-07T19:56:37.737036+00:00"
+      }
+    },
+    {
+      "id": "give-reading",
+      "visitor_task": "Choose a giving method without pressure or animation delays.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "brief",
+        "state": "forward-002",
+        "composition": "Small left reading label with one right column of generosity explanation and ruled scripture note",
+        "sequence": "Hold / native reading"
+      },
+      "company_content": {
+        "copy": [
+          "ci:give.s4.b0",
+          "ci:give.s4.b1",
+          "ci:give.s2.b0",
+          "ci:give.s2.b1"
+        ],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Small left reading label with one right column of generosity explanation and ruled scripture note",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/give.json",
+        "reviewed_at": "2026-10-07T19:56:37.737036+00:00"
+      }
+    }
+  ],
+  "repair_review_note": "Composition repaired 2026-10-07; historical fidelity record unchanged. Requires independent fresh judgment, not author approval.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "updated_at": "2026-10-07T19:50:54.467449+00:00",
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/give.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

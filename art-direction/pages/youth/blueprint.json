@@ -1,0 +1,376 @@
+{
+  "route": "youth",
+  "reference": {
+    "template": "royal",
+    "route": "/about",
+    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "mode": "B",
+    "donors": [
+      "lou",
+      "slab"
+    ]
+  },
+  "visitor_job": "Find the correct age group, Wednesday timing and contact route.",
+  "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
+  "critical_answer": "Grades 7\u201312. Services meet Wednesdays at 7:30 PM; doors open at 6:45 PM at the Youth Center.",
+  "primary_action": {
+    "route": "youth",
+    "source": "https://klcc.us/youth",
+    "source_date": "2026-10-01",
+    "required": true,
+    "id": "cta:youth.s3.a0",
+    "type": "cta",
+    "label": "Contact",
+    "original_destination": "mailto:bmcdowell@klcc.us?subject=Elevate%207-9th%20Grades",
+    "approved_destination": "mailto:bmcdowell@klcc.us?subject=Elevate%207-9th%20Grades",
+    "live_match": true
+  },
+  "supporting_proof": "Actual source copy and authentic source assets; consult the asset manifest.",
+  "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
+  "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
+  "signature": {
+    "id": "youth-exchange",
+    "dominant_verb": "Exchange",
+    "structural_idea": "Two age-band reading columns separated by a wide actual worship scene",
+    "axes": {
+      "unit": "content-specific block/image",
+      "vector": "Hold pending observed scene contract",
+      "driver": "native scroll",
+      "frame": "route-owned composition"
+    }
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "none",
+    "driver": "static",
+    "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+  },
+  "content_ids": [
+    "ci:youth.s0.b0",
+    "ci:youth.s1.b0",
+    "ci:youth.s1.b1",
+    "ci:youth.s1.b2",
+    "ci:youth.s2.b0",
+    "ci:youth.s2.b1",
+    "ci:youth.s3.b0",
+    "ci:youth.s3.b1",
+    "ci:youth.s3.b2",
+    "ci:youth.s3.b3",
+    "cta:youth.s3.a0",
+    "cta:youth.s3.a1",
+    "ci:youth.s4.b0",
+    "ci:youth.s4.b1",
+    "img:youth.worship-stage",
+    "img:youth.page-youth"
+  ],
+  "sections": [
+    {
+      "id": "elevate-opening",
+      "title": "Elevate youth",
+      "visitor_task": "Find the correct age group, Wednesday timing and contact route.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+        "landmark": "hero",
+        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      },
+      "company_content": {
+        "copy": [
+          "ci:youth.s0.b0",
+          "ci:youth.s1.b0",
+          "ci:youth.s1.b1",
+          "ci:youth.s1.b2"
+        ],
+        "media": [
+          "img:youth.worship-stage"
+        ],
+        "cta": []
+      },
+      "content_ids": [
+        "ci:youth.s0.b0",
+        "img:youth.worship-stage",
+        "ci:youth.s1.b0",
+        "ci:youth.s1.b1",
+        "ci:youth.s1.b2"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 repair; inspect src/pages/youth.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
+        "ground": "ink",
+        "motion": {
+          "mechanism": "Hold in native document flow",
+          "selectors": [],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "No route-owned motion on this section",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/youth.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "age-paths",
+      "title": "Find your age group",
+      "visitor_task": "Read find your age group and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "section-1",
+        "state": "forward-002",
+        "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+        "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+      },
+      "company_content": {
+        "copy": [
+          "ci:youth.s2.b0",
+          "ci:youth.s2.b1",
+          "ci:youth.s3.b0",
+          "ci:youth.s3.b1",
+          "ci:youth.s3.b2",
+          "ci:youth.s3.b3"
+        ],
+        "media": [],
+        "cta": [
+          "cta:youth.s3.a0",
+          "cta:youth.s3.a1"
+        ]
+      },
+      "content_ids": [
+        "ci:youth.s2.b0",
+        "ci:youth.s2.b1",
+        "ci:youth.s3.b0",
+        "ci:youth.s3.b1",
+        "cta:youth.s3.a0",
+        "ci:youth.s3.b2",
+        "ci:youth.s3.b3",
+        "cta:youth.s3.a1"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 repair; inspect src/pages/youth.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
+        "ground": "paper",
+        "motion": {
+          "mechanism": "Scroll-triggered once-entered opacity",
+          "selectors": [
+            "#age-paths article p"
+          ],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "opacity .65 to 1; 1100ms ease-out; IntersectionObserver threshold .15; once entered",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/youth.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "elevate-connect",
+      "title": "Stay connected",
+      "visitor_task": "Read stay connected and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
+        "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+        "landmark": "section-0",
+        "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+      },
+      "company_content": {
+        "copy": [
+          "ci:youth.s4.b0",
+          "ci:youth.s4.b1"
+        ],
+        "media": [],
+        "cta": []
+      },
+      "content_ids": [
+        "ci:youth.s4.b0",
+        "ci:youth.s4.b1"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 repair; inspect src/pages/youth.html and route-owned CSS; section order and geometry rebuilt against exact source landmark.",
+        "ground": "paper",
+        "motion": {
+          "mechanism": "Hold in native document flow",
+          "selectors": [],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "No route-owned motion on this section",
+          "heading": "Static readable HTML",
+          "reverse": "No replay or reversed opacity; no pin or synchronized chapter exchange"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Keep timing above any animated scene. The two age bands become consecutive, clearly separated passages, with both real contact actions accessible.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/youth.json",
+        "reviewed_at": "2026-10-07T09:15:54.842468+00:00"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    }
+  ],
+  "content_coverage": {
+    "expected": 16,
+    "assigned": 15,
+    "missing": [
+      "img:youth.page-youth"
+    ]
+  },
+  "deletion_pass": "Remove invented age filters and repeated decorative icons. Do not hide an age band behind an animation or interaction.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "unresolved": [
+    "Static headings do not satisfy a literal pairwise two-axis heading-difference rule. Record this conflict rather than claim compliance.",
+    "Image focal points, type measures and every interaction require review of the rendered result."
+  ],
+  "title": "Youth | Kingdom Life",
+  "implementation": {
+    "source": "src/pages/youth.html",
+    "css": "src/pages/youth.css",
+    "motion": "src/motion/scenes/youth.ts",
+    "observed_references": [
+      "Royal /about image and content entry",
+      "Lou /about footer clarity arrival",
+      "Slab project image entry"
+    ],
+    "values": "Only listed live selectors receive once-entered opacity .65 to 1 over 1100ms ease-out at threshold .15. Removed obsolete no-op selectors; no sticky chapter exchange or reversible scripture focus.",
+    "deviation": "Motion is estimated rather than exact editor reconstruction. No invented pairwise axis distinctions. Every element remains visible before script.",
+    "status": "Reconstructed; independent fidelity review pending",
+    "actual_sections": [
+      {
+        "class": "elevate-opening",
+        "reference_landmark": "hero"
+      },
+      {
+        "class": "age-paths",
+        "reference_landmark": "section-1"
+      },
+      {
+        "class": "elevate-connect",
+        "reference_landmark": "section-0"
+      }
+    ],
+    "full_section_order": [
+      "elevate-opening",
+      "age-paths",
+      "elevate-connect"
+    ],
+    "deleted": [
+      "Legacy texture-only source backgrounds omitted where they conflicted with the locked identity; asset files retained.",
+      "No automatic decorative arrows or icon badges."
+    ],
+    "functional_checks": {
+      "viewports": [
+        1440,
+        1024,
+        390
+      ],
+      "artifact": "art-direction/qa/functional-young-adults-youth-kids-women-men-new-leadership-life-groups.json",
+      "result": "24 browser checks clean: no overflow, required ledger omissions, missing loaded images, JS errors, or hidden reduced-motion essentials; menu/Escape functional."
+    }
+  },
+  "motion_contract": {
+    "mechanisms": [
+      "Scroll-triggered once-entered opacity"
+    ],
+    "selectors": [
+      "#age-paths article p"
+    ],
+    "focus_selector": null,
+    "estimated_settings": {
+      "opacity_start": 0.65,
+      "duration_ms": 1100,
+      "threshold": 0.15
+    },
+    "reverse": "No replay; no reversed filter. Native flow.",
+    "mobile": "Native document flow; same nonessential entry selectors; essential content holds.",
+    "limitations": "Source editor timings unknown. No pin, chapter exchange or footer-focus reconstruction."
+  },
+  "repair": {
+    "date": "2026-10-07",
+    "status": "Rebuilt; author desktop/tablet/phone visual checks performed; independent reference review still required",
+    "source_decision": "See plan.md preconstruction repair decision",
+    "removed_false_mechanism": "Short scripture heading no longer receives Lou footer blur",
+    "content": "All original IDs retained. Repeated scripture section deleted; exact scripture now serves contextual proof inside task-specific section, not a separate false Lou donor scene.",
+    "author_capture_directory": "/tmp/klcc-ministry-repair"
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/youth.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

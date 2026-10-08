@@ -1,0 +1,433 @@
+{
+  "route": "alpha",
+  "reference": {
+    "template": "slab",
+    "route": "/projects/hydra",
+    "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+    "mode": "B",
+    "donors": [
+      "lou",
+      "slab"
+    ]
+  },
+  "visitor_job": "Understand Alpha, see time/duration, and register for a suitable session.",
+  "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
+  "critical_answer": "Alpha spans 12 weeks and meets Wednesdays at 7 PM at the Cathedral. Virtual classes occur on alternative evenings. Preserve the current registration information.",
+  "primary_action": {
+    "route": "alpha",
+    "source": "https://klcc.us/alpha",
+    "source_date": "2026-10-01",
+    "required": true,
+    "id": "cta:alpha.s1.a0",
+    "type": "cta",
+    "label": "Fall Session",
+    "original_destination": "https://brushfire.com/klcc/alpha/632963/details",
+    "approved_destination": "https://brushfire.com/klcc/alpha/632963/details",
+    "live_match": true
+  },
+  "supporting_proof": "Actual source copy and authentic source assets; consult the asset manifest.",
+  "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
+  "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
+  "signature": {
+    "id": "alpha-repaired-composition",
+    "dominant_verb": "Present",
+    "structural_idea": "Program artwork now spans full available width without cropping any embedded lettering. Conversation physically reorganized into three source-grounded paragraphs with questions/conversation/logistics labels, matching the actual Brief structure. Films map the captured paired-tiles subregion, not its preceding dominant photograph. Scripture maps the measured text-only Highlight Section 2, which is a separate section from following media.",
+    "axes": {
+      "unit": "intact editorial unit",
+      "vector": "clarity without translation",
+      "driver": "Scroll-triggered once, native reading",
+      "frame": "native document flow"
+    }
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "none",
+    "driver": "static",
+    "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+  },
+  "content_ids": [
+    "ci:alpha.s0.b0",
+    "ci:alpha.s1.b0",
+    "ci:alpha.s1.b2",
+    "cta:alpha.s1.a0",
+    "img:alpha.klcc-alpha-original",
+    "ci:alpha.s1.b1",
+    "cta:alpha.s1.a1",
+    "ci:alpha.integration0",
+    "ci:alpha.integration1",
+    "ci:alpha.s2.b0",
+    "ci:alpha.s2.b1"
+  ],
+  "sections": [
+    {
+      "id": "alpha-opening",
+      "title": "opening",
+      "selector": "#alpha-opening",
+      "content_ids": [
+        "img:alpha.klcc-alpha-original",
+        "ci:alpha.s0.b0",
+        "ci:alpha.s1.b0",
+        "ci:alpha.s1.b2",
+        "cta:alpha.s1.a0"
+      ],
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "landmark": "section-0",
+        "state": "opening",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "comparison_scope": "Exact observed visual unit image-and-metadata. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+        "states": {
+          "desktop": "opening",
+          "tablet": "opening",
+          "phone": "opening"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png"
+        },
+        "region": {
+          "selector": "[data-framer-name=\"Hero Image Section\"], [data-framer-name=\"Header Section\"]",
+          "definition": "image-and-metadata",
+          "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+          "viewports": {
+            "desktop": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-image-and-metadata.png",
+              "box": {
+                "x": 0,
+                "top": 0,
+                "width": 1440,
+                "height": 941.78125
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "tablet": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-image-and-metadata.png",
+              "box": {
+                "x": 0,
+                "top": 0,
+                "width": 1024,
+                "height": 891.84375
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "phone": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-image-and-metadata.png",
+              "box": {
+                "x": 0,
+                "top": 0,
+                "width": 390,
+                "height": 824.703125
+              },
+              "fullbleed": true,
+              "sticky": false
+            }
+          }
+        }
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Artwork leads above title and registration metadata. Intact program art replaces a device photograph.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/alpha.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
+    },
+    {
+      "id": "alpha-conversation",
+      "title": "conversation",
+      "selector": "#alpha-conversation",
+      "content_ids": [
+        "ci:alpha.s1.b1",
+        "cta:alpha.s1.a1"
+      ],
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "landmark": "section-1",
+        "state": "forward-002",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "comparison_scope": "Exact observed visual unit brief. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+        "states": {
+          "desktop": "forward-002",
+          "tablet": "forward-002",
+          "phone": "forward-002"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png"
+        },
+        "region": {
+          "selector": "[data-framer-name=\"Brief Section\"]",
+          "definition": "brief",
+          "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+          "viewports": {
+            "desktop": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-brief.png",
+              "box": {
+                "x": 0,
+                "top": 941.78125,
+                "width": 1440,
+                "height": 674
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "tablet": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-brief.png",
+              "box": {
+                "x": 0,
+                "top": 891.84375,
+                "width": 1024,
+                "height": 737
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "phone": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-brief.png",
+              "box": {
+                "x": 0,
+                "top": 824.703125,
+                "width": 390,
+                "height": 705.59375
+              },
+              "fullbleed": true,
+              "sticky": false
+            }
+          }
+        }
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Three semantic brief roles: real questions, 12-week conversation, actual meeting logistics. All original paragraph sentences preserved under one content ID.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/alpha.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
+    },
+    {
+      "id": "alpha-films",
+      "title": "films",
+      "selector": "#alpha-films",
+      "content_ids": [
+        "ci:alpha.integration0",
+        "ci:alpha.integration1"
+      ],
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "landmark": "section-3",
+        "state": "forward-009",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "comparison_scope": "Exact observed visual unit paired-tiles. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-paired-tiles.png",
+        "states": {
+          "desktop": "forward-009",
+          "tablet": "forward-009",
+          "phone": "forward-006"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-paired-tiles.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-paired-tiles.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-paired-tiles.png"
+        },
+        "region": {
+          "selector": ".framer-7zt5l3",
+          "definition": "paired-tiles",
+          "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+          "viewports": {
+            "desktop": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-paired-tiles.png",
+              "box": {
+                "x": 8,
+                "top": 3948.09375,
+                "width": 1424,
+                "height": 517.15625
+              },
+              "fullbleed": false,
+              "sticky": false
+            },
+            "tablet": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-paired-tiles.png",
+              "box": {
+                "x": 8,
+                "top": 3306.21875,
+                "width": 1008,
+                "height": 380.84375
+              },
+              "fullbleed": false,
+              "sticky": false
+            },
+            "phone": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-paired-tiles.png",
+              "box": {
+                "x": 8,
+                "top": 2581.953125,
+                "width": 374,
+                "height": 564.0625
+              },
+              "fullbleed": false,
+              "sticky": false
+            }
+          }
+        }
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Actual observed equal paired-media subregion. Real source artwork/video objects retain intrinsic readable content; titles/captions are additional company-useful metadata, not copied source prose.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/alpha.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
+    },
+    {
+      "id": "alpha-scripture",
+      "title": "scripture",
+      "selector": "#alpha-scripture",
+      "content_ids": [
+        "ci:alpha.s2.b0",
+        "ci:alpha.s2.b1"
+      ],
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "landmark": "section-4",
+        "state": "forward-010",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "manifest": "art-direction/references/deep/slab/hydra-scoped/manifest.json",
+        "comparison_scope": "Exact observed visual unit text-row. Compare this measured/captured region, not neighboring full-viewport content. Intrinsic asset proportions and semantic text length are explicit content adaptations.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+        "states": {
+          "desktop": "forward-010",
+          "tablet": "forward-010",
+          "phone": "forward-008"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png"
+        },
+        "region": {
+          "selector": "[data-framer-name=\"Highlight Section 2\"]",
+          "definition": "text-row",
+          "evidence": "art-direction/references/deep/slab/hydra-regions/units.json",
+          "viewports": {
+            "desktop": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/desktop-unit-text-row.png",
+              "box": {
+                "x": 0,
+                "top": 4545.25,
+                "width": 1440,
+                "height": 320
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "tablet": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/tablet-unit-text-row.png",
+              "box": {
+                "x": 0,
+                "top": 3767.0625,
+                "width": 1024,
+                "height": 335
+              },
+              "fullbleed": true,
+              "sticky": false
+            },
+            "phone": {
+              "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/slab/hydra-regions/phone-unit-text-row.png",
+              "box": {
+                "x": 0,
+                "top": 3226.015625,
+                "width": 390,
+                "height": 409.59375
+              },
+              "fullbleed": true,
+              "sticky": false
+            }
+          }
+        }
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Actual text-only Highlight Section 2 unit: small left label and enlarged right explanatory paragraph. No claim to its separate following media section. Light company ground is an explicit identity adaptation.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/alpha.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
+    }
+  ],
+  "content_coverage": {
+    "expected": 11,
+    "assigned": 11,
+    "missing": []
+  },
+  "deletion_pass": "Do not manufacture answers to the theological questions. Avoid extra CTAs that block video or duplicate registration.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "unresolved": [
+    "Fresh independent reference-fidelity review pending; old review records are unchanged.",
+    "Literal pairwise heading-axis uniqueness is not claimed; static readable headings intentionally remain."
+  ],
+  "motion_notes": {
+    "initial": "All content visible without JavaScript; enhanced membership stages initialize immediately.",
+    "trigger": "First intersection of intact unit, opacity .8\u21921; authored reconstruction timing.",
+    "reverse": "Membership paired stage reverses; other first-entry clarity does not replay.",
+    "mobile": "Native document reading, no hidden essential passage or forced pin.",
+    "reduced": "Fully visible, unpinned static content.",
+    "limitation": "No bodySplitText; Lou character-level granularity is not claimed. No new fidelity scores assigned."
+  },
+  "actual_sections": [
+    "alpha-opening",
+    "alpha-conversation",
+    "alpha-films",
+    "alpha-scripture"
+  ],
+  "motion_contract": {
+    "scene": "alpha-first-entry-clarity",
+    "source_observation": "Observed modest enter arrival or Lou held-position timed clarity",
+    "test_states": [
+      "before entry",
+      "after 1500ms",
+      "reverse after entry"
+    ],
+    "essential_text_min_opacity": 0.8,
+    "estimate_notice": "Reconstruction durations are design estimates, not source editor values."
+  },
+  "implementation": {
+    "html": "src/pages/alpha.html",
+    "css": "src/pages/alpha.css",
+    "motion": "src/motion/scenes/alpha.ts",
+    "repair_notes": "art-direction/pages/alpha/repair-notes.md"
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/alpha.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

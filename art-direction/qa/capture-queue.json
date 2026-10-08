@@ -1,0 +1,544 @@
+{
+  "schema": 1,
+  "created": "2026-10-07T06:34:30.027Z",
+  "routes": {
+    "404": {
+      "status": "Captured",
+      "fingerprint": "9b26db95d1937c7bd06653805605a27fc0673f9ff586d174f6c3f2751f2405eb",
+      "files": [
+        "src/pages/404.html",
+        "src/pages/404.css",
+        "src/motion/scenes/404.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "404/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/404/manifest.json",
+      "finished": "2026-10-07T07:12:47.503Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "believe": {
+      "status": "Captured",
+      "fingerprint": "35261c705c0db683ea632103e2eb6d35fed1de986eb8eeb3fe937b7ffbb2d89b",
+      "files": [
+        "src/pages/believe.html",
+        "src/pages/believe.css",
+        "src/motion/scenes/believe.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "believe/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/believe/manifest.json",
+      "finished": "2026-10-07T09:41:22.613Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "weather-procedures": {
+      "status": "Captured",
+      "fingerprint": "74efb16349325c95c149a9c1f4a9c6c89d073b312952df56d25eb8172543d990",
+      "files": [
+        "src/pages/weather-procedures.html",
+        "src/pages/weather-procedures.css",
+        "src/motion/scenes/weather-procedures.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "weather-procedures/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/weather-procedures/manifest.json",
+      "finished": "2026-10-07T07:38:25.299Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "easter": {
+      "status": "Captured",
+      "fingerprint": "ceb2850a97edc9581dc15cfcd4282518f04ab58f9b05cf05c8636730abef069b",
+      "files": [
+        "src/pages/easter.html",
+        "src/pages/easter.css",
+        "src/motion/scenes/easter.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "easter/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/easter/manifest.json",
+      "finished": "2026-10-07T09:33:00.601Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "watch-live": {
+      "status": "Captured",
+      "fingerprint": "5ce8493308748441573bc3c8d6c5b2f00576e81341b0675b3169ca0286175556",
+      "files": [
+        "src/pages/watch-live.html",
+        "src/pages/watch-live.css",
+        "src/motion/scenes/watch-live.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "watch-live/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/watch-live/manifest.json",
+      "finished": "2026-10-07T09:01:23.367Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "new": {
+      "status": "Captured",
+      "fingerprint": "425ef589b94eb255dfdc5a5343805788e3133571b061aa945a2a50ee2973adfc",
+      "files": [
+        "src/pages/new.html",
+        "src/pages/new.css",
+        "src/motion/scenes/new.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "new/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/new/manifest.json",
+      "finished": "2026-10-07T09:55:05.671Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "our-story": {
+      "status": "Captured",
+      "fingerprint": "7a4ae76dc0603f2d33205494c64255de27fad3b472b2f3e2491e172401ede558",
+      "files": [
+        "src/pages/our-story.html",
+        "src/pages/our-story.css",
+        "src/motion/scenes/our-story.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "our-story/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/our-story/manifest.json",
+      "finished": "2026-10-07T09:54:42.935Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "leadership": {
+      "status": "Captured",
+      "fingerprint": "f30a44bd8c16b41ce84716b5b2d8f3a572d50b5029c64e5d088b72b4abe00149",
+      "files": [
+        "src/pages/leadership.html",
+        "src/pages/leadership.css",
+        "src/motion/scenes/leadership.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "leadership/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/leadership/manifest.json",
+      "finished": "2026-10-07T09:57:22.544Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "mission": {
+      "status": "Captured",
+      "fingerprint": "fada281ea87a09799022d36d2cfde223e2cfe947d5d9476a5c41ed1400824517",
+      "files": [
+        "src/pages/mission.html",
+        "src/pages/mission.css",
+        "src/motion/scenes/mission.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "mission/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/mission/manifest.json",
+      "finished": "2026-10-07T09:35:01.926Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "beliefs": {
+      "status": "Captured",
+      "fingerprint": "b3b629933b23368175f2ca605114b6cb5c9f6151443632a41610b47a5ac0a54e",
+      "files": [
+        "src/pages/beliefs.html",
+        "src/pages/beliefs.css",
+        "src/motion/scenes/beliefs.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "beliefs/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/beliefs/manifest.json",
+      "finished": "2026-10-07T09:50:41.401Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "pastoral-care": {
+      "status": "Captured",
+      "fingerprint": "619f2987d0822232b00cf7980569963139d63fb35a371bcc2b49299d8cdfd289",
+      "files": [
+        "src/pages/pastoral-care.html",
+        "src/pages/pastoral-care.css",
+        "src/motion/scenes/pastoral-care.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "pastoral-care/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/pastoral-care/manifest.json",
+      "finished": "2026-10-07T09:34:36.737Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "life-groups": {
+      "status": "Captured",
+      "fingerprint": "ff722dadbb62ff15ba0bc95fb2e792717baac02eaf16ff97ffa0b1498701a1df",
+      "files": [
+        "src/pages/life-groups.html",
+        "src/pages/life-groups.css",
+        "src/motion/scenes/life-groups.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "life-groups/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/life-groups/manifest.json",
+      "finished": "2026-10-07T09:57:19.156Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "membership": {
+      "status": "Captured",
+      "fingerprint": "38ad912db198d5ffe8bd7876a760013d66f886fd2ca050b706fb8449af7515e8",
+      "files": [
+        "src/pages/membership.html",
+        "src/pages/membership.css",
+        "src/motion/scenes/membership.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "membership/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/membership/manifest.json",
+      "finished": "2026-10-07T09:51:00.968Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "prayer": {
+      "status": "Captured",
+      "fingerprint": "7b093d8bac7c782dc2a564fbdd37163385ca5e73c2341e4cdbcf69052df721ff",
+      "files": [
+        "src/pages/prayer.html",
+        "src/pages/prayer.css",
+        "src/motion/scenes/prayer.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "prayer/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/prayer/manifest.json",
+      "finished": "2026-10-07T06:44:42.992Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass",
+      "reusedAfterMetadataOnly": true,
+      "reuseReason": "Parent confirms only OG/canonical metadata or intrinsic image dimensions/srcset/eager-priority attributes changed. Existing settled image geometry retained. Opening CLS improvement is verified separately; no claim of recapturing latest initial-loading behavior."
+    },
+    "serve": {
+      "status": "Captured",
+      "fingerprint": "1a7056388b57c31e7a60f207be275cfd847ab2cdd6fd70bd711c28f0b2989b7b",
+      "files": [
+        "src/pages/serve.html",
+        "src/pages/serve.css",
+        "src/motion/scenes/serve.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "serve/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/serve/manifest.json",
+      "finished": "2026-10-07T09:43:45.201Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "alpha": {
+      "status": "Captured",
+      "fingerprint": "5587877c99f1dd86b20a3edc33a9671e85028ed4f76fe1f6fa67fa0633480c06",
+      "files": [
+        "src/pages/alpha.html",
+        "src/pages/alpha.css",
+        "src/motion/scenes/alpha.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "alpha/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/alpha/manifest.json",
+      "finished": "2026-10-07T09:45:55.866Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "courses": {
+      "status": "Captured",
+      "fingerprint": "8859a6b10e94da5c31caa39937ad37abbb057d270f0f6e9638eacd78be66d078",
+      "files": [
+        "src/pages/courses.html",
+        "src/pages/courses.css",
+        "src/motion/scenes/courses.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "courses/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/courses/manifest.json",
+      "finished": "2026-10-07T09:46:40.942Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "kids": {
+      "status": "Captured",
+      "fingerprint": "a6bafa0d165a99c91a975d199a263d70936bf3d37234d8d1e9bd6790220735a6",
+      "files": [
+        "src/pages/kids.html",
+        "src/pages/kids.css",
+        "src/motion/scenes/kids.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "kids/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/kids/manifest.json",
+      "finished": "2026-10-07T20:07:43.073Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "youth": {
+      "status": "Captured",
+      "fingerprint": "1875c71221411f2c110263456e299a54fd125a4ec2ff81f07e37d03fb77e0336",
+      "files": [
+        "src/pages/youth.html",
+        "src/pages/youth.css",
+        "src/motion/scenes/youth.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "youth/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/youth/manifest.json",
+      "finished": "2026-10-07T09:20:18.307Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "young-adults": {
+      "status": "Captured",
+      "fingerprint": "efb1ac500d4fc8299ac752bb633073747069ab14d892df5a568d60cef1c7fec7",
+      "files": [
+        "src/pages/young-adults.html",
+        "src/pages/young-adults.css",
+        "src/motion/scenes/young-adults.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "young-adults/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/young-adults/manifest.json",
+      "finished": "2026-10-07T09:21:41.534Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "women": {
+      "status": "Captured",
+      "fingerprint": "ae6bc29b5c2aedb254790dccc381ec6c2fbf3c184057c4adf08443ba01a8e5d0",
+      "files": [
+        "src/pages/women.html",
+        "src/pages/women.css",
+        "src/motion/scenes/women.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "women/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/women/manifest.json",
+      "finished": "2026-10-07T19:57:38.128Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "men": {
+      "status": "Captured",
+      "fingerprint": "1ff506136e8f28dc78c7907bcd7d50ed901a4d92147eb8805d5116f979c84204",
+      "files": [
+        "src/pages/men.html",
+        "src/pages/men.css",
+        "src/motion/scenes/men.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "men/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/men/manifest.json",
+      "finished": "2026-10-07T20:02:32.120Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "calendar": {
+      "status": "Captured",
+      "fingerprint": "29a0941235b7e87dff547b1c6603ea9b06483427c4b5411843c4eeeca2777581",
+      "files": [
+        "src/pages/calendar.html",
+        "src/pages/calendar.css",
+        "src/motion/scenes/calendar.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "calendar/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/calendar/manifest.json",
+      "finished": "2026-10-07T09:59:12.426Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "previous-messages": {
+      "status": "Captured",
+      "fingerprint": "fa01ae5174a0cfdec500669343f86df0e0dd85eee7941d7afef535a5fd927673",
+      "files": [
+        "src/pages/previous-messages.html",
+        "src/pages/previous-messages.css",
+        "src/motion/scenes/previous-messages.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "previous-messages/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/previous-messages/manifest.json",
+      "finished": "2026-10-07T09:36:27.717Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "give": {
+      "status": "Captured",
+      "fingerprint": "7c3244088ed59ec46115c3d8d3f9729ee793c4aa75c1b60652d7d7497f4cde82",
+      "files": [
+        "src/pages/give.html",
+        "src/pages/give.css",
+        "src/motion/scenes/give.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "give/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/give/manifest.json",
+      "finished": "2026-10-07T19:59:52.821Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "app": {
+      "status": "Captured",
+      "fingerprint": "c5d5c96e8126e62e4bae7fb5f9f205a87f7500f0c0bf4dc30b0eff74ea2f7ee3",
+      "files": [
+        "src/pages/app.html",
+        "src/pages/app.css",
+        "src/motion/scenes/app.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "app/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/app/manifest.json",
+      "finished": "2026-10-07T09:38:06.303Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "baptism": {
+      "status": "Captured",
+      "fingerprint": "ed48b7ba9b92e634ec15345fb3c98d034af7008de37fc2e5df0ef3ea34644f66",
+      "files": [
+        "src/pages/baptism.html",
+        "src/pages/baptism.css",
+        "src/motion/scenes/baptism.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "baptism/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/baptism/manifest.json",
+      "finished": "2026-10-07T09:48:07.913Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "subsplash-media": {
+      "status": "Captured",
+      "fingerprint": "1f0144724a0b8c46a4191050448e035730cbf098104728a5dff260459ffd8f8b",
+      "files": [
+        "src/pages/subsplash-media.html",
+        "src/pages/subsplash-media.css",
+        "src/motion/scenes/subsplash-media.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "subsplash-media/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/subsplash-media/manifest.json",
+      "finished": "2026-10-07T09:07:08.048Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass"
+    },
+    "legal": {
+      "status": "Captured",
+      "fingerprint": "60711858988d075ca4ce41ecd2230070d10f79ed7553a201771a22518685414c",
+      "files": [
+        "src/pages/legal.html",
+        "src/pages/legal.css",
+        "src/motion/scenes/legal.ts",
+        "src/layouts/site.css",
+        "src/layouts/header.html",
+        "src/layouts/footer.html",
+        "src/motion/lifecycle.ts",
+        "legal/index.html"
+      ],
+      "manifest": "art-direction/qa/captures/legal/manifest.json",
+      "finished": "2026-10-07T07:11:24.545Z",
+      "changedDuringCapture": false,
+      "review": "Awaiting independent per-section visual review; capture is not a fidelity pass",
+      "reusedAfterMetadataOnly": true,
+      "reuseReason": "Parent confirms only OG/canonical metadata or intrinsic image dimensions/srcset/eager-priority attributes changed. Existing settled image geometry retained. Opening CLS improvement is verified separately; no claim of recapturing latest initial-loading behavior."
+    },
+    "home": {
+      "status": "Captured",
+      "fingerprint": "fd47f64e4adf8ac061edfdb0e13184e35ae4492add43331b674a0889a13ec787",
+      "files": [
+        "index.html",
+        "app.js",
+        "styles.css"
+      ],
+      "manifest": "art-direction/qa/captures/home/manifest.json",
+      "reusedAfterMetadataOnly": true,
+      "reuseReason": "Parent confirms only OG/canonical metadata or intrinsic image dimensions/srcset/eager-priority attributes changed. Existing settled image geometry retained. Opening CLS improvement is verified separately; no claim of recapturing latest initial-loading behavior."
+    }
+  }
+}

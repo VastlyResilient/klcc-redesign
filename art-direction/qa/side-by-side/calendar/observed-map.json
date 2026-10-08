@@ -1,0 +1,77 @@
+{
+  "route": "calendar",
+  "status": "Comparison-created-not-reviewed",
+  "method": "Source states mapped from authored data-reference-landmark and observed DOM section order. These are adaptation comparisons, not exact CSS similarity assertions.",
+  "results": [
+    {
+      "section": "calendar-opening",
+      "referenceRole": "contact",
+      "created": "2026-10-07T07:08:51.979Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "section-section-0",
+          "buildState": "section-calendar-opening",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/calendar/observed-0/desktop-section-calendar-opening.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "section-section-0",
+          "buildState": "section-calendar-opening",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/calendar/observed-0/tablet-section-calendar-opening.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "section-section-0",
+          "buildState": "section-calendar-opening",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/calendar/observed-0/phone-section-calendar-opening.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": "calendar-agenda",
+      "referenceRole": "brief",
+      "created": "2026-10-07T07:08:52.051Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "forward-002",
+          "buildState": "section-calendar-agenda",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/calendar/observed-1/desktop-section-calendar-agenda.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "forward-002",
+          "buildState": "section-calendar-agenda",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/calendar/observed-1/tablet-section-calendar-agenda.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "forward-002",
+          "buildState": "section-calendar-agenda",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/calendar/observed-1/phone-section-calendar-agenda.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": "calendar-paths",
+      "status": "No-observed-mapping"
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "route": "give",
+  "status": "Comparison-created-not-reviewed",
+  "method": "Source states mapped from authored data-reference-landmark and observed DOM section order. These are adaptation comparisons, not exact CSS similarity assertions.",
+  "results": [
+    {
+      "section": "give-opening",
+      "referenceRole": "contact",
+      "created": "2026-10-07T07:08:50.380Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "section-section-0",
+          "buildState": "section-give-opening",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-0/desktop-section-give-opening.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "section-section-0",
+          "buildState": "section-give-opening",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-0/tablet-section-give-opening.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "section-section-0",
+          "buildState": "section-give-opening",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-0/phone-section-give-opening.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": "give-methods",
+      "referenceRole": "brief",
+      "created": "2026-10-07T07:08:50.551Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "forward-002",
+          "buildState": "section-give-methods",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-1/desktop-section-give-methods.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "forward-002",
+          "buildState": "section-give-methods",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-1/tablet-section-give-methods.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "forward-002",
+          "buildState": "section-give-methods",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-1/phone-section-give-methods.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": "give-generosity",
+      "referenceRole": "stry",
+      "created": "2026-10-07T07:08:50.817Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "stry-p0",
+          "buildState": "section-give-generosity",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-2/desktop-section-give-generosity.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "stry-p0",
+          "buildState": "section-give-generosity",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-2/tablet-section-give-generosity.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "stry-p0",
+          "buildState": "section-give-generosity",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-2/phone-section-give-generosity.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    },
+    {
+      "section": "give-reading",
+      "referenceRole": "brief",
+      "created": "2026-10-07T07:08:50.961Z",
+      "pairs": [
+        {
+          "viewport": "desktop",
+          "referenceState": "forward-002",
+          "buildState": "section-give-reading",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-3/desktop-section-give-reading.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "tablet",
+          "referenceState": "forward-002",
+          "buildState": "section-give-reading",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-3/tablet-section-give-reading.png",
+          "referenceSettled": false,
+          "buildSettled": true
+        },
+        {
+          "viewport": "phone",
+          "referenceState": "forward-002",
+          "buildState": "section-give-reading",
+          "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/side-by-side/give/observed-3/phone-section-give-reading.png",
+          "referenceSettled": true,
+          "buildSettled": true
+        }
+      ],
+      "unmatched": [],
+      "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+    }
+  ]
+}

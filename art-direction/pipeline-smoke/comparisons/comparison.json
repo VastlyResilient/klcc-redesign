@@ -1,0 +1,77 @@
+{
+  "created": "2026-10-07T06:03:47.246Z",
+  "pairs": [
+    {
+      "viewport": "phone",
+      "referenceState": "opening",
+      "buildState": "opening",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/pipeline-smoke/comparisons/phone-opening.png",
+      "referenceSettled": false,
+      "buildSettled": true
+    },
+    {
+      "viewport": "phone",
+      "referenceState": "footer",
+      "buildState": "footer",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/pipeline-smoke/comparisons/phone-footer.png",
+      "referenceSettled": true,
+      "buildSettled": true
+    },
+    {
+      "viewport": "phone",
+      "referenceState": "midpoint",
+      "buildState": "midpoint",
+      "file": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/pipeline-smoke/comparisons/phone-midpoint.png",
+      "referenceSettled": true,
+      "buildSettled": true
+    }
+  ],
+  "unmatched": [
+    {
+      "viewport": "phone",
+      "build": "section-one",
+      "reason": "No matched landmark and scene progress; no scroll-percentage substitute inferred"
+    },
+    {
+      "viewport": "phone",
+      "build": "section-two",
+      "reason": "No matched landmark and scene progress; no scroll-percentage substitute inferred"
+    },
+    {
+      "viewport": "phone",
+      "build": "two-p0",
+      "reason": "No matched landmark and scene progress; no scroll-percentage substitute inferred"
+    },
+    {
+      "viewport": "phone",
+      "build": "two-p0.25",
+      "reason": "No matched landmark and scene progress; no scroll-percentage substitute inferred"
+    },
+    {
+      "viewport": "phone",
+      "build": "two-p0.5",
+      "reason": "No matched landmark and scene progress; no scroll-percentage substitute inferred"
+    },
+    {
+      "viewport": "phone",
+      "build": "two-p0.75",
+      "reason": "No matched landmark and scene progress; no scroll-percentage substitute inferred"
+    },
+    {
+      "viewport": "phone",
+      "build": "two-p1",
+      "reason": "No matched landmark and scene progress; no scroll-percentage substitute inferred"
+    },
+    {
+      "viewport": "phone",
+      "build": "two-before",
+      "reason": "No matched landmark and scene progress; no scroll-percentage substitute inferred"
+    },
+    {
+      "viewport": "phone",
+      "build": "two-after",
+      "reason": "No matched landmark and scene progress; no scroll-percentage substitute inferred"
+    }
+  ],
+  "judgment": "Unreviewed — generated comparisons do not establish visual fidelity."
+}

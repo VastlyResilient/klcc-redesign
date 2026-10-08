@@ -1,0 +1,881 @@
+[
+  {
+    "route": "app",
+    "width": 1440,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-app-artwork-0",
+        "start": -620,
+        "end": -35
+      },
+      {
+        "id": "detail-app-capabilities-0",
+        "start": 220.25,
+        "end": 724.25
+      },
+      {
+        "id": "detail-app-capabilities-1",
+        "start": 327.640625,
+        "end": 831.640625
+      },
+      {
+        "id": "detail-app-capabilities-2",
+        "start": 412.578125,
+        "end": 916.578125
+      },
+      {
+        "id": "detail-app-capabilities-3",
+        "start": 519.96875,
+        "end": 1023.96875
+      },
+      {
+        "id": "detail-app-capabilities-4",
+        "start": 604.90625,
+        "end": 1108.90625
+      },
+      {
+        "id": "detail-app-capabilities-5",
+        "start": 680.796875,
+        "end": 1184.796875
+      }
+    ],
+    "details": 7,
+    "motion": [
+      {
+        "id": "detail-app-artwork-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-0",
+        "states": [
+          {
+            "y": 220,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 472,
+            "translate": "0px 11.6874px",
+            "opacity": "0.920313",
+            "filter": "none"
+          },
+          {
+            "y": 724,
+            "translate": "0px 0.123364px",
+            "opacity": "0.999159",
+            "filter": "none"
+          },
+          {
+            "y": 220,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-1",
+        "states": [
+          {
+            "y": 328,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 580,
+            "translate": "0px 10.9765px",
+            "opacity": "0.92516",
+            "filter": "none"
+          },
+          {
+            "y": 832,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 328,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-2",
+        "states": [
+          {
+            "y": 413,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 665,
+            "translate": "0px 11.6462px",
+            "opacity": "0.920594",
+            "filter": "none"
+          },
+          {
+            "y": 917,
+            "translate": "0px 0.116169px",
+            "opacity": "0.999208",
+            "filter": "none"
+          },
+          {
+            "y": 413,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-3",
+        "states": [
+          {
+            "y": 520,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 772,
+            "translate": "0px 10.998px",
+            "opacity": "0.925014",
+            "filter": "none"
+          },
+          {
+            "y": 1024,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 520,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-4",
+        "states": [
+          {
+            "y": 605,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 857,
+            "translate": "0px 11.6663px",
+            "opacity": "0.920457",
+            "filter": "none"
+          },
+          {
+            "y": 1109,
+            "translate": "0px 0.119657px",
+            "opacity": "0.999184",
+            "filter": "none"
+          },
+          {
+            "y": 605,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-5",
+        "states": [
+          {
+            "y": 681,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 933,
+            "translate": "0px 10.9867px",
+            "opacity": "0.925091",
+            "filter": "none"
+          },
+          {
+            "y": 1185,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 681,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-app-artwork-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-2",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-3",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-4",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-5",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  },
+  {
+    "route": "app",
+    "width": 1024,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-app-artwork-0",
+        "start": -620,
+        "end": -35
+      },
+      {
+        "id": "detail-app-capabilities-0",
+        "start": 64.25,
+        "end": 568.25
+      },
+      {
+        "id": "detail-app-capabilities-1",
+        "start": 171.640625,
+        "end": 675.640625
+      },
+      {
+        "id": "detail-app-capabilities-2",
+        "start": 256.578125,
+        "end": 760.578125
+      },
+      {
+        "id": "detail-app-capabilities-3",
+        "start": 363.96875,
+        "end": 867.96875
+      },
+      {
+        "id": "detail-app-capabilities-4",
+        "start": 448.90625,
+        "end": 952.90625
+      },
+      {
+        "id": "detail-app-capabilities-5",
+        "start": 524.796875,
+        "end": 1028.796875
+      }
+    ],
+    "details": 7,
+    "motion": [
+      {
+        "id": "detail-app-artwork-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-0",
+        "states": [
+          {
+            "y": 64,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 316,
+            "translate": "0px 11.6874px",
+            "opacity": "0.920313",
+            "filter": "none"
+          },
+          {
+            "y": 568,
+            "translate": "0px 0.123364px",
+            "opacity": "0.999159",
+            "filter": "none"
+          },
+          {
+            "y": 64,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-1",
+        "states": [
+          {
+            "y": 172,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 424,
+            "translate": "0px 10.9765px",
+            "opacity": "0.92516",
+            "filter": "none"
+          },
+          {
+            "y": 676,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 172,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-2",
+        "states": [
+          {
+            "y": 257,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 509,
+            "translate": "0px 11.6462px",
+            "opacity": "0.920594",
+            "filter": "none"
+          },
+          {
+            "y": 761,
+            "translate": "0px 0.116169px",
+            "opacity": "0.999208",
+            "filter": "none"
+          },
+          {
+            "y": 257,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-3",
+        "states": [
+          {
+            "y": 364,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 616,
+            "translate": "0px 10.998px",
+            "opacity": "0.925014",
+            "filter": "none"
+          },
+          {
+            "y": 868,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 364,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-4",
+        "states": [
+          {
+            "y": 449,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 701,
+            "translate": "0px 11.6663px",
+            "opacity": "0.920457",
+            "filter": "none"
+          },
+          {
+            "y": 953,
+            "translate": "0px 0.119657px",
+            "opacity": "0.999184",
+            "filter": "none"
+          },
+          {
+            "y": 449,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-5",
+        "states": [
+          {
+            "y": 525,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 777,
+            "translate": "0px 10.9867px",
+            "opacity": "0.925091",
+            "filter": "none"
+          },
+          {
+            "y": 1029,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 525,
+            "translate": "0px 22px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-app-artwork-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-2",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-3",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-4",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-5",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  },
+  {
+    "route": "app",
+    "width": 390,
+    "overflow": false,
+    "broken": [],
+    "scenes": [
+      {
+        "id": "detail-app-artwork-0",
+        "start": -625,
+        "end": -40
+      },
+      {
+        "id": "detail-app-capabilities-0",
+        "start": 109.328125,
+        "end": 613.328125
+      },
+      {
+        "id": "detail-app-capabilities-1",
+        "start": 202.171875,
+        "end": 706.171875
+      },
+      {
+        "id": "detail-app-capabilities-2",
+        "start": 298.109375,
+        "end": 802.109375
+      },
+      {
+        "id": "detail-app-capabilities-3",
+        "start": 390.953125,
+        "end": 894.953125
+      },
+      {
+        "id": "detail-app-capabilities-4",
+        "start": 486.890625,
+        "end": 990.890625
+      },
+      {
+        "id": "detail-app-capabilities-5",
+        "start": 548.234375,
+        "end": 1052.234375
+      }
+    ],
+    "details": 7,
+    "motion": [
+      {
+        "id": "detail-app-artwork-0",
+        "states": [
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 0,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-0",
+        "states": [
+          {
+            "y": 109,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 361,
+            "translate": "0px 5.68375px",
+            "opacity": "0.922494",
+            "filter": "none"
+          },
+          {
+            "y": 613,
+            "translate": "0px 0.0163659px",
+            "opacity": "0.999777",
+            "filter": "none"
+          },
+          {
+            "y": 109,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-1",
+        "states": [
+          {
+            "y": 202,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 454,
+            "translate": "0px 5.50563px",
+            "opacity": "0.924923",
+            "filter": "none"
+          },
+          {
+            "y": 706,
+            "translate": "0px 3.83711e-06px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 202,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-2",
+        "states": [
+          {
+            "y": 298,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 550,
+            "translate": "0px 5.67682px",
+            "opacity": "0.922589",
+            "filter": "none"
+          },
+          {
+            "y": 802,
+            "translate": "0px 0.0157454px",
+            "opacity": "0.999785",
+            "filter": "none"
+          },
+          {
+            "y": 298,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-3",
+        "states": [
+          {
+            "y": 391,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 643,
+            "translate": "0px 5.49847px",
+            "opacity": "0.925021",
+            "filter": "none"
+          },
+          {
+            "y": 895,
+            "translate": "0px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 391,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-4",
+        "states": [
+          {
+            "y": 487,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 739,
+            "translate": "0px 5.66989px",
+            "opacity": "0.922683",
+            "filter": "none"
+          },
+          {
+            "y": 991,
+            "translate": "0px 0.0151367px",
+            "opacity": "0.999794",
+            "filter": "none"
+          },
+          {
+            "y": 487,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      },
+      {
+        "id": "detail-app-capabilities-5",
+        "states": [
+          {
+            "y": 548,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          },
+          {
+            "y": 800,
+            "translate": "0px 5.50767px",
+            "opacity": "0.924895",
+            "filter": "none"
+          },
+          {
+            "y": 1052,
+            "translate": "0px 7.13417e-06px",
+            "opacity": "1",
+            "filter": "none"
+          },
+          {
+            "y": 548,
+            "translate": "0px 11px",
+            "opacity": "0.85",
+            "filter": "none"
+          }
+        ]
+      }
+    ],
+    "reduced": [
+      {
+        "id": "detail-app-artwork-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-0",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-1",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-2",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-3",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-4",
+        "t": "",
+        "f": "",
+        "o": ""
+      },
+      {
+        "id": "detail-app-capabilities-5",
+        "t": "",
+        "f": "",
+        "o": ""
+      }
+    ]
+  }
+]

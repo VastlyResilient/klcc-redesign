@@ -1,0 +1,183 @@
+{
+  "route": "calendar",
+  "title": "Calendar | Kingdom Life",
+  "description": "Find upcoming events, dates, and registration.",
+  "visitor_job": "Find upcoming events, dates, and registration.",
+  "signature": {
+    "id": "agenda-window"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll",
+    "source_reason": "Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently."
+  },
+  "reference": {
+    "template": "royal",
+    "route": "/contact"
+  },
+  "sections": [
+    {
+      "id": "calendar-opening",
+      "visitor_task": "Find upcoming events, dates, and registration.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "composition": "Oversized calendar title balanced by actual abstractsourceart and timezone note.",
+        "sequence": "Hold / native document progression. Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently.",
+        "landmark": "section-0"
+      },
+      "company_content": {
+        "copy": [
+          "ci:calendar.s0.b0"
+        ],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Oversized calendar title balanced by actual abstractsourceart and timezone note.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/calendar.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
+      }
+    },
+    {
+      "id": "calendar-agenda",
+      "visitor_task": "Find upcoming events, dates, and registration.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "brief",
+        "state": "forward-002",
+        "composition": "One left calendar context label, one right vertical agenda of factual events with high contrast full wrapping dates and native details; provider fallback follows.",
+        "sequence": "Hold / native document progression. Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently."
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "One left calendar context label, one right vertical agenda of factual events with high contrast full wrapping dates and native details; provider fallback follows.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/calendar.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
+      }
+    },
+    {
+      "id": "calendar-paths",
+      "visitor_task": "Find upcoming events, dates, and registration.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/contact",
+        "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+        "landmark": "section-0",
+        "state": "opening-settled",
+        "composition": "Left utility label, right sparse vertical destination list. Phone follows source contact stacking.",
+        "sequence": "Hold / native document progression. Date and provider controls remain stable. Accessible native disclosure is user triggered; dates never move independently."
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Left utility label, right sparse vertical destination list. Phone follows source contact stacking.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/calendar.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
+      }
+    }
+  ],
+  "repair_review_note": "Composition repaired 2026-10-07; historical fidelity record unchanged. Requires independent fresh judgment, not author approval.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/calendar.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "route": "calendar",
+  "status": "Fidelity-reviewed",
+  "accepted": false,
+  "sections": [
+    {
+      "id": "calendar-opening",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-desktop-calendar-opening.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-desktop-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Compact Contact-scale title and right calendar context keep practical date information immediate. Source artwork remains supplemental.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/calendar-0.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/calendar-desktop-calendar-opening.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-3/tablet-heading-followup/calendar-whole-opening.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-tablet-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Targeted tablet correction: h1 now40px, matching chosen source. Whole opening visually inspected: no clipped/awkward heading words, facts and imagery retain prior hierarchy, zero overflow. Desktop and phone h1 sizes remain unchanged. This does not clear other structural or global anti-sameness failures.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/calendar-1.webp",
+          "reviewer": "repair_practical independent follow-up",
+          "reviewed_at": "2026-10-07T09:52:53.527835+00:00",
+          "followup_measurements": "art-direction/qa/round-3/tablet-heading-followup/measurements.json",
+          "original_comparison": "art-direction/qa/round-3/tablet-heading-followup/calendar-comparison.jpg",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-phone-calendar-opening.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-phone-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Compact Contact-scale title and right calendar context keep practical date information immediate. Source artwork remains supplemental.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/calendar-2.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/calendar-phone-calendar-opening.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "calendar-agenda",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-desktop-calendar-agenda.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-desktop-states.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/desktop/forward-002.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Left calendar context and right factual agenda form a continuous Brief relationship. Six current entries precede native later-date disclosure; complete dates wrap without truncation.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/calendar-3.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/calendar-desktop-calendar-agenda.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-tablet-calendar-agenda.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-tablet-states.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/tablet/forward-002.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Left calendar context and right factual agenda form a continuous Brief relationship. Six current entries precede native later-date disclosure; complete dates wrap without truncation.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/calendar-4.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/calendar-tablet-calendar-agenda.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-phone-calendar-agenda.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-phone-states.png",
+          "source_evidence": "art-direction/references/deep/slab/hydra-scoped/phone/forward-002.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Left calendar context and right factual agenda form a continuous Brief relationship. Six current entries precede native later-date disclosure; complete dates wrap without truncation.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/calendar-5.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/calendar-phone-calendar-agenda.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    },
+    {
+      "id": "calendar-paths",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-desktop-calendar-paths.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-desktop-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/desktop/opening-settled.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Quiet left utility identity and right vertical gathering destinations follow Contact hierarchy; phone stacks in logical order.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/calendar-6.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/calendar-desktop-calendar-paths.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 1024,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-tablet-calendar-paths.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-tablet-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/tablet/opening-settled.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Quiet left utility identity and right vertical gathering destinations follow Contact hierarchy; phone stacks in logical order.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/calendar-7.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/calendar-tablet-calendar-paths.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        },
+        {
+          "viewport": 390,
+          "state": "Initial, settled whole section, forward document progression and reverse opening; native controls separately exercised",
+          "build_evidence": "art-direction/qa/round-2/practical-final-evidence/calendar-phone-calendar-paths.png",
+          "initial_evidence": "art-direction/qa/round-2/practical-evidence/calendar-phone-states.png",
+          "source_evidence": "art-direction/references/deep/royal/contact/phone/opening-settled.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 5,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 5
+          },
+          "judgment": "Quiet left utility identity and right vertical gathering destinations follow Contact hierarchy; phone stacks in logical order.",
+          "sequence_scope": "Native document progression/Hold is observed. Exact source animation timings are unavailable; no invented Royal chapter exchange or Lou per-character animation is credited.",
+          "comparison": "review/independent/calendar-8.webp",
+          "original_comparison": "art-direction/qa/round-2/practical-comparisons/calendar-phone-calendar-paths.png",
+          "portable_comparison_note": "Same independently reviewed image, lossily encoded WebP quality94; original retained locally."
+        }
+      ]
+    }
+  ],
+  "reviewer": "repair_ministry agent; independent of practical page authorship",
+  "reviewed_at": "2026-10-07T09:23:28.298Z",
+  "scope": "Independent initial official evidence review and author-repair follow-up. Section rubric only; owner acceptance and cross-site anti-sameness remain separate.",
+  "source_review": "art-direction/qa/round-2/practical-review.json",
+  "prior_review": "art-direction/qa/round-1/fidelity/calendar.json",
+  "source_hashes": {
+    "src/pages/calendar.html": "8150175ddf4daa88584edfb93c760d6e80f2295fb036d44bc8eb2b9292cb908d",
+    "src/pages/calendar.css": "352c6eaa3552b4ff3b683eda7f568e940a815cae9a08762df7e32de6ad3691e0",
+    "src/motion/scenes/calendar.ts": "c39accec222e0a18375a4b1c079f715d90e10845d48c7932a7d1a78162cb3e85"
+  },
+  "limits": [
+    "This section rubric does not replace owner approval or whole-site anti-sameness review.",
+    "External payment/request submission and media playback were not executed. Embedded providers depend on network; stable direct destinations are present.",
+    "Functional content expands some source reading sections. Authentic media and intact essential data take precedence over fabricated filler."
+  ],
+  "issues": []
+}

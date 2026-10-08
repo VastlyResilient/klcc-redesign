@@ -1,0 +1,82 @@
+{
+  "route": "watch-live",
+  "self_check": [
+    {
+      "route": "watch-live",
+      "w": 1440,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "live-opening",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "live-player",
+          "width": 1440,
+          "animation": 0
+        },
+        {
+          "id": "watch-live-section-2",
+          "width": 1440,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "watch-live",
+      "w": 1024,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "live-opening",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "live-player",
+          "width": 1024,
+          "animation": 0
+        },
+        {
+          "id": "watch-live-section-2",
+          "width": 1024,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    },
+    {
+      "route": "watch-live",
+      "w": 390,
+      "overflow": false,
+      "h1": 1,
+      "sections": [
+        {
+          "id": "live-opening",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "live-player",
+          "width": 390,
+          "animation": 0
+        },
+        {
+          "id": "watch-live-section-2",
+          "width": 390,
+          "animation": 0
+        }
+      ],
+      "brokenImages": []
+    }
+  ],
+  "source_comparison_status": "Awaiting independent review",
+  "controls": {
+    "practical_motion": "Hold"
+  },
+  "calendar_source": null
+}

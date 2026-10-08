@@ -1,0 +1,5 @@
+/** Portable copies of reviewed comparisons. Does not assign scores. */
+import fs from 'node:fs/promises';import path from 'node:path';import sharp from 'sharp';
+const dir='art-direction/qa/fidelity';await fs.mkdir('review/independent',{recursive:true});let n=0;
+for(const name of await fs.readdir(dir)){if(!name.endsWith('.json'))continue;const p=path.join(dir,name);const j=JSON.parse(await fs.readFile(p,'utf8'));let i=0;const cache=new Map();for(const section of j.sections||[])for(const r of section.reviews||section.states||[section]){const original=r.original_comparison||r.comparison;if(!original)continue;let dest=cache.get(original);if(!dest){dest=`review/independent/${name.replace('.json','')}-${i++}.webp`;await sharp(original).webp({quality:94}).toFile(dest);cache.set(original,dest);n++}r.original_comparison=original;r.comparison=dest;r.portable_comparison_note='Same independently reviewed image, lossily encoded WebP quality94; original retained locally.'}await fs.writeFile(p,JSON.stringify(j,null,2)+'\n')}
+console.log({portableComparisons:n});

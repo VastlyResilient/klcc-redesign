@@ -1,0 +1,189 @@
+{
+  "version": "2.2",
+  "checked_at": "2026-10-07T06:13:57.052Z",
+  "scope": "G1",
+  "status": "Pass",
+  "results": [
+    {
+      "gate": "G1",
+      "name": "Company truth with source dates",
+      "status": "Pass",
+      "evidence": "art-direction/company-truth.json"
+    },
+    {
+      "gate": "G1",
+      "name": "All original routes fetched live",
+      "status": "Pass",
+      "evidence": [
+        {
+          "route": "/",
+          "url": "https://klcc.us/",
+          "status": 200,
+          "snapshot": "art-direction/source/home.html"
+        },
+        {
+          "route": "/believe",
+          "url": "https://klcc.us/believe",
+          "status": 200,
+          "snapshot": "art-direction/source/believe.html"
+        },
+        {
+          "route": "/weather-procedures",
+          "url": "https://klcc.us/weather-procedures",
+          "status": 200,
+          "snapshot": "art-direction/source/weather-procedures.html"
+        },
+        {
+          "route": "/easter",
+          "url": "https://klcc.us/easter",
+          "status": 200,
+          "snapshot": "art-direction/source/easter.html"
+        },
+        {
+          "route": "/watch-live",
+          "url": "https://klcc.us/watch-live",
+          "status": 200,
+          "snapshot": "art-direction/source/watch-live.html"
+        },
+        {
+          "route": "/new",
+          "url": "https://klcc.us/new",
+          "status": 200,
+          "snapshot": "art-direction/source/new.html"
+        },
+        {
+          "route": "/our-story",
+          "url": "https://klcc.us/our-story",
+          "status": 200,
+          "snapshot": "art-direction/source/our-story.html"
+        },
+        {
+          "route": "/leadership",
+          "url": "https://klcc.us/leadership",
+          "status": 200,
+          "snapshot": "art-direction/source/leadership.html"
+        },
+        {
+          "route": "/mission",
+          "url": "https://klcc.us/mission",
+          "status": 200,
+          "snapshot": "art-direction/source/mission.html"
+        },
+        {
+          "route": "/beliefs",
+          "url": "https://klcc.us/beliefs",
+          "status": 200,
+          "snapshot": "art-direction/source/beliefs.html"
+        },
+        {
+          "route": "/pastoral-care",
+          "url": "https://klcc.us/pastoral-care",
+          "status": 200,
+          "snapshot": "art-direction/source/pastoral-care.html"
+        },
+        {
+          "route": "/life-groups",
+          "url": "https://klcc.us/life-groups",
+          "status": 200,
+          "snapshot": "art-direction/source/life-groups.html"
+        },
+        {
+          "route": "/membership",
+          "url": "https://klcc.us/membership",
+          "status": 200,
+          "snapshot": "art-direction/source/membership.html"
+        },
+        {
+          "route": "/prayer",
+          "url": "https://klcc.us/prayer",
+          "status": 200,
+          "snapshot": "art-direction/source/prayer.html"
+        },
+        {
+          "route": "/serve",
+          "url": "https://klcc.us/serve",
+          "status": 200,
+          "snapshot": "art-direction/source/serve.html"
+        },
+        {
+          "route": "/alpha",
+          "url": "https://klcc.us/alpha",
+          "status": 200,
+          "snapshot": "art-direction/source/alpha.html"
+        },
+        {
+          "route": "/courses",
+          "url": "https://klcc.us/courses",
+          "status": 200,
+          "snapshot": "art-direction/source/courses.html"
+        },
+        {
+          "route": "/kids",
+          "url": "https://klcc.us/kids",
+          "status": 200,
+          "snapshot": "art-direction/source/kids.html"
+        },
+        {
+          "route": "/youth",
+          "url": "https://klcc.us/youth",
+          "status": 200,
+          "snapshot": "art-direction/source/youth.html"
+        },
+        {
+          "route": "/young-adults",
+          "url": "https://klcc.us/young-adults",
+          "status": 200,
+          "snapshot": "art-direction/source/young-adults.html"
+        },
+        {
+          "route": "/women",
+          "url": "https://klcc.us/women",
+          "status": 200,
+          "snapshot": "art-direction/source/women.html"
+        },
+        {
+          "route": "/men",
+          "url": "https://klcc.us/men",
+          "status": 200,
+          "snapshot": "art-direction/source/men.html"
+        },
+        {
+          "route": "/calendar",
+          "url": "https://klcc.us/calendar",
+          "status": 200,
+          "snapshot": "art-direction/source/calendar.html"
+        },
+        {
+          "route": "/previous-messages",
+          "url": "https://klcc.us/previous-messages",
+          "status": 200,
+          "snapshot": "art-direction/source/previous-messages.html"
+        },
+        {
+          "route": "/give",
+          "url": "https://klcc.us/give",
+          "status": 200,
+          "snapshot": "art-direction/source/give.html"
+        },
+        {
+          "route": "/app",
+          "url": "https://klcc.us/app",
+          "status": 200,
+          "snapshot": "art-direction/source/app.html"
+        },
+        {
+          "route": "/baptism",
+          "url": "https://klcc.us/baptism",
+          "status": 200,
+          "snapshot": "art-direction/source/baptism.html"
+        },
+        {
+          "route": "/subsplash-media",
+          "url": "https://klcc.us/subsplash-media",
+          "status": 200,
+          "snapshot": "art-direction/source/subsplash-media.html"
+        }
+      ]
+    }
+  ]
+}

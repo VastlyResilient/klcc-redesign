@@ -1,0 +1,147 @@
+{
+  "route": "404",
+  "reviewed_at": "2026-10-07T07:15:00.106886+00:00",
+  "reviewer": "independent v22_pool_screening agent; not the page author",
+  "status": "Fidelity-reviewed",
+  "accepted": false,
+  "sections": [
+    {
+      "id": "missing-route",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/404/observed-0/desktop-section-missing-route.png",
+          "build_evidence": "art-direction/qa/side-by-side/404/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Royal contact two-column identity/action structure becomes a utility error code and recovery action. Oversized code is an explicitly functional identity adaptation, not claimed source type size. Phone is now contained after repair.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/404/observed-0/tablet-section-missing-route.png",
+          "build_evidence": "art-direction/qa/side-by-side/404/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Royal contact two-column identity/action structure becomes a utility error code and recovery action. Oversized code is an explicitly functional identity adaptation, not claimed source type size. Phone is now contained after repair.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/404/observed-0/phone-section-missing-route.png",
+          "build_evidence": "art-direction/qa/side-by-side/404/phone-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Royal contact two-column identity/action structure becomes a utility error code and recovery action. Oversized code is an explicitly functional identity adaptation, not claimed source type size. Phone is now contained after repair.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        }
+      ]
+    },
+    {
+      "id": "missing-help",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": null,
+          "build_evidence": "art-direction/qa/side-by-side/404/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Simple recovery links use the shared navigation semantics and consistent alignment; no decorative motion competes with the recovery task.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": null,
+          "build_evidence": "art-direction/qa/side-by-side/404/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Simple recovery links use the shared navigation semantics and consistent alignment; no decorative motion competes with the recovery task.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": null,
+          "build_evidence": "art-direction/qa/side-by-side/404/phone-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Simple recovery links use the shared navigation semantics and consistent alignment; no decorative motion competes with the recovery task.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        }
+      ]
+    }
+  ],
+  "blockers": [],
+  "functional_evidence": "art-direction/qa/functional-pastoral-care-404.json",
+  "review_scope": "Three viewport whole-page and per-section visual review, actual source/build comparisons, common functional browser run. No owner approval or physical phone test.",
+  "limits": [
+    "Brand typography/color adaptations are intentionally retained.",
+    "Source editor timing curves unavailable.",
+    "A settled geometry comparison does not establish every intermediate animation state."
+  ]
+}

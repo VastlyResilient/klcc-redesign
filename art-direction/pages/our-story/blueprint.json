@@ -1,0 +1,198 @@
+{
+  "route": "our-story",
+  "title": "Our Story | Kingdom Life",
+  "description": "From the founding gathering in 1991 to the next generation at Kingdom Life Christian Church.",
+  "visitor_job": "Understand the church\u2019s origins, founders and continuing mission.",
+  "reference": {
+    "template": "royal",
+    "route": "/about",
+    "dossier": "art-direction/references/deep/royal/about/dossier.md"
+  },
+  "signature": {
+    "id": "paired-history"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "y-rise",
+    "driver": "load-timed"
+  },
+  "sections": [
+    {
+      "id": "story-opening",
+      "visitor_task": "Actual archival gathering establishes the church before biography.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "landmark": "hero",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Royal Abouthero: eyebrowleft, uppercase50/55pxheadline, dominantteamphotobelow, three-columnproofrow. 1259.97pxdesktopheight.",
+        "sequence": "Small observed opacity/transformarrival, exactsourceeasingunknown. Ourheader50pxAlbertSans uppercase, realarchivefullwidth, founded1991/about40peoplerow; noRoyalrevenuestat."
+      },
+      "company_content": {
+        "copy": [
+          "ci:our-story.s0.b0"
+        ],
+        "media": [
+          "img:our-story.founding-1991"
+        ],
+        "cta": []
+      },
+      "reconstruction": {
+        "layout": "Actual archival gathering establishes the church before biography.",
+        "motion": {
+          "mechanism": "Measured 10px timed title entrance650ms, notscrollscrub; existingimage visible.",
+          "values": {
+            "estimated": true,
+            "source_editor_settings": "unknown"
+          }
+        },
+        "atmosphere": "KLCC ink, cream, pale blue; documentary neutral photographs",
+        "mobile_rewrite": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width.",
+        "reduced_motion": "Unpinned complete text and final media visible."
+      },
+      "deviations": [
+        {
+          "reference": "Freshobservedreferenceabove",
+          "conflict": "CompanycontentandlockedDNA",
+          "adaptation": "Short title adapted to churchstory; archivalphoto naturallygrainy, notsyntheticHD.",
+          "test": "Sidebysides,DOMmeasurements,contentledgerandmotionstatecaptures"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": false,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null
+    },
+    {
+      "id": "story-chapters",
+      "visitor_task": "Three dated chapters synchronize complete text with actual archival/current imagery.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "landmark": "stry",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Royal Aboutstry: stableleftcopy42% /rightportrait53%, top75px810pxstage, threepairedchapters. Sourcesection1890px.",
+        "sequence": "Sticky pairedimage+copy exchange atsuccessivescrollthirds; reverse restoresmatchingpair."
+      },
+      "company_content": {
+        "copy": [
+          "ci:our-story.s2.b0",
+          "ci:our-story.s2.b1",
+          "ci:our-story.s3.b0",
+          "ci:our-story.s3.b1",
+          "ci:our-story.s4.b0",
+          "ci:our-story.s4.b1",
+          "ci:our-story.s4.b2",
+          "ci:our-story.s4.b3"
+        ],
+        "media": [
+          "img:our-story.worship-stage"
+        ],
+        "cta": [
+          "cta:our-story.s4.a0"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Three dated chapters synchronize complete text with actual archival/current imagery.",
+        "motion": {
+          "mechanism": "KLCC stage230svh, top90px, 3pairedchapters; transferbrief10pxcopy/4%imageclip withinfirst22%ofeachthird, estimatesexplicit.",
+          "values": {
+            "estimated": true,
+            "source_editor_settings": "unknown"
+          }
+        },
+        "atmosphere": "KLCC ink, cream, pale blue; documentary neutral photographs",
+        "mobile_rewrite": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width.",
+        "reduced_motion": "Unpinned complete text and final media visible."
+      },
+      "deviations": [
+        {
+          "reference": "Freshobservedreferenceabove",
+          "conflict": "CompanycontentandlockedDNA",
+          "adaptation": "CompleteKLCCparagraphsmorethanRoyal4lines; phonepinreleased tophotothencopy forreadability. Desktop230vhvsRoyal210vh purposefulreadingallowance.",
+          "test": "Sidebysides,DOMmeasurements,contentledgerandmotionstatecaptures"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": false,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null
+    },
+    {
+      "id": "story-founders",
+      "visitor_task": "Founders identity stays adjacent to complete biography.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "landmark": "team",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "composition": "Royal Aboutteam: realportraits atconsistentheight withadjacentnamesroles.",
+        "sequence": "Portraits enter in-flow; no longpin."
+      },
+      "company_content": {
+        "copy": [
+          "ci:our-story.s1.b0",
+          "ci:our-story.s1.b1",
+          "ci:our-story.s1.b2"
+        ],
+        "media": [],
+        "cta": []
+      },
+      "reconstruction": {
+        "layout": "Founders identity stays adjacent to complete biography.",
+        "motion": {
+          "mechanism": "KLCConefoundercoupleportrait36%left, completebiography53%right. No hidebehindreadmore. Stillreading.",
+          "values": {
+            "estimated": true,
+            "source_editor_settings": "unknown"
+          }
+        },
+        "atmosphere": "KLCC ink, cream, pale blue; documentary neutral photographs",
+        "mobile_rewrite": "History releases pin to full chronological text/photo chapters; mission large single word and readable offset column becomes full width.",
+        "reduced_motion": "Unpinned complete text and final media visible."
+      },
+      "deviations": [
+        {
+          "reference": "Freshobservedreferenceabove",
+          "conflict": "CompanycontentandlockedDNA",
+          "adaptation": "Sourcefourteamportraitscompressedtoactualfounderspair; extendedbiographycreamground islockedsiteDNA adaptation. Noinventedstaff.",
+          "test": "Sidebysides,DOMmeasurements,contentledgerandmotionstatecaptures"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": false,
+        "fidelity_reviewed": false,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": null,
+      "owner_feedback": null
+    }
+  ],
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/our-story.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

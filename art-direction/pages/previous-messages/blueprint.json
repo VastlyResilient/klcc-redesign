@@ -1,0 +1,214 @@
+{
+  "route": "previous-messages",
+  "title": "Previous Messages | Kingdom Life",
+  "description": "Browse real archived teaching and open a message.",
+  "visitor_job": "Browse real archived teaching and open a message.",
+  "signature": {
+    "id": "artwork-index"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll",
+    "source_reason": "Slab archive dossier explicitly distinguishes autonomous tile media from normal outer-grid document progression. No evidence supports timed outer tile entry."
+  },
+  "reference": {
+    "template": "slab",
+    "route": "/projects/hydra"
+  },
+  "sections": [
+    {
+      "id": "archive-opening",
+      "visitor_task": "Browse real archived teaching and open a message.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "composition": "Compact archive masthead and one dominant original image, no fake latest label.",
+        "sequence": "Hold / native document progression. Slab archive dossier explicitly distinguishes autonomous tile media from normal outer-grid document progression. No evidence supports timed outer tile entry.",
+        "state": "opening",
+        "landmark": "hero"
+      },
+      "company_content": {
+        "copy": [
+          "ci:previous-messages.s0.b0",
+          "ci:previous-messages.archive-3kxydmm"
+        ],
+        "cta": [
+          "cta:previous-messages.archive-3kxydmm"
+        ],
+        "media": [
+          "img:previous-messages.3kxydmm"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Compact archive masthead and one dominant original image, no fake latest label.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/previous-messages.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
+      }
+    },
+    {
+      "id": "archive-selection",
+      "visitor_task": "Browse real archived teaching and open a message.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/archive",
+        "dossier": "art-direction/references/deep/slab/archive-verified/dossier.md",
+        "composition": "Unequal artwork field preserves everycover ratio; associated titles dates speakers stay adjacent.",
+        "sequence": "Hold / native document progression. Slab archive dossier explicitly distinguishes autonomous tile media from normal outer-grid document progression. No evidence supports timed outer tile entry.",
+        "state": "opening-settled",
+        "landmark": "archive-grid",
+        "manifest": "art-direction/references/deep/slab/archive-verified/manifest.json"
+      },
+      "company_content": {
+        "copy": [
+          "ci:previous-messages.archive-g42cgb7",
+          "ci:previous-messages.archive-xshbs3z",
+          "ci:previous-messages.archive-ncz3rmr"
+        ],
+        "cta": [
+          "cta:previous-messages.archive-g42cgb7",
+          "cta:previous-messages.archive-xshbs3z",
+          "cta:previous-messages.archive-ncz3rmr"
+        ],
+        "media": [
+          "img:previous-messages.g42cgb7",
+          "img:previous-messages.xshbs3z",
+          "img:previous-messages.ncz3rmr"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Three compact columns desktop/tablet and two phone; intact artwork and subordinate necessary message metadata.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Three desktop/tablet columns and two phone columns, no tile captions",
+          "conflict": "Three additional landscape sermon covers require readable title, speaker and date",
+          "adaptation": "Two unequal desktop columns and one phone column, intact cover ratio and adjacent factual metadata",
+          "test": "Visual comparison must record the changed density and hierarchy; it is not an exact grid reconstruction."
+        },
+        {
+          "reference": "Archive tile content loops independently of scroll",
+          "conflict": "KLCC covers are authentic static artwork",
+          "adaptation": "Static covers with estimated donor image entry; never claim source archive scrubbing",
+          "test": "No fabricated media or motion attribution."
+        },
+        {
+          "reference": "Slab uncaptioned image masonry",
+          "conflict": "Church messages require discoverable titles, speaker and date and only three additional source covers exist",
+          "adaptation": "Preserve factual captions with restrained 20px desktop / 18px phone hierarchy, match 3/2 column density; do not invent covers or crop lettering",
+          "test": "Three-width visual inspection and ledger preservation"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/previous-messages.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
+      }
+    },
+    {
+      "id": "archive-library",
+      "visitor_task": "Browse real archived teaching and open a message.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "composition": "Full provider library presented as readable stable destination, quieter information band.",
+        "sequence": "Hold / native document progression. Slab archive dossier explicitly distinguishes autonomous tile media from normal outer-grid document progression. No evidence supports timed outer tile entry.",
+        "state": "forward-002",
+        "landmark": "brief"
+      },
+      "company_content": {
+        "copy": [],
+        "cta": [],
+        "media": []
+      },
+      "reconstruction": {
+        "layout": "Small22px left title and larger24px right invitation/action column; source Brief asymmetry, naturally stacked on phone.",
+        "motion": {
+          "mechanism": "Hold",
+          "values": {
+            "reason": "Practical content and controls remain stable; no unsupported timed arrivals."
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Native stacked reading order, intact artwork, fully wrapping labels and stable essential actions.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [
+        {
+          "reference": "Commercial forms/project fields",
+          "conflict": "Church visitor tasks and actual provider destinations",
+          "adaptation": "Replace fields with exact available KLCC actions, retain source spatialrelationships",
+          "test": "content and destinationledgerdiff"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/previous-messages.json",
+        "reviewed_at": "2026-10-07T09:23:28.298Z"
+      }
+    }
+  ],
+  "repair_review_note": "Composition repaired 2026-10-07; historical fidelity record unchanged. Requires independent fresh judgment, not author approval.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/previous-messages.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

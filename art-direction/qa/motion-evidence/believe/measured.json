@@ -1,0 +1,29 @@
+{
+  "route": "believe",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [],
+      "scrollStates": 32,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/believe/capture-desktop/desktop/video/page@5f72c364f69e69e565edd0a5dd65169a.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/believe/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [],
+      "scrollStates": 34,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [],
+      "scrollStates": 36,
+      "errors": [],
+      "video": null
+    }
+  }
+}

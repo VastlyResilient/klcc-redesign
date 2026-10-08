@@ -1,0 +1,164 @@
+{
+  "route": "alpha",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.999575"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.999575"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "0.999575",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "0.999575",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 34,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/alpha/capture-desktop/desktop/video/page@a7b49e3837181bf4cdc1624b9609da01.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/alpha/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.998474"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.998474"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "0.998474",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "0.998474",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 36,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.997806"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(1)",
+          "properties": {
+            "opacity": {
+              "from": "0.997806",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.997807"
+            }
+          }
+        },
+        {
+          "from": "forward-003",
+          "to": "forward-004",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>div:nth-child(2)>figure:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "0.997807",
+              "to": "1"
+            }
+          }
+        }
+      ],
+      "scrollStates": 30,
+      "errors": [],
+      "video": null
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "route": "app",
+  "reviewed_at": "2026-10-07T07:38:32.661459+00:00",
+  "reviewer": "independent v22_pool_screening agent; not the page author",
+  "status": "Blocked",
+  "accepted": false,
+  "sections": [
+    {
+      "id": "app-opening",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/app/exact-section-app-opening.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/app/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 3,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Actual Royal story reference has sticky copy and multiple paired image/copy transitions. KLCC retains copy-left/image-right proportions but presents one static app photograph with a once entry; synchronized sequence is not reconstructed.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/app/exact-section-app-opening.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/app/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 3,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Actual Royal story reference has sticky copy and multiple paired image/copy transitions. KLCC retains copy-left/image-right proportions but presents one static app photograph with a once entry; synchronized sequence is not reconstructed.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/app/exact-section-app-opening.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/app/phone-sections-0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 3,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 3,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Actual Royal story reference has sticky copy and multiple paired image/copy transitions. KLCC retains copy-left/image-right proportions but presents one static app photograph with a once entry; synchronized sequence is not reconstructed.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        }
+      ]
+    },
+    {
+      "id": "app-use",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/app/exact-section-app-use.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/app/desktop-sections-0.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Ruled functional rows are readable and proportionate; repeated desktop labels occupy their own left column, rather than Slab single left label and stacked right reading.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 1024,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/app/exact-section-app-use.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/app/tablet-sections-0.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Ruled functional rows are readable and proportionate; repeated desktop labels occupy their own left column, rather than Slab single left label and stacked right reading.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        },
+        {
+          "viewport": 390,
+          "state": "settled section landmark",
+          "comparison": "art-direction/qa/side-by-side/app/exact-section-app-use.jpg",
+          "build_evidence": "art-direction/qa/side-by-side/app/phone-sections-0.png",
+          "scores": {
+            "text_placement": 3,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 4,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Ruled functional rows are readable and proportionate; repeated desktop labels occupy their own left column, rather than Slab single left label and stacked right reading.",
+          "sequence_scope": "Hold is a valid stable-control state. Entry timing is estimated where implemented; settled captures alone are not claimed to establish exact source easing."
+        }
+      ]
+    }
+  ],
+  "blockers": [
+    {
+      "section": "app-opening",
+      "gap": "Actual Royal story reference has sticky copy and multiple paired image/copy transitions. KLCC retains copy-left/image-right proportions but presents one static app photograph with a once entry; synchronized sequence is not reconstructed.",
+      "attempts": "Corrected initial generic hero map to exact Royal/about stry; inspected exact source/build comparisons at desktop, tablet and phone. Actual mobile image opacity entry measured in practical-motion-probe.json.",
+      "next_action": "Maintain honest adaptation and Blocked sequence fidelity unless actual paired progression is justified by real app content."
+    },
+    {
+      "section": "app-use",
+      "gap": "Ruled functional rows are readable and proportionate; repeated desktop labels occupy their own left column, rather than Slab single left label and stacked right reading.",
+      "attempts": "Viewed all three exact comparisons. This is a useful functional adaptation but retains a visible topology difference.",
+      "next_action": "Use single left-label/right stack or retain Blocked strict fidelity."
+    }
+  ],
+  "functional_evidence": "art-direction/qa/functional-prayer-pastoral-care-watch-live-previous-messages-subsplash-media-calendar-give-app-weather-procedures-easter-legal-404.json",
+  "review_scope": "Three viewport whole-page and per-section visual review, actual source/build comparisons, common functional browser run. No owner approval or physical phone test.",
+  "limits": [
+    "Brand typography/color adaptations are intentionally retained.",
+    "Source editor timing curves unavailable.",
+    "A settled geometry comparison does not establish every intermediate animation state.",
+    "The initial observed-role map used generic source role aliases. Final blueprint comparison may supersede those source mappings; do not treat a mismatched mapping as proof that authored design is wrong."
+  ],
+  "review_round": "Final exact-blueprint comparison review; captures and measured motion probe independently inspected"
+}

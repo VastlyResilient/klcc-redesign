@@ -1,0 +1,184 @@
+{
+  "route": "mission",
+  "title": "Mission & Vision | Kingdom Life",
+  "description": "The mission and vision of Kingdom Life Christian Church in Milford, Connecticut.",
+  "visitor_job": "Understand what Kingdom Life believes its community is called to do.",
+  "reference": {
+    "template": "lou",
+    "route": "/about",
+    "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md"
+  },
+  "signature": {
+    "id": "image-to-purpose"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "hold",
+    "driver": "native-scroll"
+  },
+  "sections": [
+    {
+      "id": "mission-opening",
+      "visitor_task": "Company lens artwork frames the word Mission; no invented church activity.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "landmark": "section-1",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "composition": "LouAbout: fullviewportportraitandhugecenteredname300/270pxdesktop,120tablet,64phone.",
+        "sequence": "Normaldocumentscrollcarriesphotoandname together; loadpixelationnotcopied."
+      },
+      "company_content": {
+        "copy": [
+          "ci:mission.s0.b0",
+          "ci:mission.s0.b1"
+        ],
+        "media": [
+          "img:mission.page-mission"
+        ],
+        "cta": []
+      },
+      "reconstruction": {
+        "layout": "Company lens artwork frames the word Mission; no invented church activity.",
+        "motion": {
+          "mechanism": "Fullheighttruthfulsourcemissionlensartwork,hugeMISSIONword; titleHold, no inventedzoom.",
+          "values": {
+            "estimated": true,
+            "source_editor_settings": "unknown"
+          }
+        },
+        "atmosphere": "KLCC ink, cream, pale blue; documentary neutral photographs",
+        "mobile_rewrite": "Native document flow; almost-full-width readable type. No mission pin. Footer utility groups stack; focus treatment immediately clears for keyboard focus or reduced motion.",
+        "reduced_motion": "Unpinned complete text and final media visible."
+      },
+      "deviations": [
+        {
+          "reference": "Freshobservedreferenceabove",
+          "conflict": "CompanycontentandlockedDNA",
+          "adaptation": "Replacepersonportraitwithcompanyownconceptuallensart, notclaimchurchlocation. Longmissionnamebecomeswordplusrealeyebrow.",
+          "test": "Sidebysides,DOMmeasurements,contentledgerandmotionstatecaptures"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": false,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/mission.json",
+        "reviewed_at": "2026-10-07T09:31:45.362053+00:00"
+      },
+      "owner_feedback": null
+    },
+    {
+      "id": "mission-reading",
+      "visitor_task": "Read the church purpose and its practical commitments in one centered reading field.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "landmark": "section-2",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "composition": "Corrected live Lou reading: centered880px field at1440,816px at1024,almost fullwidth phone; large readable statement followed by modest credential/detail groups.",
+        "sequence": "Freshheld900pxprobe establishesonce-entered timedopacity/transformarrival; reverse stayswhite."
+      },
+      "company_content": {
+        "copy": [
+          "ci:mission.s1.b0",
+          "ci:mission.s1.b1",
+          "ci:mission.s1.b2",
+          "ci:mission.s1.b3",
+          "ci:mission.s2.b0",
+          "ci:mission.s2.b1"
+        ],
+        "media": [],
+        "cta": []
+      },
+      "reconstruction": {
+        "layout": "Centered source-measured880px reading field (816px at1024), almost full width phone; modest commitments and original scripture retained in same reading section.",
+        "motion": {
+          "mechanism": "Once-entered readable statement opacity/6px translation; supporting facts Hold",
+          "source_settings": "Lou entry causality observed; exact timing estimated",
+          "implementation_values": {
+            "opacity_from": 0.62,
+            "translate_y_px": 6,
+            "duration_ms": 1400
+          }
+        },
+        "atmosphere": "KLCC ink, cream, pale blue; documentary neutral photographs",
+        "mobile_rewrite": "Native document flow; almost-full-width readable type. No mission pin. Footer utility groups stack; focus treatment immediately clears for keyboard focus or reduced motion.",
+        "reduced_motion": "Unpinned complete text and final media visible."
+      },
+      "deviations": [
+        {
+          "reference": "Freshobservedreferenceabove",
+          "conflict": "CompanycontentandlockedDNA",
+          "adaptation": "BodySplitTextprohibitedbycontract sooneblockclarityratherthanpercharacter;7visionitemsreplacestudiocredentialsandmustnotbeomitted.",
+          "test": "Sidebysides,DOMmeasurements,contentledgerandmotionstatecaptures"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": false,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/mission.json",
+        "reviewed_at": "2026-10-07T09:31:45.362053+00:00"
+      },
+      "owner_feedback": null,
+      "content_ids": [
+        "ci:mission.s1.b0",
+        "ci:mission.s1.b1",
+        "ci:mission.s1.b2",
+        "ci:mission.s1.b3",
+        "ci:mission.s2.b0",
+        "ci:mission.s2.b1"
+      ]
+    }
+  ],
+  "repair": {
+    "date": "2026-10-07",
+    "reason": "Independent source measurement corrected erroneous right-offset Lou dossier; previous pass reopened for targeted fresh geometry review. Homepage untouched.",
+    "status": "Corrected reading and actual contact footer; independent follow-up in progress"
+  },
+  "implementation": {
+    "source": "src/pages/mission.html",
+    "css": "src/pages/mission.css",
+    "motion": "src/motion/scenes/mission.ts",
+    "actual_sections": [
+      {
+        "id": "mission-opening",
+        "reference_landmark": "section-1"
+      },
+      {
+        "id": "mission-reading",
+        "reference_landmark": "section-2"
+      }
+    ],
+    "status": "Repaired; independent follow-up pending"
+  },
+  "footer_adaptation": {
+    "reference": "Lou/about contact footer",
+    "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+    "composition": "Light ground, real contact and utility groups above large right-aligned church wordmark; source scripture retained in preceding reading, not falsely substituted for contact footer.",
+    "motion": "Whole footer blur6px to0 observed focus mechanism; curve estimated, focus-within and reduced motion force sharp."
+  },
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/mission.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

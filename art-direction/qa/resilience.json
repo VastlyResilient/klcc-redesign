@@ -1,0 +1,1477 @@
+{
+  "created": "2026-10-07T22:12:24.607Z",
+  "physicalPhonesTested": false,
+  "limits": [
+    "Local Chrome4xCPU lab proxies, not field Web Vitals or physical phone validation.",
+    "No financial transactions or forms submitted.",
+    "Third-party media may require service consent; direct service fallbacks verified separately."
+  ],
+  "lab": [
+    {
+      "route": "home",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 364,
+      "cls": 0,
+      "longTasks": [
+        56
+      ],
+      "events": [],
+      "overflow": false,
+      "bytes": 2892468,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 0
+    },
+    {
+      "route": "believe",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 36,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 40
+        },
+        {
+          "name": "pointerenter",
+          "duration": 40
+        },
+        {
+          "name": "pointerenter",
+          "duration": 40
+        },
+        {
+          "name": "pointerenter",
+          "duration": 40
+        },
+        {
+          "name": "pointerenter",
+          "duration": 40
+        },
+        {
+          "name": "pointerenter",
+          "duration": 40
+        },
+        {
+          "name": "mouseover",
+          "duration": 40
+        },
+        {
+          "name": "pointerdown",
+          "duration": 40
+        },
+        {
+          "name": "mousedown",
+          "duration": 40
+        },
+        {
+          "name": "pointerup",
+          "duration": 40
+        },
+        {
+          "name": "mouseup",
+          "duration": 40
+        },
+        {
+          "name": "click",
+          "duration": 40
+        }
+      ],
+      "overflow": false,
+      "bytes": 601614,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 40
+    },
+    {
+      "route": "weather-procedures",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 36,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 66358,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "easter",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 24,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 56333,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "watch-live",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 36,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "pointerenter",
+          "duration": 16
+        },
+        {
+          "name": "mouseover",
+          "duration": 16
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 10820,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "new",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 40,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 105317,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "our-story",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 32,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 143033,
+      "h1": "\"Albert Sans\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "leadership",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 124602,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "mission",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 24,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 38965,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "beliefs",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 48,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "pointerenter",
+          "duration": 24
+        },
+        {
+          "name": "mouseover",
+          "duration": 24
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 243875,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 24
+    },
+    {
+      "route": "pastoral-care",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 188,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 160
+        },
+        {
+          "name": "pointerenter",
+          "duration": 160
+        },
+        {
+          "name": "pointerenter",
+          "duration": 160
+        },
+        {
+          "name": "pointerenter",
+          "duration": 160
+        },
+        {
+          "name": "pointerenter",
+          "duration": 160
+        },
+        {
+          "name": "pointerenter",
+          "duration": 160
+        },
+        {
+          "name": "mouseover",
+          "duration": 160
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 149541,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 160
+    },
+    {
+      "route": "life-groups",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 44,
+      "cls": 0,
+      "longTasks": [],
+      "events": [],
+      "overflow": false,
+      "bytes": 39326,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 0
+    },
+    {
+      "route": "membership",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 44,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 644868,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "prayer",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 10499,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "serve",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 56,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerover",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "pointerenter",
+          "duration": 32
+        },
+        {
+          "name": "mouseover",
+          "duration": 32
+        },
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 299786,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 32
+    },
+    {
+      "route": "alpha",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 24,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 217620,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "courses",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 44,
+      "cls": 0,
+      "longTasks": [],
+      "events": [],
+      "overflow": false,
+      "bytes": 31333,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 0
+    },
+    {
+      "route": "kids",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 32,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 12407,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "youth",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 24,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 16040,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "young-adults",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 60607,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "women",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 24,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 12345,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "men",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 11802,
+      "h1": "\"Albert Sans\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "calendar",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 12210,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "previous-messages",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 282994,
+      "h1": "\"Albert Sans\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "give",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 40,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 72407,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "app",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [],
+      "overflow": false,
+      "bytes": 46645,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 0
+    },
+    {
+      "route": "baptism",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 32,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 62469,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "subsplash-media",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 32,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 65045,
+      "h1": "\"Albert Sans\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "legal",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 6889,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    },
+    {
+      "route": "404",
+      "viewport": "390x844",
+      "cpu": 4,
+      "lcp": 28,
+      "cls": 0,
+      "longTasks": [],
+      "events": [
+        {
+          "name": "pointerdown",
+          "duration": 16
+        },
+        {
+          "name": "mousedown",
+          "duration": 16
+        },
+        {
+          "name": "pointerup",
+          "duration": 16
+        },
+        {
+          "name": "mouseup",
+          "duration": 16
+        },
+        {
+          "name": "click",
+          "duration": 16
+        }
+      ],
+      "overflow": false,
+      "bytes": 6591,
+      "h1": "\"Archivo Black\", sans-serif",
+      "lcpPass": true,
+      "clsPass": true,
+      "maxInteractionProxy": 16
+    }
+  ],
+  "nojs": [
+    {
+      "route": "home",
+      "h1": "A FAITHWE LIVETOGETHER.",
+      "words": 586,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "h1": "I Have Decided",
+      "words": 191,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "h1": "Stay informed.",
+      "words": 183,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "h1": "EasterSunday.",
+      "words": 305,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "watch-live",
+      "h1": "Worship.Where you are.",
+      "words": 108,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "new",
+      "h1": "Your first Sunday.",
+      "words": 893,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "h1": "One vision.Generations of faith.",
+      "words": 634,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "h1": "Called to care.Here to serve.",
+      "words": 230,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "h1": "MISSION.",
+      "words": 180,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "h1": "What We Believe",
+      "words": 330,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "h1": "Pastoralcare.",
+      "words": 237,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "h1": "Life is better together!",
+      "words": 338,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "h1": "Join Community, Discover Purpose!",
+      "words": 227,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "h1": "Prayer.",
+      "words": 312,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "h1": "Join Our Team",
+      "words": 146,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "h1": "Explore life, faith, and meaning.",
+      "words": 222,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "h1": "Discipleship",
+      "words": 523,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "h1": "A place to learn.A place to belong.",
+      "words": 215,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "h1": "ELEVATE",
+      "words": 262,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "h1": "Grow together.Go deeper.",
+      "words": 234,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "women",
+      "h1": "Women's Ministry",
+      "words": 172,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "men",
+      "h1": "Faith. Brotherhood. Purpose.",
+      "words": 338,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "calendar",
+      "h1": "Calendar.",
+      "words": 246,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "previous-messages",
+      "h1": "Previous messages.",
+      "words": 143,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "give",
+      "h1": "Giving.",
+      "words": 347,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "app",
+      "h1": "Downloadour app.",
+      "words": 101,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "h1": "The next step.",
+      "words": 159,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "h1": "Obedience",
+      "words": 133,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "legal",
+      "h1": "About this site.",
+      "words": 179,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    },
+    {
+      "route": "404",
+      "h1": "404.",
+      "words": 91,
+      "overflow": false,
+      "hidden": [],
+      "pass": true
+    }
+  ],
+  "interactions": [
+    {
+      "test": "verified-category-topic",
+      "expected": 12,
+      "actual": 12,
+      "pass": true
+    },
+    {
+      "test": "verified-category-speaker",
+      "expected": 12,
+      "actual": 12,
+      "pass": true
+    },
+    {
+      "test": "verified-category-scripture",
+      "expected": 9,
+      "actual": 9,
+      "pass": true
+    },
+    {
+      "test": "catalog-failure-fallback",
+      "pass": true
+    },
+    {
+      "test": "story-orientation-pin-release",
+      "pass": true,
+      "sequence": [
+        "01 / THE BEGINNING",
+        "02 / FAITH PUT TO WORK",
+        "03 / LOOKING FORWARD",
+        "02 / FAITH PUT TO WORK",
+        "01 / THE BEGINNING"
+      ]
+    },
+    {
+      "test": "direct-anchor-visible",
+      "top": 635.015625,
+      "pass": true
+    },
+    {
+      "test": "back-restores-route-anchor",
+      "pass": true
+    }
+  ],
+  "webkit": [
+    {
+      "route": "home",
+      "overflow": false,
+      "h1": "A FAITHWE LIVETOGETHER.",
+      "scrollHeight": 12117,
+      "scrolled": 8543,
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "overflow": false,
+      "h1": "One vision.Generations of faith.",
+      "scrollHeight": 5866,
+      "scrolled": 3979,
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "overflow": false,
+      "h1": "MISSION.",
+      "scrollHeight": 3275,
+      "scrolled": 1835,
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "overflow": false,
+      "h1": "Obedience",
+      "scrollHeight": 3288,
+      "scrolled": 1908,
+      "pass": true
+    },
+    {
+      "route": "404",
+      "overflow": false,
+      "h1": "404.",
+      "scrollHeight": 1897,
+      "scrolled": 836,
+      "pass": true
+    }
+  ]
+}

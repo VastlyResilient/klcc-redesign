@@ -1,0 +1,213 @@
+{
+  "route": "membership",
+  "reference": {
+    "template": "royal",
+    "route": "/about",
+    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "mode": "B",
+    "donors": [
+      "lou",
+      "slab"
+    ]
+  },
+  "visitor_job": "Understand membership\u2019s purpose and register for the current class.",
+  "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
+  "critical_answer": "The next class is October 24. Join, Community, Discover and Purpose are the four actual membership themes.",
+  "primary_action": {
+    "route": "membership",
+    "source": "https://klcc.us/membership",
+    "source_date": "2026-10-01",
+    "required": true,
+    "id": "cta:membership.s1.a0",
+    "type": "cta",
+    "label": "Register",
+    "original_destination": "https://brushfire.com/klcc/membership/630017/details",
+    "approved_destination": "https://brushfire.com/klcc/membership/630017/details",
+    "live_match": true
+  },
+  "supporting_proof": "Actual source copy and authentic source assets; consult the asset manifest.",
+  "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
+  "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
+  "signature": {
+    "id": "membership-repaired-composition",
+    "dominant_verb": "Exchange",
+    "structural_idea": "Phone now reconstructs the observed sticky photograph/bottom-copy paired exchange at viewports \u2265680px tall; short-height and reduced-motion stay static. Source phone scene was visually inspected first.",
+    "axes": {
+      "unit": "paired copy and media",
+      "vector": "crossfade in stable stage",
+      "driver": "Scroll-linked",
+      "frame": "Sticky paired desktop/tablet; bottom-copy-over-image phone; static reduced/short-height fallback"
+    }
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "none",
+    "driver": "static",
+    "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+  },
+  "content_ids": [
+    "ci:membership.s0.b0",
+    "ci:membership.s1.b0",
+    "ci:membership.s1.b1",
+    "ci:membership.s1.b2",
+    "cta:membership.s1.a0",
+    "img:membership.worship",
+    "ci:membership.s2.b0",
+    "ci:membership.s2.b1",
+    "ci:membership.s2.b2",
+    "ci:membership.s2.b3",
+    "ci:membership.s2.b4",
+    "ci:membership.s2.b5",
+    "ci:membership.s2.b6",
+    "ci:membership.s2.b7",
+    "ci:membership.s2.b8",
+    "ci:membership.s2.b9",
+    "ci:membership.s2.b10",
+    "ci:membership.s2.b11"
+  ],
+  "sections": [
+    {
+      "id": "membership-opening",
+      "title": "opening",
+      "selector": "#membership-opening",
+      "content_ids": [
+        "ci:membership.s0.b0",
+        "ci:membership.s1.b0",
+        "ci:membership.s1.b1",
+        "ci:membership.s1.b2",
+        "cta:membership.s1.a0"
+      ],
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "landmark": "hero",
+        "state": "section-hero",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "manifest": "art-direction/references/deep/royal/about/manifest.json",
+        "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-hero.png",
+        "states": {
+          "desktop": "section-hero",
+          "tablet": "section-hero",
+          "phone": "section-hero"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-hero.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-hero.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-hero.png"
+        }
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Royal compact title followed by dominant full-width actual church photograph, then bounded supporting copy/action. Actual documentary imagery replaces source team portrait; no source statistics invented.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/membership.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
+    },
+    {
+      "id": "membership-journey",
+      "title": "journey",
+      "selector": "#membership-journey",
+      "content_ids": [
+        "ci:membership.s2.b0",
+        "ci:membership.s2.b1",
+        "ci:membership.s2.b2",
+        "img:membership.worship",
+        "ci:membership.s2.b3",
+        "ci:membership.s2.b4",
+        "ci:membership.s2.b5",
+        "ci:membership.s2.b6",
+        "ci:membership.s2.b7",
+        "ci:membership.s2.b8",
+        "ci:membership.s2.b9",
+        "ci:membership.s2.b10",
+        "ci:membership.s2.b11"
+      ],
+      "reference_section": {
+        "template": "royal",
+        "route": "/about",
+        "landmark": "stry",
+        "state": "section-stry",
+        "dossier": "art-direction/references/deep/royal/about/dossier.md",
+        "manifest": "art-direction/references/deep/royal/about/manifest.json",
+        "comparison_scope": "Observed relational structure. Content-count, photo subject and noted responsive differences are adaptations requiring fresh review.",
+        "comparison_image": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-stry.png",
+        "states": {
+          "desktop": "section-stry",
+          "tablet": "section-stry",
+          "phone": "section-stry"
+        },
+        "comparison_images": {
+          "desktop": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/desktop/section-stry.png",
+          "tablet": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/tablet/section-stry.png",
+          "phone": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/references/deep/royal/about/phone/section-stry.png"
+        }
+      },
+      "critical_answer_visible_without_animation": true,
+      "adaptation": "Four contextual church photographs and corresponding copy exchange together. Source has three chapters; KLCC has four actual class themes. Desktop/tablet pin retained; phone native paired chapters are a deliberate readability deviation.",
+      "status": {
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/membership.json",
+        "reviewed_at": "2026-10-07T09:51:03.135775+00:00"
+      }
+    }
+  ],
+  "content_coverage": {
+    "expected": 19,
+    "assigned": 19,
+    "missing": []
+  },
+  "deletion_pass": "Do not invent membership benefits or requirements. Preserve the source class details and action.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "unresolved": [
+    "Fresh independent reference-fidelity review pending; old review records are unchanged.",
+    "Literal pairwise heading-axis uniqueness is not claimed; static readable headings intentionally remain."
+  ],
+  "motion_notes": {
+    "initial": "All content visible without JavaScript; enhanced membership stages initialize immediately.",
+    "trigger": "Scroll-linked chapter exchange",
+    "reverse": "Membership paired stage reverses; other first-entry clarity does not replay.",
+    "mobile": "Membership reproduces sticky overlay at sufficient viewport height; other routes use native responsive document flow. Reduced motion is static with all content visible.",
+    "reduced": "Fully visible, unpinned static content.",
+    "limitation": "No bodySplitText; Lou character-level granularity is not claimed. No new fidelity scores assigned."
+  },
+  "actual_sections": [
+    "membership-opening",
+    "membership-journey"
+  ],
+  "motion_contract": {
+    "scene": "membership-paired-exchange",
+    "source_observation": "Royal synchronized story",
+    "test_states": [
+      0,
+      0.25,
+      0.5,
+      0.75,
+      1
+    ],
+    "essential_text_min_opacity": 1,
+    "estimate_notice": "Reconstruction durations are design estimates, not source editor values."
+  },
+  "implementation": {
+    "html": "src/pages/membership.html",
+    "css": "src/pages/membership.css",
+    "motion": "src/motion/scenes/membership.ts",
+    "repair_notes": "art-direction/pages/membership/repair-notes.md"
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/membership.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}

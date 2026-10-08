@@ -1,0 +1,91 @@
+{
+  "route": "home",
+  "title": "Seek first | Kingdom Life",
+  "description": "Visit the approved cinematic homepage.",
+  "visitor_job": "Visit the approved cinematic homepage.",
+  "signature": {
+    "id": "protected-film"
+  },
+  "heading_arrival": {
+    "unit": "character-and-phrase",
+    "vector": "staged-opacity-translate",
+    "driver": "scroll-linked-film-progress"
+  },
+  "reference": {
+    "template": "owner-approved-home",
+    "route": "/",
+    "evidence": "art-direction/home-baseline.json"
+  },
+  "sections": [
+    {
+      "id": "protected-home",
+      "visitor_task": "Visit the approved cinematic homepage.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "owner-approved-home",
+        "route": "/",
+        "evidence": "art-direction/home-baseline.json",
+        "composition": "Preserve existing pinned photograph, staged characters and phrases; no claim this is a Royal reconstruction.",
+        "sequence": "Existing film progresses with native scroll, reveals staged at documented data-enter/data-full intervals; reverses on scrolling up."
+      },
+      "company_content": {
+        "copy": [
+          "ci:home.s0.b0",
+          "ci:home.s0.b1",
+          "ci:home.s0.b2",
+          "ci:home.s0.b3",
+          "ci:home.s1.b0",
+          "ci:home.s1.b1",
+          "ci:home.s2.b0",
+          "ci:home.s2.b1",
+          "ci:home.integration0"
+        ],
+        "media": [],
+        "cta": [
+          "cta:home.s0.a0",
+          "cta:home.s1.a0",
+          "cta:home.live2",
+          "cta:home.live3",
+          "cta:home.live4",
+          "cta:home.live5"
+        ]
+      },
+      "reconstruction": {
+        "layout": "Preserve approvedfilm; inventoryexistingcontent, CTAs andnavigationwithoutchangingmechanism.",
+        "motion": {
+          "mechanism": "Sticky / Scroll-linked",
+          "values": {
+            "source": "app.js initFilm",
+            "existing_approved": true,
+            "filmProgress": "0\u20131 over .film-travel",
+            "headingPhrases": [
+              [
+                0.54,
+                0.62
+              ],
+              [
+                0.63,
+                0.71
+              ],
+              [
+                0.72,
+                0.8
+              ]
+            ]
+          }
+        },
+        "atmosphere": "Locked KLCC ink/paper/ice world; actual source material",
+        "mobile_rewrite": "Criticalactionfirst, separateimageandreading, no stickyessentialcontrols. Intact artworknotcropped.",
+        "reduced_motion": "All HTML visible, no pin or focusblur."
+      },
+      "deviations": [],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": false,
+        "fidelity_reviewed": false,
+        "accepted": false
+      }
+    }
+  ]
+}

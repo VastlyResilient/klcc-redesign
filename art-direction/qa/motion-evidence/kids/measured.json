@@ -1,0 +1,362 @@
+{
+  "route": "kids",
+  "status": "Measured-not-visually-reviewed",
+  "limits": [
+    "Settled PNG checkpoints may miss short time-based entrances; absence is inconclusive.",
+    "Motion values prove observable changes, not source fidelity or design quality."
+  ],
+  "viewports": {
+    "desktop": {
+      "measuredVisualChanges": [
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0.401334px)"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.401334px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "footer",
+          "to": "opening-settled",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(2px)"
+            }
+          }
+        },
+        {
+          "from": "opening-settled",
+          "to": "midpoint",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0.542616px)"
+            }
+          }
+        },
+        {
+          "from": "section-section-0",
+          "to": "section-kids-opening",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.542616px)",
+              "to": "blur(2px)"
+            }
+          }
+        },
+        {
+          "from": "section-kids-opening",
+          "to": "section-kids-team",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0.304202px)"
+            }
+          }
+        },
+        {
+          "from": "section-kids-team",
+          "to": "section-kids-scripture",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.304202px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1767",
+          "to": "reverse-1317",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(0.692728px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1317",
+          "to": "reverse-867",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.692728px)",
+              "to": "blur(2px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 27,
+      "errors": [],
+      "video": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/captures/kids/capture-desktop/desktop/video/page@16009f73f152696079bdc3fe6b410b06.webm",
+      "videoBoard": "/Users/bobby/Documents/New project/site-engine/klcc/art-direction/qa/motion-evidence/kids/desktop-recording-board.png"
+    },
+    "tablet": {
+      "measuredVisualChanges": [
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(1)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.989289"
+            }
+          }
+        },
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>figure:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.989289"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(1)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.989289",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>figure:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "0.989289",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(1.25471px)"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(1.25471px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "footer",
+          "to": "opening-settled",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(2px)"
+            }
+          }
+        },
+        {
+          "from": "opening-settled",
+          "to": "midpoint",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0.570247px)"
+            }
+          }
+        },
+        {
+          "from": "section-section-0",
+          "to": "section-kids-opening",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.570247px)",
+              "to": "blur(2px)"
+            }
+          }
+        },
+        {
+          "from": "section-kids-opening",
+          "to": "section-kids-team",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0.281489px)"
+            }
+          }
+        },
+        {
+          "from": "section-kids-team",
+          "to": "section-kids-scripture",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.281489px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1280",
+          "to": "reverse-896",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(2px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 29,
+      "errors": [],
+      "video": null
+    },
+    "phone": {
+      "measuredVisualChanges": [
+        {
+          "from": "menu-open",
+          "to": "forward-001",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(1)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.999412"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>div:nth-child(1)>p:nth-child(3)",
+          "properties": {
+            "opacity": {
+              "from": "0.999412",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-001",
+          "to": "forward-002",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>figure:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "1",
+              "to": "0.978797"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(2)>figure:nth-child(2)",
+          "properties": {
+            "opacity": {
+              "from": "0.978797",
+              "to": "1"
+            }
+          }
+        },
+        {
+          "from": "forward-002",
+          "to": "forward-003",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "section-section-0",
+          "to": "section-kids-opening",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0.756775px)",
+              "to": "blur(2px)"
+            }
+          }
+        },
+        {
+          "from": "section-kids-opening",
+          "to": "section-kids-team",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(2px)",
+              "to": "blur(1.74322px)"
+            }
+          }
+        },
+        {
+          "from": "section-kids-team",
+          "to": "section-kids-scripture",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(1.74322px)",
+              "to": "blur(0px)"
+            }
+          }
+        },
+        {
+          "from": "reverse-1520",
+          "to": "reverse-1098",
+          "key": "html:nth-child(1)>body:nth-child(2)>main:nth-child(4)>section:nth-child(3)>h2:nth-child(1)",
+          "properties": {
+            "filter": {
+              "from": "blur(0px)",
+              "to": "blur(2px)"
+            }
+          }
+        }
+      ],
+      "scrollStates": 25,
+      "errors": [],
+      "video": null
+    }
+  }
+}

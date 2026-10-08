@@ -1,0 +1,2393 @@
+{
+  "reviewer": "repair_practical agent, independent of ministry authorship",
+  "reviewed_at": "2026-10-07T09:07:51.734335+00:00",
+  "review_stage": "Initial independent pass; author has received failures and is repairing. These scores describe captures before that follow-up. Do not promote stale scores after code changes.",
+  "routes": [
+    {
+      "route": "new",
+      "status": "Blocked",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "visit-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-desktop-visit-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Royal heading\u2192broad actual campus image\u2192proof order is present. Desktop H1 94px versus source50px remains substantially too large; the opening measured1684px versus source1259px. Mobile also prioritizes a lengthy visit fact block before the image.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-tablet-visit-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Royal heading\u2192broad actual campus image\u2192proof order is present. Desktop H1 94px versus source50px remains substantially too large; the opening measured1684px versus source1259px. Mobile also prioritizes a lengthy visit fact block before the image.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-phone-visit-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Royal heading\u2192broad actual campus image\u2192proof order is present. Desktop H1 94px versus source50px remains substantially too large; the opening measured1684px versus source1259px. Mobile also prioritizes a lengthy visit fact block before the image.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "visit-plan",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-desktop-visit-plan.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Left bounded visit introduction with right sequential ruled answers now clearly reconstructs the Slab Brief relationship. All first-visit material remains in HTML. Phone naturally stacks; source copy length differs but no content is concealed.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-tablet-visit-plan.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Left bounded visit introduction with right sequential ruled answers now clearly reconstructs the Slab Brief relationship. All first-visit material remains in HTML. Phone naturally stacks; source copy length differs but no content is concealed.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-phone-visit-plan.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Left bounded visit introduction with right sequential ruled answers now clearly reconstructs the Slab Brief relationship. All first-visit material remains in HTML. Phone naturally stacks; source copy length differs but no content is concealed.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "visit-together",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-desktop-visit-together.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-3",
+                "state": "forward-007",
+                "composition": "Image-only wide project artwork sequence with clean gutters; native scrolling.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 3,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Large authentic congregation photo holds its proportions. The mapped Royal hero includes a title and factual proof hierarchy; this section is image-only. A whole-hero equivalence has not been established.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-tablet-visit-together.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-3",
+                "state": "forward-007",
+                "composition": "Image-only wide project artwork sequence with clean gutters; native scrolling.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 3,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Large authentic congregation photo holds its proportions. The mapped Royal hero includes a title and factual proof hierarchy; this section is image-only. A whole-hero equivalence has not been established.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-phone-visit-together.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-3",
+                "state": "forward-007",
+                "composition": "Image-only wide project artwork sequence with clean gutters; native scrolling.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 3,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Large authentic congregation photo holds its proportions. The mapped Royal hero includes a title and factual proof hierarchy; this section is image-only. A whole-hero equivalence has not been established.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "visit-next",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-desktop-visit-next.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Single quiet label left and a vertical right sequence of three explanations/actions preserve the inspected Slab Brief geometry. Phone actions remain visible without animation.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-tablet-visit-next.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Single quiet label left and a vertical right sequence of three explanations/actions preserve the inspected Slab Brief geometry. Phone actions remain visible without animation.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-phone-visit-next.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Single quiet label left and a vertical right sequence of three explanations/actions preserve the inspected Slab Brief geometry. Phone actions remain visible without animation.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "visit-care",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-desktop-visit-care.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/contact",
+                "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+                "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "section-0",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 3,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Two equal request summaries on paper are clear and usable, but Royal contact is an identity/contact channel left plus lower aligned interaction column right on dark ground. Current symmetry and surface do not preserve that hierarchy.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-tablet-visit-care.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/contact",
+                "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+                "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "section-0",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 3,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Two equal request summaries on paper are clear and usable, but Royal contact is an identity/contact channel left plus lower aligned interaction column right on dark ground. Current symmetry and surface do not preserve that hierarchy.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/new-phone-visit-care.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/contact",
+                "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+                "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "section-0",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 3,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Two equal request summaries on paper are clear and usable, but Royal contact is an identity/contact channel left plus lower aligned interaction column right on dark ground. Current symmetry and surface do not preserve that hierarchy.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "life-groups",
+      "status": "Blocked",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "groups-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-desktop-groups-opening.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "hero",
+                "state": "opening",
+                "composition": "Wide intact artwork before left identity and right factual metadata; stacks on phone.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 3,
+                "media_size_aspect": 3,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "The heading still sits beside a comparatively small campaign image. Royal hero has a modest heading above a dominant broad photograph; the desktop section is538px versus source1259px. Phone preserves art but desktop/tablet topology and scale remain mismatched.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-tablet-groups-opening.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "hero",
+                "state": "opening",
+                "composition": "Wide intact artwork before left identity and right factual metadata; stacks on phone.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 3,
+                "media_size_aspect": 3,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "The heading still sits beside a comparatively small campaign image. Royal hero has a modest heading above a dominant broad photograph; the desktop section is538px versus source1259px. Phone preserves art but desktop/tablet topology and scale remain mismatched.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-phone-groups-opening.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "hero",
+                "state": "opening",
+                "composition": "Wide intact artwork before left identity and right factual metadata; stacks on phone.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 3,
+                "media_size_aspect": 3,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "The heading still sits beside a comparatively small campaign image. Royal hero has a modest heading above a dominant broad photograph; the desktop section is538px versus source1259px. Phone preserves art but desktop/tablet topology and scale remain mismatched.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "groups-introduction",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-desktop-groups-introduction.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-2",
+                "state": "forward-004",
+                "composition": "Quiet left label, large right explanation following artwork; 32px right text, phone24px.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 3,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact light-ground two-column welcome with small scripture and body is readable. Lou source is a dark, narrow offset oversized passage followed by small credentials. Neither reading scale nor source first-entry character rhythm is reconstructed.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-tablet-groups-introduction.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-2",
+                "state": "forward-004",
+                "composition": "Quiet left label, large right explanation following artwork; 32px right text, phone24px.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 3,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact light-ground two-column welcome with small scripture and body is readable. Lou source is a dark, narrow offset oversized passage followed by small credentials. Neither reading scale nor source first-entry character rhythm is reconstructed.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-phone-groups-introduction.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-2",
+                "state": "forward-004",
+                "composition": "Quiet left label, large right explanation following artwork; 32px right text, phone24px.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 3,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact light-ground two-column welcome with small scripture and body is readable. Lou source is a dark, narrow offset oversized passage followed by small credentials. Neither reading scale nor source first-entry character rhythm is reconstructed.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "groups-directory",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-desktop-groups-directory.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet left label and ruled right stack are an actual reconstruction of Brief reading topology. Seven necessary categories make a longer reading run, without clipping or forcing captions into cards.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-tablet-groups-directory.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet left label and ruled right stack are an actual reconstruction of Brief reading topology. Seven necessary categories make a longer reading run, without clipping or forcing captions into cards.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-phone-groups-directory.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet left label and ruled right stack are an actual reconstruction of Brief reading topology. Seven necessary categories make a longer reading run, without clipping or forcing captions into cards.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "groups-photo",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-desktop-groups-photo.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-3",
+                "state": "forward-007",
+                "composition": "Image-only wide project artwork sequence with clean gutters; native scrolling.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 3,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic landscape remains intact and has a bounded opacity arrival, but the source mapping is a complete Royal hero; there is no corresponding title/proof arrangement here.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-tablet-groups-photo.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-3",
+                "state": "forward-007",
+                "composition": "Image-only wide project artwork sequence with clean gutters; native scrolling.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 3,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic landscape remains intact and has a bounded opacity arrival, but the source mapping is a complete Royal hero; there is no corresponding title/proof arrangement here.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/life-groups-phone-groups-photo.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-3",
+                "state": "forward-007",
+                "composition": "Image-only wide project artwork sequence with clean gutters; native scrolling.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 3,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Authentic landscape remains intact and has a bounded opacity arrival, but the source mapping is a complete Royal hero; there is no corresponding title/proof arrangement here.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "kids",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "kids-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-desktop-kids-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact50/55 desktop title, broad actual campus photo and distinct below-photo facts match Royal opening hierarchy. Phone uses intact documentary framing and stacks age/check-in information readably.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-tablet-kids-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact50/55 desktop title, broad actual campus photo and distinct below-photo facts match Royal opening hierarchy. Phone uses intact documentary framing and stacks age/check-in information readably.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-phone-kids-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact50/55 desktop title, broad actual campus photo and distinct below-photo facts match Royal opening hierarchy. Phone uses intact documentary framing and stacks age/check-in information readably.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "kids-team",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-desktop-kids-team.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-2",
+                "state": "forward-004",
+                "composition": "Authentic artwork before left label/right enlarged explanation; intact image proportions.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Actual conceptual artwork is labeled and precedes asymmetric scripture/recruitment copy, transferring Slab artwork\u2192explanation order. Media contains no fabricated documentary claim; intact image and readable action survive all widths.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-tablet-kids-team.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-2",
+                "state": "forward-004",
+                "composition": "Authentic artwork before left label/right enlarged explanation; intact image proportions.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Actual conceptual artwork is labeled and precedes asymmetric scripture/recruitment copy, transferring Slab artwork\u2192explanation order. Media contains no fabricated documentary claim; intact image and readable action survive all widths.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/kids-phone-kids-team.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-2",
+                "state": "forward-004",
+                "composition": "Authentic artwork before left label/right enlarged explanation; intact image proportions.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Actual conceptual artwork is labeled and precedes asymmetric scripture/recruitment copy, transferring Slab artwork\u2192explanation order. Media contains no fabricated documentary claim; intact image and readable action survive all widths.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "youth",
+      "status": "Blocked",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "elevate-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/youth-desktop-elevate-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact heading, broad real worship image and bounded service facts retain Royal opening relation. Phone brings the schedule into a readable stack. No faces or important original lettering are clipped.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/youth-tablet-elevate-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact heading, broad real worship image and bounded service facts retain Royal opening relation. Phone brings the schedule into a readable stack. No faces or important original lettering are clipped.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/youth-phone-elevate-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact heading, broad real worship image and bounded service facts retain Royal opening relation. Phone brings the schedule into a readable stack. No faces or important original lettering are clipped.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "age-paths",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/youth-desktop-age-paths.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Small contextual label/citation left and ruled age-specific explanation stack right match Brief topology. Native contact links are stationary, and phone rows keep each grade range with its explanation.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/youth-tablet-age-paths.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Small contextual label/citation left and ruled age-specific explanation stack right match Brief topology. Native contact links are stationary, and phone rows keep each grade range with its explanation.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/youth-phone-age-paths.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Small contextual label/citation left and ruled age-specific explanation stack right match Brief topology. Native contact links are stationary, and phone rows keep each grade range with its explanation.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "elevate-connect",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/youth-desktop-elevate-connect.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/contact",
+                "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+                "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "section-0",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Two short columns provide a quiet closing sentence. Mapping to Royal contact overstates the equivalence: there is no actual contact-channel list or interaction column in this section.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/youth-tablet-elevate-connect.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/contact",
+                "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+                "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "section-0",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Two short columns provide a quiet closing sentence. Mapping to Royal contact overstates the equivalence: there is no actual contact-channel list or interaction column in this section.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/youth-phone-elevate-connect.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/contact",
+                "dossier": "art-direction/references/deep/royal/contact/dossier.md",
+                "composition": "Royal contact: left identity and contact details, right practical interaction, restrained dark ground and clear column alignment.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "section-0",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Two short columns provide a quiet closing sentence. Mapping to Royal contact overstates the equivalence: there is no actual contact-channel list or interaction column in this section.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "young-adults",
+      "status": "Blocked",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "ya-intro",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/young-adults-desktop-ya-intro.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "hero",
+                "state": "opening",
+                "composition": "Original artwork first then left identity and right description/metadata; native stacked phone."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Royal-style small heading, broad congregation photo, then bounded explanatory/action and scripture material is reconstructed. Caption explicitly identifies the wider congregation; it does not falsely identify photographed people as this ministry.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/young-adults-tablet-ya-intro.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "hero",
+                "state": "opening",
+                "composition": "Original artwork first then left identity and right description/metadata; native stacked phone."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Royal-style small heading, broad congregation photo, then bounded explanatory/action and scripture material is reconstructed. Caption explicitly identifies the wider congregation; it does not falsely identify photographed people as this ministry.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/young-adults-phone-ya-intro.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "hero",
+                "state": "opening",
+                "composition": "Original artwork first then left identity and right description/metadata; native stacked phone."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Royal-style small heading, broad congregation photo, then bounded explanatory/action and scripture material is reconstructed. Caption explicitly identifies the wider congregation; it does not falsely identify photographed people as this ministry.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "ya-events",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/young-adults-desktop-ya-events.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "hero",
+                "state": "opening",
+                "composition": "Wide intact artwork before left identity and right factual metadata; stacks on phone.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 3,
+                "media_size_aspect": 3,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Actual RED/RISE artwork stays intact, but alternating half-width image/text rows do not match Slab Hydra opening wide image followed by project metadata. Phone image-first order is closer; desktop/tablet geometry remains materially different.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/young-adults-tablet-ya-events.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "hero",
+                "state": "opening",
+                "composition": "Wide intact artwork before left identity and right factual metadata; stacks on phone.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 3,
+                "media_size_aspect": 3,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Actual RED/RISE artwork stays intact, but alternating half-width image/text rows do not match Slab Hydra opening wide image followed by project metadata. Phone image-first order is closer; desktop/tablet geometry remains materially different.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/young-adults-phone-ya-events.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "hero",
+                "state": "opening",
+                "composition": "Wide intact artwork before left identity and right factual metadata; stacks on phone.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Actual RED/RISE artwork stays intact, but alternating half-width image/text rows do not match Slab Hydra opening wide image followed by project metadata. Phone image-first order is closer; desktop/tablet geometry remains materially different.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "women",
+      "status": "Fidelity-reviewed",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "women-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-desktop-women-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Small title, full broad real image and compact proof below preserve Royal hierarchy. The photo is honestly captioned as wider congregation. Reused opening imagery across ministry family requires separate anti-sameness review.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-tablet-women-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Small title, full broad real image and compact proof below preserve Royal hierarchy. The photo is honestly captioned as wider congregation. Reused opening imagery across ministry family requires separate anti-sameness review.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-phone-women-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Small title, full broad real image and compact proof below preserve Royal hierarchy. The photo is honestly captioned as wider congregation. Reused opening imagery across ministry family requires separate anti-sameness review.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "women-calendar",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-desktop-women-calendar.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet left year/context and bounded ruled right factual dates retain Brief reading rhythm. Past September/October dates are distinguished and current November date is legible. Stable date controls are appropriate.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-tablet-women-calendar.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet left year/context and bounded ruled right factual dates retain Brief reading rhythm. Past September/October dates are distinguished and current November date is legible. Stable date controls are appropriate.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/women-phone-women-calendar.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Quiet left year/context and bounded ruled right factual dates retain Brief reading rhythm. Past September/October dates are distinguished and current November date is legible. Stable date controls are appropriate.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "men",
+      "status": "Blocked",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "men-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-desktop-men-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact heading, broad actual leadership photograph and bounded supporting passage reconstruct Royal hierarchy. The image caption correctly limits attribution to church leadership. Phone heading wraps into three words without collision.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-tablet-men-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact heading, broad actual leadership photograph and bounded supporting passage reconstruct Royal hierarchy. The image caption correctly limits attribution to church leadership. Phone heading wraps into three words without collision.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-phone-men-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Compact heading, broad actual leadership photograph and bounded supporting passage reconstruct Royal hierarchy. The image caption correctly limits attribution to church leadership. Phone heading wraps into three words without collision.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "men-week",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-desktop-men-week.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "One small left label and a right sequence of ruled meeting descriptions match Slab Brief. Times remain with their location and context. Phone preserves orderly stacking.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-tablet-men-week.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "One small left label and a right sequence of ruled meeting descriptions match Slab Brief. Times remain with their location and context. Phone preserves orderly stacking.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-phone-men-week.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-1",
+                "state": "forward-002",
+                "composition": "The Brief: quiet left label; right narrow sequential reading with thin rules. Phone stacks label before facts.",
+                "selection_reason": "Selected before repair in plan.md: required content lacks matching documentary photo panels or a long essay. Rebuilt the actual grid, scale, reading order and surface; not a provenance-only edit.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "One small left label and a right sequence of ruled meeting descriptions match Slab Brief. Times remain with their location and context. Phone preserves orderly stacking.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "men-study",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-desktop-men-study.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-2",
+                "state": "forward-004",
+                "composition": "Quiet left label, large right explanation following artwork; 32px right text, phone24px.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "A short equal split scripture/program summary is useful but does not reconstruct mapped Lou oversized offset essay or the blueprint claimed sticky synchronized exchange. Source scale and sequence differ.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-tablet-men-study.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-2",
+                "state": "forward-004",
+                "composition": "Quiet left label, large right explanation following artwork; 32px right text, phone24px.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "A short equal split scripture/program summary is useful but does not reconstruct mapped Lou oversized offset essay or the blueprint claimed sticky synchronized exchange. Source scale and sequence differ.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-phone-men-study.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "landmark": "section-2",
+                "state": "forward-004",
+                "composition": "Quiet left label, large right explanation following artwork; 32px right text, phone24px.",
+                "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "A short equal split scripture/program summary is useful but does not reconstruct mapped Lou oversized offset essay or the blueprint claimed sticky synchronized exchange. Source scale and sequence differ.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "men-calendar",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-desktop-men-calendar.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "composition": "Slab project metadata: left project identity, aligned right metadata and ruled information hierarchy. See scoped dossier for source-specific capture limitations.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "section-0",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance.",
+                "state": "opening"
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 3,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "A text schedule left and conference explanation right remain useful, but Slab mapped opening is image-first then title/metadata. This section has no equivalent media-dominant opening and different information topology.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-tablet-men-calendar.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "composition": "Slab project metadata: left project identity, aligned right metadata and ruled information hierarchy. See scoped dossier for source-specific capture limitations.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "section-0",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance.",
+                "state": "opening"
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 3,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "A text schedule left and conference explanation right remain useful, but Slab mapped opening is image-first then title/metadata. This section has no equivalent media-dominant opening and different information topology.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/men-phone-men-calendar.png",
+              "source_evidence": {
+                "template": "slab",
+                "route": "/projects/hydra",
+                "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+                "composition": "Slab project metadata: left project identity, aligned right metadata and ruled information hierarchy. See scoped dossier for source-specific capture limitations.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "section-0",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance.",
+                "state": "opening"
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 3,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "A text schedule left and conference explanation right remain useful, but Slab mapped opening is image-first then title/metadata. This section has no equivalent media-dominant opening and different information topology.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "route": "leadership",
+      "status": "Blocked",
+      "accepted": false,
+      "sections": [
+        {
+          "id": "leaders-opening",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/leadership-desktop-leaders-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Heading\u2192real leadership photograph relation is correct. Desktop94px title substantially exceeds source50px; phone title is also more dominant than source32px. Scale remains the specific failure.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/leadership-tablet-leaders-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Heading\u2192real leadership photograph relation is correct. Desktop94px title substantially exceeds source50px; phone title is also more dominant than source32px. Scale remains the specific failure.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/leadership-phone-leaders-opening.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal opening: quiet left label and heading, dominant documentary image, then concise proof and bounded reading.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "hero",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 3,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 3,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Heading\u2192real leadership photograph relation is correct. Desktop94px title substantially exceeds source50px; phone title is also more dominant than source32px. Scale remains the specific failure.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "founding-leaders",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/leadership-desktop-founding-leaders.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "team",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 3,
+                "media_position": 4,
+                "media_size_aspect": 3,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Two small historical images left with a substantial side biography are not Royal team parallel portraits with individual labels below. The content is preserved and truthful, but the source composition and density differ.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/leadership-tablet-founding-leaders.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "team",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 3,
+                "media_position": 4,
+                "media_size_aspect": 3,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Two small historical images left with a substantial side biography are not Royal team parallel portraits with individual labels below. The content is preserved and truthful, but the source composition and density differ.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/leadership-phone-founding-leaders.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "team",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 3,
+                "media_position": 4,
+                "media_size_aspect": 3,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Two small historical images left with a substantial side biography are not Royal team parallel portraits with individual labels below. The content is preserved and truthful, but the source composition and density differ.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        },
+        {
+          "id": "pastoral-team",
+          "reviews": [
+            {
+              "viewport": 1440,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/leadership-desktop-pastoral-team.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "team",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 3,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Real portraits with names, roles and biography disclosures preserve association. Desktop/tablet use three columns versus four in Royal team, changing density and sequence. Phone single-column recomposition is faithful.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 1024,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/leadership-tablet-pastoral-team.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "team",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 3,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 3,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Real portraits with names, roles and biography disclosures preserve association. Desktop/tablet use three columns versus four in Royal team, changing density and sequence. Phone single-column recomposition is faithful.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            },
+            {
+              "viewport": 390,
+              "state": "settled section; initial/forward/reverse inspected",
+              "comparison": null,
+              "build_evidence": "art-direction/qa/round-2/ministry-evidence/leadership-phone-pastoral-team.png",
+              "source_evidence": {
+                "template": "royal",
+                "route": "/about",
+                "dossier": "art-direction/references/deep/royal/about/dossier.md",
+                "composition": "Royal team: parallel portraits with names and roles beneath, an understated section label, and modest arrivals.",
+                "sequence": "Current authored behavior is declared in reconstruction.motion. No claim of reproducing a Royal sticky chapter exchange.",
+                "landmark": "team",
+                "comparison_scope": "Compare the recorded section landmark. Adaptation may differ in content density or image availability; do not treat matching provenance as visual-fidelity acceptance."
+              },
+              "scores": {
+                "text_placement": 4,
+                "readability": 5,
+                "text_image_association": 4,
+                "media_position": 4,
+                "media_size_aspect": 4,
+                "alignment": 5,
+                "spacing": 4,
+                "atmosphere_parity": 4,
+                "sequence_parity": 4,
+                "mobile_recomposition": 4
+              },
+              "judgment": "Real portraits with names, roles and biography disclosures preserve association. Desktop/tablet use three columns versus four in Royal team, changing density and sequence. Phone single-column recomposition is faithful.",
+              "sequence_scope": "Native forward/reverse traversal sampled actual animations in observations.json. Framer editor timings unknown; a cited source is not proof of identical behavior."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "observations": "art-direction/qa/round-2/ministry-evidence/observations.json",
+  "viewport_scope": "1440x900,1024x768,390x844 headless installed Chrome",
+  "anti_sameness": "Unresolved family concern: broad-photo openings repeated, with YA and women using the same congregational photograph; evaluate grayscale whole-site distinctness separately.",
+  "limits": [
+    "No physical device tested.",
+    "No real forms submitted.",
+    "Semantic content preserved by author checks; root owns authoritative ledger diff.",
+    "Final capture refresh needed for author follow-up changes."
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "route": "our-story",
+  "status": "Fidelity-reviewed",
+  "reviewed_at": "2026-10-07T06:27:47.062220+00:00",
+  "reviewer": "independent v22_inventory_gates agent",
+  "reference": "Royal /about",
+  "sections": [
+    {
+      "id": "story-opening",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "section",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-section-story-opening.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 1024,
+          "state": "section",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-section-story-opening.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 390,
+          "state": "section",
+          "comparison": "art-direction/qa/side-by-side/our-story/corrected-phone/phone-section-story-opening.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 5,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        }
+      ]
+    },
+    {
+      "id": "story-chapters",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "p0",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-story-chapters-p0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 1440,
+          "state": "p0.25",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-story-chapters-p0.25.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 1440,
+          "state": "p0.5",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-story-chapters-p0.5.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 1440,
+          "state": "p0.75",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-story-chapters-p0.75.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 1440,
+          "state": "p1",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-story-chapters-p1.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 1024,
+          "state": "p0",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-story-chapters-p0.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 1024,
+          "state": "p0.25",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-story-chapters-p0.25.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 1024,
+          "state": "p0.5",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-story-chapters-p0.5.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 1024,
+          "state": "p0.75",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-story-chapters-p0.75.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 1024,
+          "state": "p1",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-story-chapters-p1.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 5,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 390,
+          "state": "section",
+          "comparison": "art-direction/qa/side-by-side/our-story/corrected-phone/phone-section-story-chapters.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        }
+      ]
+    },
+    {
+      "id": "story-founders",
+      "reviews": [
+        {
+          "viewport": 1440,
+          "state": "section",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/desktop-section-story-founders.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 1024,
+          "state": "section",
+          "comparison": "art-direction/qa/side-by-side/our-story/aligned-sections/tablet-section-story-founders.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        },
+        {
+          "viewport": 390,
+          "state": "section",
+          "comparison": "art-direction/qa/side-by-side/our-story/corrected-phone/phone-section-story-founders.png",
+          "scores": {
+            "text_placement": 4,
+            "readability": 4,
+            "text_image_association": 4,
+            "media_position": 4,
+            "media_size_aspect": 4,
+            "alignment": 5,
+            "spacing": 4,
+            "atmosphere_parity": 4,
+            "sequence_parity": 4,
+            "mobile_recomposition": 4
+          },
+          "judgment": "Pass with documented company-content adaptation; not pixel identity."
+        }
+      ]
+    }
+  ],
+  "owner_feedback": null,
+  "accepted": false,
+  "kept": "Left uppercase introduction, broad real image and fact row, synchronized sticky copy/photo chapters, portrait identity grouping.",
+  "adapted": "Royal commercial proof became real founding facts. Long source church chapters require more reading space. Founders replace generic team roles. Phone releases pin and uses intact landscape photos to preserve faces and complete copy. KLCC blue/cream replaces Royal black; actual archival grain retained.",
+  "findings": [
+    {
+      "id": "mobile-archive-crop",
+      "initial_score": 3,
+      "resolution": "Rebuilt phone images at native landscape aspect and captions below; verified corrected-phone captures."
+    },
+    {
+      "id": "generic-blueprint-text",
+      "resolution": "Actual source and adaptation records expanded by parent; not a generic page-family proof."
+    },
+    {
+      "id": "landmark-under-header",
+      "resolution": "Programmatic section-top captures can intersect fixed header. Actual menu/navigation/reverse/reduced-motion checks found no obscured anchor failure."
+    }
+  ],
+  "interaction_evidence": [
+    "art-direction/qa/reviewer/pilot-menu-reduced.json",
+    "art-direction/qa/reviewer/pilot-interactions.json"
+  ],
+  "review_scope": "Visual reconstruction judgment at three browser viewports, five desktop/tablet sticky states, static phone rewrite. Automated full-site resilience/structural reports remain separate gates.",
+  "limits": [
+    "No physical device testing.",
+    "Owner approval remains outstanding.",
+    "Authentic historical source photograph is visibly grainy.",
+    "Source Framer timing settings were unavailable; reconstructed transition timings are estimates."
+  ]
+}

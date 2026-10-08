@@ -1,0 +1,467 @@
+{
+  "route": "men",
+  "reference": {
+    "template": "royal",
+    "route": "/about",
+    "dossier": "art-direction/references/deep/royal/about/dossier.md",
+    "mode": "B",
+    "donors": [
+      "lou",
+      "slab"
+    ]
+  },
+  "visitor_job": "Compare recurring gatherings, current dates and discipleship opportunities.",
+  "entry_condition": "Direct route or main-menu arrival; this may be the first page a visitor sees.",
+  "critical_answer": "Weekly prayer is Sunday at 7 AM in the Cathedral Lobby. Monday fellowship is at 6:30 PM in Fellowship Court. Preserve the October 17, December 5 and December 21 events and their stated times.",
+  "primary_action": {
+    "route": "men",
+    "source": "https://klcc.us/men",
+    "source_date": "2026-10-01",
+    "required": true,
+    "id": "cta:men.s4.a0",
+    "type": "cta",
+    "label": "Sign Up",
+    "original_destination": "mailto:ecalderon@klcc.us?subject=Sign%20Up%20for%20EMAW&cc=jlivramento@optonline.net",
+    "approved_destination": "mailto:ecalderon@klcc.us?subject=Sign%20Up%20for%20EMAW&cc=jlivramento@optonline.net",
+    "live_match": true
+  },
+  "supporting_proof": "Actual source copy and authentic source assets; consult the asset manifest.",
+  "objections_answered": "Who is this for, when and where does it happen, and what happens after the action?",
+  "secondary_path": "The main menu and genuine church contact channels. Marketing routes remain inside the redesign.",
+  "signature": {
+    "id": "men-purpose-to-rhythm",
+    "dominant_verb": "Read",
+    "structural_idea": "Centered mission passage then modest weekly credentials; leadership photo becomes supporting study context"
+  },
+  "heading_arrival": {
+    "unit": "block",
+    "vector": "none",
+    "driver": "static",
+    "evidence": "Keep text readable rather than invent fifteen source heading animations. The strict pairwise two-axis gate remains unresolved; do not randomize effects to pass."
+  },
+  "content_ids": [
+    "ci:men.s0.b0",
+    "ci:men.s1.b0",
+    "ci:men.s2.b0",
+    "ci:men.s2.b1",
+    "ci:men.s3.b0",
+    "cta:men.s3.a0",
+    "ci:men.s4.b0",
+    "ci:men.s4.b1",
+    "cta:men.s4.a0",
+    "cta:men.s4.a1",
+    "ci:men.s5.b0",
+    "ci:men.s5.b1",
+    "ci:men.s6.b0",
+    "ci:men.s6.b1",
+    "cta:men.s6.a0",
+    "img:men.page-men",
+    "img:men.leadership"
+  ],
+  "sections": [
+    {
+      "id": "men-opening",
+      "title": "Men\u2019s Ministry",
+      "visitor_task": "Compare recurring gatherings, current dates and discipleship opportunities.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "lou",
+        "route": "/about",
+        "dossier": "art-direction/references/deep/lou-pilot/about/dossier.md",
+        "landmark": "section-2",
+        "state": "section-section-2",
+        "composition": "Centered broad40px mission field, followed by modest two-column weekly credentials. Measured source reading width880px desktop,816px tablet,350px phone.",
+        "selection_reason": "Men need purpose and real weekly connection, not another hero image of church leaders. Source reading unit is transplanted to opening; not Lou portrait hero.",
+        "semantic_manifest": "art-direction/references/deep/lou-pilot/about/manifest.json",
+        "geometry_note": "Exact semantic source section-2 is the reading-and-credentials section, not the portrait/name section-1."
+      },
+      "company_content": {
+        "copy": [
+          "ci:men.s0.b0",
+          "ci:men.s1.b0",
+          "ci:men.s3.b0"
+        ],
+        "media": [],
+        "cta": [
+          "cta:men.s3.a0"
+        ]
+      },
+      "content_ids": [
+        "ci:men.s0.b0",
+        "ci:men.s1.b0",
+        "ci:men.s3.b0",
+        "cta:men.s3.a0"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 distinct opening revision; see preconstruction decision in plan.md.",
+        "ground": "ink",
+        "motion": {
+          "mechanism": "Scroll-triggered once-entered semantic paragraph clarity",
+          "selectors": [
+            ".men-mission [data-clarity]"
+          ],
+          "source_settings": "Lou held-scroll probe opacity .429\u2192.944\u2192.999\u21921; timed after entry, not reversible; source character splitting intentionally rejected under BodySplitText prohibition",
+          "implementation_values": "Readable .55\u21921 opacity on whole semantic paragraph;1700ms ease-out;threshold .25. No BodySplitText, no character spans.",
+          "reverse": "Completed text stays fully legible on reverse",
+          "reduced_motion": "No animations; full semantic passage and schedules visible"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "350px reading field,24px mission; single-column meeting credentials; all schedules/actions static.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Lou multi-paragraph professional biography and awards",
+          "conflict": "Shorter church mission and weekly schedules are the actual required content",
+          "adaptation": "No filler to match essay length. One full large mission paragraph, then all original weekly facts; density is content-led. No portrait/name hero claim.",
+          "test": "Large paragraph remains primary; all weekly descriptions and contact action remain in same native section"
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/men.json",
+        "reviewed_at": "2026-10-07T20:09:58.359Z"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "men-study",
+      "title": "Every Man A Warrior",
+      "visitor_task": "Read every man a warrior and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "section-2",
+        "state": "forward-004",
+        "composition": "Real leadership image first with honest church-leadership caption; then contextual scripture left and enlarged Every Man A Warrior explanation/actions right.",
+        "selection_reason": "Reviewer-directed preconstruction decision in plan.md; actual image order/width and reading hierarchy rebuilt, rather than attributing an unchanged layout.",
+        "source_region": {
+          "kind": "union-of-adjacent-observed-units",
+          "selectors": [
+            "[data-framer-name=\"Gallery Section 1\"]",
+            "[data-framer-name=\"Highlight Section 1\"]"
+          ],
+          "evidence": "art-direction/qa/round-4/kids-men-author/source-hydra-composite.json",
+          "captured_at": "2026-10-07T20:02:02.179Z",
+          "reason": "Original preconstruction Slab selection was artwork before enlarged explanation. Actual large image plus reading cannot be compared solely to320px text semanticsection2. Source gallery is a real preceding sibling, not a crop chosen to fit build.",
+          "viewports": [
+            {
+              "viewport": {
+                "width": 1440,
+                "height": 900
+              },
+              "box": {
+                "x": 0,
+                "top": 1615.78125,
+                "width": 1440,
+                "height": 1282.15625
+              },
+              "art": {
+                "x": 0,
+                "top": 1615.78125,
+                "width": 1440,
+                "height": 962.15625
+              },
+              "reading": {
+                "x": 0,
+                "top": 2577.9375,
+                "width": 1440,
+                "height": 320
+              }
+            },
+            {
+              "viewport": {
+                "width": 1024,
+                "height": 768
+              },
+              "box": {
+                "x": 0,
+                "top": 1628.84375,
+                "width": 1024,
+                "height": 908.296875
+              },
+              "art": {
+                "x": 0,
+                "top": 1628.84375,
+                "width": 1024,
+                "height": 573.296875
+              },
+              "reading": {
+                "x": 0,
+                "top": 2202.140625,
+                "width": 1024,
+                "height": 335
+              }
+            },
+            {
+              "viewport": {
+                "width": 390,
+                "height": 844
+              },
+              "box": {
+                "x": 0,
+                "top": 1530.296875,
+                "width": 390,
+                "height": 686.625
+              },
+              "art": {
+                "x": 0,
+                "top": 1530.296875,
+                "width": 390,
+                "height": 277.03125
+              },
+              "reading": {
+                "x": 0,
+                "top": 1807.328125,
+                "width": 390,
+                "height": 409.59375
+              }
+            }
+          ]
+        }
+      },
+      "company_content": {
+        "copy": [
+          "ci:men.s5.b0",
+          "ci:men.s5.b1",
+          "ci:men.s4.b0",
+          "ci:men.s4.b1"
+        ],
+        "media": [
+          "img:men.leadership"
+        ],
+        "cta": [
+          "cta:men.s4.a0",
+          "cta:men.s4.a1"
+        ]
+      },
+      "content_ids": [
+        "img:men.leadership",
+        "ci:men.s5.b0",
+        "ci:men.s5.b1",
+        "ci:men.s4.b0",
+        "ci:men.s4.b1",
+        "cta:men.s4.a0",
+        "cta:men.s4.a1"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 distinct opening revision; see preconstruction decision in plan.md.",
+        "ground": "navy",
+        "motion": {
+          "mechanism": "Hold / native document progression",
+          "selectors": [],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "All text and actions visible by default",
+          "reverse": "Native flow"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/men.json",
+        "reviewed_at": "2026-10-07T20:09:58.359Z"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    },
+    {
+      "id": "men-calendar",
+      "title": "Men\u2019s Advance",
+      "visitor_task": "Read men\u2019s advance and find its relevant action.",
+      "critical_answer_visible_without_animation": true,
+      "reference_section": {
+        "template": "slab",
+        "route": "/projects/hydra",
+        "dossier": "art-direction/references/deep/slab/hydra-scoped/dossier.md",
+        "landmark": "section-1",
+        "state": "forward-002",
+        "composition": "Quiet left label; narrow right sequential factual entries separated by thin rules. Phone stacks."
+      },
+      "company_content": {
+        "copy": [
+          "ci:men.s2.b0",
+          "ci:men.s2.b1",
+          "ci:men.s6.b0",
+          "ci:men.s6.b1"
+        ],
+        "media": [],
+        "cta": [
+          "cta:men.s6.a0"
+        ]
+      },
+      "content_ids": [
+        "ci:men.s2.b0",
+        "ci:men.s2.b1",
+        "ci:men.s6.b0",
+        "ci:men.s6.b1",
+        "cta:men.s6.a0"
+      ],
+      "reconstruction": {
+        "layout": "2026-10-07 distinct opening revision; see preconstruction decision in plan.md.",
+        "ground": "paper",
+        "motion": {
+          "mechanism": "Hold / native document progression",
+          "selectors": [],
+          "source_settings": "Exact editor settings unknown",
+          "implementation_values": "All text and actions visible by default",
+          "reverse": "Native flow"
+        },
+        "atmosphere": "Locked Royal world: Archivo Black / Albert Sans; ink, navy, cream and pale blue; square imagery, thin rules and actual company material.",
+        "mobile_rewrite": "Use compact time-and-place rows. Long program descriptions flow beside or below bounded images with truthful captions.",
+        "reduced_motion": "All content visible in normal document flow, with no pinning or concealed essential copy."
+      },
+      "deviations": [
+        {
+          "reference": "Reference typography/brand and commercial claims",
+          "conflict": "The church identity and real content differ from the template.",
+          "adaptation": "Apply locked site DNA and exact ledger material while preserving the observed visual relationships.",
+          "test": "Confirm ledger coverage, brand tokens and measured side-by-side proportions."
+        }
+      ],
+      "status": {
+        "covered": true,
+        "observed": true,
+        "reconstructed": true,
+        "fidelity_reviewed": true,
+        "accepted": false
+      },
+      "comparison": null,
+      "reviewer_findings": {
+        "record": "art-direction/qa/fidelity/men.json",
+        "reviewed_at": "2026-10-07T20:09:58.359Z"
+      },
+      "owner_feedback": null,
+      "corrected": null
+    }
+  ],
+  "content_coverage": {
+    "expected": 17,
+    "assigned": 16,
+    "missing": [
+      "img:men.page-men"
+    ]
+  },
+  "deletion_pass": "Do not invent a 32-step journey, meeting locations or program requirements. The 32-week duration belongs to the actual discipleship program.",
+  "implementation_status": "Fidelity-reviewed; owner acceptance not inferred",
+  "unresolved": [
+    "Fresh independent source/composition and motion review pending; no owner acceptance inferred."
+  ],
+  "title": "Men | Kingdom Life",
+  "implementation": {
+    "source": "src/pages/men.html",
+    "css": "src/pages/men.css",
+    "motion": "src/motion/scenes/men.ts",
+    "observed_references": [
+      "art-direction/references/deep/lou-pilot/about/dossier.md#reading-credentials",
+      "art-direction/references/deep/slab/hydra-scoped/dossier.md#section-2",
+      "art-direction/references/deep/slab/hydra-scoped/dossier.md#section-1"
+    ],
+    "values": "See exact per-section reconstruction.motion; old generic opacity observers removed.",
+    "deviation": "Motion is estimated rather than exact editor reconstruction. No invented pairwise axis distinctions. Every element remains visible before script.",
+    "status": "Reconstructed; independent fidelity review pending",
+    "actual_sections": [
+      {
+        "class": [
+          "men-opening"
+        ],
+        "reference_landmark": "reading-credentials"
+      },
+      {
+        "class": [
+          "men-study"
+        ],
+        "reference_landmark": "section-2"
+      },
+      {
+        "class": [
+          "men-calendar",
+          "paper"
+        ],
+        "reference_landmark": "section-1"
+      }
+    ],
+    "full_section_order": [
+      "men-opening",
+      "men-study",
+      "men-calendar"
+    ],
+    "deleted": [
+      "Legacy texture-only source backgrounds omitted where they conflicted with the locked identity; asset files retained.",
+      "No automatic decorative arrows or icon badges."
+    ],
+    "functional_checks": {
+      "viewports": [
+        1440,
+        1024,
+        390
+      ],
+      "artifact": "art-direction/qa/functional-young-adults-youth-kids-women-men-new-leadership-life-groups.json",
+      "result": "24 browser checks clean: no overflow, required ledger omissions, missing loaded images, JS errors, or hidden reduced-motion essentials; menu/Escape functional."
+    }
+  },
+  "motion_contract": {
+    "mechanisms": [
+      "Scroll-triggered once-entered semantic paragraph clarity"
+    ],
+    "essential_content": "All required content and actions render without JS; reduced-motion remains static.",
+    "section_contracts": [
+      {
+        "mechanism": "Scroll-triggered once-entered semantic paragraph clarity",
+        "selectors": [
+          ".men-mission [data-clarity]"
+        ],
+        "source_settings": "Lou held-scroll probe opacity .429\u2192.944\u2192.999\u21921; timed after entry, not reversible; source character splitting intentionally rejected under BodySplitText prohibition",
+        "implementation_values": "Readable .55\u21921 opacity on whole semantic paragraph;1700ms ease-out;threshold .25. No BodySplitText, no character spans.",
+        "reverse": "Completed text stays fully legible on reverse",
+        "reduced_motion": "No animations; full semantic passage and schedules visible"
+      }
+    ],
+    "selectors": [
+      ".men-mission [data-clarity]"
+    ]
+  },
+  "repair": {
+    "date": "2026-10-07",
+    "status": "Second source reconstruction after independent findings; recapture required",
+    "source_decision": "2026-10-07 distinct-opening decision in plan.md",
+    "removed_false_mechanism": "Short scripture heading no longer receives Lou footer blur",
+    "content": "All original IDs retained. Repeated scripture section deleted; exact scripture now serves contextual proof inside task-specific section, not a separate false Lou donor scene.",
+    "author_capture_directory": "/tmp/klcc-ministry-repair"
+  },
+  "scroll_expansion": {
+    "date": "2026-10-07",
+    "owner_request": "Add interactive scrolling beyond the landing page while preserving approved compositions.",
+    "implementation": "src/motion/scenes/men.ts",
+    "runtime": "src/motion/scroll-detail.ts",
+    "evidence": "art-direction/qa/scroll-expansion/",
+    "status": "Independent motion-integration review passed at three widths; exact-reference fidelity remains separate",
+    "adaptation": "Bounded reversible native-scroll detail; distances and thresholds are authored estimates. Existing source-specific chapter sequences retained."
+  }
+}
