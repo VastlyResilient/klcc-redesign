@@ -1,0 +1,310 @@
+{
+  "created": "2026-10-08T03:41:00.476Z",
+  "base": "http://127.0.0.1:4204/preview/",
+  "routes": [
+    {
+      "route": "home",
+      "url": "http://127.0.0.1:4204/preview/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "believe",
+      "url": "http://127.0.0.1:4204/preview/believe/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "weather-procedures",
+      "url": "http://127.0.0.1:4204/preview/weather-procedures/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "easter",
+      "url": "http://127.0.0.1:4204/preview/easter/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "watch-live",
+      "url": "http://127.0.0.1:4204/preview/watch-live/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "new",
+      "url": "http://127.0.0.1:4204/preview/new/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "url": "http://127.0.0.1:4204/preview/our-story/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "leadership",
+      "url": "http://127.0.0.1:4204/preview/leadership/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "mission",
+      "url": "http://127.0.0.1:4204/preview/mission/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "beliefs",
+      "url": "http://127.0.0.1:4204/preview/beliefs/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "pastoral-care",
+      "url": "http://127.0.0.1:4204/preview/pastoral-care/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "life-groups",
+      "url": "http://127.0.0.1:4204/preview/life-groups/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "membership",
+      "url": "http://127.0.0.1:4204/preview/membership/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "prayer",
+      "url": "http://127.0.0.1:4204/preview/prayer/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "serve",
+      "url": "http://127.0.0.1:4204/preview/serve/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "alpha",
+      "url": "http://127.0.0.1:4204/preview/alpha/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "courses",
+      "url": "http://127.0.0.1:4204/preview/courses/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "url": "http://127.0.0.1:4204/preview/kids/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "youth",
+      "url": "http://127.0.0.1:4204/preview/youth/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "young-adults",
+      "url": "http://127.0.0.1:4204/preview/young-adults/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "women",
+      "url": "http://127.0.0.1:4204/preview/women/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "men",
+      "url": "http://127.0.0.1:4204/preview/men/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "calendar",
+      "url": "http://127.0.0.1:4204/preview/calendar/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "previous-messages",
+      "url": "http://127.0.0.1:4204/preview/previous-messages/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "give",
+      "url": "http://127.0.0.1:4204/preview/give/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "app",
+      "url": "http://127.0.0.1:4204/preview/app/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "baptism",
+      "url": "http://127.0.0.1:4204/preview/baptism/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "subsplash-media",
+      "url": "http://127.0.0.1:4204/preview/subsplash-media/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "legal",
+      "url": "http://127.0.0.1:4204/preview/legal/",
+      "status": 200,
+      "pass": true
+    },
+    {
+      "route": "404",
+      "url": "http://127.0.0.1:4204/preview/404/",
+      "status": 200,
+      "pass": true
+    }
+  ],
+  "browserChecks": [
+    {
+      "route": "home",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "women",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "men",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "give",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "width": 1440,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "home",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "kids",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "women",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "men",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "give",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    },
+    {
+      "route": "our-story",
+      "width": 390,
+      "overflow": false,
+      "broken": [],
+      "main": true,
+      "internalEscapes": [],
+      "errors": [],
+      "pass": true
+    }
+  ],
+  "pass": true,
+  "limits": "Desktop/mobile Chromium browser checks, not physical-phone testing. No payment or form submission."
+}
