@@ -1,4 +1,5 @@
 import {scrollDetail} from '../scroll-detail.js';
+import {brightedgeSequence} from '../brightedge-sequence.js';
 // Observed first-entry clarity, reconstructed timing. Essential copy stays readable.
 const reduced=matchMedia('(prefers-reduced-motion: reduce)');
 if(!reduced.matches&&!document.body.classList.contains('motion-reduced')){
@@ -8,5 +9,5 @@ if(!reduced.matches&&!document.body.classList.contains('motion-reduced')){
 
 // Native-scroll detail: Slab continuation adapted to this page’s semantic reading/media roles.
 // Reverse follows position; these distances/thresholds are authored estimates, not Framer editor settings.
-scrollDetail({"id": "alpha-questions-arrival", "selector": ".alpha-brief-copy article:nth-child(-n+2)", "kind": "rise", "distance": 28, "start": 0.94, "end": 0.32, "stagger": 0.065});
+brightedgeSequence({id:'alpha-conversation',root:'.alpha-brief-copy',items:'article',axis:'horizontal',distance:23,interval:.075});
 scrollDetail({"id": "alpha-film-imagery", "selector": ".alpha-film-link img", "kind": "image", "distance": 20, "start": 0.94, "end": 0.32, "stagger": 0.065});

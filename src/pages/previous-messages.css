@@ -6,3 +6,8 @@
 .archive-library{grid-template-columns:34% 58%;gap:8%;align-items:start}.archive-library h2{font-size:22px;line-height:1.4;letter-spacing:0;max-width:21ch;margin-top:24px}.archive-library p:not(.eyebrow){font-size:24px;line-height:1.5;max-width:43ch}@media(max-width:700px){.archive-library h2{font-size:22px}.archive-library p:not(.eyebrow){font-size:22px}}
 /* Keep archive actions distinct as the reading section enters. */
 .archive-library>div:last-child{display:flex;flex-direction:column;align-items:flex-start;gap:18px}.archive-library .button{margin:8px 0 0}
+/* Brightedge project-card response, restrained for a message archive. */
+.archive-message img{transition:transform .38s cubic-bezier(.22,.7,.25,1),filter .38s ease;transform-origin:center}
+.archive-message:hover img,.archive-message:focus-within img{transform:scale(1.012);filter:brightness(1.07)}
+.archive-message a:focus-visible{outline:2px solid var(--ice);outline-offset:6px}
+@media(prefers-reduced-motion:reduce){.archive-message img{transition:none}.archive-message:hover img,.archive-message:focus-within img{transform:none}}

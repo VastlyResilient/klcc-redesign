@@ -1,4 +1,5 @@
 import {scrollDetail} from '../scroll-detail.js';
+import {brightedgeSequence} from '../brightedge-sequence.js';
 const reduced=()=>matchMedia('(prefers-reduced-motion: reduce)').matches||document.body.classList.contains('motion-reduced');
 const active=new Set<Animation>();
 // Once-entered opacity .65 to 1, 1100ms ease-out; threshold .15. Native flow; no pin, chapter exchange, or reversible filter.
@@ -10,4 +11,4 @@ addEventListener('klcc-motion-change',()=>{if(reduced()){active.forEach(a=>a.can
 // Native-scroll detail: Slab continuation adapted to this page’s semantic reading/media roles.
 // Reverse follows position; these distances/thresholds are authored estimates, not Framer editor settings.
 scrollDetail({"id": "groups-community-continuation", "selector": "#groups-photo figure", "kind": "image", "distance": 44, "start": 0.94, "end": 0.32, "stagger": 0.065});
-scrollDetail({"id": "groups-reading-rows", "selector": ".group-rows article", "kind": "rise", "distance": 24, "start": 0.94, "end": 0.32, "stagger": 0.065});
+brightedgeSequence({id:'group-directory',root:'.group-rows',items:'article',axis:'vertical',distance:19,interval:.02});

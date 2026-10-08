@@ -21,3 +21,7 @@
 
 /* Tablet heading size from the measured opening source. */
 @media(min-width:701px) and (max-width:1100px){.groups-opening h1{font-size:38.4px}}
+/* The directory remains a reading surface; its rule marks the current item. */
+.group-rows article{position:relative;transition:border-color .32s ease}
+.group-rows article:hover,.group-rows article:focus-within{border-color:var(--ice)}
+.group-rows article:focus-within{outline:1px solid var(--ice);outline-offset:6px}

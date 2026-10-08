@@ -76,3 +76,9 @@ Proposed only. In the complete-build revision, parents received immediate check-
 ## P-012 — Visible interaction beyond the homepage (pending; skills unchanged)
 
 The owner liked the revised inner-page compositions but found their motion too static. A timed entrance can technically animate yet fail the intended scroll-interactive experience. Choose meaningful supporting material per visitor task, map actual scroll positions to bounded movement, and verify reverse traversal. Preserve forms, playback, schedules and urgent actions. Never layer a new scroll controller over an old opacity animation on the same element. Derive sticky-child progress from a stable normal-flow landmark, or it may stop progressing when its container pins. Source settings and adaptations must remain distinguishable; carry this reasoning, not the same motion recipe, to future sites.
+
+## P-013 — Verify reference motion across breakpoints before transferring it (pending; skills unchanged)
+
+Proposed only. Treat a public preview and its editor as different evidence. Record each chosen sequence's trigger, entrance, hold, exit, reverse behavior, hover/focus treatment, and mobile rewrite at matching landmarks; label exact editor values separately from measured browser values and authored adaptations. Reconstruct the *relationship* that serves the visitor task, such as a desktop sticky visual beside flowing steps that becomes normal reading flow on a phone. Compare forward and reverse states at all target widths. Leave essential controls available at all times. After motion work, check the entire header and neighboring surfaces for contrast and horizontal overflow, since a locally successful sequence can still damage the page around it.
+
+Evidence: `art-direction/references/brightedge-deep-2026-10-08/experience.md`, `art-direction/references/brightedge-deep-2026-10-08/klcc-qa/results.json`, and independent visual review of seven affected routes.

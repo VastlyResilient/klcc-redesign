@@ -10,3 +10,28 @@
 .member-steps article:first-child img{object-position:20% center}
 /* Caption contrast: feathered top scene grade, no separate caption panel. */
 @media(max-width:900px) and (min-height:680px){.exchange-ready .member-steps figure:after{inset:0;background:linear-gradient(to bottom,rgba(16,28,42,.9) 0,rgba(16,28,42,.82) 44px,transparent 170px),linear-gradient(to bottom,transparent 25%,#101c2ac9 66%,#101c2a 100%)}}
+
+/* Brightedge process study: a sticky documentary frame and a continuously advancing
+   sequence. Unlike the previous slide exchange, every chapter remains in document flow. */
+.member-journey{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:clamp(38px,7vw,120px);align-items:start;padding-top:75px;padding-bottom:110px}
+.member-visual{position:sticky;top:125px;height:min(69svh,680px);min-height:440px;overflow:hidden;border-radius:4px}
+.member-visual-stack,.member-visual-stack img{position:absolute;inset:0;width:100%;height:100%}
+.member-visual-stack img{object-fit:cover;opacity:0;transform:scale(1.025);transition:opacity .55s cubic-bezier(.22,.7,.25,1),transform .85s cubic-bezier(.22,.7,.25,1)}
+.member-visual-stack img.is-current{opacity:1;transform:scale(1)}
+.member-visual:after{content:"";position:absolute;inset:55% 0 0;background:linear-gradient(transparent,#101c2a9a);pointer-events:none}
+.member-visual-caption{position:absolute;z-index:1;left:24px;bottom:22px;font-size:13px;letter-spacing:.06em}
+.member-steps{position:relative;padding-left:38px}
+.member-steps:before,.member-steps:after{content:"";position:absolute;top:10px;left:8px;width:1px;pointer-events:none}
+.member-steps:before{height:calc(100% - 20px);background:#ffffff42}
+.member-steps:after{height:calc((100% - 20px)*var(--journey-progress,0));background:var(--ice);transition:height .08s linear}
+.member-steps article{position:relative;display:block;min-height:61svh;padding:22px 0 55px;align-content:center;border:0}
+.member-steps article:last-child{min-height:45svh}
+.member-steps article:before{content:"";position:absolute;z-index:1;left:-37px;top:calc(50% - 7px);width:14px;height:14px;border:1px solid #ffffffa0;border-radius:50%;background:var(--ink);transform:scale(.75);transition:background .3s ease,transform .3s ease,border-color .3s ease}
+.member-steps article.is-current:before{background:var(--ice);border-color:var(--ice);transform:scale(1)}
+.member-chapter-copy{max-width:48ch;padding-right:0;transform:translateY(calc((1 - var(--step-progress,1))*24px));opacity:calc(.72 + var(--step-progress,1)*.28);transition:color .3s ease}
+.member-chapter-copy h2{font-size:clamp(30px,3vw,48px);text-transform:none;letter-spacing:-.035em}
+.member-chapter-copy>p:last-child{max-width:43ch;line-height:1.6}
+.member-steps figure{display:none}
+@media(max-width:900px){.member-journey{display:block;padding-top:30px;padding-bottom:75px}.member-visual{display:none}.member-steps{padding-left:30px}.member-steps article,.member-steps article:last-child{min-height:0;margin-bottom:0;padding:30px 0 45px;display:flex;flex-direction:column}.member-steps article:before{left:-29px;top:50px;width:11px;height:11px}.member-steps figure{display:block;order:-1;width:100%;height:clamp(220px,44svh,420px);margin-bottom:25px}.member-steps figure img{object-fit:cover}.member-chapter-copy{max-width:60ch}.member-chapter-copy h2{font-size:clamp(27px,5vw,38px)}.member-steps:before,.member-steps:after{left:6px}}
+@media(prefers-reduced-motion:reduce){.member-visual-stack img{transition:none}.member-chapter-copy{transform:none;opacity:1}.member-steps:after{transition:none}}
+body.motion-reduced .member-visual-stack img{transition:none}body.motion-reduced .member-chapter-copy{transform:none;opacity:1}
