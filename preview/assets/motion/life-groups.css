@@ -11,6 +11,13 @@
   .site-header{background:rgba(9,33,60,calc(var(--glass-strength)*.44));backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25);-webkit-backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25)}
 }
 @media(max-width:700px){.site-header{padding-block:calc(16px - var(--glass-strength)*6px)}}
+
+/* Reference-backed, bounded typography motion. The HTML stays readable without JS. */
+.klcc-text-word{display:inline-block;vertical-align:baseline}
+.klcc-text-copy{display:block}
+.eyebrow[style*="--text-index-progress"]{letter-spacing:calc(.14em + var(--text-index-progress)*.035em)}
+@media(prefers-reduced-motion:reduce){.klcc-text-word,.klcc-text-copy{opacity:1!important;transform:none!important}}
+body.motion-reduced .klcc-text-word,body.motion-reduced .klcc-text-copy{opacity:1!important;transform:none!important}
 /* Route-owned composition: life-groups; Royal anchor, Lou reading and Slab image-entry donors. */
 .life-groups-page{padding-top:140px;overflow:clip}.life-groups-page section{padding:80px var(--edge)}.life-groups-page .eyebrow{color:var(--ice);margin-bottom:24px}.life-groups-page h1{font-size:clamp(42px,6.6vw,94px);max-width:16ch;line-height:.98;letter-spacing:-.045em}.life-groups-page h2{max-width:22ch}.life-groups-page figcaption{font-size:12px;line-height:1.5;color:var(--ice);margin-top:12px}.life-groups-page .actions{display:flex;flex-wrap:wrap;gap:20px 32px;margin-top:26px}.life-groups-page .scripture{padding:110px var(--edge);background:var(--navy)}.life-groups-page .scripture h2{font-size:clamp(30px,4.8vw,66px);max-width:24ch;margin-left:24%;margin-bottom:32px}.life-groups-page .scripture p{margin-left:24%;max-width:52ch;color:var(--ice)}.life-groups-page .paper{background:var(--paper);color:var(--ink)}.life-groups-page .paper .eyebrow,.life-groups-page .paper figcaption{color:#43596c}.life-groups-page .paper .button{background:var(--ink);color:var(--paper)}.life-groups-page .rule{border-top:1px solid #ffffff35;padding-top:25px}.life-groups-page details{border-top:1px solid currentColor;padding:20px 0}.life-groups-page summary{cursor:pointer;font-weight:600}.life-groups-page details p{margin-top:20px}
 @media(max-width:700px){.life-groups-page{padding-top:110px}.life-groups-page section{padding:55px var(--edge)}.life-groups-page h1{font-size:44px}.life-groups-page .scripture{padding:70px var(--edge)}.life-groups-page .scripture h2,.life-groups-page .scripture p{margin-left:0}}

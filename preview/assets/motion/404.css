@@ -11,4 +11,11 @@
   .site-header{background:rgba(9,33,60,calc(var(--glass-strength)*.44));backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25);-webkit-backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25)}
 }
 @media(max-width:700px){.site-header{padding-block:calc(16px - var(--glass-strength)*6px)}}
+
+/* Reference-backed, bounded typography motion. The HTML stays readable without JS. */
+.klcc-text-word{display:inline-block;vertical-align:baseline}
+.klcc-text-copy{display:block}
+.eyebrow[style*="--text-index-progress"]{letter-spacing:calc(.14em + var(--text-index-progress)*.035em)}
+@media(prefers-reduced-motion:reduce){.klcc-text-word,.klcc-text-copy{opacity:1!important;transform:none!important}}
+body.motion-reduced .klcc-text-word,body.motion-reduced .klcc-text-copy{opacity:1!important;transform:none!important}
 .missing-route{padding:155px var(--edge) 75px;min-height:85svh;display:grid;grid-template-columns:55% 37%;gap:20px 8%;align-items:center}.missing-route>.eyebrow{grid-column:1/-1;align-self:end}.missing-route h1{font-size:clamp(120px,25vw,370px);line-height:.9;letter-spacing:-.07em;color:var(--ice)}.missing-route h2{font-size:40px;margin-bottom:24px}.missing-route p{max-width:33ch}.missing-route .button{margin-top:30px}.missing-help{background:var(--paper);color:var(--ink);padding:60px var(--edge);display:flex;gap:35px;justify-content:space-between;flex-wrap:wrap}.missing-help a{font-size:22px;font-weight:500}@media(max-width:700px){.missing-route{display:block;padding-top:140px}.missing-route h1{font-size:43vw;margin:30px 0 35px}.missing-route h2{font-size:34px}.missing-help{display:grid;grid-template-columns:1fr;gap:25px;padding:50px var(--edge)}}

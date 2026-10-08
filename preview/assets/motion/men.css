@@ -11,6 +11,13 @@
   .site-header{background:rgba(9,33,60,calc(var(--glass-strength)*.44));backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25);-webkit-backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25)}
 }
 @media(max-width:700px){.site-header{padding-block:calc(16px - var(--glass-strength)*6px)}}
+
+/* Reference-backed, bounded typography motion. The HTML stays readable without JS. */
+.klcc-text-word{display:inline-block;vertical-align:baseline}
+.klcc-text-copy{display:block}
+.eyebrow[style*="--text-index-progress"]{letter-spacing:calc(.14em + var(--text-index-progress)*.035em)}
+@media(prefers-reduced-motion:reduce){.klcc-text-word,.klcc-text-copy{opacity:1!important;transform:none!important}}
+body.motion-reduced .klcc-text-word,body.motion-reduced .klcc-text-copy{opacity:1!important;transform:none!important}
 /* Lou reading-and-credentials opening; Slab artwork/study and factual calendar. */
 .men-page{padding-top:155px;overflow:clip}.men-page section{padding:55px var(--edge) 90px}.men-page .eyebrow{font-size:12px;letter-spacing:.12em;color:var(--ice);margin-bottom:24px}.men-page h1{font:600 40px/1.1 'Albert Sans',sans-serif;letter-spacing:-.04em;margin-bottom:42px}.men-page h1 br{display:none}.men-page figcaption{font-size:12px;line-height:1.5;color:var(--ice);margin-top:12px}.men-page .actions{display:flex;flex-wrap:wrap;gap:20px 30px;margin-top:30px}
 .men-page .men-opening{max-width:880px;padding-left:0;padding-right:0;margin:0 auto}.men-mission{font:600 40px/1.1 'Albert Sans',sans-serif;letter-spacing:-.04em}.men-rhythm{display:grid;grid-template-columns:1fr 1fr;gap:38px 60px;margin-top:65px}.men-rhythm article{border-top:1px solid #ffffff40;padding-top:24px}.men-rhythm h3{font-size:20px;line-height:1.3;margin-bottom:16px}.men-rhythm p{font-size:17px;line-height:1.6}.men-rhythm .meeting{font-weight:600;color:var(--ice);margin-bottom:16px}.men-rhythm article:nth-child(3){grid-column:1/-1;max-width:65ch}.men-rhythm>.text-link{width:fit-content;align-self:start}

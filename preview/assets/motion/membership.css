@@ -11,6 +11,13 @@
   .site-header{background:rgba(9,33,60,calc(var(--glass-strength)*.44));backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25);-webkit-backdrop-filter:blur(calc(var(--glass-strength)*18px)) saturate(1.25)}
 }
 @media(max-width:700px){.site-header{padding-block:calc(16px - var(--glass-strength)*6px)}}
+
+/* Reference-backed, bounded typography motion. The HTML stays readable without JS. */
+.klcc-text-word{display:inline-block;vertical-align:baseline}
+.klcc-text-copy{display:block}
+.eyebrow[style*="--text-index-progress"]{letter-spacing:calc(.14em + var(--text-index-progress)*.035em)}
+@media(prefers-reduced-motion:reduce){.klcc-text-word,.klcc-text-copy{opacity:1!important;transform:none!important}}
+body.motion-reduced .klcc-text-word,body.motion-reduced .klcc-text-copy{opacity:1!important;transform:none!important}
 /* Royal/about: compact invitation followed by synchronized copy + documentary frame. */
 .membership-page{color:var(--paper)}.member-intro{padding:160px var(--edge) 100px}.member-intro h1{font-size:50px;line-height:1.1;max-width:20ch;margin:28px 0 60px}.member-summary{display:grid;grid-template-columns:1fr 1fr;gap:12vw}.member-summary>p{max-width:46ch}.member-summary aside{border-top:1px solid #ffffff55;padding-top:24px}.member-summary h2{font-size:27px;font-weight:500;max-width:27ch}.member-summary .text-link{margin-top:16px}.member-journey{padding:0 var(--edge) 70px}.member-steps article{display:grid;grid-template-columns:40% 56%;gap:4%;min-height:calc(100svh - 110px);align-items:center;padding:30px 0}.member-chapter-copy{max-width:38ch;padding-right:35px}.member-chapter-copy .eyebrow{margin-bottom:16px}.member-chapter-copy h2{font-size:36px;font-weight:500;line-height:1.1;text-transform:uppercase;margin-bottom:22px}.member-chapter-copy>p:last-child{font-size:18px}.member-steps figure{height:calc(100svh - 145px);position:relative}.member-steps img{height:100%;width:100%;object-fit:cover}.member-steps figcaption{position:absolute;bottom:16px;left:20px;right:20px;font-size:12px;text-shadow:0 1px 8px #000}.member-steps figure:after{content:'';position:absolute;inset:65% 0 0;background:linear-gradient(transparent,#0009);pointer-events:none}.member-steps figcaption{z-index:1}
 @media(min-width:901px){.member-journey.exchange-ready{height:340svh;padding-bottom:0}.exchange-ready .member-steps{position:sticky;top:95px;height:calc(100svh - 110px)}.exchange-ready .member-steps article{position:absolute;inset:0;opacity:0;pointer-events:none;transition:opacity .45s ease;min-height:0;padding:0}.exchange-ready .member-steps article.is-current{opacity:1;pointer-events:auto}.exchange-ready .member-steps figure{height:calc(100svh - 120px)}}
