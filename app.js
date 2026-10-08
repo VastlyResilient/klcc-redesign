@@ -335,7 +335,7 @@ function activate(){
   function update(){
     raf=0;
     const siteHeader=document.getElementById('siteHeader');
-    siteHeader.classList.toggle('is-glass',travel.getBoundingClientRect().bottom<=siteHeader.offsetHeight);
+    siteHeader.classList.toggle('is-glass',travel.getBoundingClientRect().bottom<=siteHeader.offsetHeight+140);
     const h=Math.max(1,travel.offsetHeight-innerHeight);
     const raw=Math.max(0,Math.min(1,-travel.getBoundingClientRect().top/h));
     const p=matchMedia('(prefers-reduced-motion: reduce)').matches?1:raw;
