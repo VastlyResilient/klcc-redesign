@@ -344,7 +344,7 @@ function activate(){
     const glassStrength=Math.max(0,Math.min(1,(430-travel.getBoundingClientRect().bottom)/350));
     siteHeader.style.setProperty('--glass-strength',glassStrength.toFixed(3));
     siteHeader.classList.toggle('is-glass',glassStrength>.01);
-    const leaving=Math.max(0,Math.min(1,(innerHeight-travel.getBoundingClientRect().bottom)/260));
+    const leaving=Math.max(0,Math.min(1,(innerHeight+200-travel.getBoundingClientRect().bottom)/300));
     stage.style.setProperty('--copy-exit',(1-leaving).toFixed(3));
     const h=Math.max(1,travel.offsetHeight-innerHeight);
     const raw=Math.max(0,Math.min(1,-travel.getBoundingClientRect().top/h));
