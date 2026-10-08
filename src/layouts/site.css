@@ -3,3 +3,11 @@
 /* Owner-requested transparent navigation: no painted header panel. */
 .site-header .brand img{filter:brightness(0) invert(1)}
 .site-header .quick-nav a[aria-current],.site-header .menu-toggle:hover{color:inherit}
+
+/* Persistent navigation: transparent at the opening, frosted once content begins. */
+.site-header{position:fixed;transition:padding .4s cubic-bezier(.2,.7,.2,1),background-color .35s,border-color .35s,box-shadow .35s}
+.site-header.is-glass{mix-blend-mode:normal;inset:10px 2.5% auto;width:95%;border:1px solid #ffffff4d;border-radius:18px;background:rgba(16,28,42,.92);box-shadow:0 14px 42px #08101c2e;color:#fff}
+@supports (backdrop-filter:blur(1px)){
+  .site-header.is-glass{background:rgba(16,28,42,.70);backdrop-filter:blur(18px) saturate(1.25);-webkit-backdrop-filter:blur(18px) saturate(1.25)}
+}
+@media(max-width:700px){.site-header.is-glass{inset:8px 12px auto;width:calc(100% - 24px)}}
