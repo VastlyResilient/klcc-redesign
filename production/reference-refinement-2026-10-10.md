@@ -15,6 +15,10 @@ These four routes are a bounded correction to the reported gap, not a claim that
 
 Independent review at 1440×900 and 390×844 found no persistent clipping, contrast, alignment, or overflow failures on these four routes. The phone menu and Kids check-in link were exercised. The reviewer found one incorrect generic Youth contact subject inherited from the younger age-band link; it was changed to “Elevate Youth Ministry” before release. Screenshots and details are recorded in `output/playwright/fresh-four-route-review.md`.
 
+The four-route preview release is GitHub Pages commit `175b44e` on `main`, with source branch commit `5b26575`. The Pages deployment finished successfully. The public Life Groups opening, cream introduction, active group index and source media were visually verified after deployment; public HTML and stylesheet loads were checked for all four routes. The production root and homepage film were not changed by this preview release.
+
+The local link audit wrote 1,287 checks with no errors. The route-wide motion audit exited successfully after 90 desktop/tablet/phone cases across 30 routes and recorded zero hidden essential elements. This tests rendered state and mechanics, while the independent screenshot review above judges visual quality; neither is a claim that every remaining route has received a new composition.
+
 The approved homepage film, church identity, navigation, and source material remain the baseline. The new 118-reference pass is a selection library, not a mandate to put all reference features on every page. The two changes below solve observed visitor problems on the published preview: the message page begins with one oversized artwork before its archive becomes browsable, and the beliefs page presents nine substantial statements as one long undifferentiated run.
 
 | KLCC section | Actual material and visitor task | Observed reference move | Adaptation and evidence boundary |
