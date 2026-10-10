@@ -13,6 +13,8 @@ The owner found that pages beyond the opening still felt unchanged. The next fou
 
 These four routes are a bounded correction to the reported gap, not a claim that all 27 inner pages have been redesigned in this pass. The remaining routes retain their prior implementation until they receive the same route-by-route visual review.
 
+Independent review at 1440×900 and 390×844 found no persistent clipping, contrast, alignment, or overflow failures on these four routes. The phone menu and Kids check-in link were exercised. The reviewer found one incorrect generic Youth contact subject inherited from the younger age-band link; it was changed to “Elevate Youth Ministry” before release. Screenshots and details are recorded in `output/playwright/fresh-four-route-review.md`.
+
 The approved homepage film, church identity, navigation, and source material remain the baseline. The new 118-reference pass is a selection library, not a mandate to put all reference features on every page. The two changes below solve observed visitor problems on the published preview: the message page begins with one oversized artwork before its archive becomes browsable, and the beliefs page presents nine substantial statements as one long undifferentiated run.
 
 | KLCC section | Actual material and visitor task | Observed reference move | Adaptation and evidence boundary |
