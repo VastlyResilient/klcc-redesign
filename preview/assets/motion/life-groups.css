@@ -48,3 +48,35 @@ body.motion-reduced .klcc-text-word,body.motion-reduced .klcc-text-copy{opacity:
 .group-rows article{position:relative;transition:border-color .32s ease}
 .group-rows article:hover,.group-rows article:focus-within{border-color:var(--ice)}
 .group-rows article:focus-within{outline:1px solid var(--ice);outline-offset:6px}
+
+/* Editorial group journey: the original artwork, a calm invitation, then a
+   readable directory. Atlas Studio's open index and Coorda's held orientation
+   are adapted to KLCC's own material rather than copied as template chrome. */
+.life-groups-page .groups-opening{display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,.8fr);align-items:center;gap:clamp(40px,8vw,130px);min-height:calc(100svh - 140px);padding-block:clamp(55px,8vw,120px)}
+.life-groups-page .groups-opening>div{display:block;grid-column:1;grid-row:1}
+.life-groups-page .groups-opening>figure{grid-column:2;grid-row:1;width:min(100%,550px);margin:0;justify-self:center}
+.life-groups-page .groups-opening>figure img{display:block;width:100%;height:auto;object-fit:contain}
+.life-groups-page .groups-opening h1{font-size:clamp(52px,6.8vw,102px);line-height:.98;letter-spacing:-.055em;max-width:10ch;margin:28px 0}
+.life-groups-page .groups-opening .groups-practical{max-width:20ch;font-size:18px;line-height:1.5;border-top:1px solid currentColor;padding-top:20px;margin-top:48px;color:var(--ice)}
+.life-groups-page .groups-introduction{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:clamp(40px,8vw,140px);align-items:start;background:var(--paper)!important;color:var(--ink)!important;padding-block:clamp(90px,12vw,190px)}
+.life-groups-page .groups-introduction .eyebrow{color:#52677b!important}
+.life-groups-page .groups-introduction>div:first-child h2{font:600 clamp(42px,5.6vw,82px)/1.02 'Albert Sans',sans-serif;letter-spacing:-.05em;max-width:11ch}
+.life-groups-page .groups-introduction>div:last-child>p{font-size:clamp(20px,2vw,27px);line-height:1.4;max-width:34ch;letter-spacing:-.015em}
+.life-groups-page .groups-introduction .context-scripture{margin-top:clamp(70px,10vw,150px);border-color:#10223a55;max-width:35ch}
+.life-groups-page .groups-introduction .group-register{margin-top:clamp(70px,10vw,140px);border-color:#10223a55;max-width:34ch}
+.life-groups-page .groups-introduction .button{background:var(--ink)!important;color:var(--paper)!important}
+.life-groups-page #groups-directory{display:grid;grid-template-columns:minmax(230px,.8fr) minmax(0,1.2fr);gap:clamp(40px,8vw,140px);background:var(--navy);color:var(--paper);padding-block:clamp(95px,12vw,170px)}
+.life-groups-page #groups-directory>h2{position:sticky;top:130px;font:600 clamp(32px,3.5vw,54px)/1.08 'Albert Sans',sans-serif;letter-spacing:-.04em;max-width:13ch;margin:0}
+.life-groups-page #groups-directory .group-rows{max-width:none;counter-reset:group}
+.life-groups-page .group-rows article{counter-increment:group;display:grid;grid-template-columns:3.5ch minmax(0,1fr);column-gap:24px;min-height:170px;align-content:center;border-top:1px solid #e8edf44d;padding:22px 0 38px;transition:border-color .4s,opacity .4s;opacity:.72}
+.life-groups-page .group-rows article::before{content:counter(group,decimal-leading-zero);grid-column:1;grid-row:1;color:var(--ice);font-size:13px;letter-spacing:.12em;padding-top:9px}
+.life-groups-page .group-rows article h3{grid-column:2;grid-row:1;font-size:clamp(26px,3vw,43px);line-height:1.12;margin:0;text-transform:capitalize;letter-spacing:-.035em}
+.life-groups-page .group-rows article p{grid-column:2;font-size:16px;line-height:1.55;max-width:49ch;margin:14px 0 0}
+.life-groups-page .group-rows article.is-current,.life-groups-page .group-rows article:hover,.life-groups-page .group-rows article:focus-within{opacity:1;border-color:var(--ice)}
+.life-groups-page .groups-photo{padding:0!important;position:relative;overflow:hidden}
+.life-groups-page .groups-photo figure{margin:0}
+.life-groups-page .groups-photo img{display:block;width:100%;height:clamp(420px,65vw,850px);object-fit:cover;object-position:center}
+.life-groups-page .groups-photo figcaption{position:absolute;left:var(--edge);bottom:22px;color:#fff;text-shadow:0 1px 8px #000}
+@media(max-width:900px){.life-groups-page .groups-opening{display:flex;flex-direction:column-reverse;min-height:0;gap:42px;padding-block:55px 85px}.life-groups-page .groups-opening>figure{width:min(100%,460px)}.life-groups-page .groups-opening>div{width:100%}.life-groups-page .groups-opening h1{font-size:clamp(44px,11vw,70px)}.life-groups-page .groups-opening .groups-practical{margin-top:35px}.life-groups-page .groups-introduction,#groups-directory.life-groups-directory,.life-groups-page #groups-directory{display:block;padding-block:80px}.life-groups-page .groups-introduction .context-scripture{margin-top:75px}.life-groups-page .groups-introduction .group-register{margin-top:75px}.life-groups-page #groups-directory>h2{position:static;margin-bottom:50px;font-size:35px}.life-groups-page .group-rows article{min-height:0;padding:25px 0 35px;opacity:1}.life-groups-page .group-rows article h3{font-size:28px}.life-groups-page .group-rows article p{font-size:15px}.life-groups-page .groups-photo img{height:420px}}
+@media(prefers-reduced-motion:reduce){.life-groups-page .group-rows article{opacity:1!important;transition:none!important}}
+body.motion-reduced .life-groups-page .group-rows article{opacity:1!important;transition:none!important}

@@ -29,3 +29,26 @@ body.motion-reduced .klcc-text-word,body.motion-reduced .klcc-text-copy{opacity:
 @media(max-width:700px){.kids-page{padding-top:110px}.kids-page section{padding:35px var(--edge) 60px}.kids-opening{display:block}.kids-page h1{font-size:32px}.kids-arrival-facts{margin-top:32px}.kids-arrival-facts strong{font-size:23px}.kids-learning{padding-top:45px}.kids-intro p{font-size:19px}.orientation-photo{margin-top:28px}.kids-next-title{min-height:0;padding:65px 0 38px}.kids-next-title h2{font-size:32px}.kids-next-art figure{transform:none}.kids-team-reading{display:flex;flex-direction:column-reverse;gap:40px;padding-top:32px}.kids-team-reading>div>p{font-size:21px}}
 @media(prefers-reduced-motion:reduce){.kids-next-art figure{transform:none!important;will-change:auto}}body.motion-reduced .kids-next-art figure{transform:none!important;will-change:auto}
 .kids-next-title{align-items:center}.kids-next-title>.eyebrow{max-width:none;width:100%}
+
+/* Parent-first opening: usable ages and arrival time lead, followed by a
+   real view of the Cathedral. The volunteer chapter remains its own scene. */
+.kids-page{padding-top:0}
+.kids-page .kids-opening{background:var(--paper);color:var(--ink);display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,.95fr);gap:clamp(44px,8vw,135px);padding-top:clamp(180px,17vw,260px);padding-bottom:clamp(80px,10vw,150px)}
+.kids-page .kids-opening .eyebrow,.kids-page .kids-opening figcaption{color:#496074}
+.kids-page .kids-arrival h1{font-size:clamp(46px,5.6vw,82px);line-height:1.02;letter-spacing:-.05em;max-width:12ch}
+.kids-page .kids-arrival-facts{display:grid;grid-template-columns:1fr 1fr;gap:25px;margin:clamp(55px,7vw,105px) 0 32px}
+.kids-page .kids-arrival-facts p{border-top:1px solid #10243b66;padding-top:19px;margin:0}
+.kids-page .kids-arrival-facts span{color:#496074}
+.kids-page .kids-arrival-facts strong{font-size:clamp(19px,2vw,28px);max-width:14ch}
+.kids-page .kids-arrival .text-link{color:var(--ink)}
+.kids-page .kids-learning{padding:0;align-self:center}
+.kids-page .kids-intro p{font-size:clamp(18px,1.6vw,22px);line-height:1.55;max-width:38ch}
+.kids-page .orientation-photo{max-width:none;margin-top:45px;overflow:hidden}
+.kids-page .orientation-photo img{display:block;aspect-ratio:1.42;object-fit:cover;clip-path:inset(0 var(--campus-reveal,0%) 0 0)}
+.kids-page .kids-team{padding-top:clamp(80px,10vw,150px)}
+.kids-page .kids-next-title{min-height:0;padding:0 0 65px;align-items:start;text-align:left}
+.kids-page .kids-next-title h2{max-width:18ch;font-size:clamp(40px,5vw,72px)}
+@media(max-width:850px){.kids-page .kids-opening{display:block;padding-top:145px;padding-bottom:85px}.kids-page .kids-arrival h1{font-size:clamp(40px,8vw,64px)}.kids-page .kids-arrival-facts{margin-top:55px}.kids-page .kids-learning{margin-top:75px}.kids-page .orientation-photo img{aspect-ratio:1.5}.kids-page .kids-next-title h2{font-size:38px}}
+@media(max-width:550px){.kids-page .kids-arrival-facts{grid-template-columns:1fr;gap:25px}.kids-page .kids-learning{margin-top:60px}.kids-page .kids-next-title h2{font-size:34px}}
+@media(prefers-reduced-motion:reduce){.kids-page .orientation-photo img{clip-path:none!important}}
+body.motion-reduced .kids-page .orientation-photo img{clip-path:none!important}
