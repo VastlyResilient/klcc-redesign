@@ -13,3 +13,10 @@ The approved homepage film, church identity, navigation, and source material rem
 - Preserve all nine doctrine statements and their meaning; repair the two existing sentence fragments. Index labels are editorial organization, not new theological claims. Direct anchors, reverse scrolling, no-JS content, and reduced motion remain usable.
 - At 1440, 768, and 390 pixels, check opening, middle, bottom, focus, selected state, slow/fast/reverse scroll and neighboring page navigation. The homepage film and header remain unchanged.
 - Compare resulting screenshots at matching viewport widths with the selected reference notes, then judge KLCC's own identity and content rather than copying the templates' fonts, colors, or artwork.
+
+## Review and release evidence
+
+- The build gate passed for both authored routes (G4: 2 pass, 0 fail, 0 blocked). HTML structure checks found one main and one H1 per page, with no duplicate IDs.
+- The local link audit wrote 1,287 checks with zero recorded errors. The motion audit wrote 90 desktop/tablet/phone route cases across 30 routes with zero hidden essential elements. Both scripts retained browser handles after writing their complete reports and were manually stopped, so their process exit codes are not pass signals. The resilience script exited normally and recorded its lab checks; physical phones were not tested.
+- A fresh reviewer checked both pages at 1280, 768, and 390 pixels plus the homepage opening. Three Beliefs findings—an unbranded browser title, two sentence fragments, and hidden phone chapter links—were fixed and independently rechecked at 390 pixels. The reviewer found no horizontal overflow or broken local navigation in the reviewed states.
+- The public GitHub Pages deployment at commit `118f92f` was checked after Actions completed: the message selector updates the real artwork, title, date/speaker, selected state, and verified Subsplash URL together; the Beliefs route has nine statements, three navigable chapters, a branded title, and a working phone chapter anchor. The production homepage and all other preview routes were left unchanged by the publication commit.
