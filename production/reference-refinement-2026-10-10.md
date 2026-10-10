@@ -1,5 +1,18 @@
 # KLCC reference refinement — 2026-10-10
 
+## Additional inner-page correction
+
+The owner found that pages beyond the opening still felt unchanged. The next four route-specific treatments address that observation without modifying the homepage film:
+
+| Route | Observed source move | KLCC adaptation | Evidence limit |
+|---|---|---|---|
+| Life Groups | [Atlas Studio](https://atlas-studio.framer.website/) uses an open, image-supported directory; [Coorda](https://coorda.framer.website/) holds orientation beside progressing content. [MotionSites Editorial Eyewear](https://motionsites.ai/?prompt=editorial-eyewear) separates expressive media from readable columns; [X Scrolltide catalog](https://x.com/himanshubuildss/status/2100333606128509173) keeps browsing chrome quiet. | The original Life Groups campaign artwork becomes one side of an editorial opening. A cream invitation separates it from seven actual group types. The group index stays visible while the current row gains contrast on down/up scroll. | Atlas and Coorda layout behavior comes from saved live-preview studies. MotionSites supplies visual specification and preview evidence; X is a static sample, not motion proof. Durations and thresholds are KLCC adaptations, not Framer settings. |
+| New / First Visit | [Royal](https://royaltemplate.framer.website/) makes a real place central to arrival; Coorda's held orientation guides a longer reading journey. | The real Cathedral image leads into five source-preserved first-visit steps. A cream reading surface keeps the visit action and intro beside the current step; the action choices are separate after a real worship image. | Publicly observable composition informs this, not private editor settings. All steps remain readable without JavaScript. |
+| Kids | Royal's place-first composition and [MotionSites Golden Portal](https://motionsites.ai/?prompt=golden-portal)'s image/reading contrast. | A parent-first cream opening groups actual ages, Sunday class time, check-in link, and the real Cathedral photograph. The image reveals gently as it enters; the volunteer chapter remains a separate dark scene. | The image reveal distance is an authored KLCC choice, not an attributed reference measurement. |
+| Youth | [Perform](https://perform.framer.website/) uses a large statement followed by ordered content chapters; Atlas Studio's open directory keeps choices clear. | “ELEVATE” becomes a stronger typographic opening over the existing real worship image. The two actual grade bands become paired readable choices; their rules progress independently with native scrolling and reverse correctly. | The paired layout and scroll distance are original KLCC adaptations. No claim is made about exact Framer editor values. |
+
+These four routes are a bounded correction to the reported gap, not a claim that all 27 inner pages have been redesigned in this pass. The remaining routes retain their prior implementation until they receive the same route-by-route visual review.
+
 The approved homepage film, church identity, navigation, and source material remain the baseline. The new 118-reference pass is a selection library, not a mandate to put all reference features on every page. The two changes below solve observed visitor problems on the published preview: the message page begins with one oversized artwork before its archive becomes browsable, and the beliefs page presents nine substantial statements as one long undifferentiated run.
 
 | KLCC section | Actual material and visitor task | Observed reference move | Adaptation and evidence boundary |

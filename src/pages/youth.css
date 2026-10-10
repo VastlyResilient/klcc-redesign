@@ -23,3 +23,26 @@
 .elevate-connect{grid-template-columns:1fr 1fr}.elevate-connect .text-link{grid-column:2;width:fit-content;margin-top:25px}@media(max-width:700px){.elevate-connect .text-link{grid-column:auto}}
 
 @media(max-width:700px){.youth-page .elevate-connect{display:block}.elevate-connect p{margin-top:24px}.elevate-connect .text-link{margin-top:28px}}
+
+/* The two actual grade bands read as a paired choice rather than another
+   sidebar list. Performance imagery remains the route's authentic anchor. */
+.youth-page .elevate-opening h1{font-size:clamp(64px,12vw,170px);line-height:.9;letter-spacing:-.065em;margin:12px 0 0}
+.youth-page .elevate-opening .elevate-age{font-size:clamp(19px,2.2vw,28px);margin-top:22px}
+.youth-page .elevate-opening>figure{margin-top:clamp(55px,7vw,100px)}
+.youth-page #age-paths{display:block;background:var(--paper);color:var(--ink);padding-block:clamp(95px,12vw,175px)}
+.youth-page #age-paths .context-label{display:flex;gap:clamp(30px,8vw,130px);justify-content:space-between;align-items:start;max-width:none;margin-bottom:clamp(65px,8vw,120px)}
+.youth-page #age-paths .context-label>h2{font:600 clamp(46px,6vw,84px)/.98 'Albert Sans',sans-serif;letter-spacing:-.055em;max-width:9ch;margin:0}
+.youth-page #age-paths .context-scripture{width:min(35%,330px);margin:0;color:var(--ink);border-color:#10243b66}
+.youth-page #age-paths .context-scripture p{color:#455b6f}
+.youth-page #age-paths .brief-content{display:grid;grid-template-columns:1fr 1fr;gap:clamp(35px,6vw,90px);max-width:none}
+.youth-page #age-paths article{position:relative;border-top:2px solid #10243b66;padding:32px 0 0;min-height:330px;display:flex;flex-direction:column;transition:border-color .4s}
+.youth-page #age-paths article::before{content:"";position:absolute;top:-2px;left:0;height:2px;width:var(--age-line,0%);background:#315f87;pointer-events:none}
+.youth-page #age-paths article:hover,.youth-page #age-paths article:focus-within{border-color:#315f87}
+.youth-page #age-paths article h2{font-size:clamp(35px,4vw,58px);line-height:1.03;letter-spacing:-.045em;max-width:12ch;margin:0 0 25px}
+.youth-page #age-paths article p{font-size:18px;line-height:1.6;max-width:43ch}
+.youth-page #age-paths article .text-link{margin-top:auto;align-self:start;padding-top:25px;color:var(--ink)}
+.youth-page .elevate-connect{padding-block:clamp(90px,10vw,155px);align-items:start}
+.youth-page .elevate-connect h2{font-size:clamp(34px,4vw,58px);line-height:1.08;letter-spacing:-.04em}
+@media(max-width:800px){.youth-page .elevate-opening h1{font-size:clamp(56px,15vw,105px)}.youth-page #age-paths .context-label{display:block}.youth-page #age-paths .context-scripture{width:auto;max-width:45ch;margin-top:50px}.youth-page #age-paths .brief-content{grid-template-columns:1fr;gap:55px}.youth-page #age-paths article{min-height:0}.youth-page #age-paths article .text-link{margin-top:18px}.youth-page #age-paths article h2{font-size:40px}}
+@media(prefers-reduced-motion:reduce){.youth-page #age-paths article::before{width:100%!important}}
+body.motion-reduced .youth-page #age-paths article::before{width:100%!important}

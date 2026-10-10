@@ -20,3 +20,16 @@ addEventListener('pageswap',()=>{scenes.delete(sceneId);removeEventListener('scr
 // Reverse follows position; these distances/thresholds are authored estimates, not Framer editor settings.
 scrollDetail({"id": "kids-campus-arrival", "selector": ".orientation-photo", "kind": "image", "distance": 28, "start": 0.94, "end": 0.32, "stagger": 0.065});
 scrollDetail({"id": "kids-volunteer-reading", "selector": ".kids-team-reading>div>p", "kind": "rise", "distance": 24, "start": 0.94, "end": 0.32, "stagger": 0.065});
+// The Cathedral view opens as the parent reaches the practical explanation.
+// The image itself remains truthful and uncropped at its chosen frame.
+const campus=document.querySelector<HTMLElement>('.orientation-photo img');
+let campusQueued=false;
+const revealCampus=()=>{
+ campusQueued=false;if(!campus)return;
+ const off=matchMedia('(prefers-reduced-motion: reduce)').matches||document.body.classList.contains('motion-reduced');
+ const top=campus.getBoundingClientRect().top;
+ const p=Math.max(0,Math.min(1,(innerHeight*.9-top)/(innerHeight*.5)));
+ campus.style.setProperty('--campus-reveal',off?'0%':`${(1-p)*16}%`);
+};
+const queueCampus=()=>{if(!campusQueued){campusQueued=true;requestAnimationFrame(revealCampus)}};
+addEventListener('scroll',queueCampus,{passive:true});addEventListener('resize',queueCampus);addEventListener('klcc-motion-change',queueCampus);queueCampus();

@@ -9,3 +9,18 @@ addEventListener('klcc-motion-change',()=>{if(reduced()){active.forEach(a=>a.can
 // Reverse follows position; these distances/thresholds are authored estimates, not Framer editor settings.
 scrollDetail({"id": "youth-gathering-arrival", "selector": ".elevate-opening figure", "kind": "image", "distance": 40, "start": 0.94, "end": 0.32, "stagger": 0.065});
 scrollDetail({"id": "youth-connection-passage", "selector": ".elevate-connect>p", "kind": "rise", "distance": 22, "start": 0.94, "end": 0.32, "stagger": 0.065});
+// Each actual age band receives its own reversible reading line rather than
+// an all-at-once card reveal. All copy and contact actions remain visible.
+const ageBands=[...document.querySelectorAll<HTMLElement>('#age-paths article')];
+let ageQueued=false;
+const updateBands=()=>{
+ ageQueued=false;
+ const off=reduced();
+ ageBands.forEach(band=>{
+  const top=band.getBoundingClientRect().top;
+  const progress=off?1:Math.max(0,Math.min(1,(innerHeight*.92-top)/(innerHeight*.45)));
+  band.style.setProperty('--age-line',`${progress*100}%`);
+ });
+};
+const queueBands=()=>{if(!ageQueued){ageQueued=true;requestAnimationFrame(updateBands)}};
+addEventListener('scroll',queueBands,{passive:true});addEventListener('resize',queueBands);addEventListener('klcc-motion-change',queueBands);queueBands();
